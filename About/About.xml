@@ -9,6 +9,7 @@
   <description>Paczka spolszczonych tłumaczeń dla modów</description>
   <loadAfter>
     <li>mlie.xndmemorableauroras</li>
+    <li>overpl.animalsarcophagus</li>
     <li>dracoix.doormat.r12a</li>
     <li>sbz.neatstorage</li>
     <li>sbz.neatstoragefridge</li>
