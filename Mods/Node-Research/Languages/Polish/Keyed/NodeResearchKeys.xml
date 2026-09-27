@@ -1,0 +1,81 @@
+<LanguageData>
+  <BRM_RestrictResearchTechLevel>Ograniczyć badania do obecnego poziomu technologicznego</BRM_RestrictResearchTechLevel>
+  <BRM_RestrictViewingFutureTechLevels>Ukryj badania przed przyszłymi poziomami technologicznymi</BRM_RestrictViewingFutureTechLevels>
+  <BRM_RestrictViewingFutureProjects>Ukryj przyszłe projekty badawcze</BRM_RestrictViewingFutureProjects>
+  <BRM_EnableTechAdvancement>Włącz system rozwoju technologicznego</BRM_EnableTechAdvancement>
+  <BRM_DisableVFETribalsAdvancement>Wyłącz postęp technologiczny moda "VFE Tribals"</BRM_DisableVFETribalsAdvancement>
+  <BRM_StartCollapsed>Wszystkie węzły badawcze odblokowane poprzez rozpoczęcie scenariusza są zwinięte</BRM_StartCollapsed>
+  <BRM_NeverCollapseFoundations>Nigdy nie zwijaj automatycznie węzłów podstaw</BRM_NeverCollapseFoundations>
+  <BRM_DynamicScalingMode>Tryb dynamicznego skalowania</BRM_DynamicScalingMode>
+  <BRM_DynamicScalingModeDesc>Węzły podstawowe zachowują standardowy rozmiar i są przedstawiane jako kwadraty zamiast okręgów, a każdy węzeł powiększa się wraz z liczbą projektów badawczych, które się od niego rozgałęziają.</BRM_DynamicScalingModeDesc>
+  <BRM_CollapseOnCompletion>Zwiń węzeł po zakończeniu badań</BRM_CollapseOnCompletion>
+  <BRM_MaxExpandedNodes>Maksymalnie rozwinętych węzłów ({0})</BRM_MaxExpandedNodes>
+  <BRM_Infinite>nieskończoność</BRM_Infinite>
+  <BRM_AutoOpenMenuOnFinish>Automatyczne wyświetlanie menu po zakończeniu projektu</BRM_AutoOpenMenuOnFinish>
+  <BRM_ForbidVanillaMenu>Zablokuj dostęp do "Vanilla" menu badawczego</BRM_ForbidVanillaMenu>
+  <BRM_HideDiscoveryLockedNodes>Ukryj węzły, które są obecnie ukryte za sekcją "Odkrycia"</BRM_HideDiscoveryLockedNodes>
+  <BRM_ObscureDiscoveryLockedNodeDetails>Niejasne szczegóły dotyczące węzłów, zablokowane za sekcją "Odkrycia"</BRM_ObscureDiscoveryLockedNodeDetails>
+  <BRM_HideUnlockedWithSection>Ukryj wpisy "Odblokowane w ramach innego projektu "</BRM_HideUnlockedWithSection>
+  <BRM_MakeRecollapsedNodesRed>Zmień kolor ponownie zwiniętych węzłów na czerwony</BRM_MakeRecollapsedNodesRed>
+  <BRM_ExemptRecollapsedNodesFromAutoOpen>Wyłącz automatyczne otwieranie ponownie zwiniętych węzłów</BRM_ExemptRecollapsedNodesFromAutoOpen>
+  <BRM_AdvancementTiedTo>Awans uzależniony od: {0}</BRM_AdvancementTiedTo>
+  <BRM_Foundations>Fundamenty</BRM_Foundations>
+  <BRM_EraCompletion>Zakończenie epoki</BRM_EraCompletion>
+  <BRM_EraCompletionPercentage>Wymagany procent badań dotyczących danej epoki: {0}</BRM_EraCompletionPercentage>
+  <BRM_StandardStudy>Standardowe nauki</BRM_StandardStudy>
+  <BRM_DarkStudy>Mroczne nauki</BRM_DarkStudy>
+  <BRM_GravStudy>Grawitacyjne nauki</BRM_GravStudy>
+  <BRM_AdvanceTo>Przejdź do {0}</BRM_AdvanceTo>
+  <BRM_AdvancedTo>Przeszedłeś do epoki {0}!</BRM_AdvancedTo>
+  <BRM_ProjectsUnlocked>{0} projektów odblokowanych</BRM_ProjectsUnlocked>
+  <BRM_ColonyIsNowTech>Kolonia znajduje się obecnie w okresie {0}</BRM_ColonyIsNowTech>
+  <BRM_Researching>Trwają badania...</BRM_Researching>
+  <BRM_CurrentlyResearching>Obecnie prowadzone badania: {0}</BRM_CurrentlyResearching>
+  <BRM_FoundationsComplete>{0}/{1} fundamentów ukończonych</BRM_FoundationsComplete>
+  <BRM_ProjectsComplete>{0}/{1} projektów ukończonych</BRM_ProjectsComplete>
+  <BRM_RequiresDiscovery>Ten węzeł wymaga odkrycia czegoś w świecie.</BRM_RequiresDiscovery>
+  <BRM_Undiscovered>Nie odkryte</BRM_Undiscovered>
+  <BRM_Continue>Kontynuuj</BRM_Continue>
+  <BRM_Foundation>FUNDAMENT</BRM_Foundation>
+  <BRM_Points>{0} punktów</BRM_Points>
+  <BRM_QueueTip>{0}\n{1}\n\nPozycja w kolejce {2}.\n\nKliknięcie LPM: przejdź do tego węzła\nKliknięcie PPM: usuń z kolejki</BRM_QueueTip>
+  <BRM_QueueStarted>Rozpoczęcie badań z kolejki: {0}</BRM_QueueStarted>
+  <BRM_QueueAlreadyFinished>{0} zostało już zbadane.</BRM_QueueAlreadyFinished>
+  <BRM_QueueAlreadyActive>{0} jest już przedmiotem badań.</BRM_QueueAlreadyActive>
+  <BRM_QueueNoAnomaly>Projekty wiedzy o Anomolii nie mogą zostać dodane do kolejki</BRM_QueueNoAnomaly>
+  <BRM_AllEras>Wszystko</BRM_AllEras>
+  <BRM_CannotAccessEra>Nie masz jeszcze dostępu do tych epok. Ukończ podstawy i awansuj, aby dotrzeć do tych drzew.</BRM_CannotAccessEra>
+  <BRM_ActiveBasicResearch>Aktywne badania podstawowe: {0}</BRM_ActiveBasicResearch>
+  <BRM_ActiveAdvancedResearch>Aktywne badania zaawansowane: {0}</BRM_ActiveAdvancedResearch>
+  <BRM_TogglePhysics>Przełącz ruch/fizykę węzłów</BRM_TogglePhysics>
+  <BRM_OpenSettings>Otwórz ustawienia modyfikacji</BRM_OpenSettings>
+  <BRM_OpenVanillaMenu>Otwórz "Vanilla" drzewko badań</BRM_OpenVanillaMenu>
+  <BRM_ToggleAutoOpen>Przełącz auto-rozwijanie zwiniętych węzłów w miarę upływu czasu</BRM_ToggleAutoOpen>
+  <BRM_AccelerateSimulation>Tymczasowe przyspieszenie symulacji</BRM_AccelerateSimulation>
+  <BRM_RevealAllNow>Odkryj wszystko</BRM_RevealAllNow>
+  <BRM_RevealAllNothing>Nic nie zostało do odkrycia.</BRM_RevealAllNothing>
+  <BRM_ToggleFullscreen>Przełacz tryb pełnego ekranu</BRM_ToggleFullscreen>
+  <BRM_AutoOpenRate>Wskaźnik automatycznego otwierania: {0}</BRM_AutoOpenRate>
+  <BRM_RevealAllInGodMode>Odkryj wszystkie węzły w God Modzie</BRM_RevealAllInGodMode>
+  <BRM_RevealMysteryNodeOnHover>Pokaż szczegóły po najechaniu kursorem na nieznane węzły</BRM_RevealMysteryNodeOnHover>
+  <BRM_EnableEmergence>Włącz "Emergencja" - węzły postępujące</BRM_EnableEmergence>
+  <BRM_HideFinishedEmergenceNodes>Węzły emergencji znikają po ukończeniu badania</BRM_HideFinishedEmergenceNodes>
+  <BRM_HideFinishedEmergenceNodesDesc>Po zbadaniu węzła emergencji zostaje on usunięty z grafu, zamiast pozostawać w nim jako ukończony.</BRM_HideFinishedEmergenceNodesDesc>
+  <BRM_EmergenceCostNeolithic>Koszt emergencji (Neolityczny):</BRM_EmergenceCostNeolithic>
+  <BRM_EmergenceCostMedieval>Kosz emeregencji (Średniowieczny)</BRM_EmergenceCostMedieval>
+  <BRM_EmergenceCostIndustrial>Kosz emergencji (Przemysłowy):</BRM_EmergenceCostIndustrial>
+  <BRM_EmergenceCostSpacer>Kosz emergencji (Kosmiczny):</BRM_EmergenceCostSpacer>
+  <BRM_EmergenceCostUltra>Kosz emergencji (Ultra):</BRM_EmergenceCostUltra>
+  <BRM_EmergenceCostArchotech>Koszt emergencji (Archotyczny):</BRM_EmergenceCostArchotech>
+  <BRM_Emergence>EMERGENCJA</BRM_Emergence>
+  <BRM_EmergenceDesc>Awansuj do epoki {0}.</BRM_EmergenceDesc>
+  <BRM_RequiresAllFoundations>Wymaga ukończenia wszystkich fundamentów.</BRM_RequiresAllFoundations>
+  <BRM_RequiresEraCompletion>Konieczne jest ukończenie {0} projektów z tej epoki.</BRM_RequiresEraCompletion>
+  <BRM_TutorialHintCollapse>Kliknij PPM, aby zwinąć węzły, które Cię nie interesują</BRM_TutorialHintCollapse>
+  <BRM_TutorialHintQueue>Kliknij z shiftem, aby dodać węzły do kolejki!</BRM_TutorialHintQueue>
+  <BRM_HintFoundationDiscovered>Odkryto FUNDAMENT!</BRM_HintFoundationDiscovered>
+  <BRM_HintReadyToEmerge>gotowy do pojawienia się</BRM_HintReadyToEmerge>
+  <BRM_EmergenceThreatWarning>Wkroczenie w kolejną epokę sprawi, że frakcje z ery wyższej o jeden poziom od twojej zaczną postrzegać cię jako zagrożenie. Jeśli zdecydujesz się teraz ruszyć naprzód, przygotuj się na dodatkowe starcia.</BRM_EmergenceThreatWarning>
+  <BRM_AnimalResearchTip>Aby uzyskać badania w epoce Zwierzącej, wybierz projekt, a następnie zorganizuj zgromadzenie plemienne przy ognisku.</BRM_AnimalResearchTip>
+  <BRM_RepublicResearchTip>Koszt tego projektu znacznie wzrósł, ponieważ opiera się on na technologii zastrzeżonej. Łatwiejszym sposobem zapoznania się z tą technologią byłaby osobista wizyta w republikach zaznaczonych na mapie świata.</BRM_RepublicResearchTip>
+</LanguageData>

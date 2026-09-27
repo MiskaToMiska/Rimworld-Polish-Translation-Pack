@@ -4,6 +4,7 @@
     <li>1.6</li>
     <li IfModActive="dracoix.doormat.r12a">Mods/DoorMat</li>
     <li IfModActive="ferny.BetterArchitect">Mods/Better-Architect-Menu</li>
-    <li IfModACtive="ferny.perspectiveshift">Mods/Perspective-Shift</li>
+    <li IfModActive="ferny.noderesearch">Mods/Node-Research</li>
+    <li IfModActive="ferny.perspectiveshift">Mods/Perspective-Shift</li>
   </v1.6>
 </loadFolders>
