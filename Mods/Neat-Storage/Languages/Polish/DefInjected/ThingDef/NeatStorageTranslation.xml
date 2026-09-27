@@ -1,0 +1,56 @@
+<LanguageData>
+    <sbz_CorpseSpot.label>Miejsce porzucania zwłok</sbz_CorpseSpot.label>
+    <sbz_CorpseSpot.description>Miejsce które może przechowywać 12 zwłok.</sbz_CorpseSpot.description>
+    <sbz_TallCrate.label>Wysoka skrzynia</sbz_TallCrate.label>
+    <sbz_TallCrate.description>Wysoka skrzynia która potrafi pomieścić 24 przedmioty różnego rodzaju.</sbz_TallCrate.description>
+    <sbz_Crate.label>Duża skrzynia</sbz_Crate.label>
+    <sbz_Crate.description>Duża skrzynia która potrafi pomieścić 24 przedmioty różnego rodzaju.</sbz_Crate.description>
+    <sbz_MidCrate.label>Skrzynia</sbz_MidCrate.label>
+    <sbz_MidCrate.description>Skrzynia która potrafi pomieścić 12 przedmiotów różnego rodzaju.</sbz_MidCrate.description>
+    <sbz_SmallCrate.label>Mała skrzynia</sbz_SmallCrate.label>
+    <sbz_SmallCrate.description>Mała skrzynia która potrafi pomieścić 6 przedmiotów różnego rodzaju.</sbz_SmallCrate.description>
+    <sbz_Pallet.label>Paleta</sbz_Pallet.label>
+    <sbz_Pallet.description>Paleta, na której można ułożyć do 24 sztuk różnych rodzajów towarów.</sbz_Pallet.description>
+    <sbz_MiniPallet.label>Mini paleta</sbz_MiniPallet.label>
+    <sbz_MiniPallet.description>Paleta, na której można ułożyć do 6 sztuk różnych rodzajów towarów.</sbz_MiniPallet.description>
+    <sbz_HalfPallet.label>Półpaleta</sbz_HalfPallet.label>
+    <sbz_HalfPallet.description>Paleta, na której można ułożyć do 12 sztuk różnych rodzajów towarów.</sbz_HalfPallet.description>
+    <sbz_TwoTierDisplayShelf.label>Dwupoziomowa półka wystawowa</sbz_TwoTierDisplayShelf.label>
+    <sbz_TwoTierDisplayShelf.description>Dwupoziomowa półka wystawowa, na której można umieścić do 12 różnych przedmiotów.</sbz_TwoTierDisplayShelf.description>
+    <sbz_DisplayShelf.label>Półka wystawowa</sbz_DisplayShelf.label>
+    <sbz_DisplayShelf.description>Półka wystawowa, która może przechowywać do 6 sztuk przedmiotów różnego rodzaju</sbz_DisplayShelf.description>
+    <sbz_SmallDisplayShelf.label>Mała półka wystawowa</sbz_SmallDisplayShelf.label>
+    <sbz_SmallDisplayShelf.description>Mała półka wystawowa, która może przechowywać do 3 sztuk przedmiotów różnego rodzaju.</sbz_SmallDisplayShelf.description>
+    <sbz_TallDisplayShelf.label>Wysoka półka wystawowa</sbz_TallDisplayShelf.label>
+    <sbz_TallDisplayShelf.description>Wysoka półka wystawowa, która może przechowywać do 12 sztuk przedmiotów różnego rodzaju.</sbz_TallDisplayShelf.description>
+    <sbz_NarrowTallDisplayShelf.label>Wąska, wysoka półka wystawowa</sbz_NarrowTallDisplayShelf.label>
+    <sbz_NarrowTallDisplayShelf.description>Wąska, wysoka półka wystawowa, która może przechowywać do 3 sztuk przedmiotów różnego rodzaju.</sbz_NarrowTallDisplayShelf.description>
+    <sbz_OpenShelf.label>Otwarta półka</sbz_OpenShelf.label>
+    <sbz_OpenShelf.description>Otwarta półka, która może przechowywać do 12 sztuk przedmiotów różnego rodzaju.</sbz_OpenShelf.description>
+    <sbz_WideHangerShelf.label>Półka na wieszaki</sbz_WideHangerShelf.label>
+    <sbz_WideHangerShelf.description>Stojak na wieszaki, na którym zmieści się do 8 sztuk odzieży.</sbz_WideHangerShelf.description>
+    <sbz_HangerShelf.label>Wąska półka na wieszaki</sbz_HangerShelf.label>
+    <sbz_HangerShelf.description>Wieszak na ubrania, na którym można powiesić do 4 sztuk odzieży.</sbz_HangerShelf.description>
+    <sbz_DisplayCabinet.label>Witryna</sbz_DisplayCabinet.label>
+    <sbz_DisplayCabinet.description>Witryna, w której można przechowywać do 8 różnych przedmiotów.</sbz_DisplayCabinet.description>
+    <sbz_NarrowDisplayCabinet.label>Wąska witryna</sbz_NarrowDisplayCabinet.label>
+    <sbz_NarrowDisplayCabinet.description>Wąska gablota, w której można przechowywać do 4 różnych przedmiotów.</sbz_NarrowDisplayCabinet.description>
+    <sbz_DisplayTable.label>Gablotka</sbz_DisplayTable.label>
+    <sbz_DisplayTable.description>Gablotka, w której można wyeksponować maksymalnie 1 przedmiot.</sbz_DisplayTable.description>
+    <sbz_RoundPedestal.label>Okrągały piedestał</sbz_RoundPedestal.label>
+    <sbz_RoundPedestal.description>Okrągły piedestał, na którym można wyeksponować maksymalnie 1 przedmiot.</sbz_RoundPedestal.description>
+    <sbz_MeatHook.label>Hak na mięso</sbz_MeatHook.label>
+    <sbz_MeatHook.description>Hak na mięso na który można zawiesić 12 kawałków mięsa lub zwłoki.</sbz_MeatHook.description>
+    <sbz_TextileRack.label>Stojak na tkaniny</sbz_TextileRack.label>
+    <sbz_TextileRack.description>Stojak na tkaniny, na którym można umieścić do 6 różnych rodzajów tkanin.</sbz_TextileRack.description>
+    <sbz_Safe.label>Sejf</sbz_Safe.label>
+    <sbz_Safe.description>W sejfie można przechowywać do 6 różnych przedmiotów.</sbz_Safe.description>
+    <sbz_Drum.label>Beczka</sbz_Drum.label>
+    <sbz_Drum.description>W beczce można zmieścić do 6 różnych przedmiotów.</sbz_Drum.description>
+    <sbz_HorizontalWeaponRack.label>Poziomy stojak na broń</sbz_HorizontalWeaponRack.label>
+    <sbz_HorizontalWeaponRack.description>Poziomy stojak na broń, na którym można wyeksponować do 6 sztuk broni.</sbz_HorizontalWeaponRack.description>
+    <sbz_VerticalWeaponRack.label>Pionowy stojak na broń</sbz_VerticalWeaponRack.label>
+    <sbz_VerticalWeaponRack.description>Pionowy tojak na broń, na którym można wyeksponować do 12 sztuk broni.</sbz_VerticalWeaponRack.description>
+    <sbz_WeaponRack.label>Stojak na broń</sbz_WeaponRack.label>
+    <sbz_WeaponRack.description>Stojak na broń, na którym można wyeksponować do 6 sztuk broni.</sbz_WeaponRack.description>
+</LanguageData>
