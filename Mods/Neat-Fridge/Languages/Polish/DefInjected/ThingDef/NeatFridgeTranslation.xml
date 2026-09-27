@@ -1,0 +1,16 @@
+<LanguageData>
+    <sbz_Fridge.label>Lodówka</sbz_Fridge.label>
+    <sbz_Fridge.description>Lodówka, w której można zamrozić maksymalnie 2 produkty. Nie działa w temperaturach powyżej 100°C.</sbz_Fridge.description>
+    <sbz_LargeFridge.label>Duża lodówka</sbz_LargeFridge.label>
+    <sbz_LargeFridge.description>Lodówka, w której można zamrozić do 10 produktów. Nie działa w temperaturach powyżej 100°C.</sbz_LargeFridge.description>
+    <sbz_SingleChestFridge.label>Lodówka komorowa</sbz_SingleChestFridge.label>
+    <sbz_SingleChestFridge.description>Lodówka, w której można zamrozić maksymalnie 3 produkty. Nie działa w temperaturach powyżej 100°C.</sbz_SingleChestFridge.description>
+    <sbz_DoubleChestFridge.label>Podwójna lodówka komorowa</sbz_DoubleChestFridge.label>
+    <sbz_DoubleChestFridge.description>Lodówka, w której można zamrozić maksymalnie 6 produkty. Nie działa w temperaturach powyżej 100°C.</sbz_DoubleChestFridge.description>
+    <sbz_SingleWallFridge.label>Lodówka scienna</sbz_SingleWallFridge.label>
+    <sbz_SingleWallFridge.description> Lodówka, w której można zamrozić do 3 produktów. Nie działa w temperaturach powyżej 100°C. Nie nadaje się do podtrzymywania dachu.</sbz_SingleWallFridge.description>
+    <sbz_DoubleWallFridge.label>Podwójna lodówka scienna</sbz_DoubleWallFridge.label>
+    <sbz_DoubleWallFridge.description>Lodówka, w której można zamrozić do 6 produktów. Nie działa w temperaturach powyżej 100°C. Nie nadaje się do podtrzymywania dachu.</sbz_DoubleWallFridge.description>
+    <sbz_CorpseFridge.label>Lodówka na zwłoki</sbz_CorpseFridge.label>
+    <sbz_CorpseFridge.description>Lodówka, w której można zamrozić do 20 zwłok. Nie działa w temperaturach powyżej 100°C.</sbz_CorpseFridge.description>
+</LanguageData>
