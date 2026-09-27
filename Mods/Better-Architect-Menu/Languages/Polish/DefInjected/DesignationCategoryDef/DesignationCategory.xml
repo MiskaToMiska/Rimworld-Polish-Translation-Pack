@@ -1,0 +1,403 @@
+<LanguageData>
+    <Ferny_Colony.label>Kolonia</Ferny_Colony.label>
+    <Ferny_Colony.description>Zarzadzaj kolonią.</Ferny_Colony.description>
+    
+    <!--furniture-->
+
+    <Ferny_Seating.label>Siedziska</Ferny_Seating.label>
+    <Ferny_Seating.description>Zarządzaj miejscami do siedzenia.</Ferny_Seating.description>
+
+    <Ferny_Tables.label>Stoły</Ferny_Tables.label>
+    <Ferny_Tables.description>Zarządzaj stołami.</Ferny_Tables.description>
+
+    <Ferny_Lighting.label>Oświetlenie</Ferny_Lighting.label>
+    <Ferny_Lighting.description>Budynki, które emitują światło.</Ferny_Lighting.description>
+
+    <Ferny_Fixtures.label>Wyposażenie</Ferny_Fixtures.label>
+    <Ferny_Fixtures.description>Przydatne elementy wyposażenia domu i akcesoria do pomieszczeń.</Ferny_Fixtures.description>
+
+    <Ferny_Bedroom.label>Sypialnia</Ferny_Bedroom.label>
+    <Ferny_Bedroom.description>Rzeczy związane z sypialniami.</Ferny_Bedroom.description>
+
+    <!--decorate-->
+
+    <Ferny_Decorations.label>Ozdoby</Ferny_Decorations.label>
+    <Ferny_Decorations.description>Rzeczy służące do dekoracji.</Ferny_Decorations.description>
+
+    <Ferny_DecoPlants.label>Rośliny</Ferny_DecoPlants.label>
+    <Ferny_DecoPlants.description>Zarządzaj dekoracjami roślinnymi</Ferny_DecoPlants.description>
+
+    <Ferny_Framing.label>Ościeżnice</Ferny_Framing.label>
+    <Ferny_Framing.description>Zarządzanie ościeżnicami, panelami drzwiowymi i elementami konstrukcji architektonicznej.</Ferny_Framing.description>
+
+    <Ferny_DecoFrames.label>Ośieżnice</Ferny_DecoFrames.label>
+    <Ferny_DecoFrames.description>Zarządzanie dekoracjami ościeżnic.</Ferny_DecoFrames.description>
+
+    <Ferny_DecoRugs.label>Dywaniki</Ferny_DecoRugs.label>
+    <Ferny_DecoRugs.description>Zarządzaj dekoracjami dywaników</Ferny_DecoRugs.description>
+
+    <Ferny_DecoHanging.label>Wieszanie</Ferny_DecoHanging.label>
+    <Ferny_DecoHanging.description>Zarządzanie wiszącymi elementami dekoracyjnymi, takimi jak tabliczki, banery i zasłony.</Ferny_DecoHanging.description>
+
+    <Ferny_DecoArt.label>Sztuka</Ferny_DecoArt.label>
+    <Ferny_DecoArt.description>Zarządzaj dekoracjami artystycznymi i muzycznymi.</Ferny_DecoArt.description>
+
+    <Ferny_DecoOutdoor.label>Na zewnątrz</Ferny_DecoOutdoor.label>
+    <Ferny_DecoOutdoor.description>Zarządzaj dekoracjami zewnętrznymi.</Ferny_DecoOutdoor.description>
+
+    <!--produce-->
+
+    <Ferny_Production.label>Produkcja</Ferny_Production.label>
+    <Ferny_Production.description>Wytwarzaj różne rzeczy.</Ferny_Production.description>
+
+    <Ferny_ProcessingProduction.label>Rafinuj</Ferny_ProcessingProduction.label>
+    <Ferny_ProcessingProduction.description>Metody przetwarzania w produkcji.</Ferny_ProcessingProduction.description>
+
+    <Ferny_CreativeProduction.label>Kreatywność</Ferny_CreativeProduction.label>
+    <Ferny_CreativeProduction.description>Kreatywne metody producji</Ferny_CreativeProduction.description>
+
+    <Ferny_Kitchen.label>Pokarm</Ferny_Kitchen.label>
+    <Ferny_Kitchen.description>Różne rzeczy związane z jedzeniem.</Ferny_Kitchen.description>
+
+    <Ferny_Farming.label>Rolnictwo</Ferny_Farming.label>
+    <Ferny_Farming.description>Różne rzeczy związane z rolnictwem</Ferny_Farming.description>
+
+    <Ferny_ResearchProduction.label>Badania</Ferny_ResearchProduction.label>
+    <Ferny_ResearchProduction.description>Podstawowe metody produkcji.</Ferny_ResearchProduction.description>
+
+    <Ferny_Auxiliaries.label>Linkables</Ferny_Auxiliaries.label>
+    <Ferny_Auxiliaries.description>Elementy zwiększające szybkość pracy.</Ferny_Auxiliaries.description>
+
+    <Ferny_ProductionInfrastructure.label>Infrastruktura</Ferny_ProductionInfrastructure.label>
+    <Ferny_ProductionInfrastructure.description>Zarządzanie produkcją.</Ferny_ProductionInfrastructure.description>
+
+    <!--power-->
+
+    <Ferny_PowerGeneration.label>Generacja</Ferny_PowerGeneration.label>
+    <Ferny_PowerGeneration.description>Elementy pomgające Ci w generowaniu energii.</Ferny_PowerGeneration.description>
+
+    <Ferny_PowerStorage.label>Magazynowanie</Ferny_PowerStorage.label>
+    <Ferny_PowerStorage.description>Elementy pomagające Ci zmagazynować energię.</Ferny_PowerStorage.description>
+
+    <Ferny_PowerManagement.label>Infrastruktura</Ferny_PowerManagement.label>
+    <Ferny_PowerManagement.description>Elementy pomagające Ci w zarządzaniu energią</Ferny_PowerManagement.description>
+
+    <!--animals-->
+
+    <Ferny_Animals.label>Zwierzęta</Ferny_Animals.label>
+    <Ferny_Animals.description>Elementy związane ze zwierzętami</Ferny_Animals.description>
+    
+    <Ferny_Ranching.label>Hodowla</Ferny_Ranching.label>
+    <Ferny_Ranching.description>Hodowla twoich zwierząt.</Ferny_Ranching.description>
+
+    <Ferny_AnimalBedding.label>Legowisko</Ferny_AnimalBedding.label>
+    <Ferny_AnimalBedding.description>Zbuduj legowisko dla swoich zwierząt.</Ferny_AnimalBedding.description>
+
+    <Ferny_AnimalTravel.label>Podróże</Ferny_AnimalTravel.label>
+    <Ferny_AnimalTravel.description>Organizacja podróży dla zwierząt.</Ferny_AnimalTravel.description>
+
+
+    <!--structure-->
+
+    <Ferny_Walls.label>Ściany</Ferny_Walls.label>
+    <Ferny_Walls.description>Buduj ściany</Ferny_Walls.description>
+
+    <Ferny_Doors.label>Drzwi</Ferny_Doors.label>
+    <Ferny_Doors.description>Buduj drzwi</Ferny_Doors.description>
+
+    <Ferny_Windows.label>Okna</Ferny_Windows.label>
+    <Ferny_Windows.description>Okna do ścian</Ferny_Windows.description>
+
+    <Ferny_Elevation.label>Elewacja</Ferny_Elevation.label>
+    <Ferny_Elevation.description>Zbuduj schody, drabiny i windy łączące poszczególne poziomy.</Ferny_Elevation.description>
+
+    <Ferny_Foundations.label>Fundamenty</Ferny_Foundations.label>
+    <Ferny_Foundations.description>Buduj mosty i fundamenty.</Ferny_Foundations.description>
+
+    <Ferny_Supports.label>Podpory</Ferny_Supports.label>
+    <Ferny_Supports.description>Buduj podpory.</Ferny_Supports.description>
+
+    <!--defense-->
+
+    <Ferny_Explosives.label>Materiały wybuchowe</Ferny_Explosives.label>
+    <Ferny_Explosives.description>Wytwarzaj materiały wybuchowe przeciwko wrogom.</Ferny_Explosives.description>
+
+    <Ferny_Barricades.label>Barykady</Ferny_Barricades.label>
+    <Ferny_Barricades.description>Buduj barykady przeciwko wrogom.</Ferny_Barricades.description>
+
+    <Ferny_Traps.label>Pułapki</Ferny_Traps.label>
+    <Ferny_Traps.description>Buduj pułapki na twoich wrogów.</Ferny_Traps.description>
+
+    <Ferny_Weapons.label>Oręż</Ferny_Weapons.label>
+    <Ferny_Weapons.description>Buduj oręż przeciwko swoim wrogom</Ferny_Weapons.description>
+
+    <Ferny_Concealed.label>Ukryte</Ferny_Concealed.label>
+    <Ferny_Concealed.description>Buduj ukryte budynki, aby zaskoczyć wrogów.</Ferny_Concealed.description>
+
+    <Ferny_CombatInfrastructure.label>Infrastruktura</Ferny_CombatInfrastructure.label>
+    <Ferny_CombatInfrastructure.description>Zbuduj infrastrukturę przeciwko swoim wrogom.</Ferny_CombatInfrastructure.description>
+
+    <Ferny_CombatEquipment.label>Wyposażenie</Ferny_CombatEquipment.label>
+    <Ferny_CombatEquipment.description>Zarządzaj wyposażeniem bojowym.</Ferny_CombatEquipment.description>
+
+    <!--temperature-->
+
+    <Ferny_Heating.label>Ogrzewanie</Ferny_Heating.label>
+    <Ferny_Heating.description>Ogrzej swoich kolonistów.</Ferny_Heating.description>
+
+    <Ferny_Cooling.label>Chłodzenie</Ferny_Cooling.label>
+    <Ferny_Cooling.description>Schłodź swoich kolonistów.</Ferny_Cooling.description>
+
+    <Ferny_AirManagement.label>Przepływ powietrza</Ferny_AirManagement.label>
+    <Ferny_AirManagement.description>Zarządzaj przepływem powietrza.</Ferny_AirManagement.description>
+
+    <Ferny_Firefoam.label>Gaszenie pożarów</Ferny_Firefoam.label>
+    <Ferny_Firefoam.description>Zarządzaj pożarami i pianą gaśniczą.</Ferny_Firefoam.description>
+
+    <Ferny_Filth.label>Brud</Ferny_Filth.label>
+    <Ferny_Filth.description>Zarządzaj brudem.</Ferny_Filth.description>
+
+    <Ferny_Terraforming.label>Terraformowanie</Ferny_Terraforming.label>
+    <Ferny_Terraforming.description>Zarządzaj środowiskiem obszaru.</Ferny_Terraforming.description>
+
+    <!--people-->
+
+    <Ferny_Life.label>Ludzie</Ferny_Life.label>
+    <Ferny_Life.description>Zarządzaj kolonistami.</Ferny_Life.description>
+
+    <Ferny_Prisoners.label>Więźniowie</Ferny_Prisoners.label>
+    <Ferny_Prisoners.description>Buduj obiekty do przetrzymywania i unieruchamiania więźniów.</Ferny_Prisoners.description>
+
+    <Ferny_Meditation.label>Medytacja</Ferny_Meditation.label>
+    <Ferny_Meditation.description>Miejsca, w których koloniści mogą medytować.</Ferny_Meditation.description>
+
+    <Ferny_Childhood.label>Dzieciństwo</Ferny_Childhood.label>
+    <Ferny_Childhood.description>Rzeczy związane z dzieciństwem.</Ferny_Childhood.description>
+
+    <Ferny_Memorial.label>Miejsce pamięci</Ferny_Memorial.label>
+    <Ferny_Memorial.description>Rzeczy związane z pochówkami lub miejscami pamięci.</Ferny_Memorial.description>
+
+    <Ferny_Management.label>Zarządzaj</Ferny_Management.label>
+    <Ferny_Management.description>Zarządzaj swoimi pionkami.</Ferny_Management.description>
+
+    <Ferny_Control.label>Wpływ</Ferny_Control.label>
+    <Ferny_Control.description>Wpływaj na zachowanie pionków.</Ferny_Control.description>
+
+    <Ferny_ColonyLocations.label>Lokalizacje</Ferny_ColonyLocations.label>
+    <Ferny_ColonyLocations.description>Zarządzaj odpowiednimi lokalizacjami kolonii.</Ferny_ColonyLocations.description>
+
+    <!--biotech-->
+    <Ferny_Biotech.label>Biotech</Ferny_Biotech.label>
+    <Ferny_Biotech.description>Zarządzaj biotechnologią.</Ferny_Biotech.description>
+
+    <Ferny_Medical.label>Meydycna</Ferny_Medical.label>
+    <Ferny_Medical.description>Zarządzanie technologią medyczną.</Ferny_Medical.description>
+
+    <Ferny_Biohazards.label>Zagrożenia biologiczne</Ferny_Biohazards.label>
+    <Ferny_Biohazards.description>Zarządzaj zagrożeniami biologicznymi.</Ferny_Biohazards.description>
+
+    <Ferny_Enhancement.label>Ulepszenie</Ferny_Enhancement.label>
+    <Ferny_Enhancement.description>Ulepsz swoich kolonistów.</Ferny_Enhancement.description>
+
+    <!--transport-->
+    <Ferny_Transport.label>Transport</Ferny_Transport.label>
+    <Ferny_Transport.description>Zarządzaj transportem.</Ferny_Transport.description>
+
+    <Ferny_GroundTransport.label>Lądowy</Ferny_GroundTransport.label>
+    <Ferny_GroundTransport.description>Zbuduj środek transportu lądowego.</Ferny_GroundTransport.description>
+
+    <Ferny_AerialTransport.label>Powietrzny</Ferny_AerialTransport.label>
+    <Ferny_AerialTransport.description>Zbuduj transport powietrzny.</Ferny_AerialTransport.description>
+
+    <Ferny_MilitaryTransport.label>Wojskowy</Ferny_MilitaryTransport.label>
+    <Ferny_MilitaryTransport.description>Zbuduj transport wojskowy.</Ferny_MilitaryTransport.description>
+
+    <Ferny_NavalTransport.label>Morski</Ferny_NavalTransport.label>
+    <Ferny_NavalTransport.description>Zbuduj transport morski.</Ferny_NavalTransport.description>
+
+    <Ferny_PlatformTransport.label>Platforma</Ferny_PlatformTransport.label>
+    <Ferny_PlatformTransport.description>Zbuduj platformę transportową.</Ferny_PlatformTransport.description>
+
+    <Ferny_TransportInfrastructure.label>Infrastruktura</Ferny_TransportInfrastructure.label>
+    <Ferny_TransportInfrastructure.description>Zbuduj infrastukturę transportową</Ferny_TransportInfrastructure.description>
+
+    <!--storage-->
+    <Ferny_Storage.label>Magazyn</Ferny_Storage.label>
+    <Ferny_Storage.description>Zbuduj magazyn.</Ferny_Storage.description>
+
+    <Ferny_GeneralStorage.label>Ogólne</Ferny_GeneralStorage.label>
+    <Ferny_GeneralStorage.description>Zbuduj ogólny magazyn.</Ferny_GeneralStorage.description>
+
+    <Ferny_ResourcesStorage.label>Zasoby</Ferny_ResourcesStorage.label>
+    <Ferny_ResourcesStorage.description>Zbuduj magazyny zasobów.</Ferny_ResourcesStorage.description>
+
+    <Ferny_GearStorage.label>Sprzęt</Ferny_GearStorage.label>
+    <Ferny_GearStorage.description>Zbuduj magazyn sprzętu.</Ferny_GearStorage.description>
+
+    <Ferny_FoodStorage.label>Żywność</Ferny_FoodStorage.label>
+    <Ferny_FoodStorage.description>Zbuduj magazyn żywności.</Ferny_FoodStorage.description>
+
+    <Ferny_InformationStorage.label>Informacje</Ferny_InformationStorage.label>
+    <Ferny_InformationStorage.description>Zbuduj magazyny informacji.</Ferny_InformationStorage.description>
+
+    <!--space-->
+    <Ferny_Space.label>Kosmos</Ferny_Space.label>
+    <Ferny_Space.description>Zbuduj kosmiczne stoły produkcyjne</Ferny_Space.description>
+
+    <Ferny_SpacePlatform.label>Platforma</Ferny_SpacePlatform.label>
+    <Ferny_SpacePlatform.description>Buduj rożne kosmiczne rzeczy.</Ferny_SpacePlatform.description>
+
+    <Ferny_SpaceVacuum.label>Próżnia</Ferny_SpaceVacuum.label>
+    <Ferny_SpaceVacuum.description>Buduj obiekty związane z próżnią kosmiczną..</Ferny_SpaceVacuum.description>
+
+    <Ferny_SpaceCombat.label>Walka</Ferny_SpaceCombat.label>
+    <Ferny_SpaceCombat.description>Buduj obiekty bojowe w przestrzeni kosmicznej.</Ferny_SpaceCombat.description>
+
+    <Ferny_SpaceFurniture.label>Meble</Ferny_SpaceFurniture.label>
+    <Ferny_SpaceFurniture.description>Buduj meble kosmiczne.</Ferny_SpaceFurniture.description>
+
+    <Ferny_VehicleStorage.label>Magazyn</Ferny_VehicleStorage.label>
+    <Ferny_VehicleStorage.description>Buduj magazyny pojazdów.</Ferny_VehicleStorage.description>
+
+    <Ferny_SpaceProduction.label>Kompaktowe</Ferny_SpaceProduction.label>
+    <Ferny_SpaceProduction.description>Zbuduj stanowiska produkcyjne w przestrzeni kosmicznej.</Ferny_SpaceProduction.description>
+
+    <Ferny_SpacePower.label>Zasilanie</Ferny_SpacePower.label>
+    <Ferny_SpacePower.description>Zbuduj budynki zasilające w przestrzeni kosmicznej.</Ferny_SpacePower.description>
+
+    <!--ammunition-->
+    <Ferny_AmmunitionNetwork.label>Amunicja</Ferny_AmmunitionNetwork.label>
+    <Ferny_AmmunitionNetwork.description>Zarządzaj amunicją.</Ferny_AmmunitionNetwork.description>
+
+    <!--world-->
+    <Ferny_World.label>Świat</Ferny_World.label>
+    <Ferny_World.description>Zarządzaj światem</Ferny_World.description>
+
+    <Ferny_Outreach.label>Działania zewnętrzne</Ferny_Outreach.label>
+    <Ferny_Outreach.description>Rzeczy, które sięgają w świat.</Ferny_Outreach.description>
+
+    <Ferny_Summon.label>Przywołanie</Ferny_Summon.label>
+    <Ferny_Summon.description>Rzeczy, które sięgają w świat.</Ferny_Summon.description>
+
+    <Ferny_Hacking.label>Hakowanie</Ferny_Hacking.label>
+    <Ferny_Hacking.description>Hakowanie różnych rzeczy.</Ferny_Hacking.description>
+
+    <Ferny_Automation.label>Automatyzacja</Ferny_Automation.label>
+    <Ferny_Automation.description>Rzeczy, które automatyzują różne zadania.</Ferny_Automation.description>
+
+    <Ferny_Hosting.label>Rozrywka</Ferny_Hosting.label>
+
+    <Ferny_Market.label>Rynek</Ferny_Market.label>
+
+    <Ferny_Museum.label>Muzeum</Ferny_Museum.label>
+
+    <VCHE_PipeNetworks.label>Zasoby</VCHE_PipeNetworks.label>
+
+    <Ferny_NeutroamineNetwork.label>Neutramina</Ferny_NeutroamineNetwork.label>
+    <Ferny_NeutroamineNetwork.description>Zarządzaj neutroaminą.</Ferny_NeutroamineNetwork.description>
+
+    <Ferny_ToxicWasteNetwork.label>Odpady toksyczne</Ferny_ToxicWasteNetwork.label>
+    <Ferny_ToxicWasteNetwork.description>Zarządzanie odpadami toksycznymi.</Ferny_ToxicWasteNetwork.description>
+
+    <!--floors-->
+    <Ferny_FloorsWood.label>Drewno</Ferny_FloorsWood.label>
+    <Ferny_FloorsWood.description>Podłogi drewniane.</Ferny_FloorsWood.description>
+
+    <Ferny_FloorsStone.label>Kamień</Ferny_FloorsStone.label>
+    <Ferny_FloorsStone.description>Podłogi kamienne.</Ferny_FloorsStone.description>
+
+    <Ferny_FloorsConcrete.label>Beton</Ferny_FloorsConcrete.label>
+    <Ferny_FloorsConcrete.description>Podłogi betonowe.</Ferny_FloorsConcrete.description>
+
+    <Ferny_FloorsMetal.label>Metal</Ferny_FloorsMetal.label>
+    <Ferny_FloorsMetal.description>Podłogi metalowe.</Ferny_FloorsMetal.description>
+
+    <Ferny_FloorsCarpet.label>Dywan</Ferny_FloorsCarpet.label>
+    <Ferny_FloorsCarpet.description>Podłogi z dywanu.</Ferny_FloorsCarpet.description>
+
+    <Ferny_FloorsClean.label>Czyste</Ferny_FloorsClean.label>
+    <Ferny_FloorsClean.description>Czyste podłogi.</Ferny_FloorsClean.description>
+
+    <!--DLC-->
+    <!--BIOTECH-->
+    <Ferny_Pollution.label>Zanieczyszczenie</Ferny_Pollution.label>
+    <Ferny_Pollution.description>Zarządzaj zanieczyszczeniem.</Ferny_Pollution.description>
+
+    <Ferny_Deathrest.label>Anabioza</Ferny_Deathrest.label>
+    <Ferny_Deathrest.description>Zarządzaj anabiozą.</Ferny_Deathrest.description>
+
+    <Ferny_Mechanoids.label>Mechanoidy</Ferny_Mechanoids.label>
+    <Ferny_Mechanoids.description>Twórz mechanoidy.</Ferny_Mechanoids.description>
+    <!--MODS-->
+    <!--Alpha Implants-->
+    <Ferny_AnimalImplants.label>Implanty</Ferny_AnimalImplants.label>
+    <Ferny_AnimalImplants.description>Zarządzaj implantami.</Ferny_AnimalImplants.description>
+    <!--Aquariums-->
+    <Ferny_Aquarium.label>Akwarium</Ferny_Aquarium.label>
+    <Ferny_Aquarium.description>Buduj akwaria</Ferny_Aquarium.description>
+    <!--Bill Doors' Plasma Weapons-->
+    <Ferny_LizionNetwork.label>Lizionic</Ferny_LizionNetwork.label>
+    <Ferny_LizionNetwork.description>Zarządzaj lizionem.</Ferny_LizionNetwork.description>
+    <!--Bioferrite Pipes-->
+    <Ferny_BioferriteNetwork.label>Bioferryt</Ferny_BioferriteNetwork.label>
+    <Ferny_BioferriteNetwork.description>Zarządzaj bioferrytem.</Ferny_BioferriteNetwork.description>
+    <!--Camping Tent-->
+    <Ferny_Tents.label>Napioty</Ferny_Tents.label>
+    <Ferny_Tents.description>Zewnętrzne namioty.</Ferny_Tents.description>
+    <!--Fantasy biotech-->
+    <Ferny_SteamConstructs.label>Konstrukcje</Ferny_SteamConstructs.label>
+    <Ferny_SteamConstructs.description>Zarządzanie konstrukcjami.</Ferny_SteamConstructs.description>
+    <!--Milk Pipe Network-->
+    <Ferny_MilkPipeNetwork.label>Mleko</Ferny_MilkPipeNetwork.label>
+    <Ferny_MilkPipeNetwork.description>Zarządzaj mlekiem.</Ferny_MilkPipeNetwork.description>
+    <!--Persona Mechanoid Pawns 2-->
+    <Ferny_Personas.label>Persony</Ferny_Personas.label>
+    <Ferny_Personas.description>Zarządzaj personami.</Ferny_Personas.description>
+    <!--Rimjoust-->
+    <Ferny_Jousting.label>Turnieje rycerskie</Ferny_Jousting.label>
+    <Ferny_Jousting.description>Buduj areny do turniejów rycerskich.</Ferny_Jousting.description>
+    <!--Rimbody-->
+    <Ferny_Athletics.label>Ćwiczenia</Ferny_Athletics.label>
+    <Ferny_Athletics.description>Zagadnienia związane z ćwiczeniami.</Ferny_Athletics.description>
+    <!--Rimsential Spacesports-->
+    <Ferny_Spaceport.label>Sporty kosmiczne</Ferny_Spaceport.label>
+    <Ferny_Spaceport.description>Zarządaj swoimi sportami kosmicznymi</Ferny_Spaceport.description>
+    <!--Star Wars KotOR Resources and Materials-->
+    <Ferny_RhydoniumNetwork.label>Rhydonium</Ferny_RhydoniumNetwork.label>
+    <Ferny_RhydoniumNetwork.description>Zarządzaj rhydonium.</Ferny_RhydoniumNetwork.description>
+    <Ferny_TibannaNetwork.label>Tibanna</Ferny_TibannaNetwork.label>
+    <Ferny_TibannaNetwork.description>Zarządzaj tibanną</Ferny_TibannaNetwork.description>
+    <!--Steel Pipe Network-->
+    <Ferny_SteelNetwork.label>Stal</Ferny_SteelNetwork.label>
+    <Ferny_SteelNetwork.description>Zarządzaj stalą.</Ferny_SteelNetwork.description>
+    <!--Ushankas Luciferium Expansion-->
+    <Ferny_LuciferiumNetwork.label>Lucyferium</Ferny_LuciferiumNetwork.label>
+    <Ferny_LuciferiumNetwork.description>Zarządzaj lucyferium</Ferny_LuciferiumNetwork.description>
+    <!--VE Drone  Factory-->
+    <Ferny_Drones.label>Drony</Ferny_Drones.label>
+    <Ferny_Drones.label>Zarządzaj dronami</Ferny_Drones.label>
+    <!--VE Nutrient Paste-->
+    <Ferny_NutrientPasteNetwork.label>Składniki odżywczę</Ferny_NutrientPasteNetwork.label>
+    <Ferny_NutrientPasteNetwork.description>Zarządzanie pastą odżywczą.</Ferny_NutrientPasteNetwork.description>
+    <!--VE Helixien Gas-->
+    <Ferny_HelixienGasNetwork.label>Gaz</Ferny_HelixienGasNetwork.label>
+    <Ferny_HelixienGasNetwork.description>Zarządzaj gazem helixien.</Ferny_HelixienGasNetwork.description>
+    <!-- VE Graveship-->
+    <Ferny_AstrofuelNetwork.label>Astropaliwo</Ferny_AstrofuelNetwork.label>
+    <Ferny_AstrofuelNetwork.description>Zarządzaj astropaliwem.</Ferny_AstrofuelNetwork.description>
+    <!--VE Chemfuel-->
+    <Ferny_ChemfuelNetwork.label>Chem-paliwo</Ferny_ChemfuelNetwork.label>
+    <Ferny_ChemfuelNetwork.description>Zarządzaj chem-paliwem</Ferny_ChemfuelNetwork.description>
+    <!--VQE  Generator Pipe Network Compat-->
+    <Ferny_UraniumNetwork.label>Uran</Ferny_UraniumNetwork.label>
+    <Ferny_UraniumNetwork.description>Zarządzaj uranem.</Ferny_UraniumNetwork.description>
+    <!--VRE Androids-->
+    <Ferny_Androids.label>Androidy</Ferny_Androids.label>
+    <Ferny_Androids.description>Zbuduj androidy.</Ferny_Androids.description>
+    <!--VRE Sanguophage-->
+    <Ferny_HemogenNetwork.label>Hemogen</Ferny_HemogenNetwork.label>
+    <Ferny_HemogenNetwork.description>Zarządzaj hemogenem.</Ferny_HemogenNetwork.description>
+    <!--WoodLog Pipe Network-->
+    <Ferny_WoodNetwork.label>Drewno</Ferny_WoodNetwork.label>
+    <Ferny_WoodNetwork.description>Zarządzaj drewnem.</Ferny_WoodNetwork.description>
+</LanguageData>

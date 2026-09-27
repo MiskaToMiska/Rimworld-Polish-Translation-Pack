@@ -1,0 +1,42 @@
+<LanguageData>
+  <LT_MatBase.label>Wycieraczka</LT_MatBase.label>
+  <LT_MatBase.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_MatBase.description>
+
+  <LT_MatBaseChecker.label>Wycieraczka w kratkę</LT_MatBaseChecker.label>
+  <LT_MatBaseChecker.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_MatBaseChecker.description>
+
+  <LT_DoorMatBigCheckerLeather.label>Duża wycieraczka w kratkę</LT_DoorMatBigCheckerLeather.label>
+  <LT_DoorMatBigCheckerLeather.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigCheckerLeather.description>
+
+  <LT_DoorMatCheckerLeather.label>Wycieraczka w kratkę</LT_DoorMatCheckerLeather.label>
+  <LT_DoorMatCheckerLeather.description>Wycieraczka służąca do czyszczenia obuwia z brudu.
+  </LT_DoorMatCheckerLeather.description>
+
+  <LT_DoorMatLeather.label>wycieraczka</LT_DoorMatLeather.label>
+  <LT_DoorMatLeather.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatLeather.description>
+  <LT_DoorMatBigLeather.label>duża wycieraczka</LT_DoorMatBigLeather.label>
+  <LT_DoorMatBigLeather.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigLeather.description>
+
+  <LT_DoorMatRed.label>wycieraczka (czerwona)</LT_DoorMatRed.label>
+  <LT_DoorMatRed.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatRed.description>
+  <LT_DoorMatOrange.label>wycieraczka (pomarańczowa)</LT_DoorMatOrange.label>
+  <LT_DoorMatOrange.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatOrange.description>
+  <LT_DoorMatGreen.label>wycieraczka (zielona)</LT_DoorMatGreen.label>
+  <LT_DoorMatGreen.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatGreen.description>
+  <LT_DoorMatTeal.label>wycieraczka (morska)</LT_DoorMatTeal.label>
+  <LT_DoorMatTeal.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatTeal.description>
+  <LT_DoorMatBlue.label>wycieraczka (niebieska)</LT_DoorMatBlue.label>
+  <LT_DoorMatBlue.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBlue.description>
+
+  <LT_DoorMatBigRed.label>duża wycieraczka (czerwona)</LT_DoorMatBigRed.label>
+  <LT_DoorMatBigRed.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigRed.description>
+  <LT_DoorMatBigOrange.label>duża wycieraczka (pomarańczowa)</LT_DoorMatBigOrange.label>
+  <LT_DoorMatBigOrange.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigOrange.description>
+  <LT_DoorMatBigGreen.label>duża wycieraczka (zielona)</LT_DoorMatBigGreen.label>
+  <LT_DoorMatBigGreen.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigGreen.description>
+  <LT_DoorMatBigTeal.label>duża wycieraczka (morska)</LT_DoorMatBigTeal.label>
+  <LT_DoorMatBigTeal.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigTeal.description>
+  <LT_DoorMatBigBlue.label>duża wycieraczka (niebieska)</LT_DoorMatBigBlue.label>
+  <LT_DoorMatBigBlue.description>Wycieraczka służąca do czyszczenia obuwia z brudu.</LT_DoorMatBigBlue.description>
+
+</LanguageData>

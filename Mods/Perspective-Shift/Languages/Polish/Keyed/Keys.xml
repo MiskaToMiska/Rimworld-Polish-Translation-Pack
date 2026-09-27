@@ -1,0 +1,314 @@
+<LanguageData>
+    <PS_LostControl>Utracono kontrolę nad postacią.</PS_LostControl>
+    <PS_TakeControl>Wciel się w postać</PS_TakeControl>
+    <PS_SwapCharacter>Przełącz się na tę postać</PS_SwapCharacter>
+    <PS_ReturnToDirector>Powrót do widoku reżysera</PS_ReturnToDirector>
+    <PS_AuthenticLocked>Przywiązany do postaci</PS_AuthenticLocked>
+    <PS_AuthenticLockedReason>Tryb autentyczny uniemożliwia zmianę postaci.</PS_AuthenticLockedReason>
+    <PS_PickedUp>Podniesiono {0}</PS_PickedUp>
+    <PS_MoveCancelled>Ruch anulowano</PS_MoveCancelled>
+    <PS_ControlTaken>Jesteś teraz {0}.</PS_ControlTaken>
+    <PS_SelectRole>Wybierz swoją rolę</PS_SelectRole>
+    <PS_RoleDirector>Graj jako reżyser</PS_RoleDirector>
+    <PS_RoleDirectorDesc>Zobacz grę z perspektywy wszechwiedzącego narratora, kierując wyłącznie postaciami. Klasyczna rozgrywka.</PS_RoleDirectorDesc>
+    <PS_RoleCharacter>Graj jako postacie</PS_RoleCharacter>
+    <PS_RoleCharacterDesc>Zobacz grę z perspektywy jednej lub wielu swoich postaci. Możliwość dostosowania.</PS_RoleCharacterDesc>
+    <PS_Recommended>ZALECANE</PS_Recommended>
+    <PS_InhabitedControls>Sterowanie postacią</PS_InhabitedControls>
+    <PS_NeverShowAgain>Nie pokazuj tego więcej</PS_NeverShowAgain>
+    <PS_ShowControlsOnFirstInhabit>Pokaż elementy sterujące przy pierwszym wcieleniu</PS_ShowControlsOnFirstInhabit>
+    <PS_ShowControlsOnFirstInhabitDesc>Gdy po raz pierwszy przejmiesz kontrolę nad postacią w zapisie gry, otwórz podsumowanie sterowania postacią. Wyłączenie tej opcji spowoduje ukrycie podsumowania wszędzie, w tym w zapisach, w których jeszcze się nie pojawiło.</PS_ShowControlsOnFirstInhabitDesc>
+    <PS_InhabitedControlsRebindWarning>Jeśli zmieniałeś konfiguracje klawiszy, powyższe informacje mogą już nie mieć zastosowania. Komunikat ten pojawi się tylko raz przy każdym zapisaniu.</PS_InhabitedControlsRebindWarning>
+    <PS_ControlsMovement>Ruch</PS_ControlsMovement>
+    <PS_ControlsInteracting>Interakcja</PS_ControlsInteracting>
+    <PS_ControlsCharacter>Twoja postać</PS_ControlsCharacter>
+    <PS_KeyWASD>WASD</PS_KeyWASD>
+    <PS_KeyShiftHold>Przytrzymaj lewy shift</PS_KeyShiftHold>
+    <PS_KeyCtrlHold>Przytrzymaj lewy ctrl</PS_KeyCtrlHold>
+    <PS_KeyLeftClick>Lewy Przycisk Myszy</PS_KeyLeftClick>
+    <PS_KeyLeftClickHold>Przytrzymaj LPM</PS_KeyLeftClickHold>
+    <PS_KeyRightClick>Prawy Przycisk Myszy</PS_KeyRightClick>
+    <PS_KeyRightClickHauling>PPM (podczas noszenia)</PS_KeyRightClickHauling>
+    <PS_KeyDoubleClickHauling>Kliknij dwa razy (podczas noszenia)</PS_KeyDoubleClickHauling>
+    <PS_KeyE>E</PS_KeyE>
+    <PS_KeyQ>Q</PS_KeyQ>
+    <PS_KeyH>H</PS_KeyH>
+    <PS_KeyF>F</PS_KeyF>
+    <PS_KeyJ>J</PS_KeyJ>
+    <PS_ControlMove>Ruch</PS_ControlMove>
+    <PS_ControlSprint>Sprint</PS_ControlSprint>
+    <PS_ControlSneak>Skradanie się</PS_ControlSneak>
+    <PS_ControlLeftClick>Rozpocznij przenoszenie przedmiotu lub wykonaj inną czynność z nim związaną</PS_ControlLeftClick>
+    <PS_ControlLeftClickHold>Konkretne zadania, takie jak budowanie, wydobywanie lub rąbanie drewna</PS_ControlLeftClickHold>
+    <PS_ControlRightClick>Dodaj bardziej zaawansowane zadania do kolejki</PS_ControlRightClick>
+    <PS_ControlStoreItem>Umieść przenoszony przedmiot w ekwipunku</PS_ControlStoreItem>
+    <PS_ControlEquipItem>Wyposaż się w przenoszony przedmiot</PS_ControlEquipItem>
+    <PS_ControlInventory>Otwórz zakładkę "Sprzęt"</PS_ControlInventory>
+    <PS_ControlNeeds>Otwórz zakładkę "Potrzeby"</PS_ControlNeeds>
+    <PS_ControlHealth>Otwórz zakładkę "Zdrowie"</PS_ControlHealth>
+    <PS_ControlEat>Zjedz posiłek</PS_ControlEat>
+    <PS_ControlRecreation>Zajmij się rekreacją</PS_ControlRecreation>
+    <PS_SelectPlaystyle>Wybierz styl gry swojej postaci</PS_SelectPlaystyle>
+    <PS_ModeAuthentic>Autentyczny tyl</PS_ModeAuthentic>
+    <PS_ModeAuthenticDesc>Musisz pozostać przy wybranej postaci na zawsze. Nie możesz nigdy przejść do perspektywy wszechwiedzącej i zawsze wcielasz się w swoją postać.\n\nZalecane w przypadku immersywnego doświadczenia.</PS_ModeAuthenticDesc>
+    <PS_ModeSwap>Zmienny styl</PS_ModeSwap>
+    <PS_ModeSwapDesc>Możesz przełączać się między postaciami, ale zawsze musisz pozostawać w perspektywie danej postaci.\n\nZalecane dla graczy, którzy lubią ten styl rozgrywki, ale chcą mieć większą kontrolę nad wieloma postaciami.</PS_ModeSwapDesc>
+    <PS_ModeDynamic>Dynamiczny styl</PS_ModeDynamic>
+    <PS_ModeDynamicDesc>Chociaż głównym sposobem rozgrywki będzie wcielanie się w postacie, w dowolnym momencie możesz przełączać się między stylem reżyserskim a grą dowolną z twoich postaci.\n\nZalecane dla graczy, którzy cenią sobie elastyczność wynikającą z możliwości gry z dowolnej perspektywy.</PS_ModeDynamicDesc>
+    <PS_ZoomSpeed>Prędkośc przybliżania: {0}</PS_ZoomSpeed>
+    <PS_MinZoom>Minimalne powiększenie: {0}</PS_MinZoom>
+    <PS_MaxZoom>Maksymalne powiększenie: {0}</PS_MaxZoom>
+    <PS_GrabRange>Zasięg chwytu: {0}</PS_GrabRange>
+    <PS_DisableAimingDelay>Wyłącz czas celowania dla postaci gracza</PS_DisableAimingDelay>
+    <PS_DisableAimingDelayDesc>Po zaznaczeniu tej opcji sterowana przez gracza postać strzela natychmiast, bez konieczności oczekiwania na zakończenie cyklu celowania broni. Czas odnowienia między strzałami nadal obowiązuje.</PS_DisableAimingDelayDesc>
+    <PS_EnableDamageScreenEffect>Wlącz efekty wizualne otrzymywania obrażeń</PS_EnableDamageScreenEffect>
+    <PS_EnableDamageScreenEffectDesc>Wyświetla na ekranie krótką czerwoną nakładkę, gdy sterowana przez gracza postać otrzymuje obrażenia.</PS_EnableDamageScreenEffectDesc>
+    <PS_InstantEquip>Natychmiastowe wyposażenie po dwukrotnym kliknięciu</PS_InstantEquip>
+    <PS_InstantEquipDesc>Podwójne kliknięcie na broń lub element wyposażenia, który masz przy sobie, powoduje natychmiastowe wyposażenie się w niego lub założenie go, pomijając proces wyposażania i związane z tym opóźnienie. Wymieniony przedmiot zostanie upuszczony u twoich stóp.</PS_InstantEquipDesc>
+    <PS_SleepingPreventsVision>Sen ogranicza widzenie</PS_SleepingPreventsVision>
+    <PS_SleepingPreventsVisionDesc>Gdy postać, w której się wcielasz, śpi lub jest nieprzytomna, świat znika w ciemności, aż do momentu, gdy się obudzi. Interfejs pozostaje widoczny.</PS_SleepingPreventsVisionDesc>
+    <PS_DisallowOtherMapsInAuthentic>Zablokuj wyświetlanie innych map w autentycznym stylu</PS_DisallowOtherMapsInAuthentic>
+    <PS_DisallowOtherMapsInAuthenticDesc>Zgodnie z zasadami gry możesz przeglądać wyłącznie mapę, na której znajduje się twoja postać. Przechodzenie do innej kolonii, do pionka znajdującego się gdzie indziej lub do listu dotyczącego innej mapy jest niemożliwe, nawet gdy twoja postać podróżuje w karawanie.</PS_DisallowOtherMapsInAuthenticDesc>
+    <PS_CannotViewOtherMaps>Widzisz tylko to, gdzie znajduje się twoja postać.</PS_CannotViewOtherMaps>
+    <PS_WeaponTooltips>Opisy broni</PS_WeaponTooltips>
+    <PS_WeaponTooltipsDesc>Po najechaniu kursorem na broń znajdującą się w zasięgu wyświetla się jej nazwa, jakość oraz porównanie jej wartości DPS i penetracji pancerza z wartościami broni, którą masz obecnie wyposażoną.</PS_WeaponTooltipsDesc>
+    <PS_ApparelTooltips>Opisy ubrań</PS_ApparelTooltips>
+    <PS_ApparelTooltipsDesc>Po najechaniu kursorem na ubranie w zasięgu widoczne stają się jego nazwa, jakość oraz porównanie jego właściwości ochronnych i izolacyjnych z ubraniami, które miałoby zastąpić.</PS_ApparelTooltipsDesc>
+    <PS_CustomCursors>Niestandardowe kursory</PS_CustomCursors>
+    <PS_CustomCursorsDesc>Przełącznik główny dla wszystkich kursorów w tej zakładce. Wyłącz go, aby zachować standardowy wskaźnik myszy zamiast kursorów zadań i przeciągania.</PS_CustomCursorsDesc>
+    <PS_HaulingCursor>Kursor przeciągania</PS_HaulingCursor>
+    <PS_HaulingCursorDesc>Kiedy nosisz jakiś przedmiot, kursor zmienia się w znacznik upuszczenia, zastępując celownik nawet podczas poruszania się w szyku. Kursory ławkowe mają pierwszeństwo w sytuacjach, w których kliknięcie spowodowałoby umieszczenie przedmiotu w rachunku.</PS_HaulingCursorDesc>
+    <PS_EatTooltips>Opisy jedzenia</PS_EatTooltips>
+    <PS_EatTooltipsDesc>Po najechaniu kursorem na jedzenie znajdujące się w zasięgu ręki pojawia się podpowiedź przypominająca, że dwukrotne kliknięcie powoduje jego zjedzenie.</PS_EatTooltipsDesc>
+    <PS_DrugTooltips>Opisy używek</PS_DrugTooltips>
+    <PS_DrugTooltipsDesc>Po najechaniu kursorem na używkę wyświetl etykietę z jej nazwą i podstawowymi statystykami.</PS_DrugTooltipsDesc>
+    <PS_DisableDoubleClickDrug>Wyłącz branie używek poprzez dwukrotne kliknięcie</PS_DisableDoubleClickDrug>
+    <PS_DisableDoubleClickDrugDesc>Zapobiegaj sytuacji, w której dwukrotne kliknięcie na trzymaną używkę powoduje, że kolonista ją zażyje.</PS_DisableDoubleClickDrugDesc>
+    <PS_BookTooltips>Opisy książek</PS_BookTooltips>
+    <PS_BookTooltipsDesc>Po najechaniu kursorem na książkę wyświetl etykietę z jej tytułem, oceną oraz informacją o tym, co da jej przeczytanie.</PS_BookTooltipsDesc>
+    <PS_DisableDoubleClickRead>Wyłącz otwieranie książek poprzez dwukrotne kliknięcie</PS_DisableDoubleClickRead>
+    <PS_DisableDoubleClickReadDesc>Zapobiegaj sytuacji, w której dwukrotne kliknięcie na trzymanej książce powoduje, że kolonista zaczyna ją czytać.</PS_DisableDoubleClickReadDesc>
+    <PS_HintDps>DPS</PS_HintDps>
+    <PS_HintArmorPenetration>Penetracja pancerza</PS_HintArmorPenetration>
+    <PS_HintArmorSharp>Ostre</PS_HintArmorSharp>
+    <PS_HintArmorBlunt>Obuchowe</PS_HintArmorBlunt>
+    <PS_HintInsulationCold>Zimno</PS_HintInsulationCold>
+    <PS_HintInsulationHeat>Ciepło</PS_HintInsulationHeat>
+    <PS_HintNutrition>Wartość odżywcza</PS_HintNutrition>
+    <PS_HintJoy>Radość</PS_HintJoy>
+    <PS_HintAddictiveness>Uzależnienie</PS_HintAddictiveness>
+    <PS_HintMentalBreak>Załamanie nerwowe</PS_HintMentalBreak>
+    <PS_HintPerHour>{0}/h</PS_HintPerHour>
+    <PS_HintXpPerHour>{0} XP/h</PS_HintXpPerHour>
+    <PS_HintNoGain>No gain</PS_HintNoGain>
+    <PS_ClickAndHoldToHarvest>Kliknij i przytrzymaj, aby zebrać plony</PS_ClickAndHoldToHarvest>
+    <PS_ClickToHarvest>Kliknij, aby zebrać plony</PS_ClickToHarvest>
+    <PS_HarvestTooltips>Opisy zbierania plonów</PS_HarvestTooltips>
+    <PS_HarvestTooltipsDesc>Po najechaniu kursorem na roślinę, którą można zebrać i która znajduje się w zasięgu, wyświetla się informacja o jej plonie oraz wartościach odżywczych.</PS_HarvestTooltipsDesc>
+    <PS_BillTooltips>Opisy stołu warsztatowego</PS_BillTooltips>
+    <PS_BillTooltipsDesc>Po najechaniu kursorem na stół warsztatowy znajdujący się w zasięgu ręki wyświetla się lista materiałów, których użycie rozpocząłoby się po kliknięciu: co można z nich wykonać, jakie składniki będą potrzebne oraz wymagane umiejętności.</PS_BillTooltipsDesc>
+    <PS_ClickToStartBill>Kliknij, aby zacząć zlecenie</PS_ClickToStartBill>
+    <PS_ClickToResumeBill>Kliknij, aby wznowić zlecenie</PS_ClickToResumeBill>
+    <PS_ClickToDropAndStartBill>Kliknij, aby użyc zasobów do tego zlecenia</PS_ClickToDropAndStartBill>
+    <PS_ClickToDropAndResumeBill>Kliknij, aby wznowić zlecenie</PS_ClickToDropAndResumeBill>
+    <PS_DoubleClickToEquip>Kliknij dwukrotnie, aby założyć</PS_DoubleClickToEquip>
+    <PS_DoubleClickToWear>Kliknij dwukrotnie, aby ubrać</PS_DoubleClickToWear>
+    <PS_DoubleClickToEat>Kliknij dwukrotnie, żeby zjeść</PS_DoubleClickToEat>
+    <PS_DoubleClickToIngest>Kliknij dwukrotnie, aby ingest</PS_DoubleClickToIngest>
+    <PS_DoubleClickToRead>Kliknij dwukrotnie, żeby czytać</PS_DoubleClickToRead>
+    <PS_WashYourself>Umyj się</PS_WashYourself>
+    <PS_DrinkWater>Napij się wody</PS_DrinkWater>
+    <PS_RelieveBladder>Opróżnienie pęcherza w wodzie</PS_RelieveBladder>
+    <PS_EnableSprinting>Włącz sprint</PS_EnableSprinting>
+    <PS_SprintSpeedMultiplier>Współczynnik prędkości sprintu: {0}</PS_SprintSpeedMultiplier>
+    <PS_EnableSneaking>Włącz skradanie</PS_EnableSneaking>
+    <PS_SneakSpeedMultiplier>Współczynnik prędkości skradania: {0}</PS_SneakSpeedMultiplier>
+    <PS_MoveSpeedMultiplier>Współczynnik prędkości prouszania: {0}</PS_MoveSpeedMultiplier>
+    <PS_ShootAccuracyMultiplier>Współczynnik celności strzelania: {0}</PS_ShootAccuracyMultiplier>
+    <PS_PlayerMoveSpeedCap>Maksymalna prędkość poruszania się gracza: {0}</PS_PlayerMoveSpeedCap>
+    <PS_GizmoCorner>Pozycja Gizmo UI</PS_GizmoCorner>
+    <PS_RotateCornerTip>Przesuń interfejs do następnego rogu.</PS_RotateCornerTip>
+    <PS_ScaleInterfaceTip>Przeciągnij, aby zmienić rozmiar potrzeb i gizmo UI. Kliknij prawym przyciskiem myszy, aby przywrócić normalny rozmiar.</PS_ScaleInterfaceTip>
+    <PS_TotalFreedom>Całkowita swoboda</PS_TotalFreedom>
+    <PS_TotalFreedomDesc>Zawsze zezwalaj na zmianę postaci, niezależnie od ustawień.</PS_TotalFreedomDesc>
+    <PS_AllowNonHuman>Zezwól na sterowanie non-ludźmi</PS_AllowNonHuman>
+    <PS_AllowNonHumanDesc>Umożliwia sterowanie zwierząt, mechanoidów i innych pionków niebędących kolonistami.</PS_AllowNonHumanDesc>
+    <PS_RequirePawnInFaction>Wymagaj, aby cel należał do frakcji</PS_RequirePawnInFaction>
+    <PS_RequirePawnInFactionDesc>Gwarantuje, że możesz przejąć kontrolę wyłącznie nad pionkami należącymi do twojej frakcji. Wyłączaj tę opcję ostrożnie – nie jest ona oficjalnie obsługiwana i służy wyłącznie do zabawy.</PS_RequirePawnInFactionDesc>
+    <PS_DisableCustomGizmos>Wyłącz niestandardowy Gizmo UI</PS_DisableCustomGizmos>
+    <PS_DisableCustomGizmosDesc>Wyłącza nakładkę niestandardowego Gizmo UI moda Perspective Shift. Aby wyświetlić elementy sterujące swojej postaci, trzeba będzie ręcznie kliknąć lub zaznaczyć postać, tak jak w podstawowej wersji gry RimWorld.</PS_DisableCustomGizmosDesc>
+    <PS_ChooseYourCharacter>Wybierz swoją postać</PS_ChooseYourCharacter>
+    <PS_ChooseYourStartingCharacter>Wybierz swoją początkową postać</PS_ChooseYourStartingCharacter>
+    <PS_MustSelectCharacter>Przed kontynuowaniem należy wybrać postać.</PS_MustSelectCharacter>
+    <PS_You>(ty)</PS_You>
+    <PS_ReturnToCharacter>Powrót do postaci</PS_ReturnToCharacter>
+    <PS_StatPart_AvatarAimingDelay>Bezpośrednie sterowanie</PS_StatPart_AvatarAimingDelay>
+    <PS_StatPart_AvatarShootingAccuracy>Premia do dokładności sterowania bezpośredniego</PS_StatPart_AvatarShootingAccuracy>
+    <PS_StorageNotPermitted>Próbujesz umieścić {0} w {1}, ale zgodnie z ustawieniami przechowywania nie można go tam przechowywać. Czy chcesz zezwolić na przechowywanie tego przedmiotu w tym miejscu?\n\nUwaga: Spowoduje to, że inni koloniści również będą mogli przechowywać ten przedmiot w tym miejscu.</PS_StorageNotPermitted>
+    <PS_StorageImpossible>{0} nie może być tutaj przechowywane.</PS_StorageImpossible>
+    <PS_CannotCarryMoreWeight>Nie możesz unieść większego ciężaru. Rozważ upuszczenie niektórych przedmiotów.</PS_CannotCarryMoreWeight>
+    <PS_BlueprintFull>Ten plan zawiera wszystkie materiały niezbędne do budowy.</PS_BlueprintFull>
+    <PS_ChatWith>Porozmawiaj z {0}</PS_ChatWith>
+    <PS_Insult>Obraź {0}</PS_Insult>
+    <PS_IncapableOfWorkType>Nie jesteś w stanie zrobić {0}.</PS_IncapableOfWorkType>
+    <PS_NoResearchProject>Nie wybrano żadnego projektu do badań.</PS_NoResearchProject>
+    <PS_PlayerOnly>Tylko dla gracza</PS_PlayerOnly>
+    <PS_PlayerOnlyRestrictions>Ograniczenia tylko dla gracza</PS_PlayerOnlyRestrictions>
+    <PS_NoRestriction>Brak ograniczeń</PS_NoRestriction>
+    <PS_OnlyPlayerCanStore>Koloniści nie mogą magazynować</PS_OnlyPlayerCanStore>
+    <PS_OnlyPlayerCanTake>Koloniści nie mogą brać</PS_OnlyPlayerCanTake>
+    <PS_OnlyPlayerCanUse>Tylko gracz może używać</PS_OnlyPlayerCanUse>
+    <PS_PerspectiveSettings>Ustawienia perspektywy</PS_PerspectiveSettings>
+    <PS_Modify>Modyfikuj</PS_Modify>
+    <PS_Storage>Magazynuj</PS_Storage>
+    <PS_StorageDoesNotAccept>Magazyn nie akceptuj tego przedmiotu.</PS_StorageDoesNotAccept>
+    <PS_DropItemHereToTake>Upuśc przedmiot tutaj, aby go zebrać</PS_DropItemHereToTake>
+    <PS_Keep>Keep</PS_Keep>
+    <PS_Hold>Hold</PS_Hold>
+    <PS_Wear>Ubież</PS_Wear>
+    <PS_Equip>Wyposaż</PS_Equip>
+    <PS_YouDied>Umarłeś.</PS_YouDied>
+    <PS_InhabitNewCharacter>Wciel się w nową postać</PS_InhabitNewCharacter>
+    <PS_ContinueDynamicMode>Kontynuuj w trybie dynamicznym</PS_ContinueDynamicMode>
+    <PS_ContinueSwapMode>Kontynuuj w trybie zmiennym</PS_ContinueSwapMode>
+    <PS_ContinueDirectorMode>Kontynuuj w trybie reżysera</PS_ContinueDirectorMode>
+    <PS_EndRun>Zakończ podejście</PS_EndRun>
+    <PS_RomanceAdvanceTitle>{0} próbuje cię poderwać</PS_RomanceAdvanceTitle>
+    <PS_MarriageProposalTitle>{0} prosi cię o rękę.</PS_MarriageProposalTitle>
+    <PS_Reciprocate>Odwdzięczyć się</PS_Reciprocate>
+    <PS_Reciprocate_Desc>Odpowiedz i zostańcie parą.</PS_Reciprocate_Desc>
+    <PS_Rebuff>Odrzucenie</PS_Rebuff>
+    <PS_Rebuff_Desc>Odrzuć romantyczną propozycję.</PS_Rebuff_Desc>
+    <PS_GoWithYourGut>Zaufaj swojej intuicji</PS_GoWithYourGut>
+    <PS_GoWithYourGut_Desc>Zobaczmy, co ta postać zrobiłaby, gdyby nie była pod twoją kontrolą - niech przemówią liczby.</PS_GoWithYourGut_Desc>
+    <PS_Yes>Tak</PS_Yes>
+    <PS_Yes_Desc>Zaakceptuj propozycję.</PS_Yes_Desc>
+    <PS_No>Nie</PS_No>
+    <PS_No_Desc>Odrzuć propozycję.</PS_No_Desc>
+    <PS_Permadeath>Permaśmierć</PS_Permadeath>
+    <PS_PermadeathDesc>Po włączeniu tej opcji przez cały czas trwania danego przebiegu nie będziesz mógł przełączyć się na żadną inną postać ani powrócić do trybu reżysera, aby kontynuować przebieg po śmierci. Jesteś swoją jedyną nadzieją.\n\nZalecane wyłącznie dla graczy gotowych stracić wszystko – po użyciu tej opcji nie ma już odwrotu.</PS_PermadeathDesc>
+    <PS_AllowSwitchingToDirectorMode>Zezwól na przełączenie do trybu reżyserskiego</PS_AllowSwitchingToDirectorMode>
+    <PS_AllowSwitchingToDirectorModeDesc>Po włączeniu tej opcji przez cały czas trwania danej rozgrywki możesz w dowolnym momencie przełączyć się do trybu reżyserskiego. Nadal jednak musisz wcielać się wyłącznie w jednego kolonistę i chronić jego życie.\n\nZalecane dla graczy, którzy chcą wcielić się w konkretną postać, ale jednocześnie chcieliby zachować w pełni oryginalną rozgrywkę.</PS_AllowSwitchingToDirectorModeDesc>
+    <PS_SprintFoodDrainMultiplier>Współczynnik utraty najedzenia podczas sprintu: {0}</PS_SprintFoodDrainMultiplier>
+    <PS_SprintSleepDrainMultiplier>Współczynnik utraty energi podczas sprintu: {0}</PS_SprintSleepDrainMultiplier>
+    <PS_SeekAtWill>Pasywne szukanie</PS_SeekAtWill>
+    <PS_SeekAtWillDesc>Automatycznie wyszukuje i atakuje wrogów znajdujących się w zasięgu. Funkcja niedostępna podczas trybu bojowego.</PS_SeekAtWillDesc>
+    <PS_SeekAtWillDraftedReason>Pasywne szukanie nie jest możliwe trybie bojowym. Tryb bojowy jest tylko do ręcznego sterowania kolonistami</PS_SeekAtWillDraftedReason>
+    <PS_InhabitNewCharacter_Desc>Wciel się w inną postać w swojej grze. Spowoduje to powrót do trybu reżyserskiego, w którym możesz kliknąć nową postać i zdecydować się na trwałe wcielenie się w nią.</PS_InhabitNewCharacter_Desc>
+    <PS_ContinueDynamicMode_Desc>Kontynuuj grę, ciesząc się pełną swobodą - możesz dowolnie przełączać się między dowolnymi postaciami lub trybem reżyserskim.</PS_ContinueDynamicMode_Desc>
+    <PS_ContinueSwapMode_Desc>Kontynuuj grę z perspektywy swoich postaci, swobodnie przełączając się między nimi.</PS_ContinueSwapMode_Desc>
+    <PS_ContinueDirectorMode_Desc>Kontynuuj grę z perspektywy wszechwiedzącej, kierując postaciami i zarządzając nimi.</PS_ContinueDirectorMode_Desc>
+    <PS_AbilityCancelled>{0} odwołano z powodu przemieszczenia.</PS_AbilityCancelled>
+    <PS_StorageFull>{0} nie można dołożyć ponieważ magazyn jest pełny.</PS_StorageFull>
+    <PS_SaveAndEndRun>Zapisz i zakończ podejście</PS_SaveAndEndRun>
+    <PS_BedForPrisonersOnly>To łóżko jest tylko dla więźniów.</PS_BedForPrisonersOnly>
+    <PS_BedForSlavesOnly>To łóżko jest tylko dla niewolników.</PS_BedForSlavesOnly>
+    <PS_BedForColonistsOnly>To łóżko jest tylko dla kolonistów.</PS_BedForColonistsOnly>
+    <PS_EatingFood>Konsumowanie: {0}</PS_EatingFood>
+    <PS_DoingRecreation>Relaksujesz się: {0}</PS_DoingRecreation>
+    <PS_NoRecreationAvailable>No recreation available</PS_NoRecreationAvailable>
+    <PS_ShellLoaded>Wczytano {0}</PS_ShellLoaded>
+    <PS_HoldToFire>Przytrzymaj, aby strzelać</PS_HoldToFire>
+    <PS_HoldToFireDesc>Przytrzymanie lewego przycisku myszy podczas ruchu pozwoli na ciągłe strzelanie z broni bez wstrzymywania czasów odnowienia.</PS_HoldToFireDesc>
+    <PS_CameraEasing>Włącz płynne ruchy kamery</PS_CameraEasing>
+    <PS_CameraEasingDesc>Płynnie przesuwa kamerę w kierunku twojej postaci. Wyłącz tę opcję, jeśli odczuwasz mdłości związane z ruchem.</PS_CameraEasingDesc>
+    <PS_RequireHeldClickForJobs>W przypadku niektórych zadań (cięcie, wydobywanie itp.) wymagane jest przytrzymanie przycisku myszy</PS_RequireHeldClickForJobs>
+    <PS_RequireHeldClickForJobsDesc>Aby kontynuować czynności takie jak wydobywanie surowców lub zbieranie plonów, należy przytrzymać lewy przycisk myszy. Wyłącz tę opcję, aby ułatwić korzystanie z gry.</PS_RequireHeldClickForJobsDesc>
+    <PS_DisableDoubleClickEquip>Wyłącz wyposażanie poprzez dwukrotne kliknięcie</PS_DisableDoubleClickEquip>
+    <PS_DisableDoubleClickEquipDesc>Podwójne kliknięcie na miejsce docelowe, gdy masz przy sobie broń lub element wyposażenia, nie spowoduje już założenia ani wyposażenia się w ten przedmiot zamiast jego upuszczenia.</PS_DisableDoubleClickEquipDesc>
+    <PS_DisableDoubleClickEat>Wyłącz konsumowanie poprzez dwukrotne kliknięcie</PS_DisableDoubleClickEat>
+    <PS_DisableDoubleClickEatDesc>Podwójne kliknięcie miejsca docelowego podczas przenoszenia jedzenia nie spowoduje już jego zjedzenia zamiast upuszczenia.</PS_DisableDoubleClickEatDesc>
+    <PS_WorkSpeedMultiplier>Współczynnik szybkości pracy: {0}</PS_WorkSpeedMultiplier>
+    <PS_StatPart_AvatarWorkSpeed>Bezpośrednia regulacja prędkości roboczej</PS_StatPart_AvatarWorkSpeed>
+    <PS_FullyRested>Jesteś w pełni wypoczęty.</PS_FullyRested>
+    <PS_NeedRanOut>Twoja potrzeba {1} osiągneła najniższy poziom.</PS_NeedRanOut>
+    <PS_NeedRanOut_Food>Umierasz z głodu.</PS_NeedRanOut_Food>
+    <PS_NeedRanOut_Rest>Potrzebujesz odpocząć.</PS_NeedRanOut_Rest>
+    <PS_NeedRanOut_Mood>Przechodzisz załamanie nerwowe.</PS_NeedRanOut_Mood>
+    <PS_NeedRanOut_Comfort>Czujsz sie bardzo niekomfortowo.</PS_NeedRanOut_Comfort>
+    <PS_NeedRanOut_Joy>Czujesz sie strasznie znudzony.</PS_NeedRanOut_Joy>
+    <PS_CannotDropOnBlueprint>Nie można umieścić tutaj: projekt nie wymaga tego materiału.</PS_CannotDropOnBlueprint>
+    <PS_Kidnapped>{PAWN_nameDef} został porawny.</PS_Kidnapped>
+    <PS_LostToFaction>{PAWN_nameDef} już nie jest pod twoją kontrolą.</PS_LostToFaction>
+    <PS_CannotSprintExhausted>Jesteś zbyt wyczerpany, aby sprintować</PS_CannotSprintExhausted>
+    <PS_HoldingPlatformOccupied>To miejsce jest już zajęte.</PS_HoldingPlatformOccupied>
+    <PS_CannotCaptureEntity>Tego obiektu nie można przenieść na platformę przechowawczą.</PS_CannotCaptureEntity>
+    <PS_StartFishing>Zacznij łowić ryby</PS_StartFishing>
+    <PS_FishingNeedsResearch>wymaga {0}</PS_FishingNeedsResearch>
+    <PS_FishingIncapable>nie zdolny do łowienia ryb</PS_FishingIncapable>
+    <PS_MineCursor>Krusor Kilofa</PS_MineCursor>
+    <PS_MineCursorDesc>Po najechaniu kursorem na skałę lub ścianę, którą postać może wydobyć, kursor zmienia się w kilof.</PS_MineCursorDesc>
+    <PS_SmoothCursor>Płynny kursor</PS_SmoothCursor>
+    <PS_SmoothCursorDesc>Wyświetlaj kursor po najechaniu kursorem myszy na ścianę oznaczoną do wygładzenia, którą twoja postać może wygładzić w tej chwili. Ma pierwszeństwo przed kursorem miny na tej ścianie. Wyświetla się tylko wtedy, gdy twojej postaci przypisano pracę "Budowniczy"</PS_SmoothCursorDesc>
+    <PS_ChunkWorkoutLift>Podnieść {0}</PS_ChunkWorkoutLift>
+    <PS_ChunkWorkoutPress>Wyciskanie nad głową {0}</PS_ChunkWorkoutPress>
+    <PS_ChunkWorkoutSquat>Przysiady z {0}</PS_ChunkWorkoutSquat>
+    <PS_ChunkWorkoutTooTired>zbyt zmęczony</PS_ChunkWorkoutTooTired>
+    <PS_ChunkWorkoutExhausted>już wystarczająco wyćwiczyłem</PS_ChunkWorkoutExhausted>
+    <PS_ResetToDefault>Resetuj do domyślnych...</PS_ResetToDefault>
+    <PS_ResetThisTab>Resetuj zakładkę {0}</PS_ResetThisTab>
+    <PS_ResetAll>Zresetuj wszystkie ustawienia</PS_ResetAll>
+    <PS_ResetAllConfirm>Zresetować wszystkie ustawienia Perspective Shift wracając do ich domyślnych wartości?</PS_ResetAllConfirm>
+    <PS_TabCamera>Kamera</PS_TabCamera>
+    <PS_TabInteraction>Interakcja</PS_TabInteraction>
+    <PS_TabCursors>Kursory</PS_TabCursors>
+    <PS_TabMovement>Ruch</PS_TabMovement>
+    <PS_TabInterface>Interfejs</PS_TabInterface>
+    <PS_TabGameplay>Rozgrywka</PS_TabGameplay>
+    <PS_BuildCursor>Kursor młotka</PS_BuildCursor>
+    <PS_BuildCursorDesc>Po najechaniu kursorem na ramkę konstrukcyjną, w której znajdują się wszystkie materiały, kursor zmienia się w młotek.</PS_BuildCursorDesc>
+    <PS_ChopCursor>Kursor siekiery</PS_ChopCursor>
+    <PS_ChopCursorDesc>Po najechaniu kursorem na drzewo, które twoja postać może ściąć, kursor zmienia się w siekierę.</PS_ChopCursorDesc>
+    <PS_HarvestCursor>Kursor sierpa</PS_HarvestCursor>
+    <PS_HarvestCursorDesc>Po najechaniu kursorem na roślinę, którą twoja postać może zebrać, kursor zmienia się w sierp.</PS_HarvestCursorDesc>
+    <PS_CutCursor>Kursor kosy</PS_CutCursor>
+    <PS_CutCursorDesc>Wyświetl kursor w kształcie kosy, gdy przytrzymanie lewego przycisku myszy spowodowałoby ścięcie rośliny zaznaczonej do ścięcia.</PS_CutCursorDesc>
+    <PS_PlantCursor>Kursor rośliny</PS_PlantCursor>
+    <PS_PlantCursorDesc>Wyświetlaj kursor po najechaniu kursorem na strefę uprawy, zbiornik do uprawy hydroponicznej lub komórkę doniczki, w której twoja postać mogłaby właśnie zasiać nasiona. Wyświetla się tylko wtedy, gdy twojej postaci przypisano rolę "Rolnik".</PS_PlantCursorDesc>
+    <PS_PlowCursor>Kursor pługa</PS_PlowCursor>
+    <PS_PlowCursorDesc>Wyświetlaj kursor po najechaniu kursorem na śnieg lub piasek w obszarze, który twoja postać może w tej chwili oczyścić. Wyświetla się tylko wtedy, gdy twojej postaci przypisano rolę "Sprzątacz".</PS_PlowCursorDesc>
+    <PS_TraverseCursor>Kursor przemieszczenia</PS_TraverseCursor>
+    <PS_TraverseCursorDesc>w jaki sposób kursor, pojawiający się po najechaniu na schody, drabiny lub windę, pozwala koloniście zmienić poziom. Wymaga moda "As above, So below II".</PS_TraverseCursorDesc>
+    <PS_ReloadCursors>Kursor przeładowania</PS_ReloadCursors>
+    <PS_ReloadCursorsDesc>Wyświetlaj kursor w kształcie strzałki, naboju lub ładunku po najechaniu kursorem na budynek zaopatrzeniowy, w którym można doładować broń wyposażoną przez koloniste. Wymaga moda "Progression: Ammunition".</PS_ReloadCursorsDesc>
+    <PS_OpenCursor>Kursor otwierania</PS_OpenCursor>
+    <PS_OpenCursorDesc>Sw jaki sposób kursor, po najechaniu na obiekt, który awatar może otworzyć, np. skrzynię, trumnę lub zakopany grób, może to umożliwić.</PS_OpenCursorDesc>
+    <PS_LaunchCursor>Kursor pilota</PS_LaunchCursor>
+    <PS_LaunchCursorDesc>Zmienia położenie kursora po najechaniu na konsolę pilota, z której twoja postać mogłaby wystrzelić statek grawitacyjny. Element ten jest ukryty, gdy statek grawitacyjny nie może wystartować, na przykład z powodu braku paliwa lub zablokowanych silników.</PS_LaunchCursorDesc>
+    <PS_SleepCursor>Kursor spania</PS_SleepCursor>
+    <PS_SleepCursorDesc>Przenosi kursor, gdy najedziesz myszką na łóżko, w którym twoja postać mogłaby się przespać. Element jest ukryty, gdy postać już odpoczywa.</PS_SleepCursorDesc>
+    <PS_RecreationCursor>Kursor rekreacji</PS_RecreationCursor>
+    <PS_RecreationCursorDesc>Wyświetlaj kursor po najechaniu kursorem na obiekt rekreacyjny, z którego może korzystać kolonista, np. stół do szachów lub bilardu. W przypadku obiektów, które można oglądać, np. telewizora, wyświetlaj kursor, gdy kolonista stoi w miejscu, z którego może je oglądać.</PS_RecreationCursorDesc>
+    <PS_ResearchCursor>Kursor badań</PS_ResearchCursor>
+    <PS_ResearchCursorDesc>Przenosi kursor, gdy najedziesz myszką na stół badawczy, przy którym twoja postać mogłaby pracować. Element ten jest ukryty, gdy już prowadzisz badania.</PS_ResearchCursorDesc>
+    <PS_CookCursor>Kursor gotowania</PS_CookCursor>
+    <PS_CookCursorDesc>Wyświetlaj kursor po najechaniu kursorem na kuchenkę lub ognisko, gdzie kliknięcie spowodowałoby rozpoczęcie gotowania. Kursor pojawia się tylko wtedy, gdy przepis jest gotowy, składniki są w zasięgu ręki, a twoja postać posiada umiejętność Gotowania. Gdy nosisz składnik, kursor wskazuje również miejsce, w którym kliknięcie spowodowałoby upuszczenie go i rozpoczęcie gotowania.</PS_CookCursorDesc>
+    <PS_ButcherCursor>Kursor rzeźnika</PS_ButcherCursor>
+    <PS_ButcherCursorDesc>Wyświetlaj kursor po najechaniu kursorem na stół rzeźniczy lub miejsce, w którym kliknięcie spowodowałoby rozpoczęcie rozbioru. Kursor pojawia się tylko wtedy, gdy zlecenie rozbioru jest gotowe, zwłoki znajdują się w zasięgu i twoja postać posiada umiejętność Gotowania. Podczas przenoszenia zwłok kursor wskazuje również miejsce, w którym kliknięcie spowodowałoby ich upuszczenie i rozpoczęcie rozbioru.</PS_ButcherCursorDesc>
+    <PS_StonecuttingCursor>Kursor kamieniarstwa</PS_StonecuttingCursor>
+    <PS_StonecuttingCursorDesc>Wyświetlaj kursor po najechaniu kursorem na stół kamieniarza, gdzie kliknięcie spowodowałoby rozpoczęcie cięcia bloków kamienia. Kursor pojawia się tylko wtedy, gdy gotowy jest projekt cięcia kamienia, w zasięgu znajduje się kawałek kamienia, a twoja postać ma przypisaną rolę "rzemieślnika". Gdy nosisz kawałek kamienia, kursor wskazuje również miejsce, w którym kliknięcie spowodowałoby upuszczenie go i rozpoczęcie cięcia.</PS_StonecuttingCursorDesc>
+    <PS_BrewCursor>Kursor warzenia</PS_BrewCursor>
+    <PS_BrewCursorDesc>Wyświetlaj kursor po najechaniu kursorem na browar, w którym kliknięcie spowodowałoby rozpoczęcie warzenia piwa. Kursor pojawia się tylko wtedy, gdy receptura warzenia jest gotowa, składniki są w zasięgu ręki, a twoja postać posiada umiejętność "Gotowanie". Gdy nosisz składnik, kursor wskazuje również miejsce, w którym kliknięcie spowodowałoby jego upuszczenie i rozpoczęcie warzenia.</PS_BrewCursorDesc>
+    <PS_SmeltCursor>Kursor przetapiania</PS_SmeltCursor>
+    <PS_SmeltCursorDesc>Wyświetlaj kursor po najechaniu kursorem na piec, w którym kliknięcie spowodowałoby rozpoczęcie przetapiania. Kursor pojawia się tylko wtedy, gdy receptura przetapiania jest gotowa, przedmiot do przetapienia znajduje się w zasięgu, a twoja postać ma przypisaną umiejętność "Rzemieślnictwo". Gdy nosisz przedmiot do przetapienia, kursor wskazuje również miejsce, w którym kliknięcie spowodowałoby upuszczenie go i rozpoczęcie przetapiania.</PS_SmeltCursorDesc>
+    <PS_TailorCursor>Kursor krwaca</PS_TailorCursor>
+    <PS_TailorCursorDesc>Wyświetlaj kursor po najechaniu kursorem myszy na stół krawiecki, gdzie kliknięcie spowodowałoby rozpoczęcie szycia. Kursor pojawia się tylko wtedy, gdy zlecenie krawieckie jest gotowe, materiały znajdują się w zasięgu ręki, a postać posiada przypisaną rolę "Krawca". Podczas przenoszenia materiałów kursor wskazuje również miejsce, w którym kliknięcie spowodowałoby ich upuszczenie i rozpoczęcie szycia.</PS_TailorCursorDesc>
+    <PS_TameCursor>Kursor oswajania</PS_TameCursor>
+    <PS_TameCursorDesc>Wyświetlaj kursor po najechaniu kursorem na zwierzę oznaczone do oswojenia, które twoja postać może oswoić w tej chwili. Wyświetla się tylko wtedy, gdy twoja postać posiada umiejętność "Zwierzęcych", a odpowiedni pokarm znajduje się przy niej lub w zasięgu ręki.</PS_TameCursorDesc>
+    <PS_SlaughterCursor>Kursor uboju</PS_SlaughterCursor>
+    <PS_SlaughterCursorDesc>Jak wygląda kursor po najechaniu na zwierzę przeznaczone do uboju, które twoja postać mogłaby zabić w tej chwili. Wyświetla się tylko wtedy, gdy twoja postać posiada role "Treser".</PS_SlaughterCursorDesc>
+    <PS_ReleaseToWildCursor>Kursor wypuszczenia na wolność</PS_ReleaseToWildCursor>
+    <PS_ReleaseToWildCursorDesc>Wyświetlaj kursor po najechaniu kursorem na zwierzę oznaczone do wypuszczenia, które twoja postać mogłaby w tej chwili wypuścić na wolność. Wyświetla się tylko wtedy, gdy twoja postać posiada rolę "Treser".</PS_ReleaseToWildCursorDesc>
+    <PS_RoofCursor>Kursor sufitu</PS_RoofCursor>
+    <PS_RoofCursorDesc>Zmienia położenie kursora po najechaniu na komórkę oznaczoną jako przeznaczona do pokrycia dachowego, którą twoja postać mogłaby pokryć.</PS_RoofCursorDesc>
+    <PS_FishingMinigame>Minigra łowienia ryb</PS_FishingMinigame>
+    <PS_FishingMinigameDesc>Zastępuje strefy wędkarskie interaktywną minigrą. Kliknij prawym przyciskiem myszy dowolny akwen, w którym można łowić, aby twoja postać zarzuciła wędkę, poczekaj na branie, a następnie wyciągnij rybę. Gdy ta opcja jest włączona, sterowana postać nie może już automatycznie łowić ryb.</PS_FishingMinigameDesc>
+    <PS_FishingMinigameTitle>Wyciągnąć</PS_FishingMinigameTitle>
+    <PS_FishingHit>TRAFIONO!</PS_FishingHit>
+    <PS_FishingLanded>Złapano!</PS_FishingLanded>
+    <PS_FishingReelHint>Przytrzymaj LPM</PS_FishingReelHint>
+    <PS_FishingEscaped>Uciekła.</PS_FishingEscaped>
+    <PS_FishingEscapedMessage>Zdobycz zsunęła się z linki.</PS_FishingEscapedMessage>
+    <PS_FishingCaught>Złapano {0}.</PS_FishingCaught>
+    <PS_FishingNothingBiting>Nic tu nie gryzie.</PS_FishingNothingBiting>
+</LanguageData>

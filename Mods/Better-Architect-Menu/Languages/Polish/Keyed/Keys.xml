@@ -1,0 +1,61 @@
+<LanguageData>
+    <BA.Free>Za darmo</BA.Free>
+    <BA.GroupByTechLevel>Pogrupuj według poziomu zaawansowania technicznego</BA.GroupByTechLevel>
+    <BA.MenuHeight>Wysokość menu</BA.MenuHeight>
+    <BA.HideOnSelection>Ukryj po wybraniu budynku</BA.HideOnSelection>
+    <BA.HideOnSelectionTooltip>Po zaznaczeniu elementu „Budynek” menu ma zostać całkowicie ukryte.</BA.HideOnSelectionTooltip>
+    <BA.RememberSubcategory>Zapamiętaj podkategorie</BA.RememberSubcategory>
+    <BA.RememberSubcategoryTooltip>Po włączeniu mod zapamiętuje ostatnio wybraną podkategorię dla każdej kategorii głównej. Po wyłączeniu domyślnie wybierana jest zawsze pierwszapodkategoria.</BA.RememberSubcategoryTooltip>
+    <BA.UseSpecialFloorsTab>Użyj niestandardowego menu podłogowego</BA.UseSpecialFloorsTab>
+    <BA.UseSpecialFloorsTabTooltip>Czy w menu należy zastosować podkategorie dla każdego materiału, czy też podzielić je w sposób bardziej ogólny. (WIP)</BA.UseSpecialFloorsTabTooltip>
+    <BA.Default>Domyślnie</BA.Default>
+    <BA.Label>Alfabetycznie</BA.Label>
+    <BA.Beauty>Piękno</BA.Beauty>
+    <BA.Comfort>Komfort</BA.Comfort>
+    <BA.Value>Wartość rynkowa</BA.Value>
+    <BA.WorkToBuild>Nakład pracy</BA.WorkToBuild>
+    <BA.Health>Punkty zdrowia</BA.Health>
+    <BA.Cleanliness>Czystość</BA.Cleanliness>
+    <BA.SkillRequired>Wymagana zdolność</BA.SkillRequired>
+    <BA.Flammability>Palność</BA.Flammability>
+    <BA.CoverEffectiveness>Skuteczność osłony</BA.CoverEffectiveness>
+    <BA.MaxPowerOutput>Maksymalna moc wyjściowa</BA.MaxPowerOutput>
+    <BA.PowerConsumption>Zużycie energii</BA.PowerConsumption>
+    <BA.RecreationPower>Moc rekreacji</BA.RecreationPower>
+    <BA.MoveSpeed>Prędkość ruchu</BA.MoveSpeed>
+    <BA.TotalStorageCapacity>Całkowita pojemność magazynu</BA.TotalStorageCapacity>
+    <BA.DoorOpeningSpeed>Prędkość otwierania drzwi</BA.DoorOpeningSpeed>
+    <BA.WorkSpeedFactor>Współczynnik prędkości pracy</BA.WorkSpeedFactor>
+    <BA.More>Inne</BA.More>
+    <BA.BackgroundAlpha>Przezroczystość tła</BA.BackgroundAlpha>
+    <BA.NothingAvailableToBuild>Na razie nie ma jeszcze nic, z czego można by coś zbudować.</BA.NothingAvailableToBuild>
+    <BA.LoadingLabel>Ładowanie Better Architect ...</BA.LoadingLabel>
+    <BA.SettingsIntro>Opcjonalne narzędzia trybu edycji służące do dostosowywania kategorii nadrzędnych i podrzędnych oraz układu oznaczeń.</BA.SettingsIntro>
+    <BA.EditModeToggleTooltip>Przełącz Tryb Edytowania</BA.EditModeToggleTooltip>
+    <BA.SkipParentCategoriesTitle>Wyświetlanie kategorii nadrzędnej</BA.SkipParentCategoriesTitle>
+    <BA.SkipParentCategoriesDesc>Zaznaczone kategorie nadrzędne są widoczne. Odznacz, aby ukryć je w zakładkach „Architekt”.</BA.SkipParentCategoriesDesc>
+    <BA.OpenParentVisibility>Edytuj widoczność kategorii nadrzędnej</BA.OpenParentVisibility>
+    <BA.ResetAll>Zresetuj wszystkie nadpisania w trybie edycji</BA.ResetAll>
+    <BA.ResetAllComplete>Wszystkie ustawienia w trybie edycji zostały zresetowane</BA.ResetAllComplete>
+    <BA.TooltipAddCategoryToParent>Dodaj kategorię do tej nadrzędnej</BA.TooltipAddCategoryToParent>
+    <BA.TooltipRemoveSelectedChildCategory>Usuń wybraną kategorię podrzędną</BA.TooltipRemoveSelectedChildCategory>
+    <BA.TooltipResetCategoriesForParent>Zresetuj kategorie dla tej kategorii nadrzędnej</BA.TooltipResetCategoriesForParent>
+    <BA.TooltipResetDesignatorsForSelectedCategory>Zresetuj nadpisania oznaczeń dla wybranej kategorii</BA.TooltipResetDesignatorsForSelectedCategory>
+    <BA.CategoryOptionFormat>{0} ({1})</BA.CategoryOptionFormat>
+    <BA.NoCategoriesAvailable>Brak dostępnych kategorii</BA.NoCategoriesAvailable>
+    <BA.TooltipAddBuildableOrSpecialDesignator>Dodaj oznaczenie elementu konstrukcyjnego lub specjalnego</BA.TooltipAddBuildableOrSpecialDesignator>
+    <BA.TooltipRemoveDesignator>Usuń oznaczenie</BA.TooltipRemoveDesignator>
+    <BA.AddBuildable>Dodaj element konstrukcyjny</BA.AddBuildable>
+    <BA.AddBuildableTitle>Dodaj element konstrukcyjny</BA.AddBuildableTitle>
+    <BA.AddSpecialDesignator>Dodaj specjalne oznaczenie</BA.AddSpecialDesignator>
+    <BA.AddSpecialDesignatorTitle>Dodaj specjalne oznaczenie</BA.AddSpecialDesignatorTitle>
+    <BA.SearchShowing>Wyświetlono {0} / {1}</BA.SearchShowing>
+    <BA.Close>Zamknij</BA.Close>
+    <BA.MysteryUnlocks>Tajemnicze odblokowanie</BA.MysteryUnlocks>
+    <BA.MysteryUnlocksTooltip>Budynki odblokowane w wyniku badań pojawiają się w menu architekta w formie prezentów. Kliknij jeden z nich, aby go odsłonić.</BA.MysteryUnlocksTooltip>
+    <BA.ClickToReveal>Kliknij, aby odkryć</BA.ClickToReveal>
+    <BA.NewUnlockBadge>NOWOŚĆ</BA.NewUnlockBadge>
+    <BA.RevealAll>Odkryj wszystkie ({0})</BA.RevealAll>
+    <BA.DebugShowUiOrder>Debug: wyświetl kolejność elementów UI</BA.DebugShowUiOrder>
+    <BA.DebugShowUiOrderTooltip>Rysuje kolejność wyświetlania (uiOrder) każdego oznacznika na jego ikonie w menu architekta. Służy do debugowania sortowania oznaczników i tworzenia poprawek uiOrder.</BA.DebugShowUiOrderTooltip>
+</LanguageData>

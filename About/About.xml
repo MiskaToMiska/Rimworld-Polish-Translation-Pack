@@ -1,0 +1,15 @@
+<ModMetaData>
+  <name>Polish Translation Pack for Mods</name>
+  <packageId>misek.pltranslationpack</packageId>
+  <author>Misek</author>
+  <url />
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Paczka spolszczonych tłumaczeń dla modów</description>
+  <loadAfter>
+    <li>dracoix.doormat.r12a</li>
+    <li>ferny.BetterArchitect</li>
+    <li>ferny.perspectiveshift</li>
+  </loadAfter>
+</ModMetaData>

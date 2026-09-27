@@ -1,0 +1,15 @@
+<LanguageData>
+    <PS_Controls.label>Perspective Shift</PS_Controls.label>
+    <PS_Controls.description>Elementy sterujące do bezpośredniego sterowania postacią.</PS_Controls.description>
+    <PS_MoveForward.label>Ruch do przodu</PS_MoveForward.label>
+    <PS_MoveBack.label>Ruch do tyłu</PS_MoveBack.label>
+    <PS_MoveLeft.label>Ruch w lewo</PS_MoveLeft.label>
+    <PS_MoveRight.label>Ruch w prawo</PS_MoveRight.label>
+    <PS_Sprint.label>Sprint</PS_Sprint.label>
+    <PS_Walk.label>Chodzenie</PS_Walk.label>
+    <PS_OpenGearTab.label>Otwórz zakładkę "Sprzęt"</PS_OpenGearTab.label>
+    <PS_HealthTab.label>Otwórz zakładkę "Zdrowie"</PS_HealthTab.label>
+    <PS_NeedsTab.label>Otwórz zakładkę "Potrzeby"</PS_NeedsTab.label>
+    <PS_EatFood.label>Zjedz posiłek</PS_EatFood.label>
+    <PS_DoRecreation.label>Zajmij się rekreacją</PS_DoRecreation.label>
+</LanguageData>
