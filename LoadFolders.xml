@@ -10,5 +10,6 @@
     <li IfModActive="sbz.neatstoragefridge">Mods/Neat-Fridge</li>
     <li IfModActive="mlie.xndmemorableauroras">Mods/xnd-memorable-auroras</li>
     <li IfModActive="overpl.animalsarcophagus">Mods/animal-sarcophagus</li>
+    <li IfModActive="gt.sam.basicdoubledoors">Mods/basic-double-doors</li>
   </v1.6>
 </loadFolders>

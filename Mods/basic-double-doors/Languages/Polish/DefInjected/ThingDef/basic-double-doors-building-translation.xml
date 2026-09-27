@@ -1,0 +1,6 @@
+<LanguageData>
+    <BDD_DoubleDoor.label>Podwójne drzwi</BDD_DoubleDoor.label>
+    <BDD_DoubleDoor.description>Oddzielają pomieszczenia. Proste drzwi dwuskrzydłowe trzeba otwierać ręcznie, co spowalnia ludzi. Stopień spowolnienia zależy od materiału, z którego wykonane są drzwi.</BDD_DoubleDoor.description>
+    <BDD_AutoDoor.label>Podwójne drzwi automatyczne</BDD_AutoDoor.label>
+    <BDD_AutoDoor.description>Oddzielają pomieszczenia. Proste drzwi dwuskrzydłowe trzeba otwierać ręcznie, co spowalnia ludzi. Stopień spowolnienia zależy od materiału, z którego wykonane są drzwi</BDD_AutoDoor.description>
+</LanguageData>
