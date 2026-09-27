@@ -7,5 +7,6 @@
     <li IfModActive="ferny.noderesearch">Mods/Node-Research</li>
     <li IfModActive="ferny.perspectiveshift">Mods/Perspective-Shift</li>
     <li IfModActive="sbz.neatstorage">Mods/Neat-Storage</li>
+    <li IfModActive="sbz.neatstoragefridge">Mods/Neat-Fridge</li>
   </v1.6>
 </loadFolders>
