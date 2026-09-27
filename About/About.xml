@@ -10,6 +10,7 @@
   <loadAfter>
     <li>dracoix.doormat.r12a</li>
     <li>sbz.neatstorage</li>
+    <li>sbz.neatstoragefridge</li>
     <li>ferny.BetterArchitect</li>
     <li>ferny.perspectiveshift</li>
     <li>ferny.noderesearch</li>
