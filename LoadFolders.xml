@@ -18,5 +18,6 @@
     <li IfModActive="haplo.miscellaneous.training">Mods/misc-training</li>
     <li IfModActive="inglix.widermarriagespot">Mods/wider-marriage-spot</li>
     <li IfModActive="animal.bedsnew">Mods/more-animal-beds</li>
+    <li IfModActive="ferny.progressiondrugs">Mods/progression-drugs</li>
   </v1.6>
 </loadFolders>
