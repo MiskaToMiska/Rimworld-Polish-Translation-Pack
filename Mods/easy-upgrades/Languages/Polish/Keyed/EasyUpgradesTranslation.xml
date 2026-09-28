@@ -1,0 +1,72 @@
+<LanguageData>
+    <EU.Upgrade>Ulepsz</EU.Upgrade>
+    <EU.UpgradeOfAll>Ulepsz wszystkie zaznaczone przedmioty</EU.UpgradeOfAll>
+    <EU.UpgradeTooltip>Zaznacz przedmioty, które można ulepszyć, aby je ulepszyć</EU.UpgradeTooltip>
+    <EU.Downgrade>Obniż poziom</EU.Downgrade>
+    <EU.MustDesignateUpgradeableThing>Należy wybrać przedmioty, które można ulepszyć</EU.MustDesignateUpgradeableThing>
+    <EU.MustDesignateItemOfQuality>Należy wybrać przedmioty o określonej jakości</EU.MustDesignateItemOfQuality>
+    <EU.IncreaseQuality>Podnieś jakość</EU.IncreaseQuality>
+    <EU.IncreaseQualityOfAll>Podnieś jakość wszystkich przedmiotów</EU.IncreaseQualityOfAll>
+    <EU.IncreaseQualityTooltip>Spróbuj podnieść jakość przedmiotów</EU.IncreaseQualityTooltip>
+    <EU.TryIncreaseQualityTooltip>Próba podniesienia jakości tego przedmiotu</EU.TryIncreaseQualityTooltip>
+    <EU.IncreaseQualityCost>Koszt: {0}</EU.IncreaseQualityCost>
+    <EU.DecreaseQualityReturn>Zwrot: {0}</EU.DecreaseQualityReturn>
+    <EU.CannotIncreaseLegendaryQuality>Nie można podnieść jakości przedmiotu legendarnego!</EU.CannotIncreaseLegendaryQuality>
+    <EU.CannotIncreaseQuality>
+    Nie można podnieść jakości tego przedmiotu, jakość jest już zbyt wysoka!
+    </EU.CannotIncreaseQuality>
+    <EU.TryIncreaseQualityTooltipWithChance>
+    Spróbuj podnieść jakość tego przedmiotu ({0}% szansy)
+    </EU.TryIncreaseQualityTooltipWithChance>
+    <EU.LackingQualityResource>brakuje surowca ({0})</EU.LackingQualityResource>
+    <EU.MissingWorkStation>brakuje wymaganej stacji roboczej ({0})</EU.MissingWorkStation>
+    <EU.WorkTypeDisabled>nigdy nie wykona {0}</EU.WorkTypeDisabled>
+    <EU.WorkTypeNotAssigned>nie przypisano do {0}</EU.WorkTypeNotAssigned>
+    <EU.IncreaseQualityMessage_Success>
+    {0} osiągnął(a) sukces i podniósł(a) jakość przedmiotu {1}! ({2} szansy na sukces)
+    </EU.IncreaseQualityMessage_Success>
+    <EU.IncreaseQualityMessage_Fail>
+    {0} nie powiodło się i obniżyło jakość {1}! ({2} szansy na sukces)
+    </EU.IncreaseQualityMessage_Fail>
+    <EU.IncreaseQualityMessage_Neutral>
+    {0} próbował podnieść jakość na {1}, ale udało mu się jedynie nieco go naprawić. ({2} szansa na sukces)
+    </EU.IncreaseQualityMessage_Neutral>
+    <EU.IncreaseQualityMessage_Neutral_NoRepair>
+    {0} próbował(a) podnieść jakość na {1}, ale nie udało mu się to. ({2} szansa na sukces)
+    </EU.IncreaseQualityMessage_Neutral_NoRepair>
+    <EU.UnresearchedError>
+    Nie masz ukończonych badań wymaganych do wykonania tej czynności ({0})
+    </EU.UnresearchedError>
+    <EU.LackingResourcesError_1>brakuje zasobów wymaganych do ulepszenia ({0})</EU.LackingResourcesError_1>
+    <EU.LackingResourcesError_2>brakuje zasobów niezbędnych do ulepszenia ({0}, {1})</EU.LackingResourcesError_2>
+    <EU.UpgradeStove>Ulepsz to do kuchenki elektrycznej</EU.UpgradeStove>
+    <EU.DowngradeStove>Obniż poziom do pieca opalanego</EU.DowngradeStove>
+    <EU.UpgradeSmithy>Ulepsz to do kuźni elektrycznej</EU.UpgradeSmithy>
+    <EU.DowngradeSmithy>Obniż poziom do kuźni opalanej</EU.DowngradeSmithy>
+    <EU.UpgradeTailoringBench>Ulepsz to do elektrycznego stołu krawieckiego</EU.UpgradeTailoringBench>
+    <EU.DowngradeTailoringBench>Obniż poziom do ręcznego stołu krawieckiego</EU.DowngradeTailoringBench>
+    <EU.UpgradeGenerator>Ulepsz do generatora na chem-paliwo</EU.UpgradeGenerator>
+    <EU.DowngradeGenerator>Obniż poziom do generatora na drewno</EU.DowngradeGenerator>
+    <EU.UpgradeDoor>Ulepsz do drzwi automatycznych</EU.UpgradeDoor>
+    <EU.DowngradeDoor>Zmień to na zwykłe drzwi</EU.DowngradeDoor>
+    <EU.UpgradeStool>Ulepsz to na krzesło</EU.UpgradeStool>
+    <EU.DowngradeDiningChair>Zmień to na stołek</EU.DowngradeDiningChair>
+    <EU.Settings.CurrentModVersion>Zainstalowana wersja modyfikacji: {0}</EU.Settings.CurrentModVersion>
+    <EU.Settings.Title>Ustawienia Easy Upgrades</EU.Settings.Title>
+    <EU.Settings.SuccessTitle>Podstawowa szansa na sukces</EU.Settings.SuccessTitle>
+    <EU.Settings.FailTitle>Podstawowa szansa na porażkę</EU.Settings.FailTitle>
+    <EU.Settings.MaterialsTitle>Współczynnik materiałów</EU.Settings.MaterialsTitle>
+    <EU.Settings.IncreaseItemQualityTooltip>
+    Podstawowa szansa na podwyższenie jakości przedmiotu z {0} do {1}.\n\nWartość ta jest modyfikowana przez umiejętność postaci – na poziomie umiejętności {2} będzie to szansa na sukces; poniżej poziomu {2} szansa będzie niższa, a powyżej – wyższa.
+    </EU.Settings.IncreaseItemQualityTooltip>
+    <EU.Settings.DecreaseItemQualityTooltip>
+    Podstawowa szansa na obniżenie jakości przedmiotu z {0} do {1}.\n\nWartość ta zależy od umiejętności postaci.
+    </EU.Settings.DecreaseItemQualityTooltip>
+    <EU.Settings.MaxQuality>Maksymalna jakość: {0}</EU.Settings.MaxQuality>
+    <EU.Settings.MaxQualityTooltip>Maksymalna jakość, jaką może zapewnić dowolne ulepszenie</EU.Settings.MaxQualityTooltip>
+    <EU.Settings.XtoY>Od {0} do {1}: {2}</EU.Settings.XtoY> 
+    <EU.Settings.MaterialsNeededFor>dla jakości {0}: {1}</EU.Settings.MaterialsNeededFor>
+    <EU.Settings.MaterialsNeededTooltip>
+    Ilość materiałów, które należy zebrać w stosunku do pierwotnego kosztu surowcowego przedmiotu.\n\nNa przykład, jeśli do wytworzenia przedmiotu potrzeba 100 jednostek drewna, a ta wartość wynosi 0,1, to do zadania podniesienia jakości przy obecnym poziomie jakości przedmiotu zużyte zostanie 10 jednostek drewna.
+    </EU.Settings.MaterialsNeededTooltip>
+</LanguageData>

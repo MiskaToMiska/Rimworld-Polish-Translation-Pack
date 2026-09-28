@@ -1,0 +1,8 @@
+<LanguageData>
+    <UpgradeThing.label>ulepsz wybrany przedmiot do jego zautomatyzowanej wersji</UpgradeThing.label>
+    <DowngradeThing.label>obniż poziom wybranego przedmiotu do jego niezautomatyzowanej wersji</DowngradeThing.label>
+    <IncreaseQuality_Building.label>spróba podniesienia jakości tego budynku</IncreaseQuality_Building.label>
+    <IncreaseQuality_Apparel.label>próba podniesienia jakości tego przedmiotu</IncreaseQuality_Apparel.label>
+    <IncreaseQuality_Item.label>próba podniesienia jakości tego przedmiotu</IncreaseQuality_Item.label>
+    <IncreaseQuality_Art.label>próba podniesienia jakości tego przedmiotu</IncreaseQuality_Art.label>
+</LanguageData>
