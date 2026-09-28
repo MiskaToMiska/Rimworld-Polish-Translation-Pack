@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData> 
+	<PUAH.allowCorpses>Pozwalaj wkładać zwłoki do ekwipunku</PUAH.allowCorpses> 
+	<PUAH.allowCorpsesTooltip> Domyślnie wyłączone. Zwłoki będą przenoszone wyłącznie bezpośrednio w rękach. </PUAH.allowCorpsesTooltip> 
+	<PUAH.allowAnimals>Pozwalaj oswojonym zwierzętom jucznym używać ekwipunku do znoszenia</PUAH.allowAnimals> 
+	<PUAH.allowAnimalsTooltip> Domyślnie włączone. Najlepiej działa z modami, które dają większej liczbie zwierząt plecaki, takimi jak VFME Caravan Packs. </PUAH.allowAnimalsTooltip> 
+	<PUAH.allowMechanoids>Pozwalaj zhakowanym mechanoidom używać ekwipunku do znoszenia</PUAH.allowMechanoids>
+	<PUAH.allowMechanoidsTooltip> Wymaga What The Hack lub podobnego moda. Domyślnie włączone. </PUAH.allowMechanoidsTooltip> 
+	<PUAH.minimumFreeInventorySpace>Minimalna ilość wolnego miejsca w ekwipunku wymagana do znoszenia</PUAH.minimumFreeInventorySpace> 
+	<PUAH.minimumFreeInventorySpaceTooltip> Postacie z mniejszą ilością wolnego miejsca niż określono będą korzystać ze zwykłego mechanizmu przenoszenia. 0% oznacza, że zawsze będą próbować znosić przedmioty do ekwipunku, nawet jeśli nie mają miejsca na więcej niż jednego ziemniaka. 100% oznacza, że pion musi mieć całkowicie pusty ekwipunek. Domyślnie: 20%. </PUAH.minimumFreeInventorySpaceTooltip> 
+</LanguageData>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData> 
+  <HaulToInventory.label>Wkładanie rzeczy do ekwipunku i znoszenie</HaulToInventory.label> <HaulToInventory.verb>znoś</HaulToInventory.verb> 
+  <HaulToInventory.gerund>znoszenie</HaulToInventory.gerund> 
+</LanguageData>
