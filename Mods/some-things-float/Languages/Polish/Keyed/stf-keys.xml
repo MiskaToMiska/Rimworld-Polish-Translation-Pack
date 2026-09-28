@@ -1,0 +1,144 @@
+<LanguageData>
+<STF.VerboseLogging>Szczegółowe logowanie</STF.VerboseLogging>
+<STF.DebugLogging>Logowanie debugowania</STF.DebugLogging>
+<STF.Reset>Resetuj</STF.Reset>
+<STF.VerboseLoggingTT>
+W celu uzyskania nieco więcej informacji; może służyć do ustalenia przyczyny problemów.
+</STF.VerboseLoggingTT>
+<STF.DebugLoggingTT>
+Rejestruje wszystko; ta opcja jest przydatna głównie podczas tworzenia modyfikacji
+</STF.DebugLoggingTT>
+<STF.NoNotifications>Brak powiadomień</STF.NoNotifications>
+<STF.NoNotificationsTT>
+Nie wyświetlaj żadnych powiadomień o zdarzeniach w tym modzie
+</STF.NoNotificationsTT>
+<STF.ForbidWhenMoving>Zabrania opuszczania magazynu</STF.ForbidWhenMoving>
+<STF.ForbidWhenMovingTT>
+Zablokuje każdy przedmiot, który odpłynie z magazynu, w którym jest on dozwolony. Zapobiegnie to ciągłym próbom zwracania przez postacie przedmiotów, które odpłynęły.
+</STF.ForbidWhenMovingTT>
+<STF.RelativeFloatSpeed>Względna prędkość dryfowania {0}</STF.RelativeFloatSpeed>
+<STF.RelativeFloatSpeedTT>
+Mniejsza prędkość dryfowania spowoduje rzadsze zmiany pozycji przedmiotów i zmniejszy wymagania modyfikacji pod względem wydajności.
+</STF.RelativeFloatSpeedTT>
+<STF.FloatUnderBridges>Przedmioty mogą unosić się pod mostami/lodem</STF.FloatUnderBridges>
+<STF.FloatUnderBridgesTT>
+Przedmioty będą unosić się pod mostami/lodem, a ich tekstura będzie ukryta podczas przemieszczania się
+</STF.FloatUnderBridgesTT>
+<STF.FloatUnderBridgesInfo>Powiadom o przedmiotach pod mostami</STF.FloatUnderBridgesInfo>
+<STF.FloatUnderBridgesInfoTT>
+Wyświetlaj komunikat, gdy pod mostami unoszą się przedmioty
+</STF.FloatUnderBridgesInfoTT>
+<STF.AllowStranding>Przedmioty mogą być wyrzucane na brzeg</STF.AllowStranding>
+<STF.AllowStrandingTT>
+Gdy przedmioty unoszą się w pobliżu lądu, mogą zostać wyrzucone na brzeg
+</STF.AllowStrandingTT>
+<STF.DownedPawnsFloat>Powalone postacie unoszą się na wodzie</STF.DownedPawnsFloat>
+<STF.DownedPawnsFloatTT>
+Postacie, które upadły, również unoszą się na wodzie, ale wolniej niż zwłoki.
+</STF.DownedPawnsFloatTT>
+<STF.DownedPawnsDrown>Postacie, które upadły w wodzie innej niż płytka, mogą utonąć</STF.DownedPawnsDrown>
+<STF.DownedPawnsDrownTT>
+Postacie, które upadły w wodzie innej niż płytka, mogą utonąć. Zapobiegają temu hełmy z odpornością na podciśnienie lub oznaczeniem EVA.
+</STF.DownedPawnsDrownTT>
+<STF.PawnsCanFall>Postacie mogą stracić równowagę w płynącej wodzie</STF.PawnsCanFall>
+<STF.PawnsCanFallTT>
+Istnieje szansa, że postacie mogą poślizgnąć się w płynącej wodzie i na chwilę stracić równowagę. Zależy to od ich umiejętności manipulacji
+</STF.PawnsCanFallTT>
+<STF.ManipulationThreshold>Próg manipulacji: {0}</STF.ManipulationThreshold>
+<STF.ManipulationThresholdTT>
+Wartość manipulacji, poniżej której postacie mogą stracić równowagę podczas chodzenia w wodzie
+</STF.ManipulationThresholdTT>
+<STF.RelativeChanceInShallows>Względne prawdopodobieństwo upadku w płytkich wodach: {0}</STF.RelativeChanceInShallows>
+<STF.RelativeChanceInShallowsTT>
+Prawdopodobieństwo utraty równowagi w płytkich wodach jest dodatkowo ograniczone przez to ustawienie. Płytkie wody obejmują wszystkie obszary, których nazwa zawiera słowo "płytka" lub które mogą wyschnąć, przekształcając się w coś innego, np. bagna.
+</STF.RelativeChanceInShallowsTT>
+<STF.SmoothAnimation>Użyj płynnej animacji unoszenia się</STF.SmoothAnimation>
+<STF.SmoothAnimationTT>
+Podczas unoszenia się obiekty będą płynnie przemieszczać się z komórki do komórki. Wymaga to dodatkowych obliczeń, więc wyłącz tę opcję, jeśli zauważysz spadek wydajności.
+</STF.SmoothAnimationTT>
+<STF.Bobbing>Dodaj animację kołysania się</STF.Bobbing>
+<STF.BobbingTT>
+Unoszące się obiekty będą poruszały się niewielkimi ruchami okrężnymi.
+</STF.BobbingTT>
+<STF.AllowOnStuck>Automatycznie zezwalaj na pochwycone przedmioty</STF.AllowOnStuck>
+<STF.AllowOnStuckTT>
+Automatycznie zezwoli na obiekty, które utknęły w sieci lub zostały zablokowane przez pręty
+</STF.AllowOnStuckTT>
+<STF.DespawnAtMapEdge>Znikają na krawędzi mapy</STF.DespawnAtMapEdge>
+<STF.DespawnAtMapEdgeTT>
+Obiekty pływające znikną, zamiast zatrzymywać się na krawędzi mapy.
+</STF.DespawnAtMapEdgeTT>
+<STF.SpawnNewItemsDisabled>Generowanie przedmiotów jest wyłączone w ustawieniach modu</STF.SpawnNewItemsDisabled>
+<STF.SpawnNewItems>Generuj przedmioty na brzegu rzeki</STF.SpawnNewItems>
+<STF.SpawnNewItemsTT>
+Przedmioty mogą pojawiać się na krawędzi mapy, jeśli przepływa tam rzeka.
+</STF.SpawnNewItemsTT>
+<STF.MaxSpawnValue>Maksymalna wartość pojawiających się przedmiotów: {0}</STF.MaxSpawnValue>
+<STF.MaxSpawnValueTT>Maksymalna wartość każdego stosu pojawiających się przedmiotów</STF.MaxSpawnValueTT>
+<STF.MinTimeBetweenItems>Minimalny czas między pojawianiem się przedmiotów: {0}</STF.MinTimeBetweenItems>
+<STF.MinTimeBetweenItemsTT>
+Minimalny czas między pojawianiem się przedmiotów w rzece.
+</STF.MinTimeBetweenItemsTT>
+<STF.ForbidSpawningItems>Zakaz generowania przedmiotów</STF.ForbidSpawningItems>
+
+<STF.ForbidSpawningItemsTT>
+Pojawianie się przedmiotów w rzece będzie domyślnie zabronione
+</STF.ForbidSpawningItemsTT>
+<STF.HaulUrgently>Oznaczaj pojawiające się przedmioty jako wymagające pilnego transportu</STF.HaulUrgently>
+<STF.HaulUrgentlyTT>
+Przedmioty pojawiające się w rzece będą domyślnie oznaczone jako wymagające pilnego przetransportowania
+</STF.HaulUrgentlyTT>
+<STF.SpawnLivingPawns>Zezwól na pojawianie się żywych (powalonych) postaci</STF.SpawnLivingPawns>
+<STF.SpawnLivingPawnsTT>
+Żywe, ale powalone postacie mogą się pojawiać. Jeśli chcesz, możesz je uratować.
+</STF.SpawnLivingPawnsTT>
+<STF.SpawnInOceanTiles>Zezwól na pojawianie się na kafelkach oceanu</STF.SpawnInOceanTiles>
+<STF.SpawnInOceanTilesTT>
+Obiekty mogą również pojawiać się na kafelkach brzegowych oceanu/kosmosu, jednak nie ma gwarancji, że pozostaną na mapie.
+</STF.SpawnInOceanTilesTT>
+<STF.SpawnFertilizedEggs>Zezwól na pojawianie się zapłodnionych jaj</STF.SpawnFertilizedEggs>
+<STF.SpawnFertilizedEggsTT>
+Zapłodnione jaja mogą się pojawiać; zwierzęta wyklute z tych jaj będą traktowane jako część kolonii.
+</STF.SpawnFertilizedEggsTT>
+<STF.NotifyOfSpawningItems>Powiadamiaj o wszystkich pojawiających się przedmiotach</STF.NotifyOfSpawningItems>
+<STF.NotifyOfSpawningItemsTT>
+Wyświetli komunikat o wszystkim, co pojawia się w rzece
+</STF.NotifyOfSpawningItemsTT>
+<STF.ReservedItemsWillNotMove>Zarezerwowane przedmioty nie będą się przemieszczać</STF.ReservedItemsWillNotMove>
+<STF.ReservedItemsWillNotMoveTT>
+Spowoduje, że przedmioty zarezerwowane do wykorzystania w zadaniu pozostaną w miejscu, aby nie powodować problemów podczas pracy
+</STF.ReservedItemsWillNotMoveTT>
+
+<STF.WarnForAllFriendlyPawns>Ostrzegaj o każdym tonącym obiekcie niebędącym wrogiem</STF.WarnForAllFriendlyPawns>
+<STF.WarnForAllFriendlyPawnsTT>Będzie powiadamiać o każdym tonącym obiekcie niebędącym wrogiem</STF.WarnForAllFriendlyPawnsTT>
+<STF.AnythingFloatsInSpace>Każdy przedmiot będzie dryfował w przestrzeni kosmicznej</STF.AnythingFloatsInSpace>
+<STF.AnythingFloatsInSpaceTT>
+Jeśli opcja jest włączona, każdy przedmiot będzie dryfował w przestrzeni kosmicznej. Jeśli jest wyłączona, dryfować będą tylko fragmenty terenu.
+</STF.AnythingFloatsInSpaceTT>
+<STF.PawnIsFloatingAway>Postacie dryfujące</STF.PawnIsFloatingAway>
+<STF.PawnIsFloatingAwayTT>{0} jest unieruchomiony i dryfuje po wodzie.</STF.PawnIsFloatingAwayTT>
+<STF.ThingsUnderBridge>Przedmioty dryfujące pod mostami/lodem</STF.ThingsUnderBridge>
+<STF.ThingsUnderBridgeTT>
+Przedmioty, które obecnie unoszą się pod mostami/lodem: {0}
+</STF.ThingsUnderBridgeTT>
+<STF.ThingsFloatedIntoTheMap>{0} pojawił się, płynąc z prądem rzeki</STF.ThingsFloatedIntoTheMap>
+<STF.ThingsFloatedInFromTheOcean>{0} pojawił się, unosząc się na wodzie w oceanie</STF.ThingsFloatedInFromTheOcean>
+<STF.ThingsFloatedInFromSpace>{0} pojawiło się, dryfując z kosmosu</STF.ThingsFloatedInFromSpace>
+<STF.PawnIsDrowning>
+{0} znalazło się w wodzie i tonie, pilnie potrzebuje pomocy!
+</STF.PawnIsDrowning>
+<STF.PawnHasFallen>{0} straciło równowagę w płynącej wodzie! </STF.PawnHasFallen>
+<STF.PawnHasFallenAndFloats>
+{0} stracił równowagę w płynącej wodzie i teraz odpływa!
+</STF.PawnHasFallenAndFloats>
+
+<STF.PawnIsLostTitle>{0} odpłynął</STF.PawnIsLostTitle>
+<STF.PawnIsLostMessage>
+Nie udało ci się uratować {0} z rwącej wody i teraz zniknął z pola widzenia. Miejmy nadzieję, że uda mu się samodzielnie wydostać, ale być może już nigdy go nie zobaczysz.
+</STF.PawnIsLostMessage>
+<STF.PawnSpawnedTitle>Ktoś walczy o życie w rzece</STF.PawnSpawnedTitle>
+<STF.PawnSpawnedMessage>
+Zauważasz kogoś w wodzie, osoba ta prosi cię o pomoc
+</STF.PawnSpawnedMessage>
+<STF.CurrentModVersion>Zainstalowana wersja modyfikacji: {0}</STF.CurrentModVersion>
+</LanguageData>

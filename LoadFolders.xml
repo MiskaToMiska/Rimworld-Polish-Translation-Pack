@@ -11,5 +11,6 @@
     <li IfModActive="mlie.xndmemorableauroras">Mods/xnd-memorable-auroras</li>
     <li IfModActive="overpl.animalsarcophagus">Mods/animal-sarcophagus</li>
     <li IfModActive="gt.sam.basicdoubledoors">Mods/basic-double-doors</li>
+    <li IfModActive="mlie.somethingsfloat">Mods/some-things-float</li>
   </v1.6>
 </loadFolders>
