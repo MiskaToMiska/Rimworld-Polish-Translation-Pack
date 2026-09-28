@@ -1,0 +1,181 @@
+<LanguageData>
+    <Ferny_Flake.label>Produkcja płatków psychitu</Ferny_Flake.label>
+    <Ferny_Flake.description>Wyprodukuj płatki z psychitu, które można palić w celu wywołania krótkotrwałego, ale intensywnego stanu euforii. Chociaż ich produkcja jest tania, a zażywanie niezwykle przyjemne, substancja ta jest wyjątkowo uzależniająca.</Ferny_Flake.description>
+    <Ferny_SmokeleafJoint.label>Joint</Ferny_SmokeleafJoint.label>
+    <Ferny_SmokeleafJoint.description>Produkuj jointy z zioła w małych zwijanych bletkach do palenia</Ferny_SmokeleafJoint.description>
+
+    <!--addons-->
+    <!--mods-->
+    <!-- Dark Ages Beasts and Monsters -->
+    <Ferny_ScarletScent.label>Szkarłatny zapach</Ferny_ScarletScent.label>
+    <Ferny_ScarletScent.description>Przygotuj czerwoną mieszankę szpiku z poroża larpah i ziół, która radykalnie zwiększa zdolności i siłę.</Ferny_ScarletScent.description>
+
+    <!-- Forsaken Faction -->
+    <Ferny_VitaminF.label>Witamina F</Ferny_VitaminF.label>
+    <Ferny_VitaminF.description>Produkuj syntetyczny środek zwiększający wydajność bojową, który łagodzi ból, a jednocześnie nieznacznie poprawia stan świadomości, oddychanie i koordynację ruchową.</Ferny_VitaminF.description>
+
+    <!-- Medical Expansion Addiction Treatment -->
+    <Ferny_AmbrosiaTreatmentPill.label>Pigułka lecznicza na ambrozję</Ferny_AmbrosiaTreatmentPill.label>
+    <Ferny_AmbrosiaTreatmentPill.description>Wytwarzaj pigułki lecznicze przeciwko uzależnienom od ambrozji.</Ferny_AmbrosiaTreatmentPill.description>
+    <Ferny_GoJuiceTreatmentPill.label>Pigułka lecznicza na sok-go</Ferny_GoJuiceTreatmentPill.label>
+    <Ferny_GoJuiceTreatmentPill.description>Wytwarzaj pigułki lecznicze przeciwko uzależnienion od soku-go.</Ferny_GoJuiceTreatmentPill.description>
+    <Ferny_PsychiteTreatmentPill.label>Pigułka lecznicza na psychit</Ferny_PsychiteTreatmentPill.label>
+    <Ferny_PsychiteTreatmentPill.description>Wytwarzaj pigułki lecznicze przeciwko uzależnienion od psychitu. </Ferny_PsychiteTreatmentPill.description>
+    <Ferny_SmokeleafTreatmentPill.label>Pigułka leczniczna na zioło</Ferny_SmokeleafTreatmentPill.label>
+    <Ferny_SmokeleafTreatmentPill.description>Wytwarzaj pigułki lecznicze przeciwko uzależnienion od zioła.</Ferny_SmokeleafTreatmentPill.description>
+    <Ferny_WakeUpTreatmentPill.label>Pigułka lecznicza na pobudzacz</Ferny_WakeUpTreatmentPill.label>
+    <Ferny_WakeUpTreatmentPill.description>Wytwarzaj pigułki lecznicze przeciwko uzależnienion od pobudzacza.</Ferny_WakeUpTreatmentPill.description>
+
+    <!-- Medical Expansion Vaccines -->
+        <Ferny_BloodRotVaccine.label>Szczepionka przeciwko zgniliznie krwi</Ferny_BloodRotVaccine.label>
+    <Ferny_BloodRotVaccine.description>Wytwarza fiolki ze szczepionką przeciwko zgniliznie krwi.</Ferny_BloodRotVaccine.description>
+    <Ferny_FluVaccine.label>Szczepionka przeciw grypie</Ferny_FluVaccine.label>
+    <Ferny_FluVaccine.description>Wytwarzaj fiolki ze szczepionką przeciw grypie.</Ferny_FluVaccine.description>
+    <Ferny_PlagueVaccine.label>Szczepionka przeciw dżumie</Ferny_PlagueVaccine.label>
+    <Ferny_PlagueVaccine.description>Wytwarzaj fiolki ze szczepionką przeciw dżumie.</Ferny_PlagueVaccine.description>
+    <Ferny_InfantIllnessVaccine.label>Szczepionka przeciwko chorobom niemowlęcym</Ferny_InfantIllnessVaccine.label>
+    <Ferny_InfantIllnessVaccine.description>Produkuj fiolki ze szczepionką przeciwko chorobom niemowlęcym.</Ferny_InfantIllnessVaccine.description>
+    <Ferny_NecroaVaccine.label>szczepionka przeciwko necroa</Ferny_NecroaVaccine.label>
+    <Ferny_NecroaVaccine.description>Wyprodukuj fiolki ze szczepionką przeciwko necroa.</Ferny_NecroaVaccine.description>
+    <Ferny_GutWormsVaccine.label>szczepionka przeciwko pasożytom jelitowym</Ferny_GutWormsVaccine.label>
+    <Ferny_GutWormsVaccine.description>Produkcja fiolek ze szczepionką przeciwko pasożytom jelitowym.</Ferny_GutWormsVaccine.description>
+    <Ferny_LungRotVaccine.label>szczepionka przeciwko zgniliznie płuc</Ferny_LungRotVaccine.label>
+    <Ferny_LungRotVaccine.description>Wytwarza fiolki ze szczepionką przeciwko zgniliznie płuc.</Ferny_LungRotVaccine.description>
+    <Ferny_MuscleParasitesVaccine.label>szczepionka przeciwko pasożytom mięśniowym</Ferny_MuscleParasitesVaccine.label>
+    <Ferny_MuscleParasitesVaccine.description>Wytwarza fiolki ze szczepionką przeciwko pasożytom mięśniowym.</Ferny_MuscleParasitesVaccine.description>
+    <Ferny_SleepingSicknessVaccine.label>szczepionka przeciwko chorobie pośpiączkowej</Ferny_SleepingSicknessVaccine.label>
+    <Ferny_SleepingSicknessVaccine.description>Wytwarzaj fiolki ze szczepionką przeciwko chorobie pośpiączkowej.</Ferny_SleepingSicknessVaccine.description>
+
+    <!-- Medicines Plus -->
+    <Ferny_Clozapine.label>klozapina</Ferny_Clozapine.label>
+    <Ferny_Clozapine.description>Wytwarzaj klozapinę, powszechnie stosowany lek przeciwpsychotyczny wykorzystywany w leczeniu choroby afektywnej dwubiegunowej i innych zaburzeń psychicznych. Może on pomóc w zapobieganiu pełnej manifestacji impulsywnych zachowań oraz skrajnych załamań psychicznych u niektórych pionków. Duże dawki mogą powodować wymioty.</Ferny_Clozapine.description>
+    <Ferny_Morphine.label>morfina</Ferny_Morphine.label>
+    <Ferny_Morphine.description>Wytwarzaj morfinę, pochodną mleczka maku lekarskiego. Ten znacznie silniejszy opioid działa również jako potężny środek przeciwbólowy, którego działanie trwa zazwyczaj od 2 do 3 godzin. </Ferny_Morphine.description>
+    <Ferny_Penicillin.label>penicylina</Ferny_Penicillin.label>
+    <Ferny_Penicillin.description>Wytwarza penicylinę, jeden z najwcześniejszych skutecznych leków stosowanych w leczeniu infekcji bakteryjnych. Aby uzyskać maksymalny efekt, należy przyjmować raz dziennie.</Ferny_Penicillin.description>
+    <Ferny_ThornweedSerum.label>surowica z kolczastego zioła</Ferny_ThornweedSerum.label>
+    <Ferny_ThornweedSerum.description>Wytwarza surowicę z kolczastego zioła – aktywną substancję znieczulającą występującą w igłach tego zioła, przetworzoną w znacznie silniejszą surowicę o mniejszej liczbie niepożądanych skutków ubocznych.</Ferny_ThornweedSerum.description>
+    <Ferny_Tyrox.label>tyrox</Ferny_Tyrox.label>
+    <Ferny_Tyrox.description>Wytwarzaj tyrox, lek, który znacznie przyspiesza metabolizm, a tym samym wzmacnia odpowiedź immunologiczną każdej formy życia, której zostanie podany. Aby uzyskać maksymalny efekt, należy przyjmować raz dziennie.</Ferny_Tyrox.description>
+    <Ferny_Heroin.label>heroina</Ferny_Heroin.label>
+    <Ferny_Heroin.description>Produkuj heroinę – silniejszą i wysoce uzależniającą odmianę morfiny, która wywołuje intensywną euforię i głębokie odurzenie. Efekt trwa zazwyczaj od 4 do 5 godzin i jest niezwykle uzależniający.</Ferny_Heroin.description>
+    <Ferny_Joy.label>Radość</Ferny_Joy.label>
+    <Ferny_Joy.description>Wytwarzaj radość – używka opracowany przez rządy Urbworld w celu utrzymywania obywateli w ryzach. Wywołuje silny euforyczny haj i jest bardzo uzależniający.</Ferny_Joy.description>
+    <Ferny_SmellingSalts.label>sole trzeźwiące</Ferny_SmellingSalts.label>
+    <Ferny_SmellingSalts.description>Wyprodukuj sole trzeźwiące, znane również jako sole amoniaku. Stymulują one układ oddechowy stworzeń, wywołując odruchową reakcję na bardzo niewielkie ilości amoniaku w postaci gazowej.</Ferny_SmellingSalts.description>
+    <Ferny_ThornweedInfusion.label>napar z kolczastego ziela</Ferny_ThornweedInfusion.label>
+    <Ferny_ThornweedInfusion.description>Wytwarzaj napar z kolczastego zioła poprzez przetwarzanie surowych kolców na igły kolczastego zioła.</Ferny_ThornweedInfusion.description>
+    <Ferny_PeyoteInfusion.label>napar z pejotlu</Ferny_PeyoteInfusion.label>
+    <Ferny_PeyoteInfusion.description>Wyprodukuj napar z pejotlu, przetwarzając surowy pejotl na środek psychoaktywny.</Ferny_PeyoteInfusion.description>
+    <Ferny_OpiumInfusion.label>napar z opium</Ferny_OpiumInfusion.label>
+    <Ferny_OpiumInfusion.description>Wyprodukuj napar z opium, przetwarzając surowe opium na składnik leku nadający się do użytku.</Ferny_OpiumInfusion.description>
+
+    <!-- Medieval Overhaul -->
+    <Ferny_ApothecarysMiracle.label>cud aptekarza</Ferny_ApothecarysMiracle.label>
+    <Ferny_ApothecarysMiracle.description>Stwórz cud aptekarza i jego miksturę – legendarny eliksir znany z tego, że znacznie przyspiesza powrót do zdrowia i wzmacnia odporność. </Ferny_ApothecarysMiracle.description>
+    <Ferny_BattleElixir.label>eliksir bojowy</Ferny_BattleElixir.label>
+    <Ferny_BattleElixir.description>Wyprodukuj eliksir bojowy i jego mieszankę – potężny miksturę, która znacznie zwiększa zdolności bojowe i skupienie psychiczne.</Ferny_BattleElixir.description>
+    <Ferny_HappyPowder.label>proszek szczęścia</Ferny_HappyPowder.label>
+    <Ferny_HappyPowder.description>Wytwarzaj proszek szczęścia i jego mieszankę – substancję rekreacyjną wywołującą intensywny stan euforii.</Ferny_HappyPowder.description>
+    <Ferny_HerbalExtract.label>ekstrakt ziołowy</Ferny_HerbalExtract.label>
+    <Ferny_HerbalExtract.description>Wytwarzaj skoncentrowaną esencję ziołową uzyskaną poprzez zmielenie wielu surowych ziół.</Ferny_HerbalExtract.description>
+    <Ferny_Luhix.label>luhix</Ferny_Luhix.label>
+    <Ferny_Luhix.description>Wytwarza luhix i jego mieszanki – rzadką substancję poprawiającą pamięć, zdolność uczenia się i koncentrację psychiczną.</Ferny_Luhix.description>
+    <Ferny_VigorPill.label>pigułka witalności</Ferny_VigorPill.label>
+    <Ferny_VigorPill.description>Wytwarza pigułki witalności i ich mieszankę, pozwalające użytkownikom pracować przez dłuższy czas bez zmęczenia.</Ferny_VigorPill.description>
+    <Ferny_Paregoric.label>nalewka paregoryczna</Ferny_Paregoric.label>
+    <Ferny_Paregoric.description>Wytwarzaj nalewkę paregoryczną i jej mieszankę – silną nalewkę łagodzącą ból i przyspieszającą gojenie.</Ferny_Paregoric.description>
+    <Ferny_PotionOfKnowledge.label>eliksir wiedzy</Ferny_PotionOfKnowledge.label>
+    <Ferny_PotionOfKnowledge.description>Wytwarzaj eliksiry wiedzy i ich mieszanki, czerpiąc z nich wiedzę, która zapewnia konsumentowi większą biegłość w danej umiejętności.</Ferny_PotionOfKnowledge.description>
+    <Ferny_Stardust.label>gwiezdny pył</Ferny_Stardust.label>
+    <Ferny_Stardust.description>Wytwarza gwiezdny pył i jego mieszanki, znacznie poprawiając pamięć i zdolność uczenia się oraz nieznacznie zwiększając psyfokus.</Ferny_Stardust.description>
+
+    <!-- Mythic Ages Megafauna Bestiary -->
+    <Ferny_SkyfeatherPipe.label>Fajka Skyfeather</Ferny_SkyfeatherPipe.label> <!--TOFIX-->
+    <Ferny_SkyfeatherPipe.description>Wykonaj ręcznie rzeźbioną fajkę wypełnioną naoliwionymi piórami legendarnego orła Harpeagle'a.</Ferny_SkyfeatherPipe.description>
+    <Ferny_MossmireDraught.label>Napój z Mossmire</Ferny_MossmireDraught.label>
+    <Ferny_MossmireDraught.description>Przygotuj gęsty, mocny zielony napój uwarzony z mleka z Mossmire i rzadkich leśnych korzeni.</Ferny_MossmireDraught.description>
+    <Ferny_SivaDustIvory.label>Kość słoniowa z pyłu Siva</Ferny_SivaDustIvory.label>
+    <Ferny_SivaDustIvory.description>Wyprodukuj wyrafinowany proszek z kostnego rogu Sivatherium, który spowalnia umysł i serce, łagodząc napięcie i wywołując delikatne uczucie euforii. </Ferny_SivaDustIvory.description>
+    <Ferny_ScarodonHeartPotion.label>Mikstura z serca skarodona</Ferny_ScarodonHeartPotion.label>
+    <Ferny_ScarodonHeartPotion.description>Zaparz plasterki serca skarodona z ziołami leczniczymi, tworząc stabilną miksturę bojową.</Ferny_ScarodonHeartPotion.description>
+    <Ferny_HellboarLiverPotion.label>Mikstura z wątroby piekielnego dzika</Ferny_HellboarLiverPotion.label>
+    <Ferny_HellboarLiverPotion.description>Z gotowanych plasterków wątroby piekielnego dzika i ziół leczniczych przygotuj stabilną miksturę przeczyszczającą.</Ferny_HellboarLiverPotion.description>
+    <Ferny_SivaDustIvoryPotion.label>Mikstura z kości słoniowej SivaDust</Ferny_SivaDustIvoryPotion.label>
+    <Ferny_SivaDustIvoryPotion.description>Z gotowanych plasterków kości słoniowej SivaDust i ziół leczniczych przygotuj stabilną miksturę uspokajającą.</Ferny_SivaDustIvoryPotion.description>
+    <Ferny_AmineSerum.label>Surowica aminowa</Ferny_AmineSerum.label>
+    <Ferny_AmineSerum.description>Przetwórz bogate w aminokwasy mleko produkowane przez Aminox w skoncentrowaną surowicę, która łagodzi ból i pobudza krążenie.</Ferny_AmineSerum.description>
+
+    <!-- Pack Your Craw -->
+    <Ferny_ChewingSmokeleaf.label>Liście zioła do żucia</Ferny_ChewingSmokeleaf.label>
+    <Ferny_ChewingSmokeleaf.description>Wytwarzaj luźne liście zioła przygotowane do żucia.</Ferny_ChewingSmokeleaf.description>
+
+    <!-- RimGnoblins -->
+    <Ferny_Dreg.label>osad</Ferny_Dreg.label>
+    <Ferny_Dreg.description>Wytwarza toksyczne pochodne chemiczne z żółci zwłok, która została odparowana, skrystalizowana i rozdrobniona na małe odłamki.</Ferny_Dreg.description>
+    <Ferny_Shiver.label>drżenie</Ferny_Shiver.label>
+    <Ferny_Shiver.description>Wytwarza lotną i szkodliwą mieszankę chemikaliów przemysłowych, zredukowaną do postaci stałej, szklistej warstwy, a następnie rozdrobnioną na małe odłamki.</Ferny_Shiver.description>
+
+    <!-- Stoneborn Delights -->
+    <Ferny_FeywingJoint.label>Joint ze skrzydła fey</Ferny_FeywingJoint.label> <!--TOFIX-->
+    <Ferny_FeywingJoint.description>Wytwarzaj skrzydła fey zwinięte w joint, który zapewnia potężny haj i pozostawia uczucie głębokiego spokoju.</Ferny_FeywingJoint.description>
+    <Ferny_BeardWax.label>wosk do brody</Ferny_BeardWax.label>
+    <Ferny_BeardWax.description>Wytwarza wysokiej jakości wosk do włosów, stworzony specjalnie do stylizacji bujnych włosów kamiennych ludzi.</Ferny_BeardWax.description>
+    <Ferny_MinersDelight.label>rokosz górnika</Ferny_MinersDelight.label>
+    <Ferny_MinersDelight.description>Wyprodukuj zielono-złoty proszek używany przez kamieniarzy z plemienia Stoneborn do osiągnięcia stanu większej siły psychicznej.</Ferny_MinersDelight.description>
+    <Ferny_Redspice.label>Czerwona przyprawa</Ferny_Redspice.label>
+    <Ferny_Redspice.description>Wytwarza ostry czerwony proszek otrzymany poprzez zmielenie rogów byków, przydatny do łagodzenia mdłości spowodowanych kacem.</Ferny_Redspice.description>
+
+    <!-- VE Brewing -->
+    <Ferny_Cigarettes.label>Papierosy</Ferny_Cigarettes.label>
+    <Ferny_Cigarettes.description>Rozpocznij produkcję używki, który zapewnia krótkotrwałą euforię oraz pobudzenie umysłowe i jest bardzo uzależniający. Ostry zapach początkowo budzi niechęć, ale staje się znacznie przyjemniejszy w miarę narastania uzależnienia palacza. Można go wytworzyć bez sprzętu, w miejscu rzemiosła.</Ferny_Cigarettes.description>
+    <Ferny_Cigars.label>Cygara</Ferny_Cigars.label>
+    <Ferny_Cigars.description>Rozpocznij produkcję luksusowej używki, która zapewnia krótkotrwałą euforię oraz stymulację umysłową i jest bardzo uzależniający. Ostry zapach zazwyczaj nie jest początkowo lubiany, ale staje się znacznie przyjemniejszy w miarę narastania uzależnienia palacza.</Ferny_Cigars.description>
+
+    <!-- VFE Medieval 2 -->
+    <Ferny_ImmunizationDraught.label>Napój wzmacniający odporność</Ferny_ImmunizationDraught.label>
+    <Ferny_ImmunizationDraught.description>Tworzy bursztynowy napój z drobnymi cząsteczkami unoszącymi się w nim, który wzmacnia układ odpornościowy każdego, kto go wypije. Chociaż pomaga to lepiej zwalczać choroby, wadą jest to, że po wypiciu użytkownik czuje się znacznie bardziej zmęczony, a także ogólnie zasypia znacznie szybciej niż zwykle. Działanie napoju jest najsilniejsze bezpośrednio po spożyciu, a następnie powoli słabnie w ciągu kolejnych dni.</Ferny_ImmunizationDraught.description>
+    <Ferny_StrengthDraught.label>Napój siłowy</Ferny_StrengthDraught.label>
+    <Ferny_StrengthDraught.description>Tworzy ciemnoczerwony płyn o intensywnym kolorze. Po wypiciu znacznie zwiększa siłę fizyczną użytkownika, dając mu moc do wykonywania wyczynów, których normalnie nie byłby w stanie dokonać. Jednak eliksir ten podnosi również próg załamania psychicznego użytkownika, czyniąc go bardziej podatnym na stres psychiczny. Ponadto gwałtowny przypływ siły zwiększa prawdopodobieństwo konfliktów, co prowadzi do większego ryzyka bójek społecznych.</Ferny_StrengthDraught.description>
+    <Ferny_EfficiencyDraught.label>Eliksir wydajności</Ferny_EfficiencyDraught.label>
+    <Ferny_EfficiencyDraught.description>Tworzy płyn w kolorze szarym jak łupek, który po wypiciu zwiększa ogólną szybkość pracy użytkownika i spowalnia utratę energii, pozwalając mu pracować szybciej i dłużej bez odczuwania zmęczenia. Jednak ten intensywny wzrost wydajności wiąże się ze znacznym ryzykiem – zwiększa prawdopodobieństwo zawału serca z powodu nadmiernego obciążenia organizmu. Gdy działanie eliksiru ustąpi, użytkownik odczuwa gwałtowny wzrost senności, co wymaga natychmiastowego odpoczynku w celu regeneracji.</Ferny_EfficiencyDraught.description>
+    <Ferny_PainkillerDraught.label>Eliksir przeciwbólowy</Ferny_PainkillerDraught.label>
+    <Ferny_PainkillerDraught.description>Wytwarza bladoniebieski płyn. Po wypiciu skutecznie zmniejsza odczuwanie bólu, przynosząc ulgę w przypadku dyskomfortu i urazów. Jednak składniki uspokajające eliksiru osłabiają również wydajność i skupienie użytkownika, utrudniając koncentrację i sprawne wykonywanie zadań. Dzięki temu nadaje się on do stosowania w okresach rekonwalescencji, ale jest mniej odpowiedni, gdy wymagany jest aktywny wysiłek umysłowy lub fizyczny.</Ferny_PainkillerDraught.description>
+    <Ferny_TorturerDraught.label>Eliksir oprawcy</Ferny_TorturerDraught.label>
+    <Ferny_TorturerDraught.description>Tworzy ciemny, budzący niepokój fioletowy płyn. Gdy użytkownik go wypije, wywołuje on silny ból, unieruchamiając go do tego stopnia, że ruch staje się niemożliwy. W przypadku więźniów ta intensywna agonia powoduje gwałtowny spadek ich woli oporu, przełamując wszelkie bariery psychiczne, jakie mogą posiadać. W przypadku niewolników eliksir ten całkowicie tłumi ich ducha, pozostawiając ich całkowicie uległymi. Ze względu na swoje ekstremalne działanie eliksir ten należy stosować z ostrożnością.</Ferny_TorturerDraught.description>
+    <Ferny_FocusDraught.label>Eliksir skupienia</Ferny_FocusDraught.label>
+    <Ferny_FocusDraught.description>Tworzy rześki, dodający energii turkusowy płyn, który po wypiciu znacznie poprawia zdolności uczenia się użytkownika, umożliwiając mu szybkie przyswajanie i zapamiętywanie większej ilości informacji. Ponadto eliksir zwiększa efektywność jedzenia i odpoczynku, umożliwiając szybsze odżywianie się i regenerację. Wspomaga również gromadzenie psyfokusu, poprawiając jasność umysłu i zdolności parapsychiczne. Jednak gdy działanie eliksiru zacznie słabnąć, te wzmocnienia ulegają odwróceniu, co prowadzi do zmniejszenia zdolności uczenia się, spowolnienia tempa jedzenia i odpoczynku oraz zmniejszenia poziomu psyfokusu.</Ferny_FocusDraught.description>
+    <Ferny_FertilityDraught.label>Eliksir płodności</Ferny_FertilityDraught.label>
+    <Ferny_FertilityDraught.description>Tworzy delikatny płyn w kolorze różowym. Po wypiciu eliksiru sztucznie zwiększa się płodność użytkownika, dając szansę na poczęcie nawet osobom cierpiącym na bezpłodność. Ten niewielki wzrost płodności otwiera przed osobami lub parami borykającymi się z niepłodnością możliwość zostania rodzicami, skupiając się na wzmocnieniu naturalnych procesów rozrodczych.</Ferny_FertilityDraught.description>
+    <Ferny_InspirationDraught.label>Eliksir inspiracji</Ferny_InspirationDraught.label>
+    <Ferny_InspirationDraught.description>Wytwarza promienny płyn o złocistym kolorze. Po wypiciu zapewnia użytkownikowi jasność umysłu, wyostrzając jego koncentrację szczególnie na zdobywaniu nowej wiedzy w dziedzinach, które go pasjonują. Jednak eliksir ten wiąże się z osłabieniem zdolności bojowych, ponieważ uwaga użytkownika zostaje odwrócona od sprawności fizycznej na rzecz zajęć intelektualnych.</Ferny_InspirationDraught.description>
+    <Ferny_StoneskinDraught.label>Napój Kamienna Skóra</Ferny_StoneskinDraught.label>
+    <Ferny_StoneskinDraught.description>Tworzy głęboki, łupkowo-szary płyn. Gdy użytkownik go wypije, jego skóra ulega radykalnej przemianie – pogrubia się i twardnieje, przypominając wbudowaną zbroję. Cała naskórka staje się na tyle wytrzymała, że jest odporna na oparzenia, a na całym ciele, w tym na głowie i twarzy, tworzą się połączone ze sobą zewnętrzne płytki keratynowe, zapewniające dodatkową ochronę. Ta potężna fizyczna tarcza sprawia, że niezwykle trudno jest wyrządzić użytkownikowi fizyczną krzywdę. Jednak wygląd płytek i stwardniałej skóry znacznie obniża atrakcyjność fizyczną użytkownika, co ma wpływ na jego relacje społeczne.</Ferny_StoneskinDraught.description>
+    <Ferny_AmnesiaDraught.label>Eliksir amnezji</Ferny_AmnesiaDraught.label>
+    <Ferny_AmnesiaDraught.description>Wytwarza krystalicznie czysty, biały płyn. Po wypiciu powoduje on u użytkownika gwałtowną utratę pamięci. Efekt ten sprawia, że zarówno negatywne, jak i pozytywne wspomnienia blakną znacznie szybciej niż zwykle, co prowadzi do ulotnego doświadczania wydarzeń życiowych. Chociaż może to złagodzić ciężar bolesnych wspomnień, zmniejsza również radość i naukę płynącą z pozytywnych doświadczeń.</Ferny_AmnesiaDraught.description>
+    <Ferny_ComaDraught.label>Eliksir śpiączki</Ferny_ComaDraught.label>
+    <Ferny_ComaDraught.description>Wytwarza ciemnoniebieski płyn. Po wypiciu wywołuje chemicznie kontrolowaną śpiączkę, znacznie spowalniając metabolizm użytkownika. Stan ten pozwala organizmowi oszczędzać energię i potencjalnie wspomaga procesy gojenia w kontrolowanych warunkach.</Ferny_ComaDraught.description>
+    <Ferny_PoisonDraught.label>Trujący napój</Ferny_PoisonDraught.label>
+    <Ferny_PoisonDraught.description>Wytwarza ciemną, złowieszczą zieloną ciecz. Po spożyciu drastycznie ogranicza świadomość użytkownika, wywołując chemicznie wymuszoną śpiączkę. Stan ten nie tylko unieruchamia osobę, ale także powoduje gwałtowny rozkład jej narządów. Skutki działania tego napoju są poważne i nieodwracalne, prowadząc nieuchronnie do śmierci.</Ferny_PoisonDraught.description>
+    <Ferny_AntitoxDraught.label>Eliksir Antitox</Ferny_AntitoxDraught.label>
+    <Ferny_AntitoxDraught.description>Tworzy klarowny płyn o intensywnym turkusowym kolorze. Po wypiciu zwiększa odporność użytkownika na toksyny, wzmacniając jego organizm przed szkodliwymi substancjami. Ponadto napój ten aktywnie usuwa wszelkie nagromadzone w organizmie użytkownika toksyny, oczyszczając go i zapobiegając szkodliwym skutkom ich działania.</Ferny_AntitoxDraught.description>
+    <Ferny_ClarityDraught.label>Eliksir Klarowności</Ferny_ClarityDraught.label>
+    <Ferny_ClarityDraught.description>Wytwarza jasnoniebieski płyn, który mieni się delikatnym musowaniem. Po wypiciu przywraca użytkownikowi część koncentracji psychicznej i zwiększa jego wrażliwość psychiczną, umożliwiając jaśniejsze przetwarzanie myśli oraz wyższy poziom świadomości. Jednak ta zwiększona aktywność umysłowa znacznie podnosi tempo odczuwania głodu u użytkownika, co sprawia, że musi on jeść częściej. Ponadto nieustanne pobudzenie umysłowe wywołane przez napój prowadzi do zauważalnego pogorszenia nastroju z powodu przytłaczającego napływu myśli.</Ferny_ClarityDraught.description>
+    <Ferny_HemogenDraught.label>Napój Hemogen</Ferny_HemogenDraught.label>
+    <Ferny_HemogenDraught.description>Wytwórz gęsty, szkarłatny płyn przygotowany ze skoncentrowanych opakowań hemogenu. Po wypiciu napój ten wzmacnia wszystkie cechy i zdolności związane z hemogeniczną naturą użytkownika, zwiększając jego możliwości fizyczne i umysłowe. Ponadto napój ten z czasem uzupełnia zapasy hemogenu użytkownika, podtrzymując jego witalność i poprawiając ogólne funkcjonowanie organizmu.</Ferny_HemogenDraught.description>
+    <Ferny_RoyalJellyDraught.label>Napój z mleczkiem pszczelim</Ferny_RoyalJellyDraught.label>
+    <Ferny_RoyalJellyDraught.description>Wytwarza lśniący, złocisty płyn. Po wypiciu znacznie przyspiesza tempo wzrostu odporności, wzmacniając naturalne mechanizmy obronne organizmu przed chorobami i infekcjami. Ponadto napój ten zwiększa świadomość i prędkość ruchu użytkownika, wyostrzając jego czujność umysłową i poprawiając sprawność fizyczną. Po spożyciu spowalnia również postęp wszelkich trwających infekcji o 5%.</Ferny_RoyalJellyDraught.description>
+
+    <!-- VFE Production -->
+    <Ferny_ElectricDrugLab.label>Elektryczne laboratorium medyczne</Ferny_ElectricDrugLab.label>
+    <Ferny_ElectricDrugLab.description>Zbuduj zaawansowane, zasilane elektrycznie laboratorium medyczne, wyposażone w pojemniki, grzejniki i urządzenia pomiarowe, które pozwolą na bardziej wydajną produkcję używek.</Ferny_ElectricDrugLab.description>
+
+    <!-- VRE Genie -->
+    <Ferny_Antibiotics.label>Antybiotyki</Ferny_Antibiotics.label>
+    <Ferny_Antibiotics.description>Opracuj metodę produkcji antybiotyków, które wzmacniają układ odpornościowy po wystąpieniu infekcji.</Ferny_Antibiotics.description>
+
+    <!-- Vanilla Genetics Expanded -->
+    <Ferny_FeatherdustJoint.label>featherdust joint</Ferny_FeatherdustJoint.label> <!--TOFIX-->
+    <Ferny_FeatherdustJoint.description>Pióra kurczaka-niedźwiedzia przetwarza się na drobny proszek, który po spaleniu i wdychaniu wywołuje łagodne uczucie euforii.</Ferny_FeatherdustJoint.description>
+
+</LanguageData>
