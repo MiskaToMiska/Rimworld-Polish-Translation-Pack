@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <UseShootingRange.reportString>Strzelanie kilkoma nabojami.</UseShootingRange.reportString>
+    <UseShootingRange_NonJoy.reportString>Strzelanie kilkoma nabojami.</UseShootingRange_NonJoy.reportString>
+	<UseShootingRange_NonJoy_Work.reportString>Strzelanie kilkoma nabojami.</UseShootingRange_NonJoy_Work.reportString>
+    <UseMartialArtsTarget.reportString>Trening sztuk walki.</UseMartialArtsTarget.reportString>
+	<UseMartialArtsTarget_NonJoy.reportString>Trening sztuk walki.</UseMartialArtsTarget_NonJoy.reportString>
+    <UseMartialArtsTarget_NonJoy_Work.reportString>Trening sztuk walki.</UseMartialArtsTarget_NonJoy_Work.reportString>
+
+</LanguageData>

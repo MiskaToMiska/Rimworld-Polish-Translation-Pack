@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MiscTraining_CombatTraining.labelShort>trenowanie</MiscTraining_CombatTraining.labelShort>
+    <MiscTraining_CombatTraining.pawnLabel>Trener</MiscTraining_CombatTraining.pawnLabel>
+    <MiscTraining_CombatTraining.gerundLabel>trenowanie</MiscTraining_CombatTraining.gerundLabel>
+	<MiscTraining_CombatTraining.description>Trenuj walkę. Niezależnie od tego, czy chodzi o sztuki walki, czy strzelectwo, rodzaj treningu zależy od broni użytkownika i dostępnych celów.</MiscTraining_CombatTraining.description>
+    <MiscTraining_CombatTraining.verb>trening</MiscTraining_CombatTraining.verb>
+
+</LanguageData>

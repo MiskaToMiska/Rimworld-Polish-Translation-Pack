@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <ShootingRangeTarget.label>Tarcza strzelecka</ShootingRangeTarget.label>
+    <ShootingRangeTarget.description>Strzelnica to miejsce, w którym można ćwiczyć koordynację wzrokowo-ruchową.</ShootingRangeTarget.description>
+
+	<MartialArtsTarget.label>Manekin do sztuk walki</MartialArtsTarget.label>
+    <MartialArtsTarget.description>Manekin do sztuk walki to miejsce, w którym można trenować sztuki walki, zarówno z bronią, jak i bez niej.</MartialArtsTarget.description>
+
+</LanguageData>
