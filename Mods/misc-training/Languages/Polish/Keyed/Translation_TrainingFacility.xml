@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- FloatMenu -->
+    <TrainingFacility_PracticeArchery>Trening łucznictwa</TrainingFacility_PracticeArchery>
+
+    <TrainingFacility_PracticeShooting>Trening strzelectwa</TrainingFacility_PracticeShooting>
+	<TrainingFacility_RangedWeaponRequired>Wymagana broń dystansowa</TrainingFacility_RangedWeaponRequired>
+
+    <TrainingFacility_PracticeMartialArts>Trening sztuk walki</TrainingFacility_PracticeMartialArts>
+    <TrainingFacility_MeleeWeaponRequired>Wymagana broń biała</TrainingFacility_MeleeWeaponRequired>
+
+
+	<TrainingFacility_DangerousWeaponFound_ThrowingStones>Wyposażona broń jest zbyt niebezpieczna do strzelania. {0} będzie zamiast tego rzucać kamieniami.</TrainingFacility_DangerousWeaponFound_ThrowingStones>
+
+    <TrainingFacility_CannotUseTooTired>Nie można użyć, zbyt zmęczony</TrainingFacility_CannotUseTooTired>
+
+	<Text_Building_Repairing_RepairingHomezone>Naprawa (obszar domu)</Text_Building_Repairing_RepairingHomezone>
+    <Text_Building_Repairing_disabled>wyłączone</Text_Building_Repairing_disabled>
+    <Text_Building_Repairing_enabled>włączone</Text_Building_Repairing_enabled>
+
+
+
+
+	<!-- OPCJE MODYFIKACJI -->
+    <TrainingFacility_ModOptions_Category>Miscellaneous - Training</TrainingFacility_ModOptions_Category>
+    <Text_Option_Shooting_LearningXpMultiplier>Mnożnik punktów doświadczenia za naukę umiejętności – Strzelanie (Domyślnie: 1)</Text_Option_Shooting_LearningXpMultiplier>
+	<Text_Option_Shooting_LearningXpMultiplier_hint>Jest to mnożnik zdobytych punktów doświadczenia umiejętności. Aby zwiększyć liczbę zdobytych punktów, ustaw wartość większą niż 1; aby zmniejszyć, ustaw wartość mniejszą niż 1.</Text_Option_Shooting_LearningXpMultiplier_hint>
+	<Text_Option_Melee_LearningXpMultiplier>Mnożnik XP za naukę umiejętności – walka wręcz (Domyślnie: 1)</Text_Option_Melee_LearningXpMultiplier>
+	<Text_Option_Melee_LearningXpMultiplier_hint>Jest to mnożnik zdobytych punktów doświadczenia umiejętności. Aby zwiększyć liczbę zdobytych punktów doświadczenia, ustaw wartość większą niż 1; aby zmniejszyć, ustaw wartość mniejszą niż 1.</Text_Option_Melee_LearningXpMultiplier_hint>
+
+</LanguageData>
