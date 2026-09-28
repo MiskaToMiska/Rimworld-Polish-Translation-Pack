@@ -1,0 +1,7 @@
+<LanguageData>
+    <STF_Drowning.label>Tonięcię</STF_Drowning.label>
+    <STF_Drowning.description>Postać z trudem utrzymuje się na powierzchni i grozi mu utonięcie.</STF_Drowning.description>
+    <STF_Drowning.stages.0.label>Początkowy</STF_Drowning.stages.0.label>
+    <STF_Drowning.stages.1.label>Poważny</STF_Drowning.stages.1.label>
+    <STF_Drowning.stages.2.label>Krytyczny</STF_Drowning.stages.2.label>
+    </LanguageData>
