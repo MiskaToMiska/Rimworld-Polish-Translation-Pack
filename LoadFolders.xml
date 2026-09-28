@@ -16,5 +16,6 @@
     <li IfModActive="ferny.progressionfurniture">Mods/progression-furniture</li>
     <li IfModActive="sd.leafskirt">Mods/leaf-skirts</li>
     <li IfModActive="haplo.miscellaneous.training">Mods/misc-training</li>
+    <li IfModActive="inglix.widermarriagespot">Mods/wider-marriage-spot</li>
   </v1.6>
 </loadFolders>

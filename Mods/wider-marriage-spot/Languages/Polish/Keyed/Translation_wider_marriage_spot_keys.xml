@@ -1,0 +1,9 @@
+<LanguageData>
+    <Inglix.WiderMarriageSpot>Wider Marriage Spot</Inglix.WiderMarriageSpot>
+    <Inglix.ShareCenterCellDuringMarriageCeremony>
+    Postacie będą dzielić środkowe pole na planszy małżeńskiej o nieparzystej szerokości
+    </Inglix.ShareCenterCellDuringMarriageCeremony>
+    <Inglix.ShareCenterCellTooltip>
+    Podczas testów wydaje się to działać bez zarzutu, jednak oryginalny kod gry wyraźnie stara się temu zapobiec, prawdopodobnie nie bez powodu. Należy korzystać z tej funkcji ostrożnie i zgłaszać wszelkie problemy.
+    </Inglix.ShareCenterCellTooltip>
+</LanguageData>
