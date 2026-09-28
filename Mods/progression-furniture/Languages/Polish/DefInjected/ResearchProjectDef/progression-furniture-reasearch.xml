@@ -1,0 +1,231 @@
+<LanguageData>
+    <Ferny_PlantPots.label>Doniczki</Ferny_PlantPots.label>
+<Ferny_PlantPots.description>Stwórz małe doniczki, w których będzie można wyeksponować piękne kwiaty ozdobne.</Ferny_PlantPots.description>
+<Ferny_ClothBeds.label>Łóżka z materacem</Ferny_ClothBeds.label>
+<Ferny_ClothBeds.description>Twórz miękkie materace zapewniające komfortowy, spokojny sen.</Ferny_ClothBeds.description>
+<Ferny_Couches.label>Kanapy</Ferny_Couches.label>
+<Ferny_Couches.description>Stwórz wygodne siedziska z poduszkami, zapewniające maksymalny komfort. Idealne do luksusowego pokoju rekreacyjnego lub przytulnego kącika do czytania.</Ferny_Couches.description>
+<Ferny_AnimalSleepingBox.label>Pudełko dla zwierząt</Ferny_AnimalSleepingBox.label>
+<Ferny_AnimalSleepingBox.description>Zbuduj wygodne pudełko, w którym zwierzęta będą mogły odpoczywać.</Ferny_AnimalSleepingBox.description>
+<Ferny_AnimalBed.label>Zwierzęce legowiska</Ferny_AnimalBed.label>
+<Ferny_AnimalBed.description>Zbuduj wygodne legowisko, na którym zwierzęta będą mogły odpoczywać.</Ferny_AnimalBed.description>
+<Ferny_Tables.label>Stoły</Ferny_Tables.label>
+<Ferny_Tables.description>Zbuduj stoły, przy których koloniści będą mogli się gromadzić, jeść i spędzać czas.</Ferny_Tables.description>
+<Ferny_Bedroll.label>Śpiwory</Ferny_Bedroll.label>
+<Ferny_Bedroll.description>Zrób proste, przenośne śpiwory, dzięki którym będziesz mógł spać gdziekolwiek.</Ferny_Bedroll.description>
+<Ferny_Chair.label>Krzesła</Ferny_Chair.label>
+<Ferny_Chair.description>Zbuduj proste krzesła do jadalni, do pracy i do spotkań przy stole.</Ferny_Chair.description>
+<Ferny_GameOfUr.label>Plansza do gry z ur</Ferny_GameOfUr.label>
+<Ferny_GameOfUr.description>Ta ekscytująca, choć irytująca gra planszowa jest przeznaczona dla jednej lub dwóch osób. Rozwija umiejętności intelektualne.</Ferny_GameOfUr.description>
+<Ferny_HoopstoneRing.label>Okrąg do gry w kamienie</Ferny_HoopstoneRing.label>
+<Ferny_HoopstoneRing.description>Zbuduj prostą, starożytną grę, w którą gra się kamieniami i dużym pierścieniem wbitym w ziemię. Gracze próbują rzucać kamieniami z pewnej odległości tak, by trafiły do pierścienia. To relaksująca zabawa, która pomaga to w doskonaleniu umiejętności strzelania.</Ferny_HoopstoneRing.description>
+<Ferny_BilliardsTable.label>Stół bilardowy</Ferny_BilliardsTable.label>
+<Ferny_BilliardsTable.description>Zbuduj stół z miękkim blatem, na którym można grać w różne gry typu bilardowego. Pomaga to w doskonaleniu umiejętności strzelania.</Ferny_BilliardsTable.description>
+<Ferny_Column.label>Kolumna</Ferny_Column.label>
+<Ferny_Column.description>Buduj wolnostojące kolumny konstrukcyjne, które będą podtrzymywać dachy i nadawać kształt wnętrzom.</Ferny_Column.description>
+<Ferny_Bridge.label>Most</Ferny_Bridge.label>
+<Ferny_Bridge.description>Buduj proste mosty nad płytką wodą i na niestabilnym podłożu.</Ferny_Bridge.description>
+<Ferny_Floors.label>Podłogi</Ferny_Floors.label>
+<Ferny_Floors.description>Ułóż gotowe podłogi, aby upiększyć pomieszczenia i zadbać o czystość wnętrz.</Ferny_Floors.description>
+<Ferny_Sarcophagus.label>Sarkofag</Ferny_Sarcophagus.label>
+<Ferny_Sarcophagus.description>Zbuduj dedykowane miejsca pochówku dla kolonistów, szlachty, ukochanych zwierząt i bliskich zmarłych.</Ferny_Sarcophagus.description>
+<Ferny_ChessTable.label>Stolik szachowy</Ferny_ChessTable.label>
+<Ferny_ChessTable.description>Buduj dedykowane stoły do strategicznej gry w szachy.</Ferny_ChessTable.description>
+<Ferny_Dresser.label>Komoda</Ferny_Dresser.label>
+<Ferny_Dresser.description>Zbuduj komody, które zapewnią miejsce do przechowywania i komfort w sypialni.</Ferny_Dresser.description>
+<Ferny_EndTable.label>Stolik nocny</Ferny_EndTable.label>
+<Ferny_EndTable.description>Zbuduj małe stoliki nocne, które zwiększą komfort w sypialniach.</Ferny_EndTable.description>
+<Ferny_PokerTable.label>Stół do pokera</Ferny_PokerTable.label>
+<Ferny_PokerTable.description>Zbuduj stoły do emocjonującej gry w pokera.</Ferny_PokerTable.description>
+<Ferny_StandingLamp.label>Lampa stojąca</Ferny_StandingLamp.label>
+<Ferny_StandingLamp.description>Oświetl pomieszczenia za pomocą stojących lamp, aby koloniści mogli wygodnie pracować i poruszać się po zmroku.</Ferny_StandingLamp.description>
+<Ferny_SunLamp.label>Lampa słoneczna</Ferny_SunLamp.label>
+<Ferny_SunLamp.description>Zapewnij intensywne sztuczne oświetlenie niezbędne do uprawy roślin w pomieszczeniach.</Ferny_SunLamp.description>
+<Ferny_WallLamp.label>Lampa ścienna</Ferny_WallLamp.label>
+<Ferny_WallLamp.description>Zamontuj lampy ścienne na ścianach, aby rozjaśnić pomieszczenia bez zajmowania miejsca na podłodze.</Ferny_WallLamp.description>
+
+<!--addons-->
+<!--dlc-->
+<!--royalty-->
+<Ferny_Brazier.label>Koksownik</Ferny_Brazier.label>
+<Ferny_Brazier.description>Zbuduj stojące metalowe paleniska, które zapewnią ciepło, światło i stworzą atmosferę uroczystości.</Ferny_Brazier.description> <!--TO FIX-->
+<!--ideology-->
+<Ferny_LightBall.label>Kula disco</Ferny_LightBall.label>
+<Ferny_LightBall.description>Stwórz efektowny, zmieniający się pokaz kolorowych świateł na parkietach tanecznych i podczas uroczystości.</Ferny_LightBall.description>
+<Ferny_Loudspeaker.label>Głośnik</Ferny_Loudspeaker.label>
+<Ferny_Loudspeaker.description>Rozpowszechniaj muzykę w miejscach spotkań, aby towarzyszyła tańcom i uroczystościom.</Ferny_Loudspeaker.description>
+<!--biotech-->
+<Ferny_Crib.label>Łóżeczko</Ferny_Crib.label>
+<Ferny_Crib.description>Zbuduj bezpieczne łóżeczka z barierkami, w których niemowlęta będą mogły spać.</Ferny_Crib.description>
+<Ferny_BabyToys.label>Zabawki dla dzieci</Ferny_BabyToys.label>
+<Ferny_BabyToys.description>Twórz pluszaki i dekoracje do pokoju dziecięcego, które sprawią radość maluchom.</Ferny_BabyToys.description>
+<!--mods-->
+<!--Appliances Expanded-->
+<Ferny_ChemfuelBrazier.label>Paleniska chem-paliwowe</Ferny_ChemfuelBrazier.label> <!--TO FIX-->
+<Ferny_ChemfuelBrazier.description>Zbuduj paleniska opalane paliwem chemicznym, które zapewniają kontrolowane ciepło i światło.</Ferny_ChemfuelBrazier.description>
+<Ferny_ChemfuelFloodlight.label>Reflektor na chem-paliwo</Ferny_ChemfuelFloodlight.label>
+<Ferny_ChemfuelFloodlight.description>Wykorzystaj paliwo płynne w wydajnych oprawach oświetleniowych, aby oświetlić duże przestrzenie na zewnątrz.</Ferny_ChemfuelFloodlight.description>
+<Ferny_ChemfuelSunLamp.label>Lampa słoneczna na chem-paliwo</Ferny_ChemfuelSunLamp.label>
+<Ferny_ChemfuelSunLamp.description>Wykorzystaj paliwo płynne, aby uzyskać intensywne oświetlenie niezbędne do uprawy w pomieszczeniach.</Ferny_ChemfuelSunLamp.description>
+<Ferny_ChemfuelWallLight.label>Lampa ścienna na chem-paliwo</Ferny_ChemfuelWallLight.label>
+<Ferny_ChemfuelWallLight.description>Zamontuj kompaktowe palniki na ścianach, aby zapewnić oświetlenie bez zasilania elektrycznego.</Ferny_ChemfuelWallLight.description>
+<Ferny_ChemfuelStandingLamp.label>Lampa stojąca na chem-paliwo</Ferny_ChemfuelStandingLamp.label>
+<Ferny_ChemfuelStandingLamp.description>Wyposaż wolnostojące oprawy oświetleniowe w palniki na paliwo płynne, aby oświetlić pomieszczenia w przypadku braku zasilania elektrycznego.</Ferny_ChemfuelStandingLamp.description>
+<!--Architecture of the rim-->
+<Ferny_Eaves.label>Okapy</Ferny_Eaves.label>
+<Ferny_Eaves.description>Wykonaj ozdobne okapy, krokwie i elementy wykończeniowe krawędzi dachu do gotowych konstrukcji średniowiecznych.</Ferny_Eaves.description>
+<!--Boiomes fossils-->
+<Ferny_DisplayLight.label>Światło wystawowe</Ferny_DisplayLight.label>
+<Ferny_DisplayLight.description>Podkreśl eksponaty muzealne za pomocą ukierunkowanego oświetlenia, które uwidacznia ich szczegóły.</Ferny_DisplayLight.description>
+<!--BallGames-->
+<Ferny_Basketball.label>Koszykówka</Ferny_Basketball.label>
+<Ferny_Basketball.description>Zbuduj kosze do koszykówki przeznaczone do wyczynowych zajęć rekreacyjnych na świeżym powietrzu.</Ferny_Basketball.description>
+<Ferny_Soccer.label>Piłka nożna</Ferny_Soccer.label>
+<Ferny_Soccer.description>Zbuduj bramki piłkarskie do zabawy w drużynie.</Ferny_Soccer.description>
+<Ferny_Volleyball.label>Siatkówka</Ferny_Volleyball.label>
+<Ferny_Volleyball.description>Zbuduj siatki do siatkówki na potrzeby zajęć rekreacyjnych drużyny.</Ferny_Volleyball.description>
+<!--Clocks-->
+<Ferny_Clocks.label>Zegary</Ferny_Clocks.label>
+<Ferny_Clocks.description>Zacznij budować zegary, które będą budzić kolonistów i odnotowywać upływ czasu.</Ferny_Clocks.description>
+<Ferny_AlarmClock.label>Budzik</Ferny_AlarmClock.label>
+<Ferny_AlarmClock.description>Zbuduj kompaktowe zegary stołowe, które dzwonią o ustalonej godzinie.</Ferny_AlarmClock.description>
+<Ferny_ElectronicAlarmClock.label>Budzik elektroniczny</Ferny_ElectronicAlarmClock.label>
+<Ferny_ElectronicAlarmClock.description>Zbuduj budziki z zasilaniem i nowoczesnym wyświetlaczem elektronicznym.</Ferny_ElectronicAlarmClock.description>
+<!--Coffin project-->
+<Ferny_Coffin.label>Trumna</Ferny_Coffin.label>
+<Ferny_Coffin.description>Zbuduj zamknięte trumny przeznaczone do uroczystych pochówków oraz do przestrzeni pogrzebowych.</Ferny_Coffin.description>
+<!--Cutrains-->
+<Ferny_Curtains.label>Zasłony</Ferny_Curtains.label>
+<Ferny_Curtains.description>Powieś zasłony z tkaniny, aby zapewnić prywatność i urozmaicić wystrój.</Ferny_Curtains.description>
+<!--Deck 2-->
+<Ferny_Deck.label>Taras</Ferny_Deck.label>
+<Ferny_Deck.description>Buduj podwyższone drewniane tarasy na większości rodzajów terenu.</Ferny_Deck.description>
+<!--Det Boglegs-->
+<Ferny_TongoTable.label>Stół do gry w Tongo</Ferny_TongoTable.label>
+<Ferny_TongoTable.description>Zbuduj stół do gry strategicznej w tongo.</Ferny_TongoTable.description>
+<!--Eccentric Extras Beach Stuff-->
+<Ferny_BeachBall.label>Piłka plażowa</Ferny_BeachBall.label>
+<Ferny_BeachBall.description>Zrób nadmuchiwane piłki do beztroskiej zabawy na plaży.</Ferny_BeachBall.description>
+<Ferny_BeachChair.label>Krzesło plażowe</Ferny_BeachChair.label>
+<Ferny_BeachChair.description>Zbuduj składane krzesła do relaksu na świeżym powietrzu.</Ferny_BeachChair.description>
+<Ferny_BeachUmbrella.label>Parasol plażowy</Ferny_BeachUmbrella.label>
+<Ferny_BeachUmbrella.description>Zbuduj szerokie parasole zapewniające cień i komfort na świeżym powietrzu.</Ferny_BeachUmbrella.description>
+<!-- Erin Decorations -->
+<Ferny_CatTower.label>Drapaki dla kotów</Ferny_CatTower.label>
+<Ferny_CatTower.description>Zbuduj miękkie wieże, po których koty będą mogły się wspinać, odpoczywać i które będą mogły uznać za swoje.</Ferny_CatTower.description>
+
+<!-- Erin Japanese Furniture -->
+
+<!-- Erin Japanese Furniture + Polyamory Beds -->
+
+<!-- Helixien Gas -->
+<Ferny_GasSunLamp.label>Lampa słoneczna na helixien</Ferny_GasSunLamp.label>
+<Ferny_GasSunLamp.description>Przekształcaj światło z rur helixien w intensywne oświetlenie dla upraw prowadzonych pod dachem.</Ferny_GasSunLamp.description>
+
+
+<!-- Lanterns Continued -->
+<Ferny_ElectricLanterns.label>Elektryczne latarnie</Ferny_ElectricLanterns.label>
+<Ferny_ElectricLanterns.description>Umieść żarówki z własnym zasilaniem w ozdobnych kloszach wiszących, rozmieszczając je pojedynczo lub w świątecznych łańcuchach.</Ferny_ElectricLanterns.description>
+
+<!-- MUS SpaceBase -->
+
+<!-- Mahjong Table -->
+<Ferny_Mahjong.label>Stół do Mahjonga</Ferny_Mahjong.label>
+<Ferny_Mahjong.description>Zagraj w wciągającą grę w mahjonga przy nowych stołach w swojej kolonii.</Ferny_Mahjong.description>
+
+<!-- Medieval Overhaul -->
+<Ferny_WickerBeds.label>Łóżka z wikliny</Ferny_WickerBeds.label>
+<Ferny_WickerBeds.description>Zbuduj proste łóżka z wikliny do pierwszych sypialni.</Ferny_WickerBeds.description>
+<Ferny_StrawBeds.label>Słomiane łóżka</Ferny_StrawBeds.label>
+<Ferny_StrawBeds.description>Zbuduj łóżka wyściełane słomą jako etap przejściowy przed przejściem na materace z tkaniny.</Ferny_StrawBeds.description>
+<Ferny_CupAndDice.label>Kubek i kostki</Ferny_CupAndDice.label>
+<Ferny_CupAndDice.description>Stwórz średniowieczną grę losową, w którą gra się przy użyciu skórzanego kubka i kilku kości.</Ferny_CupAndDice.description>
+<Ferny_RimWar.label>Rim of war</Ferny_RimWar.label>
+<Ferny_RimWar.description>
+Zbuduj stół z miękkim blatem i obramowaniem do symulacji gry wojennej.</Ferny_RimWar.description>
+<Ferny_Tarocco.label>Stół do gry w tarocco</Ferny_Tarocco.label>
+<Ferny_Tarocco.description>Zbuduj stół przeznaczony do gier karcianych, takich jak Tarocco.</Ferny_Tarocco.description>
+<Ferny_ComfyBeds.label>Wygodne łóżka</Ferny_ComfyBeds.label>
+<Ferny_ComfyBeds.description>Stwórz bardziej miękkie i wygodniejsze łóżka, aby zapewnić lepszy wypoczynek.</Ferny_ComfyBeds.description>
+
+<!-- Misstall Furniture -->
+
+<!-- Museums -->
+<Ferny_PaddedBench.label>Ławka z wyściółką</Ferny_PaddedBench.label>
+<Ferny_PaddedBench.description>Zbuduj wyściełane ławki, które zapewnią wygodne miejsce do wspólnego siedzenia.</Ferny_PaddedBench.description>
+
+<!-- MyDogsHouse -->
+<Ferny_AnimalHouse.label>Budy dla zwierząt</Ferny_AnimalHouse.label>
+<Ferny_AnimalHouse.description>Zbuduj zadaszone budy i miski dla zwierząt trzymanych na zewnątrz.</Ferny_AnimalHouse.description>
+
+<!-- Panels and Frames -->
+<Ferny_DoorFraming.label>Ościeżnice</Ferny_DoorFraming.label>
+<Ferny_DoorFraming.description>Wykonaj ozdobne ościeżnice i niskie panele działowe, aby wykończyć progi wewnętrzne.</Ferny_DoorFraming.description>
+
+<!-- Ponpeco Kids Room -->
+<Ferny_Buntings.label>Chorągiewki</Ferny_Buntings.label>
+<Ferny_Buntings.description>Powieś kolorowe chorągiewki z tkaniny, aby ożywić wystrój pokoju dziecięcego i pokoju zabaw.</Ferny_Buntings.description>
+<Ferny_BabyMobile.label>Łapacz snów dla niemowląt</Ferny_BabyMobile.label>
+<Ferny_BabyMobile.description>Twórz delikatne łapacze snów wiszące nad łóżeczkiem do pokoi dziecięcych i sypialni niemowląt.</Ferny_BabyMobile.description>
+<Ferny_FairyLights.label>Wróżkowe światła</Ferny_FairyLights.label>
+<Ferny_FairyLights.description>Rozwieś w pokoju łańcuch malutkich świecących żarówek, aby nadać wnętrzu zabawny, dekoracyjny akcent.</Ferny_FairyLights.description>
+
+<!-- Ponpeco Sci-Fi -->
+<Ferny_SpacerFrames.label>Kosmiczne ramki</Ferny_SpacerFrames.label>
+<Ferny_SpacerFrames.description>Dowiedz się, jak budować zaawansowane ramy drzwiowe przeznaczone do bezpiecznych obiektów dystansowych i wnętrz statków kosmicznych.</Ferny_SpacerFrames.description>
+
+<!-- Steve's Doors -->
+<Ferny_SpacerDoors.label>Kosmiczne drzwi</Ferny_SpacerDoors.label>
+<Ferny_SpacerDoors.description>Skonstruuj drzwi w wysoko technologicznym stylu.</Ferny_SpacerDoors.description>
+
+<!-- VE Furniture -->
+<Ferny_ErgonomicChair.label>Krzesło ergonomiczne</Ferny_ErgonomicChair.label>
+<Ferny_ErgonomicChair.description>Zbuduj wyspecjalizowane krzesło biurowe stworzone z myślą o długich godzinach pracy w wygodnej pozycji.</Ferny_ErgonomicChair.description>
+<Ferny_ErgonomicBeds.label>Łóżka ergonomiczne</Ferny_ErgonomicBeds.label>
+<Ferny_ErgonomicBeds.description>Produkujemy nowoczesne, regulowane łóżka zaprojektowane z myślą o maksymalnym komforcie i odpowiednim podparciu kręgosłupa.</Ferny_ErgonomicBeds.description>
+<Ferny_SittingCushion.label>Poduszka do siedzenia</Ferny_SittingCushion.label>
+<Ferny_SittingCushion.description>Zrób prostą poduszkę podłogową, która zapewni wygodę podczas siedzenia nisko.</Ferny_SittingCushion.description>
+<Ferny_ArcadeMachine.label>Automat do gier</Ferny_ArcadeMachine.label>
+<Ferny_ArcadeMachine.description>Zbuduj masywną szafkę z grami zręcznościowymi, zasilaną monetami, wyposażoną w starzejący się ekran CRT i kolorowe przyciski. Zapewni ona twoim kolonistom wiele godzin cyfrowej rozrywki.</Ferny_ArcadeMachine.description>
+<Ferny_DartsBoard.label>Tarcza do rzutek</Ferny_DartsBoard.label>
+<Ferny_DartsBoard.description>Zbuduj prostą tarczę do rzutek zamontowaną na stojaku – to świetny sposób dla kolonistów na ćwiczenie celności i koordynacji wzrokowo-ruchowej. Regularne korzystanie z niej stopniowo rozwija umiejętności strzeleckie.</Ferny_DartsBoard.description>
+<Ferny_RouletteTable.label>Stół do ruletki</Ferny_RouletteTable.label>
+<Ferny_RouletteTable.description>Zbuduj elegancki stół do gry w ruletkę. Ta gra, będąca ekscytującym połączeniem szczęścia i strategii, stanowi centralny element każdego ekskluzywnego kasyna lub miejsca spotkań towarzyskich.</Ferny_RouletteTable.description>
+<Ferny_IndustrialRadio.label>Radio przemysłowe</Ferny_IndustrialRadio.label>
+<Ferny_IndustrialRadio.description>Zbuduj urządzenie do odtwarzania muzyki i audycji radiowych. Nawet na planetach w większości niezamieszkałych często można znaleźć stary nadajnik, który nadaje coś przynajmniej w pewnym stopniu interesującego. Zapewnia to pasywną rozrywkę muzyczną tym, którzy mogą to usłyszeć.</Ferny_IndustrialRadio.description>
+<Ferny_LongwaveRadio.label>Radio długofalowe</Ferny_LongwaveRadio.label>
+<Ferny_LongwaveRadio.description>Zbuduj ulepszone, najnowocześniejsze radio o wysokiej jakości dźwięku, wykorzystujące zaawansowaną transmisję fal długich do odtwarzania krystalicznie czystej muzyki, audycji radiowych oraz transmisji międzygwiezdnych.</Ferny_LongwaveRadio.description>
+<Ferny_PersonalComputer.label>Komputer osobisty</Ferny_PersonalComputer.label>
+<Ferny_PersonalComputer.description>Zbuduj potężny komputer do użytku osobistego. Będzie on w stanie obsługiwać podstawowe oprogramowanie, które zapewni rozrywkę i pozwoli stopniowo rozwijać umiejętności intelektualne kolonistów.</Ferny_PersonalComputer.description>
+<Ferny_ModernComputer.label>Nowoczesny komputer</Ferny_ModernComputer.label>
+<Ferny_ModernComputer.description>Zbuduj elegancką stację komputerową o wysokiej wydajności. Wyposażoną w szybki procesor, ergonomiczną klawiaturę oraz wyraźny, płaski wyświetlacz. Pozwala ona kolonistom rozwijać swoje zdolności intelektualne, prowadzić badania i zapewnić sobie rozrywkę.</Ferny_ModernComputer.description>
+<Ferny_ModularCounter.label>Lada modułowa</Ferny_ModularCounter.label>
+<Ferny_ModularCounter.description>Zbuduj modułowe lady, aby wyposażyć miejsca pracy i pomieszczenia.</Ferny_ModularCounter.description>
+<Ferny_DeskLamp.label>Lampa biurkowa</Ferny_DeskLamp.label>
+<Ferny_DeskLamp.description>Małe obszary robocze należy oświetlać za pomocą kompaktowych opraw umieszczonych na pobliskich meblach.</Ferny_DeskLamp.description>
+
+<!-- VFE Architect -->
+<Ferny_PrettyWalls.label>Ładne ściany</Ferny_PrettyWalls.label>
+<Ferny_PrettyWalls.description>Zbuduj nieco ładniejsze ściany, aby stworzyć bardziej estetyczne otoczenie.</Ferny_PrettyWalls.description>
+
+
+<!-- VFE Settlers -->
+<Ferny_Chemlamp.label>Lampa na chem-paliwo</Ferny_Chemlamp.label>
+<Ferny_Chemlamp.description>Zbuduj proste lampy na chem-paliwo do oświetlenia wnętrz przy użyciu prostych rozwiązań.</Ferny_Chemlamp.description>
+<Ferny_ChemlampPost.label>Słup latarni chemicznej</Ferny_ChemlampPost.label>
+<Ferny_ChemlampPost.description>Zbuduj podwyższone słupy latarni na chem-paliwo wzdłuż pogranicznych ścieżek i ulic.</Ferny_ChemlampPost.description>
+<Ferny_FaroTable.label>Stół do gry w faro</Ferny_FaroTable.label>
+<Ferny_FaroTable.description>Zbuduj stół do gry w faro i inne saloonowe gry karciane.</Ferny_FaroTable.description>
+<Ferny_FiveFingerFilletTable.label>Stół do gry w nożyk</Ferny_FiveFingerFilletTable.label>
+<Ferny_FiveFingerFilletTable.description>Zbuduj stół do ryzykownych gier z nożami i rozrywek w stylu Dzikiego Zachodu.</Ferny_FiveFingerFilletTable.description>
+
+<!-- VFE Spacer -->
+<Ferny_InteractiveTables.label>Stoły interaktywne</Ferny_InteractiveTables.label>
+<Ferny_InteractiveTables.description>Zbuduj eleganckie stoły z wbudowanym inteligentnym wyświetlaczem. Siedząc przy takim stole, koloniści mogą podczas posiłków lub pracy korzystać z rozrywki w stylu pasywnej telewizji.</Ferny_InteractiveTables.description>
+<Ferny_OutdoorSolarLamp.label>Lampa solarna do użytku na zewnątrz</Ferny_OutdoorSolarLamp.label>
+<Ferny_OutdoorSolarLamp.description>Zbuduj elektryczną lampę stojącą, która oświetla otoczenie i świetnie sprawdza się na dużych przestrzeniach na świeżym powietrzu. Na jej szczycie zamontowany jest niewielki panel słoneczny. Ładuje się w ciągu dnia, gdy jest wyłączona, a w nocy włącza się automatycznie.</Ferny_OutdoorSolarLamp.description>
+<Ferny_AdvancedChair.label>Krzesło zaawansowane</Ferny_AdvancedChair.label>
+<Ferny_AdvancedChair.description>Stwórz wysokiej klasy rozwiązanie do siedzenia w stylu epoki kosmicznej, wyposażone w adaptacyjną amortyzację, funkcję korekty postawy oraz oddychające, inteligentne tkaniny. Zaprojektowane z myślą o maksymalnym długotrwałym komforcie i eleganckich, nowoczesnych wnętrzach.</Ferny_AdvancedChair.description>
+<Ferny_ModernCouches.label>Nowoczesne kanapy</Ferny_ModernCouches.label>
+<Ferny_ModernCouches.description>Stwórz eleganckie fotele i kanapy w stylu epoki kosmicznej. Dzięki zastosowaniu pianki z pamięcią kształtu, tapicerki z inteligentnej tkaniny oraz ergonomicznej konstrukcji zapewniają one najwyższy poziom komfortu i estetyki.</Ferny_ModernCouches.description>
+</LanguageData>

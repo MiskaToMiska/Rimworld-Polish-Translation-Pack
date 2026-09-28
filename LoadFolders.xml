@@ -13,5 +13,6 @@
     <li IfModActive="gt.sam.basicdoubledoors">Mods/basic-double-doors</li>
     <li IfModActive="mlie.somethingsfloat">Mods/some-things-float</li>
     <li IfModActive="mlie.easyupgrades">Mods/easy-upgrades</li>
+    <li IfModActive="ferny.progressionfurniture">Mods/progression-furniture</li>
   </v1.6>
 </loadFolders>
