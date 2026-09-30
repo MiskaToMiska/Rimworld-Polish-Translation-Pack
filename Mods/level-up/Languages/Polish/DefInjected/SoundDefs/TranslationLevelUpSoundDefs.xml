@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- This file is ignored if the language is English. Then the values on the defs are used directly. -->
+  <!-- This is here for translation reference only. -->
+
+  <LevelUpSound_Classic.label>Klasyczny</LevelUpSound_Classic.label>
+  <LevelUpSound_Ding.label>Ding</LevelUpSound_Ding.label>
+  <LevelUpSound_Negative.label>Negatywny</LevelUpSound_Negative.label>
+  <LevelUpSound_Punchy.label>Wyrazisty</LevelUpSound_Punchy.label>
+  <LevelUpSound_DistortedSiren.label>Zniekształcona syrena</LevelUpSound_DistortedSiren.label>
+  <LevelUpSound_Dissonance.label>Dysonans</LevelUpSound_Dissonance.label>
+  <LevelUpSound_Deception.label>Oszustwo</LevelUpSound_Deception.label>
+  <LevelUpSound_Jazzy.label>Jazzowy</LevelUpSound_Jazzy.label>
+  <LevelUpSound_Strum.label>Strunowy</LevelUpSound_Strum.label>
+  <LevelUpSound_TadaFanfare.label>Fanfara Tada</LevelUpSound_TadaFanfare.label>
+
+</LanguageData>

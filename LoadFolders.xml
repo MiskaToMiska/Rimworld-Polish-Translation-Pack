@@ -21,5 +21,6 @@
     <li IfModActive="ferny.progressiondrugs">Mods/progression-drugs</li>
     <li IfModActive="mehni.pickupandhaul">Mods/pick-up-and-haul</li>
     <li IfModActive="yayoflake.mahjong">Mods/mahjong-tables</li>
+    <li IfModActive="krafs.levelup">Mods/level-up</li>
   </v1.6>
 </loadFolders>

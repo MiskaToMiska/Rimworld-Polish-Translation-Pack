@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- This file is ignored if the language is English. Then the values on the defs are used directly. -->
+  <!-- This is here for translation reference only. -->
+
+  <LevelUpActionDef_Sound.label>Dźwięk</LevelUpActionDef_Sound.label>
+  <LevelUpActionDef_Sound.description>Puszcza dźwięk.</LevelUpActionDef_Sound.description>
+
+  <LevelUpActionDef_Animation.label>Animacje</LevelUpActionDef_Animation.label>
+  <LevelUpActionDef_Animation.description>Wyświetla prostą, ewentualnie animowaną grafikę na koloniście.</LevelUpActionDef_Animation.description>
+
+  <LevelUpActionDef_Message.label>Wiadomość tekstowa</LevelUpActionDef_Message.label>
+  <LevelUpActionDef_Message.description>Wyświetla wiadomość tekstową w górnym lewym rogu ekranu.</LevelUpActionDef_Message.description>
+
+  <LevelUpActionDef_OverheadMessage.label>Wiadomość nad głową</LevelUpActionDef_OverheadMessage.label>
+  <LevelUpActionDef_OverheadMessage.description>Wyświetla wiadomość tekstową na koloniście.</LevelUpActionDef_OverheadMessage.description>
+
+</LanguageData>
