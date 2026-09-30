@@ -20,5 +20,6 @@
     <li IfModActive="animal.bedsnew">Mods/more-animal-beds</li>
     <li IfModActive="ferny.progressiondrugs">Mods/progression-drugs</li>
     <li IfModActive="mehni.pickupandhaul">Mods/pick-up-and-haul</li>
+    <li IfModActive="yayoflake.mahjong">Mods/mahjong-tables</li>
   </v1.6>
 </loadFolders>
