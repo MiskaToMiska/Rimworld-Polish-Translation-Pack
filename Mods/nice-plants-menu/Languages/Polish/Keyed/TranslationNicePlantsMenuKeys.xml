@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NPM_Plants>Rośliny</NPM_Plants>
+  <NPM_Description>Opis</NPM_Description>
+  <NPM_PlantsNotMature>Rośliny prawdopodobnie nie osiągną dojrzałości przed końcem sezonu</NPM_PlantsNotMature>
+  <NPM_SkillNotSatisfied>Wymaga {0} poziomu umiejętności Uprawa, żeby zasiać</NPM_SkillNotSatisfied>
+  <NPM_ExpectedDateHarvest>Przewidywany dzień zbiorów</NPM_ExpectedDateHarvest>
+  <NPM_FormatDays>{0}\n{1} dni</NPM_FormatDays>
+  <NPM_GrowthTemperature>Temperatura wzrostu</NPM_GrowthTemperature>
+  <NPM_FoodFor>Jedzenie dla</NPM_FoodFor>
+  <NPM_Human>ludzi</NPM_Human>
+  <NPM_Animal>zwierząt</NPM_Animal>
+  <NPM_RequiresFertility>Niewystarczająca żyzność gleby ({0})</NPM_RequiresFertility>
+  <NPM_CanGrowIn>Może rosnąć</NPM_CanGrowIn>
+  <NPM_Indoors>wewnątrz</NPM_Indoors>
+  <NPM_Caves>w jaskiniach</NPM_Caves>
+  <NPM_Amount>Ilość</NPM_Amount>
+  <NPM_Cells>{0} pól</NPM_Cells>
+  <NPM_EnoughToFeed>Wystarczająco, żeby wyżywić</NPM_EnoughToFeed>
+  <NPM_HumanCount>{0} kolonistów</NPM_HumanCount>
+  <NPM_AllColonyPets>Zwierzęta kolonii</NPM_AllColonyPets>
+  <NPM_AnimalsInPen>Zwierzęta w zagrodzie</NPM_AnimalsInPen>
+  <NPM_MoreCells>Potrzeba o ({0}) więcej pól</NPM_MoreCells>
+  <NPM_DiesInLight>Więdnie w świetle</NPM_DiesInLight>
+  <NPM_RelatedRecipes>Powiązane przepisy</NPM_RelatedRecipes>
+  <NPM_Product>Produkt</NPM_Product>
+  <NPM_PerYear>{0}/rok</NPM_PerYear>
+  <NPM_Pollution>Zanieczyszczenie</NPM_Pollution>
+  <NPM_Required>Wymagane</NPM_Required>
+  <NPM_May>Może rosnąć</NPM_May>
+  <NPM_NoCells>Nie ma odpowiednich pól dla tej rośliny</NPM_NoCells>
+  <NPM_ShouldBeRoofed>Nie wszystkie pola są chronione przed światłem słonecznym</NPM_ShouldBeRoofed>
+  <NPM_MarketValueShort>Wartość rynkowa</NPM_MarketValueShort>
+  <NPM_OptimalTemperature>Optymalna</NPM_OptimalTemperature>
+  <NPM_TotalNutrition>Całkowita wartość odżywcza</NPM_TotalNutrition>
+  <NPM_None>Brak</NPM_None>
+  <NPM_Sensitivity>Wrażliwość gleby</NPM_Sensitivity>
+  <NPM_SkillRequirements>Wymagana umiejętność uprawy</NPM_SkillRequirements>
+
+  <NPM_FeedHumanTip>Jeśli całe zbiory zostaną przetworzone, w tym polu pojawi się</NPM_FeedHumanTip>
+  <NPM_CalculatedForAnimals>Obliczone dla zwierząt:</NPM_CalculatedForAnimals>
+  <NPM_DateCalcTip>Przewidywany czas wzrostu: {0} dni\n\nŚrednia żyzność gleby: {1}\nNasłonecznienie: {2}</NPM_DateCalcTip>
+  <NPM_DateCalcTipWarning>Czas wzrostu obliczony dla idealnej temperatury</NPM_DateCalcTipWarning>
+  <NPM_DateCalcTip_Sun>słońce</NPM_DateCalcTip_Sun>
+  <NPM_DateCalcTip_Lamp>lampa</NPM_DateCalcTip_Lamp>
+  <NPM_DateCalcTip_Darkness>ciemność</NPM_DateCalcTip_Darkness>
+
+  <NPM_Filter_Category_Food>Jedzenie</NPM_Filter_Category_Food>
+  <NPM_Filter_Category_Animals>Zwierzęta</NPM_Filter_Category_Animals>
+  <NPM_Filter_Category_Medicine>Medycyna</NPM_Filter_Category_Medicine>
+  <NPM_Filter_Category_Drug>Używki</NPM_Filter_Category_Drug>
+  <NPM_Filter_Category_Misc>Inne</NPM_Filter_Category_Misc>
+  <NPM_Filter_Category_Tree>Drzewa</NPM_Filter_Category_Tree>
+  <NPM_Filter_Category_Pollution>Zanieczyszczenie</NPM_Filter_Category_Pollution>
+  <NPM_Filter_Category_Cave>Jaskinie</NPM_Filter_Category_Cave>
+  <NPM_Filter_Category_Houseplant>Wewnątrz</NPM_Filter_Category_Houseplant>
+  <NPM_Filter_Mod_Any>Z modów</NPM_Filter_Mod_Any>
+
+  <NPM_Settings_CountInRow>Liczba roślin w rzędzie</NPM_Settings_CountInRow>
+  <NPM_Settings_SplitByCategories>Podziel rośliny na kategorie</NPM_Settings_SplitByCategories>
+  <NPM_Settings_ShowCategoryIcons>Pokaż ikony kategorii</NPM_Settings_ShowCategoryIcons>
+  <NPM_Settings_AlwaysShowAllInfo>Zawsze pokazuj wszystkie informacje</NPM_Settings_AlwaysShowAllInfo>
+  <NPM_Settings_AllowResizeWindow>Zezwól na zmianę rozmiaru okna</NPM_Settings_AllowResizeWindow>
+  <NPM_Settings_ReopenWindow>Ponownie otwórz okno, aby wprowadzić zmiany</NPM_Settings_ReopenWindow>
+</LanguageData>
