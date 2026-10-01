@@ -5,10 +5,10 @@
   <UseLegacyTab>Użyj starszej (poprzedniej) wersji interfejsu zakładki Zdrowie</UseLegacyTab>
   
   <ExtraOverlayEnabled>Włącz dodatkowe warstwy (kości mogą wizualnie nakładać się na narządy)</ExtraOverlayEnabled>
-  <AlwaysVanillaEyes>Oczy z gry vanilla (domyślne)</AlwaysVanillaEyes>
+  <AlwaysVanillaEyes>Oczy z domyślnej gry (vanilla)</AlwaysVanillaEyes>
   <NHT_ShowEyes>Pokaż oczy na manekinie kolonisty</NHT_ShowEyes>
   <AllowKidDollVariant>Zezwól na wariant manekina-dziecka</AllowKidDollVariant>
-  <UsingVanillaListRowColors>Używanie standardowych kolorów elementów w liście</UsingVanillaListRowColors>
+  <UsingVanillaListRowColors>Używaaj standardowych kolorów elementów listy</UsingVanillaListRowColors>
   <MedicineRowIcons>Alternatywny rząd wyboru medycyny</MedicineRowIcons>
   <MedicineRowIconsDesc>W trybie włączonym: ustawienia leków to pięć przycisków z ikonami (bez opieki, bez leków, ziołowe, przemysłowe, ultratechnologiczne) oraz ikona koła zębatego służąca do przywracania ustawień domyślnych. W trybie wyłączonym: klasyczny przycisk z tekstem i rozwijanym menu.</MedicineRowIconsDesc>
   
@@ -23,7 +23,7 @@
   <Reset>Resetuj</Reset>
   <AutoAssign>Auto przypisanie</AutoAssign>
 
-  <ProstheticNoMissingBodyPartsFill>Uzupełnienij brakujące części ciała za pomocą protezy</ProstheticNoMissingBodyPartsFill>
+  <ProstheticNoMissingBodyPartsFill>Uzupełnij brakujące części ciała za pomocą protezy</ProstheticNoMissingBodyPartsFill>
   <ShowImplantedOrgans>Pokaż wstawione organy</ShowImplantedOrgans>
   <KidAgeRange>Przedział wiekowy dziecka ({0} – {1})</KidAgeRange>
   <ShowAllMissingParts>Zawsze pokazuj wszystkie brakujące części ciała</ShowAllMissingParts>

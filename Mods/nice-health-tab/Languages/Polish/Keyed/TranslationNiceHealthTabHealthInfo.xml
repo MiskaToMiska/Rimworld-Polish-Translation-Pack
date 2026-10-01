@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NHT_NoAffectingEffects>Brak efektów wpływających na: {0}</NHT_NoAffectingEffects>
+  <NHT_HitChanceDamage>Szansa na zadanie obrażeń ({0}) w zależności od części ciała</NHT_HitChanceDamage>
+  <NHT_HitChanceGroupHead>Głowa</NHT_HitChanceGroupHead>
+  <NHT_HitChanceGroupTorso>Tułów</NHT_HitChanceGroupTorso>
+  <NHT_HitChanceGroupArms>Ręce</NHT_HitChanceGroupArms>
+  <NHT_HitChanceGroupLegs>Nogi</NHT_HitChanceGroupLegs>
+  <NHT_HitChanceCatHead>Głowa</NHT_HitChanceCatHead>
+  <NHT_HitChanceCatTorso>Tułów</NHT_HitChanceCatTorso>
+  <NHT_HitChanceCatArms>Ręce</NHT_HitChanceCatArms>
+  <NHT_HitChanceCatLegs>Nogi</NHT_HitChanceCatLegs>
+  <NHT_HitChanceCatOther>Inne</NHT_HitChanceCatOther>
+  <NHT_HitChanceKindSharp>Cięte</NHT_HitChanceKindSharp>
+  <NHT_HitChanceKindBlunt>Obuchowe</NHT_HitChanceKindBlunt>
+  <NHT_HitChanceBluntRange>obrażeń {0}–{1}</NHT_HitChanceBluntRange>
+  <NHT_HitChanceBluntRangeTip>40% szans, że obrażenia obuchowe przenoszą się do wewnątrz
+Obrażenia wtórne: {0}% otrzymanych obrażeń</NHT_HitChanceBluntRangeTip>
+  <NHT_HitChanceSharpChainTip>Ta część ciała z pewnością odniesie związane z tym obrażenia</NHT_HitChanceSharpChainTip>
+  <NHT_HitChanceBluntFinalTip>Ostatnia szansa na otrzymanie obrażeń: {0}</NHT_HitChanceBluntFinalTip>
+  <NHT_DiseaseChanceGroupAge>Choroby związane z wiekiem</NHT_DiseaseChanceGroupAge>
+  <NHT_DiseaseChanceGroupComp>Powikłania</NHT_DiseaseChanceGroupComp>
+  <NHT_DiseaseChanceGroupEpidemic>Epidemie</NHT_DiseaseChanceGroupEpidemic>
+  <NHT_DiseaseChanceNextYear>Prawdopodobieństwo zachorowania w ciągu najbliższego roku: {0}</NHT_DiseaseChanceNextYear>
+  <NHT_DiseaseChanceNextBirthday>Prawdopodobieństwo zachorowania w następne urodziny: {0}</NHT_DiseaseChanceNextBirthday>
+  <NHT_DiseaseChanceSource>Powikłanie {0}</NHT_DiseaseChanceSource>
+  <NHT_DiseaseChanceZero>Inne</NHT_DiseaseChanceZero>
+  <NHT_DiseaseChanceGeneImmune>odporność</NHT_DiseaseChanceGeneImmune>
+  <NHT_DiseaseChanceGeneImmuneTip>Gen {0} uniemożliwia zachorowanie na tę chorobę.</NHT_DiseaseChanceGeneImmuneTip>
+  <NHT_DiseaseChanceEpidemicBiome>Biom {0}: {1}</NHT_DiseaseChanceEpidemicBiome>
+  <NHT_DiseaseChanceDifficulty>Poziom trudności: {0}</NHT_DiseaseChanceDifficulty>
+  <NHT_ArmorNoCover>Nie jest chronione przez noszoną zbroję.</NHT_ArmorNoCover>
+  <NHT_TimeNever>Nigdy</NHT_TimeNever>
+  <NHT_TimeDays>d.</NHT_TimeDays>
+  <NHT_TimingSummary>Czas do całkowitego wyleczenia</NHT_TimingSummary>
+  <NHT_TimingSummaryTip>Szacowany czas potrzebny na wyleczenie wszystkich ran pionka. Każdy cykl leczenia faktycznie leczy losową ranę, więc podany czas jest raczej przybliżoną wartością oczekiwaną niż dokładnym czasem trwania.</NHT_TimingSummaryTip>
+  <NHT_TimingPartWhole>Do pełnego wyleczenia: {0}</NHT_TimingPartWhole>
+  <NHT_TimingInjuryLine>{0}: {1}</NHT_TimingInjuryLine>
+  <NHT_TimingBleedTip>Krwawienie ustanie samoistnie za {0}, rana zagoi się za {1}.</NHT_TimingBleedTip>
+  <NHT_TimingRecoveryTitle>Pełny powrót do zdrowia: {0}</NHT_TimingRecoveryTitle>
+  <NHT_TimingRecoveryNone>Pełne wyleczenie: nie jest wymagane</NHT_TimingRecoveryNone>
+  <NHT_TimingRecoveryRegen>Szybkość gojenia: {0}</NHT_TimingRecoveryRegen>
+  <NHT_TimingRecoveryTip>Czas do pełnego wyleczenia pionka oraz tempo gojenia się wszystkich ran.</NHT_TimingRecoveryTip>
+  <NHT_TimingRecoveryRateBad>Złe</NHT_TimingRecoveryRateBad>
+  <NHT_TimingRecoveryRateNormal>Normalne</NHT_TimingRecoveryRateNormal>
+  <NHT_TimingRecoveryRateGood>Dobre</NHT_TimingRecoveryRateGood>
+  <NHT_TimingRecoveryRateFast>Szybkie</NHT_TimingRecoveryRateFast>
+    <NHT_TimingRecoveryRateTotal>Szybkość gojenia: {0}/dzień</NHT_TimingRecoveryRateTotal>
+  <NHT_TimingRecoveryRateLabel>Szybkość gojenia:</NHT_TimingRecoveryRateLabel>
+  <NHT_TimingRecoveryRateRegen>Regeneracja: {0}/dzień</NHT_TimingRecoveryRateRegen>
+  <NHT_TimingRecoveryRateLying>Leżenie: {0}/dzień</NHT_TimingRecoveryRateLying>
+  <NHT_TimingRecoveryRateBed>Leżenie w łóżku: {0}/dzień</NHT_TimingRecoveryRateBed>
+  <NHT_TimingRecoveryRateTend>Opieka: {0}/dzień</NHT_TimingRecoveryRateTend>
+  <NHT_TimingRecoveryRateGenes>Geny: {0}/dzień</NHT_TimingRecoveryRateGenes>
+  <NHT_DiseasePrognosis>Prawdopodobny wynik:</NHT_DiseasePrognosis>
+  <NHT_DiseasePrognosisImmuneWins>odporność wygrywa</NHT_DiseasePrognosisImmuneWins>
+  <NHT_DiseasePrognosisDiseaseWins>choroba wygrywa</NHT_DiseasePrognosisDiseaseWins>
+  <NHT_DiseasePrognosisDepends>zależy od leczenia</NHT_DiseasePrognosisDepends>
+  <NHT_DiseasePrognosisHasChances>istnieje szansa</NHT_DiseasePrognosisHasChances>
+  <NHT_DiseasePrognosisMinQuality>wymagana jakość leczenia ≥ {0}%</NHT_DiseasePrognosisMinQuality> 
+  <NHT_DiseasePrognosisImmunityGain>Szybkość zdobywania odporności: {0}</NHT_DiseasePrognosisImmunityGain>
+  <NHT_AssignOperation>Przypisz</NHT_AssignOperation>
+  <NHT_CancelOperation>Anuluj</NHT_CancelOperation>
+  <NHT_SurgerySuccessChance>Szansa na sukces</NHT_SurgerySuccessChance>
+  <NHT_SurgeryDeathOnFailChance>Szansa na śmierć przy niepowodzeniu</NHT_SurgeryDeathOnFailChance>
+  <NHT_SurgeryFinalChanceTitle>Szansa na sukces operacji: </NHT_SurgeryFinalChanceTitle>
+  <NHT_SurgeryChanceBase>Najlepsza szansa</NHT_SurgeryChanceBase>
+  <NHT_SurgeryChanceSurgeon>Najlepszy chirurg</NHT_SurgeryChanceSurgeon>
+  <NHT_SurgeryChanceBed>Łóżko medyczne</NHT_SurgeryChanceBed>
+  <NHT_SurgeryChanceBedQuality>Jakość łóżka</NHT_SurgeryChanceBedQuality>
+  <NHT_SurgeryChanceBedCleanliness>Czystość</NHT_SurgeryChanceBedCleanliness>
+  <NHT_SurgeryChanceBedLight>Oświetlenie</NHT_SurgeryChanceBedLight>
+  <NHT_SurgeryChanceBedIndoors>Wewnątrz</NHT_SurgeryChanceBedIndoors>
+  <NHT_SurgeryChanceBedOutdoors>Na zewnątrz</NHT_SurgeryChanceBedOutdoors>
+  <NHT_SurgeryChanceBedBonus>Bonusy</NHT_SurgeryChanceBedBonus>
+  <NHT_SurgeryChanceInspiration>Inspiracja ({0})</NHT_SurgeryChanceInspiration>
+  <NHT_SurgeryChanceLimit>Limit sukcesów: nie więcej niż {0}</NHT_SurgeryChanceLimit>
+  <NHT_SurgeryChanceOtherSurgeons>Inni chirurdzy:</NHT_SurgeryChanceOtherSurgeons>
+  <NHT_SurgeryChanceNoSurgeon>Brak chirurga zdolnego do przeprowadzenia operacji</NHT_SurgeryChanceNoSurgeon>
+  <NHT_PawnPriceChange>Cena kolonisty</NHT_PawnPriceChange>
+  <NHT_DeathRow>Śmierć</NHT_DeathRow>
+  <NHT_DeathRowTip>Kolonista zginie po tej operacji\npozostałe zadania nie zostaną wykonane</NHT_DeathRowTip>
+  <NHT_IncompatibleGroup>Niezgodne</NHT_IncompatibleGroup>
+  <NHT_IncompatibleWarning>Niezgodne z przypisanymi zadaniami lub zainstalowanymi protezami</NHT_IncompatibleWarning>
+  <NHT_IncompatibleGroupTip>Te operacje są niezgodne z już przypisanymi zadaniami lub zainstalowaną protezą: miejsce to jest już zajęte lub zostanie zajęte przez wcześniejszą operację. Będą one możliwe do wykonania po usunięciu kolidujących zadań lub starej protezy.</NHT_IncompatibleGroupTip>
+  <NHT_TaskIncompatibleTip>Ta operacja jest niezgodna z wcześniejszą operacją: {0}. Przeciągnij zadanie nad operację powodującą konflikt.</NHT_TaskIncompatibleTip>
+  <NHT_OptionIncompatibleTip>Ta operacja jest niezgodna z już przypisanymi zadaniami lub zainstalowaną protezą: część jest już zajęta lub zostanie zajęta przez wcześniejszą operację. Operacja ta będzie możliwa do wykonania po usunięciu kolidujących zadań lub starej protezy.</NHT_OptionIncompatibleTip>
+  <NHT_TaskAddedIncompatible>Operacja "{0}" jest niezgodna z już przypisanymi zadaniami. Przeciągnij ją wyżej na liście zadań.</NHT_TaskAddedIncompatible>
+  <NHT_BodyPartFilterTip>Użyj {0}, aby filtrować według konkretnej części ciała.</NHT_BodyPartFilterTip>
+  <NHT_ModFilterTip>Użyj {0}, aby filtrować według modyfikacji lub DLC.</NHT_ModFilterTip>
+  <NHT_DevInstall>Zainstaluj implant</NHT_DevInstall>
+  <NHT_DevRemove>Usuń część</NHT_DevRemove>
+  <NHT_DevAddHediff>Dodaj plik hediff</NHT_DevAddHediff>
+  <NHT_DollIndexWarningTitle>Wykryto niezgodne ciało</NHT_DollIndexWarningTitle>
+  <NHT_DollIndexWarningTip>Ciało "{0}" nie pasuje do manekina: indeksy części są przesunięte lub pomieszane, przez co manekin wyświetla niewłaściwe części. Opcja "Automatyczna naprawa" odbuduje mapowanie na podstawie nazw części; jeśli to nie pomoże, ustaw je ręcznie w zakładce "Części ciała" w opcjach modyfikacji.</NHT_DollIndexWarningTip>
+  <NHT_DollFixIgnore>Ignoruj</NHT_DollFixIgnore>
+  <NHT_DollFixAuto>Automatyczna naprawa</NHT_DollFixAuto>
+  <NHT_MedicineLabel>Lek</NHT_MedicineLabel>
+</LanguageData>
