@@ -26,6 +26,8 @@
     <li IfModActive="guezzy.opendatdoor">Mods/open-dat-door</li>
     <li IfModActive="andromeda.niceplantsmenu">Mods/nice-plants-menu</li>
     <li IfModActive="andromeda.nicehealthtab">Mods/nice-health-tab</li>
+    <li IfModActive="zylle.clocks">Mods/clocks</li>
+    <li IfModActive="badoaks.meatonastick">Mods/meat-on-a-stick</li>
     
   </v1.6>
 </loadFolders>
