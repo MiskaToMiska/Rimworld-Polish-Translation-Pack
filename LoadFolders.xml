@@ -23,5 +23,6 @@
     <li IfModActive="yayoflake.mahjong">Mods/mahjong-tables</li>
     <li IfModActive="krafs.levelup">Mods/level-up</li>
     <li IfModActive="kaitorisenkou.ballgames">Mods/ball-games</li>
+    <li IfModActive="guezzy.opendatdoor">Mods/open-dat-door</li>
   </v1.6>
 </loadFolders>
