@@ -1,0 +1,65 @@
+<LanguageData>
+    <Ferny_Shelves.label>Półki</Ferny_Shelves.label>
+    <Ferny_Shelves.description>Buduj półki, aby magazynować przedmioty</Ferny_Shelves.description>
+    <!-- Adaptive Primitive Storage -->
+    <Ferny_WovenBaskets.label>Kosze plecione</Ferny_WovenBaskets.label>
+    <Ferny_WovenBaskets.description>Naucz się wyplatać z siana proste koszyczki do przechowywania niewielkich ilości przedmiotów.</Ferny_WovenBaskets.description>
+    <Ferny_Granary.label>Spichlerz</Ferny_Granary.label>
+    <Ferny_Granary.description>Naucz się budować proste magazyny na zboże, służące do przechowywania plonów.</Ferny_Granary.description>
+    <Ferny_StorageTent.label>Namiot magazynowy</Ferny_StorageTent.label>
+    <Ferny_StorageTent.description>Naucz się budować zadaszony namiot, który ochroni przechowywane towary przed warunkami atmosferycznymi.</Ferny_StorageTent.description>
+
+
+    <!-- MO or Reel -->
+    <Ferny_Boxes.label>Skrzynie</Ferny_Boxes.label>
+    <Ferny_Boxes.description>Buduj różne rodzaje drewnianych skrzyń do przechowywania zasobów.</Ferny_Boxes.description>
+    <Ferny_Barrels.label>Beczki</Ferny_Barrels.label>
+    <Ferny_Barrels.description>Buduj różne rodzaje drewnianych beczek do przechowywania zasobów.</Ferny_Barrels.description>
+    <Ferny_WeaponRack.label>Stojak na broń</Ferny_WeaponRack.label>
+    <Ferny_WeaponRack.description>Buduj proste stojaki na broń, aby utrzymać porządek i zapewnić łatwy dostęp do broni.</Ferny_WeaponRack.description>
+
+    <!-- Manipulator Beam Emitter -->
+    <Ferny_ManipulatorBeamEmitter.label>Nadajnik wiązki manipulatora</Ferny_ManipulatorBeamEmitter.label>
+    <Ferny_ManipulatorBeamEmitter.description>Zbuduj emiter sterowany z konsoli, który przemieszcza przedmioty za pomocą wiązek manipulatora.</Ferny_ManipulatorBeamEmitter.description>
+    <Ferny_AutomatedManipulatorBeamEmitter.label>Zautomatyzowany emiter wiązki manipulatora</Ferny_AutomatedManipulatorBeamEmitter.label>
+    <Ferny_AutomatedManipulatorBeamEmitter.description>Zautomatyzuj działanie emiterów wiązki manipulatora, aby umożliwić przemieszczanie przedmiotów bez udziału operatora.</Ferny_AutomatedManipulatorBeamEmitter.description>
+
+    <!-- Medieval Overhaul -->
+    <Ferny_Sacks.label>Worki</Ferny_Sacks.label>
+    <Ferny_Sacks.description>Twórz worki z tkaniny i bele z ładunku do przechowywania zasobów.</Ferny_Sacks.description>
+    <Ferny_Bales.label>Bele</Ferny_Bales.label>
+    <Ferny_Bales.description>Twórz bele z lnu, siana i słomy, aby kompaktowo przechowywać zasoby.</Ferny_Bales.description>
+    <Ferny_Chest.label>Skrzynia</Ferny_Chest.label>
+    <Ferny_Chest.description>Zbuduj misternie wykonaną drewnianą skrzynię do przechowywania przedmiotów.</Ferny_Chest.description>
+    <Ferny_Strongbox.label>Skrzynia pancerna</Ferny_Strongbox.label>
+    <Ferny_Strongbox.description>Zbuduj solidną skrzynię na więcej przedmiotów.</Ferny_Strongbox.description>
+    <Ferny_RoyalChest.label>Królewska skrzynia</Ferny_RoyalChest.label>
+    <Ferny_RoyalChest.description>Zbuduj luksusową królewską skrzynię do przechowywania wielu przedmiotów.</Ferny_RoyalChest.description>
+
+    <!-- Neat Storage -->
+    <Ferny_Pallets.label>Palety</Ferny_Pallets.label>
+    <Ferny_Pallets.description>Zbuduj proste, podwyższone drewniane platformy, aby wygodniej przechowywać surowce.</Ferny_Pallets.description>
+    <Ferny_Safe.label>Sejf</Ferny_Safe.label>
+    <Ferny_Safe.description>Zbuduj bezpieczną szafkę do przechowywania cennych metali.</Ferny_Safe.description>
+    <Ferny_Drum.label>Beczka</Ferny_Drum.label>
+    <Ferny_Drum.description>Zbuduj metalowe beczki do kompaktowego przechowywania surowców.</Ferny_Drum.description>
+
+    <!-- Odyssey -->
+    <Ferny_OutfitStands.label>Stojaki na stroje</Ferny_OutfitStands.label>
+    <Ferny_OutfitStands.description>Naucz się, jak zbudować stojaki na stroje do przechowywania i eksponowania kompletów ubrań.</Ferny_OutfitStands.description>
+
+    <!-- Ponpeco Furnitures Sci-Fi -->
+    <Ferny_DisplayPod.label>Witryna wystawowa</Ferny_DisplayPod.label>
+    <Ferny_DisplayPod.description>Twórz witryny wystawowe, aby zaprezentować wyjątkowe przedmioty.</Ferny_DisplayPod.description>
+
+    <!-- Reel Storage -->
+    <Ferny_AnimalFeeder.label>Karmnik dla zwierząt</Ferny_AnimalFeeder.label>
+    <Ferny_AnimalFeeder.description>Zbuduj pojemnik na paszę, aby zapewnić pożywienie dla zwierząt hodowlanych.</Ferny_AnimalFeeder.description>
+    <Ferny_MeatHook.label>Hak do mięsa</Ferny_MeatHook.label>
+    <Ferny_MeatHook.description>Zbuduj haki do mięsa, aby zawieszać na nich mięso i zwłoki.</Ferny_MeatHook.description>
+
+
+    <!-- SBZ Fridge or Reel -->
+    <Ferny_Fridges.label>Lodówki</Ferny_Fridges.label>
+    <Ferny_Fridges.description>Produkuj agregaty chłodnicze, które pozwalają dłużej zachować świeżość żywności.</Ferny_Fridges.description>
+</LanguageData>
