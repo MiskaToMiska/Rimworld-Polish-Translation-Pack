@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NHT_SettingsCategory>Nice Health Tab</NHT_SettingsCategory>
+  
+  <UseLegacyTab>Użyj starszej (poprzedniej) wersji interfejsu zakładki Zdrowie</UseLegacyTab>
+  
+  <ExtraOverlayEnabled>Włącz dodatkowe warstwy (kości mogą wizualnie nakładać się na narządy)</ExtraOverlayEnabled>
+  <AlwaysVanillaEyes>Oczy z gry vanilla (domyślne)</AlwaysVanillaEyes>
+  <NHT_ShowEyes>Pokaż oczy na manekinie kolonisty</NHT_ShowEyes>
+  <AllowKidDollVariant>Zezwól na wariant manekina-dziecka</AllowKidDollVariant>
+  <UsingVanillaListRowColors>Używanie standardowych kolorów elementów w liście</UsingVanillaListRowColors>
+  <MedicineRowIcons>Alternatywny rząd wyboru medycyny</MedicineRowIcons>
+  <MedicineRowIconsDesc>W trybie włączonym: ustawienia leków to pięć przycisków z ikonami (bez opieki, bez leków, ziołowe, przemysłowe, ultratechnologiczne) oraz ikona koła zębatego służąca do przywracania ustawień domyślnych. W trybie wyłączonym: klasyczny przycisk z tekstem i rozwijanym menu.</MedicineRowIconsDesc>
+  
+  <NHT_CommonTab>Domyślne</NHT_CommonTab>
+  <NHT_BodyPartsTab>Części ciała</NHT_BodyPartsTab>
+  
+  <AssignDefaultBodyParts>Przypisz części odpowiednie dla innego typu ciała</AssignDefaultBodyParts>
+  <DefaultBodyParts>Domyślne części ciała:</DefaultBodyParts>
+  <BodyPartsSuff>części ciała:</BodyPartsSuff>
+  
+  <ResetAll>Resetuj wszystko</ResetAll>
+  <Reset>Resetuj</Reset>
+  <AutoAssign>Auto przypisanie</AutoAssign>
+
+  <ProstheticNoMissingBodyPartsFill>Uzupełnienij brakujące części ciała za pomocą protezy</ProstheticNoMissingBodyPartsFill>
+  <ShowImplantedOrgans>Pokaż wstawione organy</ShowImplantedOrgans>
+  <KidAgeRange>Przedział wiekowy dziecka ({0} – {1})</KidAgeRange>
+  <ShowAllMissingParts>Zawsze pokazuj wszystkie brakujące części ciała</ShowAllMissingParts>
+  <ShowUnavailableOperations>Pokaż niedostępne operacje</ShowUnavailableOperations>
+  <NHT_UseOperationsDropdown>Dodaj operacje za pomocą menu rozwijanego</NHT_UseOperationsDropdown>
+</LanguageData>

@@ -25,6 +25,7 @@
     <li IfModActive="kaitorisenkou.ballgames">Mods/ball-games</li>
     <li IfModActive="guezzy.opendatdoor">Mods/open-dat-door</li>
     <li IfModActive="andromeda.niceplantsmenu">Mods/nice-plants-menu</li>
+    <li IfModActive="andromeda.nicehealthtab">Mods/nice-health-tab</li>
     
   </v1.6>
 </loadFolders>
