@@ -22,5 +22,6 @@
     <li IfModActive="mehni.pickupandhaul">Mods/pick-up-and-haul</li>
     <li IfModActive="yayoflake.mahjong">Mods/mahjong-tables</li>
     <li IfModActive="krafs.levelup">Mods/level-up</li>
+    <li IfModActive="kaitorisenkou.ballgames">Mods/ball-games</li>
   </v1.6>
 </loadFolders>
