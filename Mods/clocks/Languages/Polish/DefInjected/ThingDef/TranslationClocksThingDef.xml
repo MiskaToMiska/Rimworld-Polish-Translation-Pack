@@ -1,0 +1,13 @@
+<LanguageData>
+
+    <ZCL_AlarmClock.label>Klasyczny budzik</ZCL_AlarmClock.label>
+    <ZCL_AlarmClock.description>Mały zegar, który można postawić na stole. Budzik dzwoni o 6 rano.</ZCL_AlarmClock.description>
+    <ZCL_CuckooClock.label>Zegar z kukułką</ZCL_CuckooClock.label>
+    <ZCL_CuckooClock.description>Wolnostojący zegar z kukułką, który wskazuje godzinę. Dzwoni o godz. 6:00 rano i 6:00 wieczorem.</ZCL_CuckooClock.description>
+    <ZCL_ElectronicAlarmClock.label>Budzik elektryczny</ZCL_ElectronicAlarmClock.label>
+    <ZCL_ElectronicAlarmClock.description>Mały zegar, który można postawić na stole, o eleganckim, nowoczesnym wyglądzie. Budzik dzwoni o 6 rano.</ZCL_ElectronicAlarmClock.description>
+    <ZCL_GrandfatherClock.label>Zegar stojący</ZCL_GrandfatherClock.label>
+    <ZCL_GrandfatherClock.description>Wysoki zegar, który wskazuje godzinę. Bije w południe i o północy.</ZCL_GrandfatherClock.description>
+    <ZCL_ModernGrandfatherClock.label>Nowoczesny zegar stojący</ZCL_ModernGrandfatherClock.label>
+    <ZCL_ModernGrandfatherClock.description>Wysoki zegar wskazujący godzinę. Charakteryzuje się nowoczesnym wyglądem. Bije w południe i o północy.</ZCL_ModernGrandfatherClock.description>
+</LanguageData>

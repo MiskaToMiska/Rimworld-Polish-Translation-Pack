@@ -24,5 +24,13 @@
     <li IfModActive="krafs.levelup">Mods/level-up</li>
     <li IfModActive="kaitorisenkou.ballgames">Mods/ball-games</li>
     <li IfModActive="guezzy.opendatdoor">Mods/open-dat-door</li>
+    <li IfModActive="andromeda.niceplantsmenu">Mods/nice-plants-menu</li>
+    <li IfModActive="andromeda.nicehealthtab">Mods/nice-health-tab</li>
+    <li IfModActive="zylle.clocks">Mods/clocks</li>
+    <li IfModActive="badoaks.meatonastick">Mods/meat-on-a-stick</li>
+    <li IfModActive="ferny.progressionstorage">Mods/progression-storage</li>
+    <li IfModActive="ferny.progressioncore">Mods/progression-core</li>
+    <li IfModActive="ferny.progressionscenarios">Mods/progression-scenarios</li>
+    
   </v1.6>
 </loadFolders>
