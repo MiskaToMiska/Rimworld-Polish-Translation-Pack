@@ -34,5 +34,8 @@
     <li>andromeda.nicehealthtab</li>
     <li>zylle.clocks</li>
     <li>badoaks.meatonastick</li>
+    <li>ferny.progressionscenarios</li>
+    <li>ferny.progressionstorage</li>
+    <li>ferny.progressioncore</li>
   </loadAfter>
 </ModMetaData>
