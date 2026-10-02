@@ -7,7 +7,7 @@
 	<PS_SelectFromScenario>Wybierz spośród 1 scenariusza</PS_SelectFromScenario>
 	<PS_ScenarioCount>{0} scenariuszy</PS_ScenarioCount>
 	<PS_ScenarioCountOne>1 scenariusz</PS_ScenarioCountOne>
-	<PS_TechLevelSidebarHeader>Technologia początkowa</PS_TechLevelSidebarHeader>
+	<PS_TechLevelSidebarHeader>Technologia na start</PS_TechLevelSidebarHeader>
 	<PS_HideTechLevelSidebar>Ukryj technologię początkową</PS_HideTechLevelSidebar>
 	<PS_ShowTechLevelSidebar>Pokaż technologię początkową</PS_ShowTechLevelSidebar>
 	<PS_Recommended>ZALECANE</PS_Recommended>
@@ -15,7 +15,7 @@
 	<PS_UnlockPreviousEras>Odblokować wszystkie technologie z poprzednich epok?</PS_UnlockPreviousEras>
 	<PS_UnlockPreviousErasDesc>To ustawienie określa, czy wszystkie projekty badawcze z epok poprzedzających {0} będą dostępne na początku gry. Pamiętaj, że może to sprawić, że gra będzie wydawać się przepełniona treścią. Wyłączenie tej opcji zapewni ci jedynie niezbędne elementy z poprzednich epok.</PS_UnlockPreviousErasDesc>
 	<PS_TechLevelDesc_Animal>Ogniska, patyki i kamienie. Trudne.</PS_TechLevelDesc_Animal>
-	<PS_TechLevelDesc_Neolithic>Plemiona, republiki i cywilizacja. Podstawowe.</PS_TechLevelDesc_Neolithic>
+	<PS_TechLevelDesc_Neolithic>Plemiona, republiki i cywilizacje. Podstawowe.</PS_TechLevelDesc_Neolithic>
 	<PS_TechLevelDesc_Medieval>Zamki, rycerze i kusze. Krwawe.</PS_TechLevelDesc_Medieval>
 	<PS_TechLevelDesc_Industrial>Broń palna, elektryczność i przemysł. Klasyczne.</PS_TechLevelDesc_Industrial>
 	<PS_TechLevelDesc_Spacer>Statki grawitacyjne, mechy i kosmos. Zaawansowane.</PS_TechLevelDesc_Spacer>
