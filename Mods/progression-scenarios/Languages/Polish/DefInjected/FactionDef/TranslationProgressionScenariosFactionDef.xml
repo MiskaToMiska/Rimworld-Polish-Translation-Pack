@@ -1,0 +1,28 @@
+<LanguageData>
+    <!--SPACERS-->
+    <Ferny_Spacers.label>Zaawansowani przybysze</Ferny_Spacers.label>
+    <Ferny_Spacers.description>Kolonia niedawno przybyłych kosmicznych z innych światów.</Ferny_Spacers.description>
+    <Ferny_Spacers.leaderTitle>przywódca</Ferny_Spacers.leaderTitle>
+    <Ferny_Spacers.pawnSingular>kolonista</Ferny_Spacers.pawnSingular>
+    <Ferny_Spacers.pawnsPlural>koloniści</Ferny_Spacers.pawnsPlural>
+    <!--ULTRAS-->
+    <Ferny_Ultras.label>Ultra przybysze</Ferny_Ultras.label>
+    <Ferny_Ultras.description>Kolonia przybyszów z innych światów, dysponujących ultra-zaawansowaną technologią.</Ferny_Ultras.description>
+    <Ferny_Ultras.leaderTitle>przywódca</Ferny_Ultras.leaderTitle>
+    <Ferny_Ultras.pawnSingular>kolonista</Ferny_Ultras.pawnSingular>
+    <Ferny_Ultras.pawnsPlural>koloniści</Ferny_Ultras.pawnsPlural>
+    
+    <!--MODS-->
+    <!--Alpha books-->
+     <Ferny_MedievalArchivists.label>Nowe archiwum</Ferny_MedievalArchivists.label>
+    <Ferny_MedievalArchivists.description>Mała, uczona społeczność żyjąca wśród starych regałów, upadłych królestw i upartego atramentu.</Ferny_MedievalArchivists.description>
+    <Ferny_MedievalArchivists.leaderTitle>przywódca</Ferny_MedievalArchivists.leaderTitle>
+    <Ferny_MedievalArchivists.pawnSingular>skryba</Ferny_MedievalArchivists.pawnSingular>
+    <Ferny_MedievalArchivists.pawnsPlural>skrybowie</Ferny_MedievalArchivists.pawnsPlural>
+    <!--orbital station start-->
+    <Ferny_MedievalOrbitalSurvivors.label>Nowe gwiezdne domostwo</Ferny_MedievalOrbitalSurvivors.label>
+    <Ferny_MedievalOrbitalSurvivors.description>Niewielka rodzina, która utknęła na niszczejącej stacji kosmicznej nad kresami.</Ferny_MedievalOrbitalSurvivors.description>
+    <Ferny_MedievalOrbitalSurvivors.leaderTitle>przywódca</Ferny_MedievalOrbitalSurvivors.leaderTitle>
+    <Ferny_MedievalOrbitalSurvivors.pawnSingular>ocalały</Ferny_MedievalOrbitalSurvivors.pawnSingular>
+    <Ferny_MedievalOrbitalSurvivors.pawnsPlural>ocalaleńcy</Ferny_MedievalOrbitalSurvivors.pawnsPlural>
+</LanguageData>
