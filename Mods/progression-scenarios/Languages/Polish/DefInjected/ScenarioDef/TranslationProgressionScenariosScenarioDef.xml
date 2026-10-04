@@ -6,6 +6,7 @@
     <SpacerCrashlanded.scenario.description>Wszyscy trzej budzicie się w swoich kapsułach do hibernacji przy dźwiękach syren i trzaskającego metalu. Ostatnią rzeczą, jaką pamiętacie, było przekazywanie przez statek do waszych umysłów informacji dotyczących wiedzy o waszej ojczyźnie. Ledwo zdążyliście dotrzeć do kapsuł ratunkowych, zanim statek został rozerwany na strzępy. Jakiś czas później lądujecie na tej nieznanej planecie na skraju galaktyki. Czy odbudujecie ją na wzór ulotnego obrazu waszej ojczyzny?</SpacerCrashlanded.scenario.description>
     <SpacerCrashlanded.scenario.name>Zaawansowani rozbitkowie</SpacerCrashlanded.scenario.name>
     <SpacerCrashlanded.scenario.summary>Trzech ocalałych z awaryjnego lądowania, posiadających wiedzę o cywilizacji kosmicznej. Przejdź dalej!</SpacerCrashlanded.scenario.summary>
+    <!-- <SpacerCrashlanded.scenario.parts.GameStartDialog.text></SpacerCrashlanded.scenario.parts.GameStartDialog.text> -->
 
     <!--Casino-->
     <DerelictCasino.label>Opuszczone kasyno</DerelictCasino.label>
@@ -14,6 +15,7 @@
     <DerelictCasino.scenario.description>Był czas, kiedy w twoim kasynie panował ożywiony ruch, a ludzie stawiali ogromne sumy srebra w błahych grach. W pewnym momencie goście przestali przychodzić. Automaty zaczęły się psuć, a na blacie baru pojawiły się pajęczyny. Każdy dzień stał się walką o to, by po prostu utrzymać światła włączone, oraz walką z własnym nałogiem. Ostatniej nocy samotność wzięła nad tobą górę. Wypiłeś ostatnią kroplę alkoholu, jaką miałeś w magazynie, tylko po to, by znów coś poczuć. Budzisz się na starym parkingu z guzem na głowie i pulsującym bólem głowy. Być może ostatnia noc była dla ciebie sygnałem alarmowym, którego potrzebowałeś.</DerelictCasino.scenario.description>
     <DerelictCasino.scenario.name>Opuszczone kasyno</DerelictCasino.scenario.name>
     <DerelictCasino.scenario.summary>Właściciel kasyna z kacem budzi się w swoim zapomnianym, zakurzonym raju.</DerelictCasino.scenario.summary>
+    <DerelictCasino.scenario.parts.GameStartDialog.text>Był czas, kiedy w twoim kasynie panował ożywiony ruch, a ludzie obstawiali ogromne sumy srebra w błahych grach. W pewnym momencie goście przestali przychodzić. Automaty zaczęły się psuć, a na blacie baru pojawiły się pajęczyny. Każdy dzień stał się walką o to, by po prostu utrzymać światła włączone, oraz walką o opanowanie swojego stosunku do alkoholu. Ostatniej nocy samotność wzięła nad tobą górę. Wypiłeś ostatnią kroplę alkoholu, jaką miałeś w magazynie, tylko po to, by znów coś poczuć. Budzisz się na starym parkingu z guzem na głowie i pulsującym bólem głowy. Być może ostatnia noc była dla ciebie sygnałem alarmowym, którego potrzebowałeś.</DerelictCasino.scenario.parts.GameStartDialog.text>
 
     <!--Lost tribesman-->
     <FernyLoneTribesman.label>Zaginiony członek plemienia</FernyLoneTribesman.label>
@@ -22,6 +24,7 @@
     <FernyLoneTribesman.scenario.description>Twoje plemię poprosiło cię o zebranie pożywienia na podróż karawaną. Gdy oddalałeś się coraz bardziej, odwróciłeś się i zdałeś sobie sprawę, że nie rozpoznajesz już otoczenia. Zawołałeś swoje plemię, ale w odpowiedzi usłyszałeś jedynie echo. Doświadczasz pełnej świadomości sytuacji. Teraz jesteś zdany tylko na siebie.</FernyLoneTribesman.scenario.description>
     <FernyLoneTribesman.scenario.name>Zaginiony członek plemienia</FernyLoneTribesman.scenario.name>
     <FernyLoneTribesman.scenario.summary>Członek plemienia gubi swoją grupę i zostaje sam, ogarnięty strachem.</FernyLoneTribesman.scenario.summary>
+    <!-- <FernyLoneTribesman.scenario.parts.GameStartDialog.text></FernyLoneTribesman.scenario.parts.GameStartDialog.text> -->
 
     <!--mods + dlcs-->
 
@@ -32,6 +35,7 @@
     <Ferny_AnimalLibraryStart.scenario.description>Podczas zbierania jagód podążyłeś za ostrym zapachem do zrujnowanej budowli. Budowla ta jest wypełniona zapisami idei z dawnych czasów, pachnącymi gnijącym materiałem i odzyskiwaniem terenu przez naturę.\n\nKsiążki się rozpadają, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to kształty na stronach przyciągają cię do siebie.</Ferny_AnimalLibraryStart.scenario.description>
     <Ferny_AnimalLibraryStart.scenario.name>Starożytna biblioteka</Ferny_AnimalLibraryStart.scenario.name>
     <Ferny_AnimalLibraryStart.scenario.summary>Niewielka grupa jaskiniowców odkrywa opuszczoną bibliotekę.</Ferny_AnimalLibraryStart.scenario.summary>
+    <Ferny_AnimalLibraryStart.scenario.parts.GameStartDialog.text>Podczas zbierania jagód podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. W środku znajduje się mnóstwo zapisów pomysłów z dawnych czasów, a w powietrzu unosi się zapach gnijących materiałów i natury, która odzyskuje swoje terytorium.\n\nKsiążki rozpadają się, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to kształty na stronach przyciągają cię do siebie.</Ferny_AnimalLibraryStart.scenario.parts.GameStartDialog.text>
 
     <Ferny_NeolithicLibraryStart.label>Starożytna biblioteka</Ferny_NeolithicLibraryStart.label>
     <Ferny_NeolithicLibraryStart.summary>Plemię z epoki neolitu odkrywa opuszczoną bibliotekę.</Ferny_NeolithicLibraryStart.summary>
@@ -39,6 +43,7 @@
     <Ferny_NeolithicLibraryStart.scenario.description>Podczas zbierania jagód podążyłeś za ostrym zapachem do zrujnowanego budynku. Budowla jest wypełniona zapisami idei z dawnych czasów, pachnącymi gnijącym materiałem i odzyskiwaniem terenu przez naturę.\n\nKsiążki się rozpadają, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to kształty na stronach przyciągają cię do siebie.</Ferny_NeolithicLibraryStart.scenario.description>
     <Ferny_NeolithicLibraryStart.scenario.name>Starożytna biblioteka</Ferny_NeolithicLibraryStart.scenario.name>
     <Ferny_NeolithicLibraryStart.scenario.summary>Plemię z epoki neolitu odkrywa opuszczoną bibliotekę.</Ferny_NeolithicLibraryStart.scenario.summary>
+    <Ferny_NeolithicLibraryStart.scenario.parts.GameStartDialog.text>Podczas zbierania jagód podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. W środku znajduje się mnóstwo zapisów pomysłów z dawnych czasów, a w powietrzu unosi się zapach gnijących materiałów i natury, która odzyskuje swoje terytorium.\n\nKsiążki rozpadają się, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to kształty na stronach przyciągają cię do siebie.</Ferny_NeolithicLibraryStart.scenario.parts.GameStartDialog.text>
 
     <Ferny_MedievalLibraryStart.label>Starożytna biblioteka</Ferny_MedievalLibraryStart.label>
     <Ferny_MedievalLibraryStart.summary>Grupa odkrywców odkrywa opuszczoną bibliotekę.</Ferny_MedievalLibraryStart.summary>
@@ -46,6 +51,7 @@
     <Ferny_MedievalLibraryStart.scenario.description>Podczas zbierania materiałów podążyłeś za ostrym zapachem do zrujnowanego budynku. Budynek jest wypełniony zapisami idei z dawnych czasów, pachnącymi gnijącym materiałem i odzyskiwaniem terenu przez naturę.\n\nKsiążki się rozpadają, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_MedievalLibraryStart.scenario.description>
     <Ferny_MedievalLibraryStart.scenario.name>Starożytna biblioteka</Ferny_MedievalLibraryStart.scenario.name>
     <Ferny_MedievalLibraryStart.scenario.summary>Grupa odkrywców odkrywa opuszczoną bibliotekę.</Ferny_MedievalLibraryStart.scenario.summary>
+    <Ferny_MedievalLibraryStart.scenario.parts.GameStartDialog.text>Podczas zbierania materiałów podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. W środku znajduje się mnóstwo zapisów pomysłów z dawnych czasów, a w powietrzu unosi się zapach gnijących materiałów i natury, która odzyskuje swoje terytorium.\n\nKsiążki rozpadają się, dach jest w opłakanym stanie, a dzika przyroda już wkracza do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_MedievalLibraryStart.scenario.parts.GameStartDialog.text>
 
     <Ferny_IndustrialLibraryStart.label>Opuszczona biblioteka</Ferny_IndustrialLibraryStart.label>
     <Ferny_IndustrialLibraryStart.summary>Grupa odkrywców natrafia na nieznaną, opuszczoną bibliotekę.</Ferny_IndustrialLibraryStart.summary>
@@ -53,6 +59,7 @@
     <Ferny_IndustrialLibraryStart.scenario.description>Podczas zbierania materiałów podążyłeś za ostrym zapachem do zrujnowanego budynku. Budynek jest pełen zapisów pomysłów z dawnych czasów, pachnących gnijącymi materiałami i odzyskiwaniem terenu przez naturę.\n\nKsiążki się rozpadają, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_IndustrialLibraryStart.scenario.description>
     <Ferny_IndustrialLibraryStart.scenario.name>Opuszczona biblioteka</Ferny_IndustrialLibraryStart.scenario.name>
     <Ferny_IndustrialLibraryStart.scenario.summary>Grupa odkrywców natrafia na nieznaną, opuszczoną bibliotekę.</Ferny_IndustrialLibraryStart.scenario.summary>
+    <Ferny_IndustrialLibraryStart.scenario.parts.GameStartDialog.text>Podczas zbierania materiałów podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. W środku znajduje się mnóstwo zapisów pomysłów z dawnych czasów, a w powietrzu unosi się zapach gnijących materiałów i natury, która odzyskuje swoje terytorium.\n\nKsiążki rozpadają się, dach jest w opłakanym stanie, a dzika przyroda już wkracza do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_IndustrialLibraryStart.scenario.parts.GameStartDialog.text>
 
     <Ferny_SpacerLibraryStart.label>Starożytna biblioteka</Ferny_SpacerLibraryStart.label>
     <Ferny_SpacerLibraryStart.summary>Grupa odkrywców natrafia na nieznaną, opuszczoną bibliotekę.</Ferny_SpacerLibraryStart.summary>
@@ -60,6 +67,7 @@
     <Ferny_SpacerLibraryStart.scenario.description>Podczas eksploracji odległego obszaru podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. Budynek jest wypełniony zapisami pomysłów z dawnych czasów, pachnącymi gnijącym materiałem i odzyskiwaniem terenu przez naturę.\n\nKsiążki rozpadają się, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_SpacerLibraryStart.scenario.description>
     <Ferny_SpacerLibraryStart.scenario.name>Starożytna biblioteka</Ferny_SpacerLibraryStart.scenario.name>
     <Ferny_SpacerLibraryStart.scenario.summary>Grupa odkrywców natrafia na nieznaną, opuszczoną bibliotekę.</Ferny_SpacerLibraryStart.scenario.summary>
+    <Ferny_SpacerLibraryStart.scenario.parts.GameStartDialog.text>Podczas eksploracji odległego obszaru podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. W środku znajduje się mnóstwo zapisów pomysłów z dawnych czasów, a w powietrzu unosi się zapach gnijących materiałów i natury, która odzyskuje swoje terytorium.\n\nKsiążki rozpadają się, dach jest w opłakanym stanie, a dzika przyroda już zaczyna wkraczać do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_SpacerLibraryStart.scenario.parts.GameStartDialog.text>
 
     <Ferny_UltratechLibraryStart.label>Opuszczona biblioteka</Ferny_UltratechLibraryStart.label>
     <Ferny_UltratechLibraryStart.summary>Grupa odkrywców natrafia na nieznaną, opuszczoną bibliotekę.</Ferny_UltratechLibraryStart.summary>
@@ -67,11 +75,7 @@
     <Ferny_UltratechLibraryStart.scenario.description>Podczas eksploracji odległego obszaru podążyłeś za ostrym zapachem do zrujnowanego budynku. Budynek jest pełen zapisów pomysłów z dawnych czasów, pachnących gnijącym materiałem i odzyskiwaniem terenu przez naturę.\n\nKsiążki rozpadają się, dach jest zniszczony, a dzika przyroda już wkracza do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_UltratechLibraryStart.scenario.description>
     <Ferny_UltratechLibraryStart.scenario.name>Opuszczona biblioteka</Ferny_UltratechLibraryStart.scenario.name>
     <Ferny_UltratechLibraryStart.scenario.summary>Grupa odkrywców natrafia na nieznaną, opuszczoną bibliotekę.</Ferny_UltratechLibraryStart.scenario.summary>
-
-    <!--oddysey-->
-
-    <GravshipEarth.label>Nowy statek grawitacyjny</GravshipEarth.label>
-    <GravshipEarth.description>Właśnie wylądowałeś po pierwszym udanym starcie statku grawitacyjnego. Wszyscy rozglądają się z podekscytowaniem – czy świat naprawdę leżał u naszych stóp? Gdy lądujesz statkiem, uświadamiasz sobie, jak ogromną moc masz w swoich rękach. Jakie będą konsekwencje tej nowej technologii?</GravshipEarth.description>
+    <Ferny_UltratechLibraryStart.scenario.parts.GameStartDialog.text>Podczas eksploracji odległego obszaru podążyłeś za ostrym zapachem, który doprowadził cię do zrujnowanego budynku. W środku znajduje się mnóstwo zapisów pomysłów z dawnych czasów, a w powietrzu unosi się zapach gnijących materiałów i natury, która odzyskuje swoje terytorium.\n\nKsiążki rozpadają się, dach jest w opłakanym stanie, a dzika przyroda już zaczyna wkraczać do środka. Mimo to intrygujące teksty na stronach przyciągają cię do siebie.</Ferny_UltratechLibraryStart.scenario.parts.GameStartDialog.text>
 
     <!-- Orbital Station Start -->
     <Ferny_AnimalOrbitalStation.label>Stacja kosmiczna</Ferny_AnimalOrbitalStation.label>
@@ -80,13 +84,15 @@
     <Ferny_AnimalOrbitalStation.scenario.description>Cała trójka budzi się na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu się znaleźliście. Stacja jest stara i niszczeje, ale jej podstawowe systemy nadal działają. Korytarze są puste. Waszym jedynym zmartwieniem jest teraz przetrwanie.</Ferny_AnimalOrbitalStation.scenario.description>
     <Ferny_AnimalOrbitalStation.scenario.name>Stacja kosmiczna</Ferny_AnimalOrbitalStation.scenario.name>
     <Ferny_AnimalOrbitalStation.scenario.summary>Trzech dzikich mężczyzn budzi się na stacji orbitalnej, niemający przy sobie absolutnie niczego.</Ferny_AnimalOrbitalStation.scenario.summary>
-
+    <Ferny_AnimalOrbitalStation.scenario.parts.GameStartDialog.text>Wszyscy trzej budzicie się z kryptosnu na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu się znaleźliście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_AnimalOrbitalStation.scenario.parts.GameStartDialog.text>
+    
     <Ferny_NeolithicOrbitalStation.label>Stacja kosmiczna</Ferny_NeolithicOrbitalStation.label>
     <Ferny_NeolithicOrbitalStation.summary>Trzech członków plemienia budzi się na pokładzie stacji orbitalnej.</Ferny_NeolithicOrbitalStation.summary>
     <Ferny_NeolithicOrbitalStation.description>Wszyscy troje budzicie się z hibernacji na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu jesteście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Jej korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_NeolithicOrbitalStation.description>
     <Ferny_NeolithicOrbitalStation.scenario.description>Wszyscy troje budzicie się z hibernacji na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu jesteście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Jej korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_NeolithicOrbitalStation.scenario.description>
     <Ferny_NeolithicOrbitalStation.scenario.name>Stacja kosmiczna</Ferny_NeolithicOrbitalStation.scenario.name>
     <Ferny_NeolithicOrbitalStation.scenario.summary>Trzech członków plemienia budzi się na pokładzie stacji orbitalnej.</Ferny_NeolithicOrbitalStation.scenario.summary>
+    <Ferny_NeolithicOrbitalStation.scenario.parts.GameStartDialog.text>Wszyscy trzej budzicie się z kryptosnu na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu się znaleźliście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_NeolithicOrbitalStation.scenario.parts.GameStartDialog.text>
 
     <Ferny_MedievalOrbitalStation.label>Stacja kosmiczna</Ferny_MedievalOrbitalStation.label>
     <Ferny_MedievalOrbitalStation.summary>Trzy postacie z epoki średniowiecza budzą się na pokładzie stacji orbitalnej.</Ferny_MedievalOrbitalStation.summary>
@@ -94,6 +100,7 @@
     <Ferny_MedievalOrbitalStation.scenario.description>Wszyscy troje budzicie się z hibernacji na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu jesteście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Jej korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_MedievalOrbitalStation.scenario.description>
     <Ferny_MedievalOrbitalStation.scenario.name>Stacja kosmiczna</Ferny_MedievalOrbitalStation.scenario.name>
     <Ferny_MedievalOrbitalStation.scenario.summary>Trzy postacie z epoki średniowiecza budzą się na pokładzie stacji orbitalnej.</Ferny_MedievalOrbitalStation.scenario.summary>
+    <Ferny_MedievalOrbitalStation.scenario.parts.GameStartDialog.text>Wszyscy trzej budzicie się z kryptosnu na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu się znaleźliście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_MedievalOrbitalStation.scenario.parts.GameStartDialog.text>
 
     <Ferny_SpacerOrbitalStation.label>Stacja kosmiczna</Ferny_SpacerOrbitalStation.label>
     <Ferny_SpacerOrbitalStation.summary>Troje kosmicznych ocalałych budzi się na pokładzie stacji orbitalnej.</Ferny_SpacerOrbitalStation.summary>
@@ -101,6 +108,7 @@
     <Ferny_SpacerOrbitalStation.scenario.description>Wszyscy troje budzicie się z hibernacji na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu jesteście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Jej korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_SpacerOrbitalStation.scenario.description>
     <Ferny_SpacerOrbitalStation.scenario.name>Stacja kosmiczna</Ferny_SpacerOrbitalStation.scenario.name>
     <Ferny_SpacerOrbitalStation.scenario.summary>Troje kosmicznych ocalałych budzi się na pokładzie stacji orbitalnej.</Ferny_SpacerOrbitalStation.scenario.summary>
+    <Ferny_SpacerOrbitalStation.scenario.parts.GameStartDialog.text>Wszyscy trzej budzicie się z kryptosnu na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu się znaleźliście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_SpacerOrbitalStation.scenario.parts.GameStartDialog.text>
 
     <Ferny_UltratechOrbitalStation.label>Stacja kosmiczna</Ferny_UltratechOrbitalStation.label>
     <Ferny_UltratechOrbitalStation.summary>Troje ocalałych budzi się na pokładzie stacji orbitalnej.</Ferny_UltratechOrbitalStation.summary>
@@ -108,6 +116,7 @@
     <Ferny_UltratechOrbitalStation.scenario.description>Wszyscy troje budzicie się z hibernacji na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu jesteście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Jej korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_UltratechOrbitalStation.scenario.description>
     <Ferny_UltratechOrbitalStation.scenario.name>Stacja kosmiczna</Ferny_UltratechOrbitalStation.scenario.name>
     <Ferny_UltratechOrbitalStation.scenario.summary>Troje ocalałych budzi się na pokładzie stacji orbitalnej.</Ferny_UltratechOrbitalStation.scenario.summary>
+    <Ferny_UltratechOrbitalStation.scenario.parts.GameStartDialog.text>Wszyscy trzej budzicie się z kryptosnu na pokładzie stacji orbitalnej. Nie pamiętacie, kim jesteście ani dlaczego tu się znaleźliście. Stacja jest stara i niszczejąca, ale jej podstawowe systemy nadal działają. Korytarze są puste. Teraz waszym jedynym zmartwieniem jest przetrwanie.</Ferny_UltratechOrbitalStation.scenario.parts.GameStartDialog.text>
 
     <Ferny_UltratechOrbitalExpedition.label>Ekspedycja orbitalna</Ferny_UltratechOrbitalExpedition.label>
     <Ferny_UltratechOrbitalExpedition.summary>Trzyosobowa załoga przybywa, by przejąć opuszczoną stację orbitalną.</Ferny_UltratechOrbitalExpedition.summary>
@@ -115,6 +124,7 @@
     <Ferny_UltratechOrbitalExpedition.scenario.description>Twój statek grawitacyjny dociera do opuszczonej stacji orbitalnej dryfującej wysoko nad światem na obrzeżach galaktyki. Choć jest stara i zniszczona, jej systemy podtrzymywania życia wciąż działają. Cokolwiek cię tu sprowadziło, teraz musisz radzić sobie sam.</Ferny_UltratechOrbitalExpedition.scenario.description>
     <Ferny_UltratechOrbitalExpedition.scenario.name>Ekspedycja orbitalna</Ferny_UltratechOrbitalExpedition.scenario.name>
     <Ferny_UltratechOrbitalExpedition.scenario.summary>Trzyosobowa załoga przybywa, by przejąć opuszczoną stację orbitalną.</Ferny_UltratechOrbitalExpedition.scenario.summary>
+    <Ferny_UltratechOrbitalExpedition.scenario.parts.GameStartDialog.text>Twój statek grawitacyjny zadokował przy opuszczonej stacji orbitalnej. Choć jest ona zniszczona przez upływ czasu i zaniedbania, jej podstawowe systemy nadal działają. Cokolwiek cię tu sprowadziło, teraz musisz radzić sobie sam.</Ferny_UltratechOrbitalExpedition.scenario.parts.GameStartDialog.text>
 
     <!-- VE Events -->
     <IndustrialMeteorShower.label>Deszcze meteorytów</IndustrialMeteorShower.label>
@@ -123,6 +133,7 @@
     <IndustrialMeteorShower.scenario.description>Pobliski księżyc rozpadł się, wyrzucając odłamki skał na powierzchnię planety. Spoglądając w niebo, odsuwasz na bok egzystencjalny strach i godzisz się z nową rzeczywistością. Zegar tyka.</IndustrialMeteorShower.scenario.description>
     <IndustrialMeteorShower.scenario.name>Deszcze meteorytów</IndustrialMeteorShower.scenario.name>
     <IndustrialMeteorShower.scenario.summary>Trzech kolonistów narażonych na nieustanne deszcze meteorytów, z których niektóre zawierały cenne surowce.</IndustrialMeteorShower.scenario.summary>
+    <!-- <IndustrialMeteorShower.scenario.parts.GameStartDialog.text></IndustrialMeteorShower.scenario.parts.GameStartDialog.text> -->
 
     <TribalMeteorShower.label>Deszcze meteorytów</TribalMeteorShower.label>
     <TribalMeteorShower.summary>Trzy plemienne osoby narażone na nieustanne deszcze meteorytów, z których niektóre zawierają cenne surowce.</TribalMeteorShower.summary>
@@ -130,6 +141,7 @@
     <TribalMeteorShower.scenario.description>Pobliski księżyc rozpada się, wyrzucając odłamki skał na powierzchnię planety. Patrząc w niebo, odsuwasz na bok egzystencjalny strach i godzisz się z nową rzeczywistością. Zegar tyka.</TribalMeteorShower.scenario.description>
     <TribalMeteorShower.scenario.name>Deszcze meteorytów</TribalMeteorShower.scenario.name>
     <TribalMeteorShower.scenario.summary>Trzy plemienne osoby narażone na nieustanne deszcze meteorytów, z których niektóre zawierają cenne surowce.</TribalMeteorShower.scenario.summary>
+    <!-- <TribalMeteorShower.scenario.parts.GameStartDialog.text></TribalMeteorShower.scenario.parts.GameStartDialog.text> -->
 
     <!-- VFE Settlers -->
     <Ferny_ChemshineDisaster.label>Katastrofa Chemshine</Ferny_ChemshineDisaster.label>
@@ -138,6 +150,7 @@
     <Ferny_ChemshineDisaster.scenario.description>Rok temu w wyniku konfliktu między frakcjami ostrzelano przemysłową elektrownię. Substancja Chemshine przedostała się do wody i wyciekła do lokalnej atmosfery. Świat pogrążył się w okresie chaosu, a frakcje zaczęły podchodzić do wzajemnych kontaktów z ostrożnością. Rok później świat wydaje się już przystosować do nowych realiów. Każdy ma chemshine we krwi i w obwodach – nie ma już odwrotu. Jeśli ktoś umrze, eksploduje. Czy wam dwojgu uda się przetrwać kolejny rok w tej nowej erze?</Ferny_ChemshineDisaster.scenario.description>
     <Ferny_ChemshineDisaster.scenario.name>Katastrofa Chemshine</Ferny_ChemshineDisaster.scenario.name>
     <Ferny_ChemshineDisaster.scenario.summary>Postapokalipsa, w której każda śmierć wywołuje eksplozję. Trudna i pełna wysokich stawek.</Ferny_ChemshineDisaster.scenario.summary>
+    <!-- <Ferny_ChemshineDisaster.scenario.parts.GameStartDialog.text></Ferny_ChemshineDisaster.scenario.parts.GameStartDialog.text> -->
 
     <!-- VFE Tribals -->
     <Ferny_LoneTribal.label>Prawdziwy początek</Ferny_LoneTribal.label>
@@ -146,5 +159,6 @@
     <Ferny_LoneTribal.scenario.description>Po długim okresie rozmyślań odkryłeś cud ognia. Ta migocząca iskra nadziei daje ciepło, bezpieczeństwo i szansę na dalszy rozwój. Jednak w otaczającym cię dzikim, nieznanym świecie czai się wiele niebezpieczeństw. Będziesz musiał nauczyć się wykonywać podstawowe czynności – od polowania i siewu, po leczenie i badania. Postaraj się stworzyć plemię, które przetrwa próbę czasu.\n\nOstrzeżenie: Zaczynasz bez umiejętności wykonywania podstawowych czynności, takich jak siew, leczenie i polowanie – gra jest niezwykle trudna, a wszystko może zakończyć twoją rozgrywkę.</Ferny_LoneTribal.scenario.description>
     <Ferny_LoneTribal.scenario.name>Prawdziwy początek</Ferny_LoneTribal.scenario.name>
     <Ferny_LoneTribal.scenario.summary>Nagi mężczyzna bez żadnego dobytku, niemający pojęcia o technologii. Najbardziej ekstremalny scenariusz Progression.</Ferny_LoneTribal.scenario.summary>
+    <Ferny_LoneTribal.scenario.parts.GameStartDialog.text>Odkąd sięgasz pamięcią, jesteś sam na tej anarchicznej planecie. Jedyną iskierką nadziei jest niewielki płomień, który właśnie udało ci się rozpalić. To zastrzyk ciepła, mocy, a przede wszystkim nadziei. Czy znajdziesz w sobie siłę, by podtrzymać tę iskierkę na tyle długo, by wydostać się z tych okropnych warunków?</Ferny_LoneTribal.scenario.parts.GameStartDialog.text>
 
 </LanguageData>
