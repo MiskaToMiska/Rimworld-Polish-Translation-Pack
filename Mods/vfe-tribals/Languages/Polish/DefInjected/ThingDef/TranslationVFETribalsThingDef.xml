@@ -1,0 +1,39 @@
+<LanguageData>
+    <!--buildings-->
+    <VFET_FloorPainting.label>Malowidło podłogowe</VFET_FloorPainting.label>
+    <VFET_FloorPainting.description>Malowidło podłogowe w stylu neolitycznym przedstawiające motyw artystyczny. Jego uroda wzrasta wraz ze zmianą poziomu technologicznego kolonii.</VFET_FloorPainting.description>
+
+    <VFET_SittingSpot.label>Miejsce do siedzenia</VFET_SittingSpot.label>
+    <VFET_SittingSpot.description>Miejsce, na którym można usiąść. Niezbyt wygodne, ale i tak nieco lepsze niż nic. Można z niego korzystać przy stołach, stanowiskach roboczych i w innych miejscach.</VFET_SittingSpot.description>
+
+    <VFET_ResearchSpot.label>Miejsce do badań</VFET_ResearchSpot.label>
+    <VFET_ResearchSpot.description>Miejsce do przemyśleń, zanim będzie można zbudować proste stanowisko badawcze. Badacze pracują tu nad odkrywaniem nowych rzeczy.</VFET_ResearchSpot.description>
+
+    <VFET_AnimalTrap.label>Pułapka na zwierzęta</VFET_AnimalTrap.label>
+    <VFET_AnimalTrap.description>Duży, ostry kolec pod napięciem, połączony z wyzwalaczem uruchamianym przez dotyk. Jeśli zwierzę dotknie wyzwalacza, kolec wyskakuje i uderza w nie. Ponieważ jest on ukryty w otaczającym terenie, nie można go umieścić w sąsiedztwie innych pułapek. Zwierzęta nie wyczuwają tych pułapek, gdy są spokojne, ale dla ludzi są one dość oczywiste i będą ich unikać.</VFET_AnimalTrap.description>
+
+    <VFET_LargeFire.label>Duże ognisko</VFET_LargeFire.label>
+    <VFET_LargeFire.description>Wytwarza duże ilości ciepła i dymu, a po upływie jednego quadrum wygasa. Światło z dużego ogniska jest widoczne z daleka. Dopóki ognisko płonie na zewnątrz, istnieje większe prawdopodobieństwo pojawienia się dzikich ludzi, a także najazdów. Podobnie jak w przypadku wszystkich źródeł ciepła, należy je umieścić w pomieszczeniu, aby miało zamkniętą przestrzeń do ogrzania. Można go ponownie napełnić. Ze względu na swoje rozmiary i niestabilność może wyrzucać iskry, które mogą spowodować pożar.</VFET_LargeFire.description>
+
+    <!--clothes-->
+    <VFET_Apparel_TribalWar.label>Wojenna odzież plemienna</VFET_Apparel_TribalWar.label>
+    <VFET_Apparel_TribalWar.description>Ubranie na górną część ciała wykonane przy użyciu narzędzi z epoki neolitu. Choć może wydawać się prymitywne, bardzo skutecznie chroni przed obrażeniami spowodowanymi przedmiotami ostrymi i tępymi. Zapewnia niewielką izolację termiczną.</VFET_Apparel_TribalWar.description>
+
+    <VFET_Apparel_TribalLight.label>Lekka odzież plemienna</VFET_Apparel_TribalLight.label>
+    <VFET_Apparel_TribalLight.description>Ubranie zakrywające jedynie tułów, wykonane przy użyciu narzędzi z epoki neolitu. Choć może wydawać się prymitywne, bardzo skutecznie chroni przed wysokimi temperaturami.</VFET_Apparel_TribalLight.description>
+
+    <VFET_Apparel_TribalHeavy.label>Ciężka odzież plemienna</VFET_Apparel_TribalHeavy.label>
+    <VFET_Apparel_TribalHeavy.description>Ubranie zakrywające całe ciało, wykonane przy użyciu narzędzi z epoki neolitu. Choć może wydawać się prymitywne, bardzo skutecznie chroni przed niskimi temperaturami. Zapewnia nieco lepszą ochronę niż standardowa odzież plemienna.</VFET_Apparel_TribalHeavy.description>
+
+    <!--weapons-->
+    <VFET_Chunk.label>Odłamek</VFET_Chunk.label>
+    <VFET_Chunk.description>Kawałek skały, starannie wybrany ze względu na największy potencjał niszczycielski.</VFET_Chunk.description>
+
+    <VFET_Stake.label>Kołek</VFET_Stake.label>
+    <VFET_Stake.description>Naostrzona drewniana kłoda. Może zadawać znaczne obrażenia, ale łatwo się łamie i szybko się zużywa. Doskonale nadaje się do zabijania sanguofagów.</VFET_Stake.description>
+
+    <VFET_Throwspikes.label>Kolce do rzucania</VFET_Throwspikes.label>
+    <VFET_Throwspikes.description>Kolce do rzucania to krótkie patyki zaostrzone z obu stron. Rzucanie nimi zajmuje trochę czasu, ale po trafieniu zadają spore obrażenia. Ta broń stanowi wiązkę kolcy do rzucania i można nią rzucać wielokrotnie.</VFET_Throwspikes.description>
+
+    <VFET_ThrowspikesThrown.label>Kolce do rzucania</VFET_ThrowspikesThrown.label>
+</LanguageData>

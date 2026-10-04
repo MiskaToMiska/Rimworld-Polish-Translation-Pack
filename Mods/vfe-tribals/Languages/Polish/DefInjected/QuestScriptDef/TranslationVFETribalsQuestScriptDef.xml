@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questName->The [wildmen] [tribe]</li>
+    <li>questName->Nearby [wildmen] [tribe]</li>
+    <li>wildmen->Wild men</li>
+    <li>wildmen->Wildling</li>
+    <li>wildmen->Savage</li>
+    <li>wildmen->Wandering</li>
+    <li>wildmen->Rising</li>
+    <li>wildmen->New</li>
+    <li>tribe->Tribe</li>
+    <li>tribe->Gathering</li>
+    <li>tribe->Group</li>
+    <li>tribe->Circle</li>
+  -->
+  <VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+    <li>questName->[tribe] [wildmen]</li>
+    <li>questName->Pobliska [tribe] [wildmen]</li>
+    <li>wildmen->dzikusów</li>
+    <li>wildmen->dzikich ludzi</li>
+    <li>wildmen->prymitywów</li>
+    <li>wildmen->wędrowców</li>
+    <li>wildmen->nowo przybyłych</li>
+    <li>tribe->plemię</li>
+    <li>tribe->gromada</li>
+    <li>tribe->grupa</li>
+    <li>tribe->spólnota</li>
+  </VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription-> [asker_nameFull] of [asker_faction_name], found out about an existence of a small tribe of wild men near [map_definite]. Wild men most likely mean us no harm, and are gathering together hoping to that the numbers will help them survive. \nWe may decide to venture to the gathering in order to crush the wild men. Alternatively, we may leave them be. In time, these wild men may find their way to us - depending on their numbers, they may choose to join us, or attack us instead. [asker_nameFull] has a feeling that the small tribe consists of [ListofPawns].</li>
+  -->
+  <VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull] z [asker_faction_name] dowiaduje się o istnieniu małego plemienia dzikich ludzi w pobliżu [map_definite]. Dzikie ludy najpewniej nie mają złych zamiarów i zbierają się w grupę z nadzieją, że liczebność pomoże im przetrwać.\nMożemy zdecydować się na wyprawę do ich obozowiska, aby ich zmiażdżyć. Alternatywnie możemy zostawić ich w spokoju. Z czasem ci dzicy ludzie mogą trafić do nas — w zależności od ich liczby, mogą zdecydować się do nas dołączyć lub nas zaatakować. [asker_nameFull] przypuszcza, że to małe plemię składa się z: [ListofPawns].</li>
+  </VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+
+</LanguageData>

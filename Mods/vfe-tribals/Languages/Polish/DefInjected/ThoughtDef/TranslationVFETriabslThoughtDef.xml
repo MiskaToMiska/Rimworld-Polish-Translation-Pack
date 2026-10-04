@@ -1,0 +1,17 @@
+<LanguageData>
+    <VFET_NoExpectations.stages.0.label>Bez oczekiwań</VFET_NoExpectations.stages.0.label>
+    <VFET_NoExpectations.stages.0.description>Oczekiwania? Co to takiego?</VFET_NoExpectations.stages.0.description>
+
+    <VFET_Ineffective.stages.0.label>Nieudane zgromadzenie plemienne</VFET_Ineffective.stages.0.label>
+    <VFET_Ineffective.stages.0.description>Próbowaliśmy porozmawiać o pewnych nowych wydarzeniach w plemieniu, ale rozmowa przerodziła się w drobne sprzeczki o jedzenie i schronienie...</VFET_Ineffective.stages.0.description>
+
+    <VFET_Uninspiring.stages.0.label>Nieciekawe zgromadzenie plemienne</VFET_Uninspiring.stages.0.label>
+    <VFET_Uninspiring.stages.0.description>Pojawiło się kilka nowych pomysłów, ale nic konkretnego. Przynajmniej było to w pewnym sensie zabawne.</VFET_Uninspiring.stages.0.description>
+
+    <VFET_Encouraging.stages.0.label>Zachęcające zgromadzenie plemienne</VFET_Encouraging.stages.0.label>
+    <VFET_Encouraging.stages.0.description>Hej, niektóre z tych pomysłów były naprawdę świetne! Myślę, że jesteśmy na dobrej drodze.</VFET_Encouraging.stages.0.description>
+
+    <VFET_Inspiring.stages.0.label>Inspirujące zgromadzenie plemienne</VFET_Inspiring.stages.0.label>
+    <VFET_Inspiring.stages.0.description>Jesteśmy blisko przełomu, czuję to!</VFET_Inspiring.stages.0.description>
+
+</LanguageData>

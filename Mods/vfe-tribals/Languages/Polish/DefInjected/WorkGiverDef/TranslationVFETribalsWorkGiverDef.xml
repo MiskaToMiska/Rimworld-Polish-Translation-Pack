@@ -1,0 +1,9 @@
+<LanguageData>
+    <VFET_LightLargeFire.label>rozpalić duże ognisko</VFET_LightLargeFire.label>
+    <VFET_LightLargeFire.verb>rozpalić duże ognisko</VFET_LightLargeFire.verb>
+    <VFET_LightLargeFire.gerund>rozpalanie</VFET_LightLargeFire.gerund>
+
+    <VFET_ExtinguishLargeFire.label>gasić duże ognisko</VFET_ExtinguishLargeFire.label>
+    <VFET_ExtinguishLargeFire.verb>gasić duże ognisko</VFET_ExtinguishLargeFire.verb>
+    <VFET_ExtinguishLargeFire.gerund>gaszenie</VFET_ExtinguishLargeFire.gerund>
+</LanguageData>

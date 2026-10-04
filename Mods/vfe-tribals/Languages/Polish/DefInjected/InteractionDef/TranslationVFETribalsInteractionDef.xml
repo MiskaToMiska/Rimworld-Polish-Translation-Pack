@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFET_TribalGatheringInteraction.label>dzielenie się pomysłami</VFET_TribalGatheringInteraction.label>
+
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.0>[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.0>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.1>[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.1>
+
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->rozmawiali o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.2>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.3>talkedabout->wspomnieli o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.3>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.4>talkedabout->mówili o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.4>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.5>talkedabout->pogadali o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.5>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.6>talkedabout->rozmawiali o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.6>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.7>talkedabout->żartowali o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.7>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.8>talkedabout->rzucili uwagę o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.8>
+
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.9>commentedabout->powiedzieli coś o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.9>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.10>commentedabout->wspomnieli coś o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.10>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.11>commentedabout->skomentowali</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.11>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.12>commentedabout->zauważyli coś o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.12>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.13>commentedabout->opowiedzieli żart o</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings.13>
+
+</LanguageData>
