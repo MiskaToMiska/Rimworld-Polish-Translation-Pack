@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tribal Gathering -->
+  <VFET_TribalGathering_Behaviour.roles.0.label>organizator</VFET_TribalGathering_Behaviour.roles.0.label>
+  <VFET_TribalGathering_Behaviour.spectatorsLabel>Uczestnicy</VFET_TribalGathering_Behaviour.spectatorsLabel>
+  <VFET_TribalGathering_Behaviour.spectatorGerund>uczestniczą</VFET_TribalGathering_Behaviour.spectatorGerund>
+  <VFET_TribalGathering_Behaviour.stages.0.postAction.text>{0}: Wprowadzenie dobiegło końca i rozpoczyna się zebranie plemienne.</VFET_TribalGathering_Behaviour.stages.0.postAction.text>
+
+
+  <!-- Advance to Neolithic -->
+  <VFET_AdvanceToNeolithic_Behaviour.roles.0.label>organizator</VFET_AdvanceToNeolithic_Behaviour.roles.0.label>
+  <VFET_AdvanceToNeolithic_Behaviour.spectatorsLabel>Uczestnicy</VFET_AdvanceToNeolithic_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToNeolithic_Behaviour.spectatorGerund>uczestniczą</VFET_AdvanceToNeolithic_Behaviour.spectatorGerund>
+  <VFET_AdvanceToNeolithic_Behaviour.stages.0.postAction.text>{0}: Wprowadzenie dobiegło końca i grupa analizuje wszystkie dostępne dane.</VFET_AdvanceToNeolithic_Behaviour.stages.0.postAction.text>
+
+
+  <!-- Advance to Medieval -->
+  <VFET_AdvanceToMedieval_Behaviour.roles.0.label>organizator</VFET_AdvanceToMedieval_Behaviour.roles.0.label>
+  <VFET_AdvanceToMedieval_Behaviour.spectatorsLabel>Uczestnicy</VFET_AdvanceToMedieval_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToMedieval_Behaviour.spectatorGerund>uczestniczą</VFET_AdvanceToMedieval_Behaviour.spectatorGerund>
+  <VFET_AdvanceToMedieval_Behaviour.stages.0.postAction.text>{0}: Wprowadzenie dobiegło końca i grupa analizuje wszystkie dostępne dane.</VFET_AdvanceToMedieval_Behaviour.stages.0.postAction.text>
+
+
+  <!-- Advance to Industrial -->
+  <VFET_AdvanceToIndustrial_Behaviour.roles.0.label>organizator</VFET_AdvanceToIndustrial_Behaviour.roles.0.label>
+  <VFET_AdvanceToIndustrial_Behaviour.spectatorsLabel>Uczestnicy</VFET_AdvanceToIndustrial_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToIndustrial_Behaviour.spectatorGerund>uczestniczą</VFET_AdvanceToIndustrial_Behaviour.spectatorGerund>
+  <VFET_AdvanceToIndustrial_Behaviour.stages.0.postAction.text>{0}: Wprowadzenie dobiegło końca i grupa analizuje wszystkie dostępne dane.</VFET_AdvanceToIndustrial_Behaviour.stages.0.postAction.text>
+
+
+  <!-- Advance to Spacer -->
+  <VFET_AdvanceToSpacer_Behaviour.roles.0.label>organizator</VFET_AdvanceToSpacer_Behaviour.roles.0.label>
+  <VFET_AdvanceToSpacer_Behaviour.spectatorsLabel>Uczestnicy</VFET_AdvanceToSpacer_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToSpacer_Behaviour.spectatorGerund>uczestniczą</VFET_AdvanceToSpacer_Behaviour.spectatorGerund>
+  <VFET_AdvanceToSpacer_Behaviour.stages.0.postAction.text>{0}: Wprowadzenie dobiegło końca i grupa analizuje wszystkie dostępne dane.</VFET_AdvanceToSpacer_Behaviour.stages.0.postAction.text>
+
+
+  <!-- Advance to Ultra -->
+  <VFET_AdvanceToUltra_Behaviour.roles.0.label>organizator</VFET_AdvanceToUltra_Behaviour.roles.0.label>
+  <VFET_AdvanceToUltra_Behaviour.spectatorsLabel>Uczestnicy</VFET_AdvanceToUltra_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToUltra_Behaviour.spectatorGerund>uczestniczą</VFET_AdvanceToUltra_Behaviour.spectatorGerund>
+  <VFET_AdvanceToUltra_Behaviour.stages.0.postAction.text>{0}: Wprowadzenie dobiegło końca i grupa analizuje wszystkie dostępne dane.</VFET_AdvanceToUltra_Behaviour.stages.0.postAction.text>
+
+</LanguageData>

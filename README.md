@@ -1,5 +1,7 @@
 # RimWorld Translation Pack for Mods
 
+[![Steam Workshop Badge](https://img.shields.io/steam/update-date/3809213582)](https://steamcommunity.com/sharedfiles/filedetails/?id=3809213582)
+
 Community-driven Polish translation pack for RimWorld mods.
 
 The goal of this project is to provide Polish translations for as many RimWorld mods as possible, making the game more enjoyable for Polish-speaking players.

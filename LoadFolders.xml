@@ -31,6 +31,11 @@
     <li IfModActive="ferny.progressionstorage">Mods/progression-storage</li>
     <li IfModActive="ferny.progressioncore">Mods/progression-core</li>
     <li IfModActive="ferny.progressionscenarios">Mods/progression-scenarios</li>
+    <li IfModActive="oskarpotocki.vfe.tribals">Mods/vfe-tribals</li>
+    <li IfModActive="badoaks.meatonastick.expansion">Mods/meat-on-a-stick-expansion</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods/medieval-overhaul</li>
+    <li IfModActive="gguake.grazingarea">Mods/grazing-area</li>
+    
     
   </v1.6>
 </loadFolders>

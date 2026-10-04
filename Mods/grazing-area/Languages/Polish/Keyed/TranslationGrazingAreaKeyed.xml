@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GA_SettingsCategory>Grazing Area</GA_SettingsCategory>
+  <GA_SettingMinDist>Próg odległości dla zwierząt zbłąkanych: {0} pól</GA_SettingMinDist>
+  <GA_SettingMinDistDesc>Zwierzę uznaje się za zbłąkane, gdy oddali się o tę liczbę pól od obszaru wypasu, i zostanie sprowadzone z powrotem do zagrody.</GA_SettingMinDistDesc>
+  <GA_SettingMaxDist>Odległość o najwyższym priorytecie: {0} pól</GA_SettingMaxDist>
+  <GA_SettingMaxDistDesc>Odległość, przy której sprowadzenie zbłąkanego zwierzęcia osiąga najwyższy priorytet. Im dalej znajduje się zwierzę, tym wyższy jest priorytet.</GA_SettingMaxDistDesc>
+  <GA_SettingParkDepth>Głębokość parkowania wewnątrz: {0} pól</GA_SettingParkDepth>
+  <GA_SettingParkDepthDesc>Podczas sprowadzania zwierząt są one umieszczane o tyle pól w głąb obszaru wypasu. Odległość ta jest automatycznie zmniejszana w przypadku małych lub wąskich obszarów.</GA_SettingParkDepthDesc>
+  <GA_SettingHumanWeight>Waga priorytetu pasterza-kolonisty: {0}</GA_SettingHumanWeight>
+  <GA_SettingHumanWeightDesc>Współczynnik określający, jak szybko koloniści odsyłają zbłąkane zwierzęta na pastwisko. Wartość 0 wyłącza tę funkcję.</GA_SettingHumanWeightDesc>
+  <GA_SettingAnimalWeight>Waga priorytetu pasterz zwierząt: {0} (0 = wyłączone)</GA_SettingAnimalWeight>
+  <GA_SettingAnimalWeightDesc>Współczynnik określający, jak szybko wyszkolone zwierzęta spędzają zwierzęta z powrotem do stada. 0.</GA_SettingAnimalWeightDesc>
+  <GA_SettingPriorityInType>Priorytet zadania w ramach "Tresura": {0}</GA_SettingPriorityInType>
+  <GA_SettingPriorityInTypeDesc>Przyprowadź błąkające zwierzęta=160, Przyprowadź do zagrody=130, Trenuj zwierzęta=70. Wyższy wynik ma pierwszeństwo. Wymaga zresartowania gry, aby działało</GA_SettingPriorityInTypeDesc>
+  <GA_ResetDefaults>Przywróć wszystkie ustawienia do wartości domyślnych</GA_ResetDefaults>
+  <GA_SettingSpeciesHeader>Zwierzęta, które można wyszkolić na pasterzy</GA_SettingSpeciesHeader>
+  <GA_SettingSpeciesDesc>Wybrane zwierzęta można wyszkolić na pasterzy, którzy pilnują pastwiska i sprowadzają zbłąkane zwierzęta z powrotem do stada.</GA_SettingSpeciesDesc>
+  <GA_RestartRequired>Aby zmiany zaczęły obowiązywać, konieczne jest ponowne uruchomienie gry.</GA_RestartRequired>
+  <GA_GrazingArea>Obszar Pastwiska</GA_GrazingArea>
+  <GA_DesignatorExpand>Obszar pastwiska</GA_DesignatorExpand>
+  <GA_DesignatorExpandDesc>Stwórz pastwisko. Koloniści posiadający uprawnienia do pracy jako pasterze oraz wyszkolone zwierzęta sprowadzają na to pastwisko zbłąkane zwierzęta hodowlane i czuwają nad nim.</GA_DesignatorExpandDesc>
+  <GA_DesignatorClear>Wyczyść obszar pastwiska</GA_DesignatorClear>
+  <GA_DesignatorClearDesc>Usuń obszar pastwiska.</GA_DesignatorClearDesc>
+  <GA_SettingHidePenAlert>Ukryj powiadomienie "Potrzebna zagroda dla zwierząt", gdy ustawiono obszar wypasu</GA_SettingHidePenAlert>
+  <GA_SettingHidePenAlertDesc>Jeśli mapa zawiera obszar wypasu, zwierzęta znajdujące się na tej mapie są wyłączone z ostrzeżenia "Wymagana zagroda". Zwierzęta znajdujące się w zarządzanym zasięgu obszaru wypasu (bliżej niż minimalna odległość błąkania się) również nie przejdą w stan wędrowania (opuszczania mapy), podobnie jak zwierzęta przebywające w zagrodzie. Zwierzęta, które błąkają się poza tym zasięgiem, nadal mogą wędrować.</GA_SettingHidePenAlertDesc>
+  <GA_NoSpaceInArea>Brak odpowiedniego miejsca na pastwisku</GA_NoSpaceInArea>
+  <GA_CleanupHeader>Usuń dane tej modyfikacja z zapisu</GA_CleanupHeader>
+  <GA_CleanupDesc>Usuwa wszystkie dane modyfikacji "Grazing Area" (obszary wypasu i zadania w toku) z aktualnie wczytanej gry, a następnie zapisuje ją jako nowy plik. Należy skorzystać z tej funkcji przed odinstalowaniem modyfikacji — plik zapisu zawierający obszar wypasu nie zostanie wczytany po usunięciu modyfikacji. Oryginalny plik zapisu nie ulega żadnym zmianom..</GA_CleanupDesc>
+  <GA_CleanupNeedsGame>Dostępne tylko wtedy, gdy gra jest wczytana.</GA_CleanupNeedsGame>
+  <GA_CleanupButton>Wyczyść i zapisz jako nowy plik</GA_CleanupButton>
+  <GA_CleanupConfirm>Czy chcesz usunąć wszystkie dane modyfikacji "Grazing Area" z bieżącej gry i zapisać ją jako nowy plik?\n\nOryginalny plik zapisu nie zostanie zmieniony. Po zapisaniu zamknij grę i wyłącz modyfikację — nie kontynuuj tej sesji.</GA_CleanupConfirm>
+  <GA_CleanupDone>Zapisano jako „{0}”.\n\nZamknij grę i wyłącz modyfikację już teraz. Nie kontynuuj gry ani nie nadpisuj innych plików zapisu z tej sesji.</GA_CleanupDone>
+  <GA_CleanupFailed>Operacja czyszczenia nie powiodła się — nic nie zostało zapisane:\n{0}</GA_CleanupFailed>
+  <GA_CleanupSaveFailed>Dane modyfikacji zostały usunięte, ale zapisanie nie powiodło się:\n{0}\n\nNie należy nadpisywać istniejących zapisów z tej sesji.</GA_CleanupSaveFailed>
+</LanguageData>

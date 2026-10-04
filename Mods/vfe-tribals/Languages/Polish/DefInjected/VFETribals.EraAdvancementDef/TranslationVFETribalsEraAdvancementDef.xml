@@ -1,0 +1,16 @@
+<LanguageData>
+    <VFET_FormTribe.label>Neolityczny poziom technologiczny</VFET_FormTribe.label>
+    <VFET_FormTribe.description>Pomyślnie ukończyłeś wszystkie projekty badawcze dotyczące epoki zwierzęcej i osiągnąłeś poziom technologiczny "neolityczny". Dzięki temu będziesz mógł wybrać filary kulturowy – potężną premię, która dotyczy wyłącznie twojej cywilizacji.</VFET_FormTribe.description>
+
+    <VFET_FormTown.label>Średniowieczny poziom technologiczny</VFET_FormTown.label>
+    <VFET_FormTown.description>Pomyślnie ukończyłeś wszystkie projekty badawcze dotyczące epoki neolitu i osiągnąłeś poziom technologiczny "średniowieczny". Dzięki temu będziesz mógł wybrać filary kulturowy – potężną premię, która dotyczy wyłącznie twojej cywilizacji.</VFET_FormTown.description>
+
+    <VFET_FormCity.label>Przemysłowy poziom technologiczny</VFET_FormCity.label>
+    <VFET_FormCity.description>Pomyślnie ukończyłeś wszystkie projekty badawcze dotyczące epoki średniowiecza i osiągnąłeś poziom technologiczny "przemysłowy". Dzięki temu będziesz mógł wybrać filary kulturowy – potężną premię, która dotyczy wyłącznie twojej cywilizacji.</VFET_FormCity.description>
+
+    <VFET_FormCollective.label>Kosmiczny poziom technologiczny</VFET_FormCollective.label>
+    <VFET_FormCollective.description>Pomyślnie ukończyłeś wszystkie projekty badawcze dotyczące epoki przemysłowej i osiągnąłeś poziom technologiczny "kosmiczny". Dzięki temu będziesz mógł wybrać filary kulturowy – potężną premię, która dotyczy wyłącznie twojej cywilizacji.</VFET_FormCollective.description>
+
+    <VFET_FormNexus.label>Ultra poziom technologiczny</VFET_FormNexus.label>
+    <VFET_FormNexus.description>Pomyślnie ukończyłeś wszystkie projekty badawcze dotyczące epoki kosmicznych i osiągnąłeś poziom technologiczny "ultra". Dzięki temu będziesz mógł wybrać filary kulturowy – potężną premię, która dotyczy wyłącznie twojej cywilizacji.</VFET_FormNexus.description>
+</LanguageData>

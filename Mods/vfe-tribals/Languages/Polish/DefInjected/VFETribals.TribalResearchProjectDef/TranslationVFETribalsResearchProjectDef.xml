@@ -1,0 +1,41 @@
+<LanguageData>
+    <VFET_Fire.label>Ogień</VFET_Fire.label>
+    <VFET_Fire.description>Odblokuj możliwość wykorzystywania ognia i zarządzania nim w różnych celach. Odblokowuje pracę strażaka.</VFET_Fire.description>
+
+    <VFET_Agriculture.label>Rolnictwo</VFET_Agriculture.label>
+    <VFET_Agriculture.description>Naucz się uprawiać różne podstawowe rośliny uprawne. Odblokowuje pracę rolnika.</VFET_Agriculture.description>
+
+    <VFET_Cultivation.label>Uprawa</VFET_Cultivation.label>
+    <VFET_Cultivation.description>Poszerz asortyment upraw o bardziej specyficzne, trudne w uprawie rośliny, takie jak zioło czy psychoid.</VFET_Cultivation.description>
+
+    <VFET_Medicine.label>Medycyna</VFET_Medicine.label>
+    <VFET_Medicine.description>Przedstaw podstawowe metody leczenia ziołowym zestawem leków.</VFET_Medicine.description>
+
+    <VFET_AnimalHandling.label>Oswajanie zwierząt</VFET_AnimalHandling.label>
+    <VFET_AnimalHandling.description>Zdobądź wiedzę niezbędną do opieki nad zwierzętami, oswajania ich i dostosowywania ich do warunków. Odblokowuje zawód związany z opieką nad zwierzętami, a także oswajanie i ubój zwierząt.</VFET_AnimalHandling.description>
+
+    <VFET_Mining.label>Górnictwo</VFET_Mining.label>
+    <VFET_Mining.description>Opracuj metody wydobywania surowców z ziemi przy użyciu siły. Odblokowuje pracę górnika.</VFET_Mining.description>
+
+    <VFET_Construction.label>Konstrukcja</VFET_Construction.label>
+    <VFET_Construction.description>Poznaj absolutnie podstawowe techniki budowania i projektowania konstrukcji. Odblokowuje możliwość wznoszenia ścian i dachów.</VFET_Construction.description>
+
+    <VFET_Furniture.label>Meble</VFET_Furniture.label>
+    <VFET_Furniture.description>Wprowadź podstawowe umiejętności wytwarzania mebli w celu poprawy warunków życia.</VFET_Furniture.description>
+
+    <VFET_Tribalwear.label>Odzież plemienna</VFET_Tribalwear.label>
+    <VFET_Tribalwear.description>Naucz się szyć tradycyjne stroje plemienne przeznaczone do różnych celów.</VFET_Tribalwear.description>
+
+    <VFET_Hunting.label>Polowanie</VFET_Hunting.label>
+    <VFET_Hunting.description>Opracuj metody skutecznego polowania i przetwarzania zasobów. Odblokowuje zawód myśliwego i umożliwia wytwarzanie kolców do rzucania.</VFET_Hunting.description>
+
+    <VFET_Weapons.label>Bronie</VFET_Weapons.label>
+    <VFET_Weapons.description>Przedstaw podstawowe rodzaje broni służące do obrony przed wrogami.</VFET_Weapons.description>
+
+    <VFET_Bow.label>Łuk</VFET_Bow.label>
+    <VFET_Bow.description>Odblokuj możliwość wytworzenia podstawowego elementu walki na odległość – krótkiego łuku.</VFET_Bow.description>
+
+    <VFET_Culture.label>Kultura</VFET_Culture.label>
+    <VFET_Culture.description>Odblokowuje możliwość prowadzenia badań oraz rozwijania myśli ideologicznej. Odblokowuje pracę badacza.</VFET_Culture.description>
+    
+</LanguageData>

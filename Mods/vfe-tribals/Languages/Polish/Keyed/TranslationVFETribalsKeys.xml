@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<VFET.AvailableCornerstonePoint>Dostępny punkt filaru kulturowego</VFET.AvailableCornerstonePoint>
+	<VFET.AvailableCornerstonePoints>Dostępne punkty filaru kulturowego: {0}</VFET.AvailableCornerstonePoints>
+	<VFET.AvailableCornerstonePointDesc>Możesz wydać punkt filaru kulturowego, aby uzyskać trwałe wzmocnienie obejmujące całą kolonię, które pomoże ci kształtować twoją cywilizację.</VFET.AvailableCornerstonePointDesc>
+	<VFET.Cornerstones>Filary kulturowe</VFET.Cornerstones>
+	<VFET.CustomizeCornerstones>Dostosuj filary kulturowe</VFET.CustomizeCornerstones>
+	<VFET.Ethos>Etos</VFET.Ethos>
+	<VFET.EthosUnlocked>Zablokuj lub odblokuj etos frakcji. Gdy etos jest zablokowany, jego treść nie będzie się automatycznie odnawiać po odblokowaniu nowego filaru kulturowego.
+
+Blokada etosu jest obecnie wyłączona. Treść etosu może się automatycznie odnawiać.</VFET.EthosUnlocked>
+	<VFET.EthosLocked>Zablokuj lub odblokuj etos frakcji. Gdy etos jest zablokowany, jego treść nie odnawia się automatycznie po odblokowaniu nowego filaru kulturowego.
+
+Blokada etosu jest obecnie włączona. Treść etosu nie odnawia się automatycznie.</VFET.EthosLocked>
+	<VFET.CornerstonesExplanation>Zdobywaj punkty filaru kulturowego, przechodząc na kolejne poziomy technologiczne</VFET.CornerstonesExplanation>
+	<VFET.EthosTooltip>Podstawowe wartości twojej frakcji. Ten tekst nie ma wpływu na rozgrywkę, ale powiązane z nim filary już tak.</VFET.EthosTooltip>
+	<VFET.EditEthos>Edytuj etos</VFET.EditEthos>
+	<VFET.UnlockCornerstone>Odblokuj filar kulturowy</VFET.UnlockCornerstone>
+	<VFET.StatsReport_Cornerstones>Istotne filary kulturowe</VFET.StatsReport_Cornerstones>
+	<VFET.WorkDisabledByMissingResearch>Zbadaj {0}, aby odblokować</VFET.WorkDisabledByMissingResearch>
+	<VFET.FormIdeology>Formuj ideologie</VFET.FormIdeology>
+	<VFET.FormIdeologyDesc>W co powinni wierzyć twoi koloniści? Te przekonania mają wpływ na rozgrywkę i oprawę graficzną. Będziesz mógł przekonywać innych do swoich przekonań lub przyjmować ich przekonania.\n\n
+Wybór opcji "Klasyczny" pozwoli ci grać bez systemu ideologii. Cała zawartość dodatku "Ideologia" pozostaje aktywna.\n\n
+Wybór opcji "Dynamiczny" pozwoli ci rozpocząć grę z podstawową ideologią i rozwijać ją z biegiem czasu.\n\n
+Wybór opcji "Niestandardowy" pozwala dostosować ideologię i każdy jej aspekt. Może to zająć trochę czasu.</VFET.FormIdeologyDesc>
+	<VFET.WildMenJoin>Ze względu na niewielką liczbę dzikusów postanowiły dołączyć do ciebie.</VFET.WildMenJoin>
+	<VFET.WildMenRetreat>Ze względu na niepewność co do tego, czy uda im się cię pokonać, dzikusy postanowiły się wycofać.</VFET.WildMenRetreat>
+	<VFET.WildMenJoinTitle>Dzikusy proszą o przyjęcie do grupy</VFET.WildMenJoinTitle>
+	<VFET.WildMenJoinDesc>Dzikie plemię z pobliskiej wioski dotarło do {0}. Widząc, jak liczni jesteście, proszą o przyjęcie ich do waszej grupy. Uważają, że razem macie większe szanse w walce z żywiołami.\n\nMożecie im odmówić, ale w takim przypadku mogą podjąć działania odwetowe.</VFET.WildMenJoinDesc>
+	<VFET.WildMenRaid>Napaść dzikusów</VFET.WildMenRaid>
+	<VFET.WildMenRaidDesc>Dzikusy z pobliskiego plemienia dotarły do {0}. Widząc liczbę waszych ludzi, postanowiły was napadnąć. Być może uda wam się schwytać i zwerbować ocalałych.</VFET.WildMenRaidDesc>
+	<VFET.Reject>Odrzuć</VFET.Reject>
+	<VFET.WorkTypeName>{0} rodzaj pracy</VFET.WorkTypeName>
+	<VFET_WildmanLetterLabel>Dzikus dołącza</VFET_WildmanLetterLabel>
+	<VFET_WildmanLetter>W pobliżu błąka się dzikus i postanawia dołączyć do twojej kolonii</VFET_WildmanLetter>
+	<VFET_AnimalsLetterLabel>Zwierzęta hodowlane dołączają</VFET_AnimalsLetterLabel>
+	<VFET_AnimalsLetter>Grupa zwierząt hodowlanych została zwerbowana i dołączy do twojej kolonii</VFET_AnimalsLetter>
+	<VFET_DiscoveryLabel>Odkryto {0}!</VFET_DiscoveryLabel>
+	<VFET_Discovery>Podczas zgromadzenia plemiennego odkryto nowy projekt badawczy: {0}!\n\n{1}</VFET_Discovery>
+	<VFET.AnimalTrapSprung>Pułapka na zwierzęta zadziałała na {0}</VFET.AnimalTrapSprung>
+	<VFET.LightLargeFire>Rozpal duże ognisko</VFET.LightLargeFire>
+	<VFET.ExtinguishLargeFire>Ugaś duże ognisko</VFET.ExtinguishLargeFire>
+	<VFET.LightLargeFireDesc>Podczas palenia się duże ognisko wydziela gęsty dym i może przyciągnąć dzikich ludzi z okolicy. Jest bardzo niestabilny i może podpalić otaczające go przedmioty.</VFET.LightLargeFireDesc>
+	<VFET.ResearchLeft_Neolithic>Niektóre badania z epoki zwierzęcej muszą zostać dokończone.</VFET.ResearchLeft_Neolithic>
+	
+	<!--These are needed for Ideology compat -->
+	
+	<Optional>opcjonalne</Optional>
+	<RitualTargetGatherSpotInfo>Dowolne miejsce zgromadzeń, takie jak stół</RitualTargetGatherSpotInfo>
+	
+	<VFET.MustPlaceOnFloorOrStonyTerrain>Należy ustawić na podłodze lub na kamienistym podłożu.</VFET.MustPlaceOnFloorOrStonyTerrain>
+	<VFET.StatsReport_BeautyMultiplier>Współczynnik piękności dla poziomu technologicznego kolonii {0}</VFET.StatsReport_BeautyMultiplier>
+	<VFET.NotAllReseachProjectsResearched>Niespełnione wymagania: Nie wszystkie projekty badawcze poprzedniego poziomu technologicznego zostały zbadane.</VFET.NotAllReseachProjectsResearched>
+	<VFET.ManInBlackLabelReplacement>Dzikus w czerni</VFET.ManInBlackLabelReplacement>
+	<VFET.CustomizeNPCIdeologion>Dostosuj ideologie w świecie</VFET.CustomizeNPCIdeologion>
+	<VFET.CustomizeNPCIdeologionDesc>Twoja ideologia zostanie dostosowana po ukończeniu badań "Kultura".</VFET.CustomizeNPCIdeologionDesc>
+</LanguageData>

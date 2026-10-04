@@ -1,0 +1,14 @@
+<LanguageData>
+    <VFET_WildMen.label>Dzikusy</VFET_WildMen.label>
+    <VFET_WildMen.description>Grupa dzikich ludzi, którą kieruje gracz.</VFET_WildMen.description>
+    <VFET_WildMen.leaderTitle>wódz</VFET_WildMen.leaderTitle>
+    <VFET_WildMen.pawnSingular>dzikus</VFET_WildMen.pawnSingular>
+    <VFET_WildMen.pawnsPlural>dzikusy</VFET_WildMen.pawnsPlural>
+
+    <VFET_WildMenGroup.label>Dzikusy</VFET_WildMenGroup.label>
+    <VFET_WildMenGroup.description>Frakcja dzikusów</VFET_WildMenGroup.description>
+    <VFET_WildMenGroup.pawnSingular>dzikus</VFET_WildMenGroup.pawnSingular>
+    <VFET_WildMenGroup.leaderTitle>wódz</VFET_WildMenGroup.leaderTitle>
+    <VFET_WildMenGroup.pawnsPlural>dzikusy</VFET_WildMenGroup.pawnsPlural>
+    <VFET_WildMen.basicMemberKind>Dzikus</VFET_WildMen.basicMemberKind>
+</LanguageData>
