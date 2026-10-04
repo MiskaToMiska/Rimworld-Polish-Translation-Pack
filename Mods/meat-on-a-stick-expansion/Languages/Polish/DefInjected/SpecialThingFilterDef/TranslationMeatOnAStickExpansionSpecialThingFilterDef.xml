@@ -1,0 +1,6 @@
+<LanguageData>
+    <MOAS_RawFungus.label>surowa żywność grzybowa</MOAS_RawFungus.label>
+    <MOAS_RawFungus.description>Zezwól wyłącznie na surowe produkty roślinne oznaczone jako grzyby.</MOAS_RawFungus.description>
+    <MOAS_RawVegNotFungus.label>wyłącznie pokarm grzybowy</MOAS_RawVegNotFungus.label>
+    <MOAS_RawVegNotFungus.description>Zezwól wyłącznie na surowe produkty roślinne, które nie są oznaczone jako grzyby.</MOAS_RawVegNotFungus.description>
+</LanguageData>

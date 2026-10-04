@@ -1,0 +1,64 @@
+<LanguageData>
+    <chrisb_Craft_moas_sticks.label>wytwarzanie patyków na szaszłyki</chrisb_Craft_moas_sticks.label>
+    <chrisb_Craft_moas_sticks.description>Tnie kłodę drewna na patyki do pieczenia nad ogniem.</chrisb_Craft_moas_sticks.description>
+    <chrisb_Craft_moas_sticks.jobString>Cina kłodę na patyki.</chrisb_Craft_moas_sticks.jobString>
+
+
+    <CookVegOnAStick.label>przygotowanie warzyw na patyku</CookVegOnAStick.label>
+    <CookVegOnAStick.description>Upiecz surowe warzywa nad otwartym ogniem.</CookVegOnAStick.description>
+    <CookVegOnAStick.jobString>Przygotowuje szaszłyk warzywny.</CookVegOnAStick.jobString>
+
+    <CookVegOnAStick4.label>przygotowanie warzyw na patyku x4</CookVegOnAStick4.label>
+    <CookVegOnAStick4.description>Upiecz surowe warzywa nad otwartym ogniem (x4).</CookVegOnAStick4.description>
+    <CookVegOnAStick4.jobString>Przygotowuje 4 szaszłyki warzywne.</CookVegOnAStick4.jobString>
+
+
+    <CookLittleMeatOnAStick.label>przygotowanie małej porcji mięsa na patyku</CookLittleMeatOnAStick.label>
+    <CookLittleMeatOnAStick.description>Upiecz małą porcję mięsa nad otwartym ogniem.</CookLittleMeatOnAStick.description>
+    <CookLittleMeatOnAStick.jobString>Przygotowuje szaszłyk z małą porcją mięsa.</CookLittleMeatOnAStick.jobString>
+
+    <CookLittleMeatOnAStick4.label>przygotowanie małej porcji mięsa na patyku x4</CookLittleMeatOnAStick4.label>
+    <CookLittleMeatOnAStick4.description>Upiecz małe porcje mięsa nad otwartym ogniem (x4).</CookLittleMeatOnAStick4.description>
+    <CookLittleMeatOnAStick4.jobString>Przygotowuje 4 szaszłyki z małą porcją mięsa.</CookLittleMeatOnAStick4.jobString>
+
+
+    <CookBlendedMeatOnAStick.label>przygotowanie mięsa z warzywami na patyku</CookBlendedMeatOnAStick.label>
+    <CookBlendedMeatOnAStick.description>Upiecz mięso z warzywami nad otwartym ogniem.</CookBlendedMeatOnAStick.description>
+    <CookBlendedMeatOnAStick.jobString>Przygotowuje szaszłyk z mięsa i warzyw.</CookBlendedMeatOnAStick.jobString>
+
+    <CookBlendedMeatOnAStick4.label>przygotowanie mięsa z warzywami na patyku x4</CookBlendedMeatOnAStick4.label>
+    <CookBlendedMeatOnAStick4.description>Upiecz mięso z warzywami nad otwartym ogniem (x4).</CookBlendedMeatOnAStick4.description>
+    <CookBlendedMeatOnAStick4.jobString>Przygotowuje 4 szaszłyki z mięsa i warzyw.</CookBlendedMeatOnAStick4.jobString>
+
+    <CookFishOnAStick.label>przygotowanie ryby na patyku</CookFishOnAStick.label>
+    <CookFishOnAStick.description>Upiecz rybę nad otwartym ogniem.</CookFishOnAStick.description>
+    <CookFishOnAStick.jobString>Przygotowuje szaszłyk rybny.</CookFishOnAStick.jobString>
+
+    <CookFishOnAStick4.label>przygotowanie ryby na patyku x4</CookFishOnAStick4.label>
+    <CookFishOnAStick4.description>Upiecz ryby nad otwartym ogniem (x4).</CookFishOnAStick4.description>
+    <CookFishOnAStick4.jobString>Przygotowuje 4 szaszłyki rybne.</CookFishOnAStick4.jobString>
+
+    <CookFruitOnAStick.label>przygotowanie owoców na patyku</CookFruitOnAStick.label>
+    <CookFruitOnAStick.description>Upiecz owoce nad otwartym ogniem.</CookFruitOnAStick.description>
+    <CookFruitOnAStick.jobString>Przygotowuje szaszłyk owocowy.</CookFruitOnAStick.jobString>
+
+    <CookFruitOnAStick4.label>przygotowanie owoców na patyku x4</CookFruitOnAStick4.label>
+    <CookFruitOnAStick4.description>Upiecz owoce nad otwartym ogniem (x4).</CookFruitOnAStick4.description>
+    <CookFruitOnAStick4.jobString>Przygotowuje 4 szaszłyki owocowe.</CookFruitOnAStick4.jobString>
+
+    <CookFungusOnAStick.label>przygotowanie grzybów na patyku</CookFungusOnAStick.label>
+    <CookFungusOnAStick.description>Upiecz grzyby nad otwartym ogniem.</CookFungusOnAStick.description>
+    <CookFungusOnAStick.jobString>Przygotowuje szaszłyk z grzybów.</CookFungusOnAStick.jobString>
+
+    <CookFungusOnAStick4.label>przygotowanie grzybów na patyku x4</CookFungusOnAStick4.label>
+    <CookFungusOnAStick4.description>Upiecz grzyby nad otwartym ogniem (x4).</CookFungusOnAStick4.description>
+    <CookFungusOnAStick4.jobString>Przygotowuje 4 szaszłyki z grzybów.</CookFungusOnAStick4.jobString>
+
+    <moas_CookStick.label>pieczenie patyka</moas_CookStick.label>
+    <moas_CookStick.description>Upiecz patyk nad otwartym ogniem.</moas_CookStick.description>
+    <moas_CookStick.jobString>Piecze patyk.</moas_CookStick.jobString>
+
+    <moas_CookStick4.label>pieczenie patyków x4</moas_CookStick4.label>
+    <moas_CookStick4.description>Upiecz patyki nad otwartym ogniem (x4).</moas_CookStick4.description>
+    <moas_CookStick4.jobString>Piecze 4 patyki.</moas_CookStick4.jobString>
+</LanguageData>

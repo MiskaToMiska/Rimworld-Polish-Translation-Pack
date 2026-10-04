@@ -1,0 +1,25 @@
+<LanguageData>
+    <chrisb_moas_sticks.label>patyk do szaszłyków</chrisb_moas_sticks.label>
+    <chrisb_moas_sticks.description>Zaostrzony drewniany patyk. Może być użyty do nabijania i pieczenia jedzenia nad ogniskiem.</chrisb_moas_sticks.description>
+
+    <MeatOnAStick_fungus.label>grzyby na patyku</MeatOnAStick_fungus.label>
+    <MeatOnAStick_fungus.description>Grzyby nabite na patyk i upieczone nad ogniem.</MeatOnAStick_fungus.description>
+
+    <MeatOnAStick_veg.label>warzywa na patyku</MeatOnAStick_veg.label>
+    <MeatOnAStick_veg.description>Warzywa nabite na patyk i upieczone nad ogniem.</MeatOnAStick_veg.description>
+
+    <MeatOnAStick_meatless.label>pieczony patyk</MeatOnAStick_meatless.label>
+    <MeatOnAStick_meatless.description>Upieczony nad ogniem patyk. Nie ma na nim żadnego jedzenia, ale i tak można spróbować go zjeść. Niektóre momenty w życiu sprawiają, że człowiek zaczyna się zastanawiać: "w jakim właściwie kierunku zmierza moje życie?".</MeatOnAStick_meatless.description>
+
+    <MeatOnAStick_little.label>mały kawałek mięsa na patyku</MeatOnAStick_little.label>
+    <MeatOnAStick_little.description>Mała porcja mięsa nabita na patyk i upieczona nad ogniem.</MeatOnAStick_little.description>
+
+    <MeatOnAStick_blend.label>mięso z warzywami na patyku</MeatOnAStick_blend.label>
+    <MeatOnAStick_blend.description>Mieszanka mięsa i warzyw nabita na patyk i upieczona nad ogniem.</MeatOnAStick_blend.description>
+
+    <MeatOnAStick_fish.label>ryba na patyku</MeatOnAStick_fish.label>
+    <MeatOnAStick_fish.description>Ryba nabita na patyk i upieczona nad ogniem.</MeatOnAStick_fish.description>
+
+    <MeatOnAStick_fruit.label>owoce na patyku</MeatOnAStick_fruit.label>
+    <MeatOnAStick_fruit.description>Owoce nabite na patyk i upieczone nad ogniem.</MeatOnAStick_fruit.description>
+</LanguageData>
