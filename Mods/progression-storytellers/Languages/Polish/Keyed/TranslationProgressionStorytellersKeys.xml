@@ -1,0 +1,32 @@
+<LanguageData>
+    <PST_CategoryPageTitle>Wybierz styl opowieści</PST_CategoryPageTitle>
+    <PST_CategoryPageSubtitle>Wydarzenia w grze mają miejsce w zależności od wybranego stylu opowieści.</PST_CategoryPageSubtitle>
+    <PST_StorytellerPageTitle>Wybierz swojego narratora SI</PST_StorytellerPageTitle>
+    <PST_StorytellerCount>{0} narratorów</PST_StorytellerCount>
+    <PST_StorytellerCountOne>1 narrator</PST_StorytellerCountOne>
+    <PST_CurrentStoryteller>Aktualnie: {0}</PST_CurrentStoryteller>
+    <PST_NoStorytellersInCategory>W tej kategorii nie ma żadnych dostępnych narratorów.</PST_NoStorytellersInCategory>
+    <PST_SelectFromStorytellers>Wybierz spośród {0} narratorów</PST_SelectFromStorytellers>
+    <PST_SelectFromStoryteller>Wybierz spośród 1 narratora</PST_SelectFromStoryteller>
+    <PST_RosterButton>Widok katalogu</PST_RosterButton>
+    <PST_RosterTitle>Katalog narratorów</PST_RosterTitle>
+    <PST_RosterSubtitle>Wybierz członka, aby dowiedzieć się o nim więcej, a następnie naciśnij "Dalej".</PST_RosterSubtitle>
+    <PST_RosterRandom>Wybierz losowo</PST_RosterRandom>
+    <PST_SidebarHeader>Styl opowieści</PST_SidebarHeader>
+    <PST_SidebarHide>Ukryj style opowieści</PST_SidebarHide>
+    <PST_SidebarShow>Pokaż style opowieści</PST_SidebarShow>
+    <PST_CategoryLabel_SlowPaced>Spokojny</PST_CategoryLabel_SlowPaced>
+    <PST_CategoryLabel_Engaging>Wciągający</PST_CategoryLabel_Engaging>
+    <PST_CategoryLabel_Chaotic>Chaotyczny</PST_CategoryLabel_Chaotic>
+    <PST_CategoryLabel_Consistent>Spójny</PST_CategoryLabel_Consistent>
+    <PST_CategoryLabel_Brutal>Brutalny</PST_CategoryLabel_Brutal>
+    <PST_CategoryLabel_Bizarre>Dziwaczny</PST_CategoryLabel_Bizarre>
+    <PST_CategoryLabel_Undefined>Nieklasyfikowany</PST_CategoryLabel_Undefined>
+    <PST_CategoryDesc_SlowPaced>Opowieść, która pozwala się zrelaksować pomiędzy ważnymi wydarzeniami.</PST_CategoryDesc_SlowPaced>
+    <PST_CategoryDesc_Engaging>Opowieść z dynamiką, dostosowująca się do twoich wzlotów i upadków.</PST_CategoryDesc_Engaging>
+    <PST_CategoryDesc_Chaotic>Opowieść nie zważająca na spójność - całkowity chaos.</PST_CategoryDesc_Chaotic>
+    <PST_CategoryDesc_Consistent>Opowieść o przewidywalnym tempie wydarzeń i wyzwalaczy.</PST_CategoryDesc_Consistent>
+    <PST_CategoryDesc_Brutal>Krwawa próba cierpliwości, umiejętności i strategii.</PST_CategoryDesc_Brutal>
+    <PST_CategoryDesc_Bizarre>Opowieści przedstawione w nowych formatach, często sprawiające wrażenie zupełnie nowych.</PST_CategoryDesc_Bizarre>
+    <PST_CategoryDesc_Undefined>Nieznana kategoria.</PST_CategoryDesc_Undefined>
+</LanguageData>
