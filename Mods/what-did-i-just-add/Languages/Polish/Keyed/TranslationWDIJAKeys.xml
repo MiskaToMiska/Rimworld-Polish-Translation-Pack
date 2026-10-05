@@ -1,0 +1,36 @@
+<LanguageData>
+<JAW_ModName>What Did I Just Add</JAW_ModName>
+<JAW_StarSuffix>★</JAW_StarSuffix>
+<JAW_MarkAllRead>Wyczyść</JAW_MarkAllRead>
+<JAW_MarkAllRead_Tip>Wyczyść oznakowanie "nowo dodane", usuwając przypięcie i podświetlenie</JAW_MarkAllRead_Tip>
+<JAW_MarkAllRead_Done>Usunięto {0} oznaczeń "nowo dodane"</JAW_MarkAllRead_Done>
+<JAW_Source_Workshop>Warsztat Steam</JAW_Source_Workshop>
+<JAW_Source_Local>Folder lokalnych modów</JAW_Source_Local>
+<JAW_Tooltip>{0}\nNowo dodane\nPierwsze pojawienie: {1}\nŹródło: {2}\nID: {3}\n\nNaciśnij podwójnie, aby włączyć moda i przenieść go na prawą stronę(Włączone); naciśnij na "Wyczyść" powyżej aby usunąć ten znaczek</JAW_Tooltip>
+<JAW_Set_SectionDisplay>Wyświetlanie</JAW_Set_SectionDisplay>
+<JAW_Set_PinToTop>Przypnij nowo dodane mody do góry</JAW_Set_PinToTop>
+<JAW_Set_PinToTop_Tip>Sortuj nowo dodane, wyłączone mody na samą górę lewej listy, najnowsze pierwsze</JAW_Set_PinToTop_Tip>
+<JAW_Set_Highlight>Podświetl nowo dodane mody</JAW_Set_Highlight>
+<JAW_Set_Highlight_Tip>Narysuj kolorowe tło wiersza oraz pasek przy lewej krawędzi</JAW_Set_Highlight_Tip>
+<JAW_Set_Star>Dodaj ★ do nowo dodanych modów</JAW_Set_Star>
+<JAW_Set_Star_Tip>Dodaj gwiazdkę do nazwy, aby łatwiej było ją dostrzec</JAW_Set_Star_Tip>
+<JAW_Set_Divider>Pokaż separator grup</JAW_Set_Divider>
+<JAW_Set_Divider_Tip>Narysuj linię pod ostatnim nowo dodanym modem, aby oddzielić go od starszych</JAW_Set_Divider_Tip>
+<JAW_Set_Tooltip>Pokaż podpowiedź po najechaniu kursorem</JAW_Set_Tooltip>
+<JAW_Set_Tooltip_Tip>Po najechaniu kursorem na nowo dodany mod wyświetl czas pierwszego pojawienia się i źródło.\nOstrzeżenia dotyczące wersji podstawowej i zależności nadal mają pierwszeństwo</JAW_Set_Tooltip_Tip>
+<JAW_Set_ReadButton>Pokaż przycisk "Wyczyść"</JAW_Set_ReadButton>
+<JAW_Set_ReadButton_Tip>Pokaż przycisk do wyczyszczenia po prawej strony z nagłówka "Wyłączone".\nawet gdy przycisk jest ukryty, nadal można wyczyścić zaznaczenia z tej strony ustawień</JAW_Set_ReadButton_Tip>
+<JAW_Set_SectionStyle>Styl</JAW_Set_SectionStyle>
+<JAW_Set_Color>Kolor podświetlenia: {0}</JAW_Set_Color>
+<JAW_Set_Strength>Moc podświetlenia: {0}</JAW_Set_Strength>
+<JAW_Color_0>złoty</JAW_Color_0>
+<JAW_Color_1>zielony</JAW_Color_1>
+<JAW_Color_2>niebieski</JAW_Color_2>
+<JAW_Color_3>różowy</JAW_Color_3>
+<JAW_Strength_0>lekki</JAW_Strength_0>
+<JAW_Strength_1>średni</JAW_Strength_1>
+<JAW_Strength_2>mocny</JAW_Strength_2>
+<JAW_Set_NewCount>Obecnie oznaczone jako nowo dodane: {0}</JAW_Set_NewCount>
+<JAW_Set_ClearAll>Wyczyść wszystkie oznaczenia nowo dodane</JAW_Set_ClearAll>
+<JAW_Set_Help>Mod jest uznawany za nowo dodany, gdy pojawia się na liście zainstalowanych, ale nie ma go w lokalnym rejestrze.\nPlik rejestru: Config/JustAddedWhat.txt. Usunięcie tego pliku spowoduje odbudowanie punktu odniesienia podczas następnego skanowania, co pozwoli uniknąć zgłaszania fałszywych alarmów.</JAW_Set_Help>
+</LanguageData>
