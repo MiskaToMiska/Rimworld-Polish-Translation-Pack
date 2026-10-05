@@ -1,0 +1,27 @@
+<LanguageData>
+    <VV_BadEvents>Złe wydarzenia</VV_BadEvents>
+    <VV_OtherEvents>Inne wydarzenia</VV_OtherEvents>
+    <VV_SettingsTitle>Pakt z Wiktorem</VV_SettingsTitle>
+    <VV_RevengeMode>Włącz tryb zemsty</VV_RevengeMode>
+    <VV_FuryMode>Włącz tryb furii</VV_FuryMode>
+    <VV_StackMode>Włącz nakładanie się</VV_StackMode>
+    <VV_IntroText>Wiktor ostro klepie cię w ramię,\nwskazując na nadchodzące wydarzenie.</VV_IntroText>
+    <VV_IntroTextRevenge>Wiktor szturcha cię łokciem, wskazując\na uparte wydarzenie, które powróciło, by cię prześladować.</VV_IntroTextRevenge>
+    <VV_Points>punkty: {0}</VV_Points>
+    <VV_Question>Zrezygnujesz, czy pozwolisz, by wydarzenie potoczyło się dalej?</VV_Question>
+    <VV_IllPass>Zrezygnuję</VV_IllPass>
+    <VV_MaybeLater>Może potem</VV_MaybeLater>
+    <VV_GoOn>Kontynuuj</VV_GoOn>
+    <VV_StackIntroText>Wiktor uśmiecha się złośliwie, zesyłając nowe wydarzenie i decydując się\na jednoczesne ukaranie cię odrzuconymi wydarzeniami.</VV_StackIntroText>
+    <VV_AlongsidePassed>wraz z zakończonymi wydarzeniami</VV_AlongsidePassed>
+    <VV_Okay>Okej</VV_Okay>
+    <VV_NoInfo>Nie ma żadnych dodatkowych informacji.</VV_NoInfo>
+    <VV_ResetToDefault>Przywróć domyślne</VV_ResetToDefault>
+    <VV_AllowPassOn>Pozwolimy Ci to odrzucić...</VV_AllowPassOn>
+    <VV_AllowBurdensReturn>Czy pozwolimy Ci, aby odrzucone kłopoty mogły powrócić?</VV_AllowBurdensReturn>
+    <VV_ChanceOfReturn>Szansa powrotu zdarzeń: {0}</VV_ChanceOfReturn>
+    <VV_TwiceThePower>Czy pozwolimy Ci, aby kłopoty mogły powrócić z podwójną siłą?</VV_TwiceThePower>
+    <VV_ChanceOfDoubled>Szansa podwojenia punktów: {0}</VV_ChanceOfDoubled>
+    <VV_BundledNewOnes>Czy pozwolimy Ci, aby kłopoty mogły powrócić w pakiecie wraz z nowymi?</VV_BundledNewOnes>
+    <VV_ChanceOfStacking>Szansa nałożenia się: {0}</VV_ChanceOfStacking>
+</LanguageData>
