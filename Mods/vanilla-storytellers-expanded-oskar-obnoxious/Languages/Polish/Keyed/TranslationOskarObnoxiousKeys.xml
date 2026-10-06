@@ -1,0 +1,31 @@
+<LanguageData>
+<!-- Labels -->
+    <PatchTitle>RimWorld {0} "{1}"</PatchTitle>
+    <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+    <OskarObnoxious>Nieznośny Oskar</OskarObnoxious>
+<PatchNotes>Opublikowano Nową Aktualizację</PatchNotes>
+<!-- Patch Window -->
+<ValueChanged>Wartość {0} zmieniła się z {1} na {2}</ValueChanged>
+<ValueUnchanged>Wartość {0} pozostanie bez zmian. Obecna wartość to {1}</ValueUnchanged>
+<ValueChangedDefault>Wartość domyślna {0} zmieniła się z {1} na {2}</ValueChangedDefault>
+<ValueUnchangedDefault>
+Wartość domyślna {0} pozostanie bez zmian. Aktualna wartość to {1}
+</ValueUnchangedDefault>
+<!-- Settings -->
+<TicksBetweenPatchNotes>Liczba tików do opublikowania kolejnego opisu aktualizacji</TicksBetweenPatchNotes>
+<TicksBetweenPatchNotesTooltip>Liczba tików pozostałych do opublikowania kolejnych informacji o aktualizacji. Jeśli nie masz pewności co do wartości, poszukaj w Google wiki poświęconej czasowi w RimWorld. 60 000 tików = 1 dzień
+</TicksBetweenPatchNotesTooltip>
+<DefsChangedPerPatch>Defs</DefsChangedPerPatch>
+<DefsChangedPerPatchTooltip>Liczba poprawionych Defs ma opis aktualizacji</DefsChangedPerPatchTooltip>
+<FieldsChangedPerDef>Fields</FieldsChangedPerDef>
+<FieldsChangedPerDefTooltip>Liczba poprawionych Fields na opis aktualizacji</FieldsChangedPerDefTooltip>
+<PatchNotesStored>Zapisane opisy o aktualizacjach</PatchNotesStored>
+<PatchNotesStoredTooltip>
+Maksymalna liczba informacji o aktualizacjach, które zostaną zapisane i będą widoczne w oknie "Informacje o aktualizacjach". Wyświetlane będą tylko najnowsze aktualizacje do tej liczby, ale zmiany wprowadzone przez wszystkie poprzednie aktualizacje nadal będą obowiązywać.
+</PatchNotesStoredTooltip>
+<ShowAllPatchNotes>Otwórz opis aktualizacji</ShowAllPatchNotes>
+<ResetPatchNotesToDefault>Przywróć domyślne</ResetPatchNotesToDefault>
+<DebugShowPatchGeneration>Generacja Logów Aktualizacji</DebugShowPatchGeneration>
+<DebugShowPatchGenerationTooltip>Wyświetlaj wszystkie etapy generowania poprawek w dzienniku wiadomości. (Wyłącznie do celów debugowania)
+</DebugShowPatchGenerationTooltip>
+</LanguageData>
