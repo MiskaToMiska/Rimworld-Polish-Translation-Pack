@@ -22,6 +22,6 @@
     <VV_ChanceOfReturn>Szansa powrotu zdarzeń: {0}</VV_ChanceOfReturn>
     <VV_TwiceThePower>Czy pozwolimy Ci, aby kłopoty mogły powrócić z podwójną siłą?</VV_TwiceThePower>
     <VV_ChanceOfDoubled>Szansa podwojenia punktów: {0}</VV_ChanceOfDoubled>
-    <VV_BundledNewOnes>Czy pozwolimy Ci, aby kłopoty mogły powrócić w pakiecie wraz z nowymi?</VV_BundledNewOnes>
+    <VV_BundledNewOnes>Czy pozwolimy Ci, aby kłopoty mogły powrócić razem z nowymi?</VV_BundledNewOnes>
     <VV_ChanceOfStacking>Szansa nałożenia się: {0}</VV_ChanceOfStacking>
 </LanguageData>
