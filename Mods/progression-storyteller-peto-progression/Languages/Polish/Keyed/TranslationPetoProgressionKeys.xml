@@ -1,0 +1,26 @@
+<LanguageData>
+    <PP_SettingsTitle>Dylemat Peto</PP_SettingsTitle>
+    <PP_ResetToDefault>Przywróć domyślne</PP_ResetToDefault>
+    <PP_ThreatCapForEra>Limit zagrożeń {0}</PP_ThreatCapForEra>
+    <PP_ThreatCapForEraValue>{0}: {1}</PP_ThreatCapForEraValue>
+    <PP_UncapEraWithEra>Wyłącz limit zagrożeń ({0})</PP_UncapEraWithEra>
+    <PP_Uncapped>Bez limitu</PP_Uncapped>
+    <PP_UncapEra>Wyłącz limit zagrożeń</PP_UncapEra>
+    <PP_RandomStyleEventGeneration>Generowanie wydarzeń losowo?</PP_RandomStyleEventGeneration>
+    <PP_EnableRandomEvents>Włącz wydarzenia losowe</PP_EnableRandomEvents>
+    <PP_RequireEraMasteryToAdvance>Opanowanie epoki do awansu?</PP_RequireEraMasteryToAdvance>
+    <PP_RequireMastery>Wymagaj opanowania</PP_RequireMastery>
+    <PP_RequiresMastery>Wymagaj najpierw opanowania aktualnej epoki.</PP_RequiresMastery>
+    <PP_RequiresMasteryOfEra>Wymagaj opanowania epoki</PP_RequiresMasteryOfEra>
+    <PP_MasteryFooterDesc>Peto uznaje epokę opanowaną, jeśli przetrwasz maksymalny poziom zagrożenia przypisany do tej epoki.</PP_MasteryFooterDesc>
+    <PP_EraMasteredLabel>{0} - epoka opanowana</PP_EraMasteredLabel>
+    <PP_EraMasteredDesc>Pokonałeś największe zagrożenie, z jakim możesz się zmierzyć na tym poziomie technologicznym. Możesz nadal żyć w tej epoce, w której zagrożenia są porównywalne z tymi, z którymi się zmierzyłeś, lub w dowolnym momencie przejść na wyższy poziom, by w przyszłości zmierzyć się z większymi zagrożeniami.</PP_EraMasteredDesc>
+    <PP_SymbiosisConfirm>Czy chcesz skazić Peto za pomocą maski symbiozy? Dzięki temu zachowa on swoje zachowanie, ale będzie mógł czerpać wzorce zachowań od innych narratorów.
+    </PP_SymbiosisConfirm>
+    <PP_SymbiosisDialogTitle>Symbioza Peto</PP_SymbiosisDialogTitle>
+    <PP_SymbiosisWhenChange>Kiedy Peto powinien zmienić maskę?</PP_SymbiosisWhenChange>
+    <PP_SingleMaskNotice>Peto będzie nosić wyłącznie tę maskę. Wybierz więcej masek, aby uzyskać dostęp do dodatkowych ustawień.</PP_SingleMaskNotice>
+    <PP_RemoveMaskCorruption>Usuń uszkodzenia maski</PP_RemoveMaskCorruption>
+    <PP_RemoveMaskCorruptionTooltip>Zdejmij maskę symbiozy z Peto. Przestaje on naśladować zachowania innych narratorów i powraca do swojego własnego stylu. Twój wybór maski zostanie zapamiętany, jeśli ponownie go skazisz.</PP_RemoveMaskCorruptionTooltip>
+    <PP_SymbiosisTooltip>Skaź Peto za pomocą maski symbiozy, pozwalając mu przejmować zachowania innych narratorów.</PP_SymbiosisTooltip>
+</LanguageData>
