@@ -1,0 +1,5 @@
+<LanguageData>
+    <VCHE_Make_ChemfuelFromDeepchem.label>wyprodukuj chem-paliwo z chem-mazi</VCHE_Make_ChemfuelFromDeepchem.label>
+    <VCHE_Make_ChemfuelFromDeepchem.description>Wyprodukuj partię chem-paliwa poprzez rafinację chem-mazi.</VCHE_Make_ChemfuelFromDeepchem.description>
+    <VCHE_Make_ChemfuelFromDeepchem.jobString>Rafinuje chem-paliwo z chem-mazi.</VCHE_Make_ChemfuelFromDeepchem.jobString>
+</LanguageData>

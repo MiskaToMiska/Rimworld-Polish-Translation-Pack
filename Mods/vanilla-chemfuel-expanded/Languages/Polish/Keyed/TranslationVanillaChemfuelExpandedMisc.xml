@@ -1,0 +1,13 @@
+<LanguageData>
+    <VCHE_ExtractChemfuel>Wydobyć 150 chem-paliwa</VCHE_ExtractChemfuel>
+    <VCHE_ExtractChemfuelDesc>Wydobyć 150 chem paliwa ze zbiornika. Kolonista przyjdzie, aby je wydobyć.</VCHE_ExtractChemfuelDesc>
+    <VCHE_ExtractDeepchem>Wydobyć 150 chem-mazi</VCHE_ExtractDeepchem>
+    <VCHE_ExtractDeepchemDesc>Wydobyc 150 chem-mazi ze zbiornika. Kolonista przyjdzie, aby je wydobyć.</VCHE_ExtractDeepchemDesc>
+    <VCHE_CantRefine>Nie można rafinować: Zbiorniki są pełne</VCHE_CantRefine>
+    <VCHE_CantPump>Nie można pompować: Zbiorniki są pełne</VCHE_CantPump>
+    <VCHE_CantPlaceHere>Pompę głębinową chem-mazi można umieścić wyłącznie na złożu chem-mazi. Użyj skanera geoskanera, aby znaleźć złoża.</VCHE_CantPlaceHere>
+    <VCHE_ChemValve>Włącza/wyłącza przepływ chem-paliwa.</VCHE_ChemValve>
+    <VCHE_ChemValveDesc>Włącza/wyłącza przepływ chem-paliwa. Kolonista przyjdzie, aby odkręcić/zakręcić zawór.</VCHE_ChemValveDesc>
+    <VCHE_DeepChemValve>Włącza/wyłącza przepływ chem-mazi.</VCHE_DeepChemValve>
+    <VCHE_DeepChemValveDesc>Włącza/wyłącza przepływ chem-mazi. Kolonista przyjdzie, aby odkręcić/zakręcić zawór.</VCHE_DeepChemValveDesc>
+</LanguageData>
