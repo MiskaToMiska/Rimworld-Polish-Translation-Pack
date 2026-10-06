@@ -1,0 +1,49 @@
+<LanguageData>
+    <VCHE_Deepchem.label>głębinowa chem-maź</VCHE_Deepchem.label>
+    <VCHE_Deepchem.description>Lotny, płynny szlam chemiczny - maź wydobywana z głębokich podziemnych złóż. Jest zbyt gęsta, by można go było wykorzystać jako paliwo do silników i rakiet lub przetworzyć na materiał pędny do pocisków, ale można ją rafinować do postaci standardowego chem-paliwa.</VCHE_Deepchem.description>
+
+    <VCHE_DeepchemPipe.label>rura chem-mazi</VCHE_DeepchemPipe.label>
+    <VCHE_DeepchemPipe.description>Ciężkie rury stalowe służące do transportu głębinowej chem-mazi z pomp do rafinerii lub zbiorników chem-mazi przeznaczonych do magazynowania.</VCHE_DeepchemPipe.description>
+
+    <VCHE_UndergroundDeepchemPipe.label>ukryta rura chem-mazi</VCHE_UndergroundDeepchemPipe.label>
+    <VCHE_UndergroundDeepchemPipe.description>Ukryte rury z grubej stali służące do transportu głebinowej chem-mazi z pomp do rafinerii lub zbiorników chem-mazi przeznaczonych do przechowywania.</VCHE_UndergroundDeepchemPipe.description>
+
+    <VCHE_DeepchemValve.label>zawór chem-mazi</VCHE_DeepchemValve.label>
+    <VCHE_DeepchemValve.description>Włącza i wyłącza przepływ chem-mazi.</VCHE_DeepchemValve.description>
+
+    <PS_DeepchemTank.label>zbiornik chem-mazi</PS_DeepchemTank.label>
+    <PS_DeepchemTank.description>Zbiornik do przechowywania ciężkich osadów przemysłowych, przeznaczony do magazynowania głębinowej chem-mazi dostarczanej siecią rurociągów chem-mazi. Zbiorniki można wyznaczyć do opróżniania w razie potrzeby. Nawet niewielkie uszkodzenie spowoduje, że ulatniające się opary bardzo szybko utworzą gazową kulę ognia, a wielkość wynikającej z tego eksplozji będzie zależała od ilości przechowywawanej w nim chem-mazi.</PS_DeepchemTank.description>
+
+    <PS_DeepchemRefinery.label>rafineria chem-mazi</PS_DeepchemRefinery.label>
+    <PS_DeepchemRefinery.description>Złożona maszyna zdolna do rafinacji głebinowej chem-mazi dostarczanej rurociągami chem-mazi w celu uzyskania gotowego do użycia płynnego chem-paliwa. Jeśli nie wykryje się żadnego wypływu, paliwo zostanie automatycznie rozlane do kanistrów. Jeśli wylot jest podłączony do zbiornika lub kranu za pomocą rur do chem-paliwa, gotowy produkt zostanie przetransportowany w takiej postaci do magazynu lub do dystrybucji.</PS_DeepchemRefinery.description>
+
+    <VCHE_DeepchemPumpjack.label>pompa głębinowa chem-mazi</VCHE_DeepchemPumpjack.label>
+    <VCHE_DeepchemPumpjack.description>Wiertnica do wiercenia w głębokiej skorupie ziemskiej, służąca do wydobywania chem-mazi z głębi pod powierzchnią. Do wykrywania złóż należy użyć geoskanera. Głębinową chem-maź można następnie poddać dalszemu rafinowaniu w celu uzyskania gotowego do użycia chem-paliwa. Urządzenie można dowolnie przemieszczać.</VCHE_DeepchemPumpjack.description>
+
+    <VCHE_DeepchemTap.label>kran chem-mazi</VCHE_DeepchemTap.label>
+    <VCHE_DeepchemTap.description>Zbiornik magazynowy przypominający lejek, służący do okresowego przechowywania wydobywanego z zbiorników chem-mazi w celu późniejszego wykorzystania.</VCHE_DeepchemTap.description>
+
+    <VCHE_DeepchemDrain.label>odpływ chem-mazi</VCHE_DeepchemDrain.label>
+    <VCHE_DeepchemDrain.description>Zbiornik magazynowy przypominający lejek, służący do wprowadzania chem-mazi do sieci w celu napełnienia podłączonych zbiorników.</VCHE_DeepchemDrain.description>
+
+    <!--CHEMPALIWo-->
+    <VCHE_ChemfuelPipe.label>rura chem-paliwa</VCHE_ChemfuelPipe.label>
+    <VCHE_ChemfuelPipe.description>Rury stalowe przeznaczone do transportu gotowego do użycia chem-paliwa z rafinerii chem-mazi do zbiorników chem-paliwa w celu magazynowania lub do obiektów zużywających chem-paliwo w celu automatycznego uzupełniania zapasów.</VCHE_ChemfuelPipe.description>
+
+    <VCHE_UndergroundChemfuelPipe.label>ukryta rura chem-paliwa</VCHE_UndergroundChemfuelPipe.label>
+    <VCHE_UndergroundChemfuelPipe.description>Ukryte rury stalowe przeznaczone do transportu nadającego się do użytku chem-paliwa z rafinerii chem-mazi do zbiorników chem-paliwa w celu magazynowania lub do obiektów zużywających chem-paliwo w celu automatycznego uzupełniania zapasów.</VCHE_UndergroundChemfuelPipe.description>
+
+    <VCHE_ChemfuelValve.label>zawór chem-paliwa</VCHE_ChemfuelValve.label>
+    <VCHE_ChemfuelValve.description>Włącza i wyłącza przepływ chem-paliwa.</VCHE_ChemfuelValve.description>
+
+    <PS_ChemfuelTank.label>zbiornik chem-paliwa</PS_ChemfuelTank.label>
+    <PS_ChemfuelTank.description>Przemysłowy zbiornik do przechowywania cieczy, przeznaczony do magazynowania chem-paliwa dostarczanego siecią rurociągów. Zbiorniki można przystosować do pobierania chem-paliwa w miarę potrzeb. Nawet niewielkie uszkodzenie spowoduje, że ulatniające się opary bardzo szybko utworzą gazową kulę ognia, a wielkość wynikającej z tego eksplozji będzie zależała od ilości przechowywanego w nim chem-paliwa.</PS_ChemfuelTank.description>
+
+    <VCHE_ChemfuelTap.label>kran chem-paliwa</VCHE_ChemfuelTap.label>
+    <VCHE_ChemfuelTap.description>Zbiornik magazynowy przypominający lejek, przeznaczony do okresowego gromadzenia chem-paliwa spuszczanego ze zbiorników w celu późniejszego wykorzystania.</VCHE_ChemfuelTap.description>
+
+    <VCHE_ChemfuelDrain.label>odpływ chem-paliwa</VCHE_ChemfuelDrain.label>
+    <VCHE_ChemfuelDrain.description>Zbiornik magazynowy przypominający lejek, służący do wprowadzania chem-paliwa do sieci w celu napełnienia podłączonych zbiorników.</VCHE_ChemfuelDrain.description>
+
+
+</LanguageData>
