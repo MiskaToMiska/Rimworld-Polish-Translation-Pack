@@ -1,0 +1,45 @@
+<LanguageData>
+    <VCE_Canola.label>sadzonka rzepaku</VCE_Canola.label>
+    <VCE_Canola.description><![CDATA[Jasnożółta odmiana rzepaku o jaskrawych kwiatach, uprawiana głównie ze względu na nasiona bogate w olej.\n\n<color=#E5E54C>Wpływ na rozgrywkę:</color> Rzepak, choć nie nadaje się bezpośrednio do spożycia, może być bardzo efektywnie przetwarzany na chem-paliwo w rafinerii.]]></VCE_Canola.description>
+
+    <VCE_Lavender.label>lawenda</VCE_Lavender.label>
+    <VCE_Lavender.description>Pachnąca roślina o fioletowych kwiatach, znana ze swojego uspokajającego zapachu i walorów dekoracyjnych.</VCE_Lavender.description>
+
+    <VCE_FragrantbloomRose.label>pachnący kwiat róży</VCE_FragrantbloomRose.label>
+    <VCE_FragrantbloomRose.description>Wyjątkowa odmiana róży uprawiana ze względu na intensywny, urzekający zapach, idealna do produkcji perfum i innych produktów zapachowych.</VCE_FragrantbloomRose.description>
+
+    <VCE_Hyacinth.label>hiacynt</VCE_Hyacinth.label>
+    <VCE_Hyacinth.description>Żywy, pachnący kwiat o świeżym, zielonym zapachu, który nadaje głębi zarówno ogrodom, jak i perfumom.</VCE_Hyacinth.description>
+
+    <VCE_Jasmine.label>jaśmin</VCE_Jasmine.label>
+    <VCE_Jasmine.description>Żywy, pachnący kwiat o świeżym, zielonym zapachu, który nadaje głębi zarówno ogrodom, jak i perfumom.</VCE_Jasmine.description>
+
+    <VCE_Lily.label>lilia</VCE_Lily.label>
+    <VCE_Lily.description>Niezwykły kwiat o bogatym, słodkim, a czasem korzennym zapachu, który nadaje każdej przestrzeni elegancji.</VCE_Lily.description>
+
+    <VCE_Orchid.label>orchidea</VCE_Orchid.label>
+    <VCE_Orchid.description>Delikatny i egzotyczny kwiat o subtelnym, słodkim zapachu, który różni się w zależności od gatunku; często wykorzystywany w wyrafinowanych perfumach.</VCE_Orchid.description>
+
+    <VCE_Plumeria.label>plumeria</VCE_Plumeria.label>
+    <VCE_Plumeria.description>Tropikalny kwiat o owocowym, słodkim i kremowym zapachu, idealny do stworzenia bujnej, ciepłej atmosfery.</VCE_Plumeria.description>
+
+    <VCE_Tulip.label>tulipan</VCE_Tulip.label>
+    <VCE_Tulip.description>Piękny, ale o delikatnym zapachu kwiat, znany bardziej ze swoich żywych barw niż z zapachu.</VCE_Tulip.description>
+
+    <VCE_Vanilla.label>wanilia</VCE_Vanilla.label>
+    <VCE_Vanilla.description>Delikatne, kremowo-białe kwiaty o lekkim, słodkim zapachu. Chociaż kwiaty są piękne, to właśnie strąki, które wytwarzają, są cenione za swój ciepły, bogaty zapach. Dodaliśmy odrobinę wanilii do Twojego zestawu "Vanilla Expanded", abyś mógł rozprzestrzeniać zapach wanilii podczas rozbudowywania swojej przestrzeni. (😭)</VCE_Vanilla.description>
+
+    <VCE_Violet.label>fiołek</VCE_Violet.label>
+    <VCE_Violet.description>Kwiat o delikatnej, pudrowej konsystencji i słodkim zapachu, często wykorzystywany do nadania perfumom delikatnej nuty kwiatowej.</VCE_Violet.description>
+
+    <VCE_YlangYlang.label>jagodlin wonny</VCE_YlangYlang.label>
+    <VCE_YlangYlang.description>Kwiat o intensywnym zapachu, słodki i bogaty w aromat, ceniony ze względu na swoje zastosowanie w egzotycznych i zmysłowych perfumach.
+    </VCE_YlangYlang.description>
+
+    <!--ideology-->
+    <VCE_Moss.label>Mech jaskiniowy</VCE_Moss.label>
+    <VCE_Moss.description>Bogaty w składniki odżywcze mech, który może służyć jako pokarm dla zwierząt jaskiniowych, ale nie dla ludzi. Może rosnąć na żwirze grzybowym, ale wyłącznie w ciemności – wystawienie go na działanie jakiegokolwiek światła, w tym światła ciemności, spowoduje jego śmierć.</VCE_Moss.description>
+
+    <VCE_Tinctshroom.label>Tinctogrzyb</VCE_Tinctshroom.label>
+    <VCE_Tinctshroom.description>Grzyb zmodyfikowany genetycznie, który wydziela barwnik zdolny do samoczynnej zmiany barwy. Barwnik ten można nakłonić do przybrania różnych kolorów i wykorzystać do barwienia odzieży. Grzyb ten może rosnąć na podłożu grzybowym, ale wyłącznie w ciemności – wystawienie go na działanie jakiegokolwiek światła, w tym światła ciemności, spowoduje jego śmierć.</VCE_Tinctshroom.description>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+    <VCE_Make_ChemfuelFromCanola.label>zrób chem-paliwo z rzepaku</VCE_Make_ChemfuelFromCanola.label>
+    <VCE_Make_ChemfuelFromCanola.description>Wyprodukuj partię chem-paliwa poprzez pozyskanie ekstracje biopaliwa z kwiatów rzepaku.</VCE_Make_ChemfuelFromCanola.description>
+    <VCE_Make_ChemfuelFromCanola.jobString>Rafinauje chem-paliwo z rzepaku.</VCE_Make_ChemfuelFromCanola.jobString>
+
+    <!--ideology-->
+    <VCE_Make_Kibble_Moss.label>zrób karmę dla zwierząt z mchu</VCE_Make_Kibble_Moss.label>
+    <VCE_Make_Kibble_Moss.description>Przygotuj karmę dla zwierząt, mieszając surowe mięso z mchem. Ten przepis jest nieco bardziej wydajny niż stosowanie siana.</VCE_Make_Kibble_Moss.description>
+    <VCE_Make_Kibble_Moss.jobString>Wytwarzanie karmy z mchu.</VCE_Make_Kibble_Moss.jobString>
+    <!--vanila cooking expanded-->
+
+    <VCE_MilkFromOats.label>wyciskanie mleka z owsa</VCE_MilkFromOats.label>
+    <VCE_MilkFromOats.description>Wyciskanie mleka roślinnego z owsa. Mleko to można wykorzystać w każdym przepisie, w którym wymagane jest mleko.\n\nMleka roślinne są zazwyczaj mało wydajne, ponieważ podczas procesu produkcji traci się wiele składników odżywczych.</VCE_MilkFromOats.description>
+    <VCE_MilkFromOats.jobString>Wyciskanie mleka z owsa.</VCE_MilkFromOats.jobString>
+
+    <VCE_MilkFromCoconuts.label>wyciskanie mleka z kokosów</VCE_MilkFromCoconuts.label>
+    <VCE_MilkFromCoconuts.description>Wyciskanie mleka roślinnego z kokosów. Mleko to można wykorzystać w każdym przepisie, w którym wymagane jest mleko.\n\nMleka roślinne są zazwyczaj mało wydajne, ponieważ podczas procesu produkcji traci się wiele składników odżywczych.</VCE_MilkFromCoconuts.description>
+    <VCE_MilkFromCoconuts.jobString></VCE_MilkFromCoconuts.jobString>
+
+    <VCE_MilkFromAlmonds.label>wyciskanie mleka z migdałów</VCE_MilkFromAlmonds.label>
+    <VCE_MilkFromAlmonds.label>Wyciskanie mleka roślinnego z migdałów. Mleko to można wykorzystać w każdym przepisie, w którym wymagane jest mleko.\n\nMleka roślinne są zazwyczaj mało wydajne, ponieważ podczas procesu produkcji traci się wiele składników odżywczych.</VCE_MilkFromAlmonds.label>
+    <VCE_MilkFromAlmonds.label>Wyciskanie mleka z migdałów.</VCE_MilkFromAlmonds.label>
+
+    <VCE_MilkFromRice.label>wytwarzanie mleka z ryżu</VCE_MilkFromRice.label>
+    <VCE_MilkFromRice.description>Wytwarzanie mleka roślinnego z ryżu. Mleko to można wykorzystać w każdym przepisie, w którym wymagane jest mleko.\n\nPrzetwarzanie ryżu na mleko jest bardzo nieefektywne, a w trakcie tego procesu traci się wiele składników odżywczych.</VCE_MilkFromRice.description>
+    <VCE_MilkFromRice.jobString>Wytwarzanie mleka z ryżu.</VCE_MilkFromRice.jobString>
+</LanguageData>

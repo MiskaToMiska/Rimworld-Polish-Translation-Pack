@@ -1,0 +1,23 @@
+<LanguageData>
+    <VCE_RawAvocado.label>awokado</VCE_RawAvocado.label>
+    <VCE_RawAvocado.description>Owoc o zielonym lub niemal czarnym kolorze, z dużym pestką pośrodku. Awokado ma bardzo delikatną, kremową konsystencję. Hipsterzy je uwielbiają.</VCE_RawAvocado.description>
+
+    <VCE_RawMelon.label>melony</VCE_RawMelon.label>
+    <VCE_RawMelon.label>Słodki, jadalny i mięsisty owoc o znacznych rozmiarach. Melony uprawia się zazwyczaj w ciepłych regionach.</VCE_RawMelon.label>
+
+    <VCE_RawPineapple.label>ananas</VCE_RawPineapple.label>
+    <VCE_RawPineapple.description>Słodki owoc tropikalny o twardej, skórzastej skórce i kolczastych liściach na wierzchu. Słowo "ananas" pierwotnie oznaczało "doskonały owoc" lub "wonny owoc".</VCE_RawPineapple.description>
+
+    <VCE_RawCoconut.label>kokosy</VCE_RawCoconut.label>
+    <VCE_RawCoconut.description>Jadalny owoc palmy kokosowej. Miąższ kokosa ma wysoką zawartość tłuszczu i można go suszyć, spożywać na świeżo lub przetwarzać na mleko kokosowe lub olej kokosowy. Płyn zawarty w orzechu, znany jako woda kokosowa, jest wykorzystywany do produkcji napojów.</VCE_RawCoconut.description>
+
+    <VCE_RawAlmonds.label>migdały</VCE_RawAlmonds.label>
+    <VCE_RawAlmonds.description>Owalna pestkowa owoce, często spożywane same, na surowo lub prażone, choć mogą być również wykorzystywane jako składnik różnych potraw. Migdały stanowią główny składnik wielu klasycznych słodyczy.</VCE_RawAlmonds.description>
+
+    <VCE_Mangoes.label>mango</VCE_Mangoes.label>
+    <VCE_Mangoes.description><![CDATA[Owalny owoc o intensywnej kolorystyce z odcieniami czerwieni i żółci. Pojedyncze, duże nasiono ma spłaszczony kształt, a otaczający je miąższ ma barwę od żółtej do pomarańczowej, jest soczysty i charakteryzuje się wyrazistym, słodko-korzennym smakiem.\n\n<color=#E5E54C>Efekt w grze:</color> Mango nie można zamrażać, ponieważ ulegają zniszczeniu. Gra nie jest w stanie tego wykryć, więc należy je usunąć z zamrażarek.]]></VCE_Mangoes.description>
+
+    <!--Vanilla Faction Expanded - Medieval -->
+    <VCE_RawBlueberries.label>Jagody</VCE_RawBlueberries.label>
+    <VCE_RawBlueberries.description>Jagody to słodkie, jadalne owoce uznawane za superżywność. Najczęściej spożywa się je na świeżo jako deser, a także wykorzystuje do wypieku różnych ciast.</VCE_RawBlueberries.description>
+</LanguageData>
