@@ -1,0 +1,10 @@
+<LanguageData>
+    <VCE_AquaticGrowingZone>Strefa uprawy roślin wodnych</VCE_AquaticGrowingZone>
+    <VCE_AquaticGrowingZoneDesc>Utwórz strefę, w której koloniści będą próbować uprawiać rośliny wodne. Rośliny wodne nie uwzględniają żyzności terenu, ale ich wysiew i zbiór zajmują bardzo dużo czasu.\n\nStref tych nie można umieszczać na wodach oceanicznych (słonych).</VCE_AquaticGrowingZoneDesc>
+    <VCE_SandyGrowingZone>Strefa uprawy na piasku</VCE_SandyGrowingZone>
+    <VCE_SandyGrowingZoneDesc>Utwórz strefę, w której twoi koloniści będą próbować uprawiać rośliny piaszczyste. Rośliny piaszczyste nie uwzględniają żyzności terenu, ale ich wysiew i zbiór zajmują bardzo dużo czasu.</VCE_SandyGrowingZoneDesc>
+    <VCE_FlowerGardenGrowingZone>Strefa ogródka kwiatowego</VCE_FlowerGardenGrowingZone>
+    <VCE_FlowerGardenGrowingZoneDesc>Utwórz strefę, w której twoi koloniści będą próbować uprawiać kwiaty ozdobne.</VCE_FlowerGardenGrowingZoneDesc>
+    <VCE_CarrotsNearby>Marchew posadzona w pobliżu: {0}/100</VCE_CarrotsNearby>
+    <VCE_BeansNearby>Fasolka szparagowa posadzona w pobliżu: {0}/100</VCE_BeansNearby>
+</LanguageData>
