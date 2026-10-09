@@ -1,0 +1,8 @@
+<LanguageData>
+    <VEF_GrowingGiverBase.verb>uprawiać</VEF_GrowingGiverBase.verb>
+    <VEF_GrowingGiverBase.gerund>uprawianie</VEF_GrowingGiverBase.gerund>
+
+    <VPE_TillSoilWorkDeliverBp.label>uprawiać glebę</VPE_TillSoilWorkDeliverBp.label>
+    <VPE_TillSoilWorkBuild.label>uprawa gleby</VPE_TillSoilWorkBuild.label>
+    <VPE_TillSoilWorkDeliverFr.label>uprawa gleby</VPE_TillSoilWorkDeliverFr.label>
+</LanguageData>
