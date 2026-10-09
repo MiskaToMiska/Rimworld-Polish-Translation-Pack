@@ -1,0 +1,11 @@
+<LanguageData>
+    <VNPE_NutrientPastePipe.label>rurr pasty odżywczej</VNPE_NutrientPastePipe.label>
+    <VNPE_NutrientPastePipe.description>Lekkie stalowe rury do transportu mazi znanej jako pasta odżywcza z młynków i zbiorników do dozowników.</VNPE_NutrientPastePipe.description>
+
+    <VNPE_UndergroundNutrientPastePipe.label>ukryta rura pasty odżywczej</VNPE_UndergroundNutrientPastePipe.label>
+    <VNPE_UndergroundNutrientPastePipe.description>Ukryte stalowe rury do transportu mazi znanej jako pasta odżywcza z młynków i zbiorników do dozowników.</VNPE_UndergroundNutrientPastePipe.description>
+
+    <VNPE_NutrientPasteValve.label>zawór pasty odżywczej</VNPE_NutrientPasteValve.label>
+    <VNPE_NutrientPasteValve.description>Włącza i wyłącza przepływ pasty odżywczej.</VNPE_NutrientPasteValve.description>
+
+</LanguageData>
