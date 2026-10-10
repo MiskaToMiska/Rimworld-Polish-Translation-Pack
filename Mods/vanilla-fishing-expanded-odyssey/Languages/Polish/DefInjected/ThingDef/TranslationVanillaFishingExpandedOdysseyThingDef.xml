@@ -1,0 +1,54 @@
+<LanguageData>
+    <VCEF_RawAnchovy.label>sardela</VCEF_RawAnchovy.label>
+    <VCEF_RawAnchovy.description>Surowe sardele. Mała, pospolita ryba paszowa z rodziny Engraulidae. Większość gatunków występuje w wodach morskich, ale niektóre z nich zapuszczają się do wód słonawych, a niektóre występują wyłącznie w wodach słodkich.</VCEF_RawAnchovy.description>
+
+    <VCEF_RawAngelfish.label>skalar</VCEF_RawAngelfish.label>
+    <VCEF_RawAngelfish.description>Surowy skalar. Termin skalar obejmuje kilka gatunków ryb, zarówno morskich, jak i słodkowodnych, które zazwyczaj charakteryzują się jaskrawymi ubarwieniami oraz głęboko spłaszczonymi z boków ciałami.</VCEF_RawAngelfish.description>
+
+    <VCEF_RawAnglerfish.label>żabnica</VCEF_RawAnglerfish.label>
+    <VCEF_RawAnglerfish.description>Surowa żabnica. Żabnice to ryby kostnoszkieletowe, których nazwa wywodzi się od charakterystycznego sposobu polowania, polegającego na tym, że mięsisty wyrostek na głowie ryby (esca lub illicium) służy jako przynęta dla innych ryb.</VCEF_RawAnglerfish.description>
+    
+    <VCEF_RawClownfish.label>błazenek</VCEF_RawClownfish.label>
+    <VCEF_RawClownfish.description>Surowy błazenek. W środowisku naturalnym błazenki tworzą symbiotyczne związki z ukwiałami. W zależności od gatunku rybki-błazenki mają ogólnie żółte, pomarańczowe, czerwonawawe lub czarnawe ubarwienie, a wiele z nich ma białe paski lub plamy.</VCEF_RawClownfish.description>
+    
+    <VCEF_RawEel.label>węgorz</VCEF_RawEel.label>
+    <VCEF_RawEel.description>Surowy węgorz. Węgorz to dowolna ryba z gromady promieniopłetwych, należąca do rzędu Anguilliformes. Węgorze to ryby o wydłużonym ciele, pozbawione płetw brzusznych, a wiele gatunków nie posiada również płetw piersiowych. Węgorze poruszają się, wytwarzając fale, które rozchodzą się wzdłuż całego ich ciała.</VCEF_RawEel.description>
+
+    <VCEF_RawGoldfish.label>złota rybka</VCEF_RawGoldfish.label>
+    <VCEF_RawGoldfish.description>Surowa złota rybka. Złota rybka (Carassius auratus) to ryba słodkowodna z rodziny karpiowatych (Cyprinidae) z rzędu karpiowatych (Cypriniformes). Jest to jedna z najczęściej hodowanych ryb akwariowych.</VCEF_RawGoldfish.description>
+
+    <VCEF_RawHaddock.label>plamiak</VCEF_RawHaddock.label>
+    <VCEF_RawHaddock.description>Surowy plamiak. Plamiak (Melanogrammus aeglefinus) to ryba morska z rodziny Gadidae, czyli prawdziwych dorszowatych. Jest to ważna ryba spożywcza, tradycyjnie spożywana zarówno w postaci świeżej, jak i wędzonej.</VCEF_RawHaddock.description>
+
+    <VCEF_RawHalibut.label>halibut</VCEF_RawHalibut.label>
+    <VCEF_RawHalibut.description>Surowy halibut. Halibut to potoczna nazwa stosowana głównie w odniesieniu do dwóch gatunków ryb płastugowatych z rodziny flądrowatych o prawym oku. Rzadziej, a jedynie w niektórych regionach, inne gatunki ryb płastugowatych są również określane mianem halibutów.</VCEF_RawHalibut.description>
+
+    <VCEF_RawHerring.label>śledź</VCEF_RawHerring.label>
+    <VCEF_RawHerring.description>Surowe śledzie. Śledzie to ryby paszowe, należące głównie do rodziny Clupeidae. Śledzie często przemieszczają się w dużych ławicach w pobliżu łowisk i wybrzeża.</VCEF_RawHerring.description>
+    <VCEF_RawKoi.label>karp koi</VCEF_RawKoi.label>
+    <VCEF_RawKoi.description>Surowe karpie koi. Karpie koi to kolorowe odmiany karpia amurskiego (Cyprinus rubrofuscus), hodowane w celach dekoracyjnych w zewnętrznych stawach z karpiami koi lub ogrodach wodnych.</VCEF_RawKoi.description>
+
+    <VCEF_RawLobster.label>homar</VCEF_RawLobster.label>
+    <VCEF_RawLobster.description>Surowy homar. Homary to duże skorupiaki morskie. Mają długie ciała i muskularne ogony. Trzy z ich pięciu par nóg zakończone są szczypcami, w tym pierwsza para, która zazwyczaj jest znacznie większa od pozostałych.</VCEF_RawLobster.description>
+    
+    <VCEF_RawMackerel.label>makrela</VCEF_RawMackerel.label>
+    <VCEF_RawMackerel.description>Surowa makrela. Nazwa makrela to potoczne określenie wielu różnych gatunków ryb pelagicznych, głównie z rodziny Scombridae. Występują one zarówno w morzach o klimacie umiarkowanym, jak i tropikalnym, żyjąc głównie wzdłuż wybrzeża lub na otwartym morzu w środowisku oceanicznym.</VCEF_RawMackerel.description>
+
+    <VCEF_RawMinnow.label>drobniczka</VCEF_RawMinnow.label>
+    <VCEF_RawMinnow.description>Surowa drobniczka. Drobniczka to potoczna nazwa wielu gatunków malutkich ryb słodkowodnych, należących do kilku rodzajów z rodziny Cyprinodontiformes.</VCEF_RawMinnow.description>
+    
+    <VCEF_RawPerch.label>okoń</VCEF_RawPerch.label>
+    <VCEF_RawPerch.description>Surowy okoń. Okoń to potoczna nazwa ryb z rodzaju Perca, słodkowodnych ryb łownych należących do rodziny Percidae. Nazwa okoń pochodzi od dużego rzędu kręgowców: Perciformes. Wiele gatunków słodkowodnych ryb łownych w mniejszym lub większym stopniu przypomina okonia, ale należy do innych rodzajów.</VCEF_RawPerch.description>
+    
+    <VCEF_RawPufferfish.label>rozdymka</VCEF_RawPufferfish.label>
+    <VCEF_RawPufferfish.description>Surowa rozdymka. Potocznie rozdymka to grupa obejmująca głównie gatunki morskie i estuaryjne. Większość gatunków z tej rodziny jest trująca, a niektóre należą do najbardziej jadowitych kręgowców na świecie. U niektórych gatunków narządy wewnętrzne, takie jak wątroba, a czasem także skóra, zawierają tetrodotoksynę i są wysoce toksyczne dla większości zwierząt w przypadku spożycia; niemniej jednak mięso niektórych gatunków, przygotowane przez specjalnie przeszkolonych kucharzy, uchodzi za przysmak.</VCEF_RawPufferfish.description>
+    
+    <VCEF_RawSprat.label>szprot</VCEF_RawSprat.label>
+    <VCEF_RawSprat.description>Surowe szproty. Szprot to potoczne określenie grupy ryb paszowych należących do rodzaju Sprattus z rodziny Clupeidae. Podobnie jak większość ryb paszowych, szproty są bardzo aktywnymi, małymi i tłustymi rybami. Poruszają się w dużych ławicach wraz z innymi rybami i pływają nieprzerwanie przez cały dzień.</VCEF_RawSprat.description>
+
+    <VCEF_RawSwordfish.label>miecznik</VCEF_RawSwordfish.label>
+    <VCEF_RawSwordfish.description>Surowy miecznik. Mieczniki, znane również jako ryby szerokodziobe, to duże, silnie migrujące ryby drapieżne, charakteryzujące się długim, płaskim i spiczastym dziobem.</VCEF_RawSwordfish.description>
+
+    <VCEF_RawTrout.label>pstrąg</VCEF_RawTrout.label>
+    <VCEF_RawTrout.description>Surowy pstrąg. Pstrąg to potoczna nazwa wielu gatunków ryb słodkowodnych. Większość gatunków pstrąga żyje wyłącznie w słodkowodnych jeziorach i rzekach, natomiast inne, takie jak pstrąg stalowy, mogą spędzać dwa lub trzy lata w morzu, zanim powrócą do wód słodkich w celu odbycia tarła (co jest zachowaniem bardziej typowym dla łososia).</VCEF_RawTrout.description>
+</LanguageData>

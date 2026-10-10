@@ -1,0 +1,87 @@
+<LanguageData>
+<!-- Various -->
+<VCEF_FishingGrowingZone>Strefa łowienia</VCEF_FishingGrowingZone>
+<VCEF_FishingGrowingZoneDesc>
+Stwórz strefę, w której twoi koloniści będą próbować łowić ryby
+</VCEF_FishingGrowingZoneDesc>
+<VCEF_ChooseFish>Wybierz wielkość połowu</VCEF_ChooseFish>
+<VCEF_ChooseFishDesc>Wybierz preferowaną wielkość ryb do połowu spośród tych zamieszkujących ten biom. Połów mniejszych ryb zajmuje mniej czasu, ale są one mniej odżywcze, natomiast połów większych ryb trwa dłużej i są one bardziej odżywcze. Ryby średniej wielkości stanowią kompromis między tymi dwoma skrajnościami. Zawsze istnieje szansa na złowienie innych ryb lub specjalnych przedmiotów
+</VCEF_ChooseFishDesc>
+<VCEF_ChooseFishSmallLabel>Połów małych ryb</VCEF_ChooseFishSmallLabel>
+<VCEF_ChooseFishMediumLabel>Połów średnich ryb</VCEF_ChooseFishMediumLabel>
+<VCEF_ChooseFishLargeLabel>Połów dużych ryb</VCEF_ChooseFishLargeLabel>
+<VCEF_CommandAllowFishing>Dopuść połów</VCEF_CommandAllowFishing>
+<VCEF_CommandAllowFishingDesc>Zezwól na połów ryb w tej strefie łowienia</VCEF_CommandAllowFishingDesc>
+<VCEF_ZoneSetTo>Ta strefa o rozmiarze {0} pól została wyznaczona w celu połowu ryb o rozmiarze</VCEF_ZoneSetTo>
+<VCEF_FishesInThisZone>Ryby w tej strefie: </VCEF_FishesInThisZone>
+<VCEF_IsZoneOceanZone>Oceaniczna strefa łowienia: </VCEF_IsZoneOceanZone>
+<VCEF_Yes>Tak</VCEF_Yes>
+<VCEF_No>Nie</VCEF_No>
+<VCEF_ZoneTooSmall>
+Ta srefa jest za mała (wielkość: {0} pól). Strefy łowienia muszą mieć conajmniej {1} pól, aby działały (obliczenia te są wykonywane co kilka sekund: odpauzuj, aby zaktualizować dane).
+</VCEF_ZoneTooSmall>
+<VCEF_NoFish>
+W tym biomie nie ma ryb do złowienia (może się to zdarzyć w przypadku biomów z modyfikacji – poproś autora o dodanie obsługi! A może po prostu znajdujesz się w biomie pozbawionym życia)
+</VCEF_NoFish>
+<VCEF_CaughtSpecial>Podczas wędkowania {0} złowił coś wyjątkowego: {1}</VCEF_CaughtSpecial>
+<!-- Options -->
+<VCEF_minimumZoneSize>Minimalny rozmiar strefy połowowej</VCEF_minimumZoneSize>
+<VCEF_minimumZoneSizeTooltip>Minimalny rozmiar strefy połowowej; domyślnie 25 pól</VCEF_minimumZoneSizeTooltip>
+<VCEF_smallFishDurationFactor>Podstawowy czas połowu w tikach</VCEF_smallFishDurationFactor>
+<VCEF_smallFishDurationFactorTooltip>
+Podstawowy czas łowienia w tykach. Domyślna wartość dla małych ryb to 4500. Średnie ryby wymagają dwukrotnie dłuższego czasu, a duże – trzykrotnie dłuższego. Zmniejszenie tej wartości zwiększa dzienny uzysk pożywienia i odwrotnie.
+</VCEF_smallFishDurationFactorTooltip>
+<VCEF_chanceForSpecialsTooltip>
+Szansa na zdobycie przedmiotu specjalnego zamiast ryby. Domyślnie wynosi 1% na jeden połów.
+</VCEF_chanceForSpecialsTooltip>
+<VCEF_chanceForSpecialsTooltip_Odyssey>
+Szansa na zdobycie przedmiotu specjalnego zamiast ryby. Domyślnie wynosi 1% na jedną operację połowową. Należy pamiętać, że w dodatku Odyssey domyślnie między rzadkimi połowami obowiązuje 5-dniowy limit, który można również dostosować za pomocą tych opcji.
+</VCEF_chanceForSpecialsTooltip_Odyssey>
+<VCEF_minDaysBetweenRareCatches>Minimalna liczba dni między rzadkimi połowami</VCEF_minDaysBetweenRareCatches>
+<VCEF_minDaysBetweenRareCatchesTooltip>
+Domyślnie w dodatku Odyssey rzadkie połowy mogą mieć miejsce dopiero po upływie 5 dni od ostatniego rzadkiego połowu. Tutaj możesz zmienić ten minimalny odstęp czasu.</VCEF_minDaysBetweenRareCatchesTooltip>
+<VCEF_minMapTempForLowFish>Minimalna temperatura mapy powodująca zmniejszenie połowów</VCEF_minMapTempForLowFish>
+<VCEF_minMapTempForLowFishTooltip>
+Minimalna temperatura na mapie powodująca spadek połowów. Poniżej tej temperatury połowy ulegną znacznemu zmniejszeniu. Wartość domyślna to 0ºC.
+</VCEF_minMapTempForLowFishTooltip>
+<VCEF_maxMapTempForLowFish>Maksymalna temperatura na mapie powodująca spadek połowów</VCEF_maxMapTempForLowFish>
+<VCEF_maxMapTempForLowFishTooltip>
+Maksymalna temperatura mapy powodująca spadek połowów. Powyżej tej temperatury połowy ryb ulegną znacznemu zmniejszeniu. Wartość domyślna to 50ºC.
+</VCEF_maxMapTempForLowFishTooltip>
+<VCEF_fishingYieldMultiplier>Współczynnik mnożnikowy połowów</VCEF_fishingYieldMultiplier>
+<VCEF_fishingYieldMultiplierTooltip>
+Ilość złowionych ryb zostanie przeliczona zgodnie z tym mnożnikiem.
+</VCEF_fishingYieldMultiplierTooltip>
+<VCEF_fishingSpeedMultiplier>Mnożnik prędkości połowu</VCEF_fishingSpeedMultiplier>
+<VCEF_fishingSpeedMultiplierTooltip>
+Szybkość łowienia ryb zostanie skalowana przez ten mnożnik.
+</VCEF_fishingSpeedMultiplierTooltip>
+<VCEF_maxFishPopulationMultiplier>Mnożnik maksymalnej populacji ryb</VCEF_maxFishPopulationMultiplier>
+<VCEF_maxFishPopulationMultiplierTooltip>
+W dodatku Odyssey maksymalna populacja ryb w danym akwenie jest określana dla poszczególnych biomów. Ten mnożnik zostanie zastosowany do tego limitu.
+</VCEF_maxFishPopulationMultiplierTooltip>
+<VCEF_fishAmountMultiplier>Mnożnik ilości ryb (w strefie łowienia)</VCEF_fishAmountMultiplier>
+<VCEF_fishAmountMultiplierTooltip>
+Ilość ryb, które będą obecne w strefie połowowej. Ten mnożnik zostanie zastosowany do tej ilości.
+</VCEF_fishAmountMultiplierTooltip>
+<VCEF_chanceForNegativeOutcome>Prawdopodobieństwo negatywnego wyniku</VCEF_chanceForNegativeOutcome>
+<VCEF_chanceForNegativeOutcomeTooltip>
+Domyślnie istnieje 2% prawdopodobieństwo, że dowolne połowy zakończą się negatywnym wynikiem.
+</VCEF_chanceForNegativeOutcomeTooltip>
+<VCEF_dropFish>
+Rybak upuszcza ryby na ziemię zamiast przenosić je do zapasów
+</VCEF_dropFish>
+<VCEF_Reset_Plain>Przywróć domyślne</VCEF_Reset_Plain>
+<VCEF_DisableGillRot>Wyłącz zgniliznę skrzeli</VCEF_DisableGillRot>
+<VCEF_DisableGillRotDesc>
+Jeśli opcja jest zaznaczona, zgnilizna skrzeli nie wystąpi w żadnych okolicznościach.
+</VCEF_DisableGillRotDesc>
+<VCEF_UseWorktype>
+Przenieś typ pracy rybak na najniższy priorytet (wymaga ponownego uruchomienia gry)
+</VCEF_UseWorktype>
+<VCEF_UseWorktypeDesc>
+Domyślnie dodatek Odyssey umieszcza typ zadania rybak w kolejności priorytetów zadań pomiędzy rzemieślnikiem a tragarzem. Dzięki tej opcji "rybak" będzie miał priorytet 90, zaraz po badaczu, tak jak działał ten mod przed wprowadzeniem dodatku Odyssey.
+</VCEF_UseWorktypeDesc>
+<!-- Biotech -->
+<VCEF_TooPolluted>Ta strefa łowienia jest za bardzo zanieczyszona aby łowić ryby.</VCEF_TooPolluted>
+</LanguageData>
