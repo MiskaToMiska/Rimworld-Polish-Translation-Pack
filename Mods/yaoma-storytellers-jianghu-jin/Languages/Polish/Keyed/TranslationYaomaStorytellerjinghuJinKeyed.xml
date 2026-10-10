@@ -1,0 +1,88 @@
+<LanguageData>
+    <YS_StabilizerRangeMin>Minimalny zasięg stabilizatora</YS_StabilizerRangeMin>
+    <YS_StabilizerRangeMinDesc>
+    Minimalny zasięg pola stabilizującego tego budynku. Pola znajdujące się w tym polu nie ulegną zmianom podczas terraformowania prowadzonego przez Jianghu Jin.
+    </YS_StabilizerRangeMinDesc>
+    <YS_StabilizerRangeMax>Maksymalny zasięg stabilizatora</YS_StabilizerRangeMax>
+    <YS_StabilizerRangeMaxDesc>
+    Maksymalny zasięg pola stabilizującego tego budynku. Pola znajdujące się w tym polu nie ulegną zmianom podczas terraformowania prowadzonego przez Jianghu Jina.
+    </YS_StabilizerRangeMaxDesc>
+    <YS_StabilizerRangeCurr>Aktualny zasięg stabilizatora</YS_StabilizerRangeCurr>
+    <YS_StabilizerRangeCurrDesc>
+    Aktualny zasięg pola stabilizującego tego budynku. Pola znajdujące się w tym polu nie ulegną zmianom podczas terraformowania przeprowadzanego przez Jianghu Jin.
+    </YS_StabilizerRangeCurrDesc>
+
+    <YS_JinTerraformMapPage>Przekształcanie mapy</YS_JinTerraformMapPage>
+
+    <YS_LetterLabelJianghuJin>Terraformacja</YS_LetterLabelJianghuJin>
+    <YS_LetterJianghuJin>
+    Jednym ruchem ręki Jianghu Jin przekształciła krajobraz. Czeka na ciebie nowa kraina.
+    </YS_LetterJianghuJin>
+
+    <YS_StatPart_JinConstruct>Bonus do budownictwa (Jianghu Jin)</YS_StatPart_JinConstruct>
+    <YS_StatPart_JinMining>Bonus do wydobycia (Jianghu Jin)</YS_StatPart_JinMining>
+
+    <YaomaJinSettings>Yaoma Storytellers - Jianghu Jin</YaomaJinSettings>
+    <YS_SettingsJianghuJin>Jianghu Jin</YS_SettingsJianghuJin>
+
+    <YS_SettingsJianghuJinTerraformDays>Odstęp między terraformowaniem: {0} dni</YS_SettingsJianghuJinTerraformDays>
+    <YS_SettingsJianghuJinTerraformDaysTooltip>
+    Określa liczbę dni między kolejnymi terraformowaniami mapy przez Jin.
+    </YS_SettingsJianghuJinTerraformDaysTooltip>
+    <YS_SettingsJianghuJinDecayProbRoom>Prawdopodobieństwo zniszczenia pól pomieszczeń: {0}</YS_SettingsJianghuJinDecayProbRoom>
+    <YS_SettingsJianghuJinDecayProbRoomTooltip>
+    Określa, z jakim prawdopodobieństwem pola we wszystkich pomieszczeniach mogą ulec "zniszczenia", co może prowadzić do uszkodzenia pomieszczeń podczas terraformowania mapy.
+    </YS_SettingsJianghuJinDecayProbRoomTooltip>
+    <YS_SettingsJianghuJinDecayProbRoomSetting>Ustawienie zniszczenia pomieszczeń: </YS_SettingsJianghuJinDecayProbRoomSetting>
+    <YS_SettingsJianghuJinDecayProbRoomSettingTooltip>
+    Ustawia algorytm określający sposób niszczenia pomieszczeń:\n\nAbsolutny: pola ulegają losowemu zniszczeniu.\n\nSąsiednie: zniszczenie pól będzie symulować pękanie.\n\nWzmocniony: nienaruszone pola sąsiednich pomieszczeń mogą zmniejszyć prawdopodobieństwo zniszczenia pól nawet o połowę.
+    </YS_SettingsJianghuJinDecayProbRoomSettingTooltip>
+    <YS_SettingsJianghuJinDecayProbTerrain>Prawdopodobieństwo zniszczenia terenu: {0}</YS_SettingsJianghuJinDecayProbTerrain>
+    <YS_SettingsJianghuJinDecayProbTerrainTooltip>
+    Określa, z jakim prawdopodobieństwem teren wewnątrz wszystkich pomieszczeń może ulec "zniszczeniu".
+    </YS_SettingsJianghuJinDecayProbTerrainTooltip>
+    <YS_SettingsJianghuJinDecayProbTerrainSetting>Ustawienia zniszczenia terenu: </YS_SettingsJianghuJinDecayProbTerrainSetting>
+    <YS_SettingsJianghuJinDecayProbTerrainSettingTooltip>
+    Ustawia algorytm określający sposób zniszczenia terenu:\n\nAbsolutny: pola ulegają zniszczeniowi losowo.\n\nSąsiednie: zniszczenie pól symuluje pękanie.\n\nWzmocniony: nienaruszone sąsiednie pola pomieszczeń mogą zmniejszyć prawdopodobieństwo zniszczenia pola nawet o połowę.
+    </YS_SettingsJianghuJinDecayProbTerrainSettingTooltip>
+    <YS_SettingsJianghuJinRockCleanup>Szansa na oczyszczenie skał: {0}</YS_SettingsJianghuJinRockCleanup>
+    <YS_SettingsJianghuJinRockCleanupTooltip>
+    Określa, z jakim prawdopodobieństwem zdarzenie terraformujące Jin usunie budynki, z których można wydobywać surowce – z wyjątkiem tych, które stanowią część jakiegokolwiek pomieszczenia – przed utworzeniem nowych wzgórz i gór. Ten krok może uporządkować mapę.
+    </YS_SettingsJianghuJinRockCleanupTooltip>
+    <YS_SettingsJianghuBiome>Włącz zmianę biomu: {0}</YS_SettingsJianghuBiome>
+    <YS_SettingsJianghuBiomeTooltip>
+    Zezwól Jin na losowe przekształcenie mapy w inny biom, o ile jest to możliwe, w oparciu o cechy geograficzne.
+    </YS_SettingsJianghuBiomeTooltip>
+    <YS_SettingsJianghuBiomeUnlock>Odblokuj opcje biomów: {0}</YS_SettingsJianghuBiomeUnlock>
+    <YS_SettingsJianghuBiomeUnlockTooltip>
+    Zezwól Jin na przekształcenie biomu mapy w dowolny biom nadający się do zamieszkania.
+    </YS_SettingsJianghuBiomeUnlockTooltip>
+    <YS_SettingsJianghuHilliness>Włącz zmianę nachylenia terenu: {0}</YS_SettingsJianghuHilliness>
+    <YS_SettingsJianghuHillinessTooltip>
+    Pozwala Jino dostosować nachylenie terenu podczas kształtowania mapy.
+    </YS_SettingsJianghuHillinessTooltip>
+    <YS_SettingsJianghuJinConstructBoost>Współczynnik prędkości budowy: {0}x</YS_SettingsJianghuJinConstructBoost>
+    <YS_SettingsJianghuJinConstructBoostTooltip>
+    Ustawia mnożnik prędkości budowy zapewnianej przez Jin.
+    </YS_SettingsJianghuJinConstructBoostTooltip>
+    <YS_SettingsJianghuJinMiningBoost>Współczynnik prędkości wydobycia: {0}x</YS_SettingsJianghuJinMiningBoost>
+    <YS_SettingsJianghuJinMiningBoostTooltip>Ustawia mnożnik prędkości wydobycia zapewnianej przez Jin.</YS_SettingsJianghuJinMiningBoostTooltip>
+    <YS_SettingsJianghuJinSavePersist>Zapisane według czasu przerwy: {0}</YS_SettingsJianghuJinSavePersist>
+    <YS_SettingsJianghuJinSavePersistTooltip>
+    Włącza lub wyłącza funkcję śledzenia przez Jin liczby dni pozostałych do terraformowania mapy po zmianie narratora.\n\nWłączenie tej opcji spowoduje, że Jin będzie śledził pozostały czas.
+    </YS_SettingsJianghuJinSavePersistTooltip>
+    <YS_SettingsJianghuJinRange>Współczynnik zasięgu stabilizatora: {0}x</YS_SettingsJianghuJinRange>
+    <YS_SettingsJianghuJinRangeTooltip>
+    Mnoży zasięg totemu stabilizatora i układu, co może zwiększyć lub zmniejszyć ich promień ochronny przed terraformowaniem przez Jin.
+    </YS_SettingsJianghuJinRangeTooltip>
+    <YS_SettingsJianghuJinTreeSave>Wyłącz ochronę drzewa anima: {0}</YS_SettingsJianghuJinTreeSave>
+    <YS_SettingsJianghuJinTreeSaveTooltip>
+    Włącz/wyłącz opcję pozwalającą Jin na niszczenie drzewa anima podczas terraformowania mapy.
+    </YS_SettingsJianghuJinTreeSaveTooltip>
+    <YS_SettingsJianghuLogging>Włącz szczegółowe logowanie: {0}</YS_SettingsJianghuLogging>
+    <YS_SettingsJianghuLoggingTooltip>Włącz szczegółowe logowanie.</YS_SettingsJianghuLoggingTooltip>
+    <YS_SettingsJianghuBiomeDiags>Włącz diagnostykę biomów: {0}</YS_SettingsJianghuBiomeDiags>
+    <YS_SettingsJianghuBiomeDiagsTooltip>
+    Włącz diagnostykę biomów. Jest to przydatne do sprawdzenia, czy niestandardowy biom powoduje problemy, i spowoduje wygenerowanie błędów (przynajmniej w przypadku biomów związanych z anomaliami). Służy do rozwiązywania problemów.
+    </YS_SettingsJianghuBiomeDiagsTooltip>
+</LanguageData>
