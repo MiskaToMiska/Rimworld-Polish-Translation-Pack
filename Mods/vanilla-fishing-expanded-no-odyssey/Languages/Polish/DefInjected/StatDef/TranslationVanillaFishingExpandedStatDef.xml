@@ -1,0 +1,10 @@
+<LanguageData>
+    <VCEF_FishingSpeedFactor.label>szybkość łowienia</VCEF_FishingSpeedFactor.label>
+    <VCEF_FishingSpeedFactor.description>Szybkość, z jaką dana osoba może łowić, jest mnożona przez ten współczynnik.</VCEF_FishingSpeedFactor.description>
+
+    <VCEF_FishingYieldFactor.label>wydajnośc łowienia</VCEF_FishingYieldFactor.label>
+    <VCEF_FishingYieldFactor.description>Wydajność łowienia danej osoby jest mnożona przez ten współczynnik.</VCEF_FishingYieldFactor.description>
+
+    <VCEF_FishingLuckOffset.label>szczęście w łowieniu</VCEF_FishingLuckOffset.label>
+    <VCEF_FishingLuckOffset.description>Wartość ta zwiększa prawdopodobieństwo, że przy każdej próbie złowienia ryby zamiast zwykłej ryby zostanie złowiony przedmiot specjalny.</VCEF_FishingLuckOffset.description>
+</LanguageData>
