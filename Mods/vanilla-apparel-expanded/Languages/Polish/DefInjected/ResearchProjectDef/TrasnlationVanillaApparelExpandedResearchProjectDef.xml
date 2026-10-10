@@ -1,0 +1,17 @@
+<LanguageData>
+    <VAE_CasualWear.label>odzież codzienna</VAE_CasualWear.label>
+    <VAE_CasualWear.description>Szyj odzież codzienną z praktycznymi rozwiązaniami, sprawdzająca się w każdej sytuacji życiowej.</VAE_CasualWear.description>
+
+    <VAE_FormalWear.label>odzież formalna</VAE_FormalWear.label>
+    <VAE_FormalWear.description>Szyj garnitury i odzież wizytowa.</VAE_FormalWear.description>
+
+    <VAE_WorkAttire.label>odzież robocza</VAE_WorkAttire.label>
+    <VAE_WorkAttire.description>Szyj wygodną i funkcjonalną odzież do każdego rodzaju pracy.</VAE_WorkAttire.description>
+
+    <VAE_SterileAttire.label>odzież sterylna</VAE_SterileAttire.label>
+    <VAE_SterileAttire.description>Szyj odzież sterylną używaną przez lekarzy i naukowców.</VAE_SterileAttire.description>
+
+    <VAE_MilitaryClothing.label>odzież wojskowa</VAE_MilitaryClothing.label>
+    <VAE_MilitaryClothing.description>Szyj odzież odporną na warunki pogodowe, która chroni żołnierzy.</VAE_MilitaryClothing.description>
+
+</LanguageData>

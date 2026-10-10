@@ -1,0 +1,26 @@
+<LanguageData>
+    <VAE_Headgear_Scarf.label>szalik</VAE_Headgear_Scarf.label>
+    <VAE_Headgear_Scarf.description>A warm and long piece of fabric protecting the neck from exposure to cold.</VAE_Headgear_Scarf.description>
+
+    <VAE_Headgear_Beret.label>beret wojskowy</VAE_Headgear_Beret.label>
+    <VAE_Headgear_Beret.description>Miękki nakrycie głowy o płaskim czubku. Często noszone przez żołnierzy jako symbol męstwa.</VAE_Headgear_Beret.description>
+
+    <VAE_Headgear_Hardhat.label>kask</VAE_Headgear_Hardhat.label>
+    <VAE_Headgear_Hardhat.description>Rodzaj kasku stosowanego głównie w środowisku pracy. Zapewnia wysoką ochronę przed urazami spowodowanymi uderzeniami tępymi przedmiotami.</VAE_Headgear_Hardhat.description>
+
+    <VAE_Headgear_SurgicalMask.label>maska chirurgiczna</VAE_Headgear_SurgicalMask.label>
+    <VAE_Headgear_SurgicalMask.description>Maska higieniczna noszona przez chirurgów, pielęgniarki i innych pracowników zajmujących się opieką nad pacjentami.</VAE_Headgear_SurgicalMask.description>
+
+    <VAE_Headgear_BaseballCap.label>czapka z daszkiem</VAE_Headgear_BaseballCap.label>
+    <VAE_Headgear_BaseballCap.description>Rodzaj miękkiej czapki z zaokrąglonym daszkiem i sztywnym daszkiem chroniącym czoło.</VAE_Headgear_BaseballCap.description>
+
+    <VAE_Headgear_Sunglasses.label>okulary przeciwsłoneczne</VAE_Headgear_Sunglasses.label>
+    <VAE_Headgear_Sunglasses.description>Okulary przeciwsłoneczne chroniące użytkownika przed niebezpiecznym promieniowaniem UV. Często uważane za "fajne".</VAE_Headgear_Sunglasses.description>
+
+    <VAE_Headgear_Glasses.label>okulary</VAE_Headgear_Glasses.label>
+    <VAE_Headgear_Glasses.description>Para okularów korekcyjnych, zapewniająca użytkownikom pewien stopień odporności psychicznej.</VAE_Headgear_Glasses.description>
+
+    <VAE_Headgear_ChefsToque.label>czapka kucharska</VAE_Headgear_ChefsToque.label>
+    <VAE_Headgear_ChefsToque.description>Wysoka, okrągła, plisowana czapka, noszona zazwyczaj przez kucharzy.</VAE_Headgear_ChefsToque.description>
+
+</LanguageData>
