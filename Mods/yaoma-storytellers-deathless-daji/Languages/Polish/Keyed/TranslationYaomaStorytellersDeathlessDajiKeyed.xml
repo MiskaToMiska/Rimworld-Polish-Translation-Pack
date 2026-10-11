@@ -1,0 +1,60 @@
+<LanguageData>
+    <YS_LetterLabelDeathlessDaji>Szkarłatne zmartwychwstanie</YS_LetterLabelDeathlessDaji>
+    <YS_LetterDeathlessDaji>
+    Zgodnie z rozkazem Nieśmiertelnej Daji zmarli powstają, by ponownie walczyć. Uważaj, by nie dać się ogarnąć żądzy krwi...
+    </YS_LetterDeathlessDaji>
+
+    <YaomaDajiSettings>Yaoma Storytellers - Nieśmiertelna Daji</YaomaDajiSettings>
+    <YS_SettingsDeathlessDaji>Nieśmiertelna Daji</YS_SettingsDeathlessDaji>
+
+    <YS_SettingsDajiResurrectMechs>Wyłącz wskrzeszanie mechanoidów: {0}</YS_SettingsDajiResurrectMechs>
+    <YS_SettingsDajiResurrectMechsTooltip>
+    Uniemożliwia nieśmiertelnemu Daji wskrzeszanie mechanoidów oprócz osób z krwi i kości.
+    </YS_SettingsDajiResurrectMechsTooltip>
+    <YS_SettingsDajiResurrectShamblers>Wyłącz wskrzeszanie szamblerów: {0}</YS_SettingsDajiResurrectShamblers>
+    <YS_SettingsDajiResurrectShamblersTooltip>
+    Uniemożliwia Nieśmiertelnej Daji wskrzeszanie szamblerów oprócz zwykłych pionów.
+    </YS_SettingsDajiResurrectShamblersTooltip>
+    <YS_SettingsDajiResurrectShamblersFull>Pełne wskrzeszanie szamblerów: {0}</YS_SettingsDajiResurrectShamblersFull>
+    <YS_SettingsDajiResurrectShamblersFullTooltip>
+    Jeśli wartość wynosi to prawda, Nieśmiertelna Daji w pełni wskrzeszy pionki szamblerów; nie będą one już szamblerami.
+    </YS_SettingsDajiResurrectShamblersFullTooltip>
+    <YS_SettingsDajiResurrectWeapons>Wyłącz odzyskiwanie broni: {0}</YS_SettingsDajiResurrectWeapons>
+    <YS_SettingsDajiResurrectWeaponsTooltip>
+    Uniemożliwia pionom odzyskanie broni znajdującej się w ich bezpośrednim sąsiedztwie po wskrzeszeniu.
+    </YS_SettingsDajiResurrectWeaponsTooltip>
+    <YS_SettingsDajiCrimsonSeverityGain>Wzrost nasilenia szkarłatnej psychozy: {0}</YS_SettingsDajiCrimsonSeverityGain>
+    <YS_SettingsDajiCrimsonSeverityGainTooltip>
+    Zmienia tempo postępu szkarłatnej psychozy u piona po wskrzeszeniu przez Daji.
+    </YS_SettingsDajiCrimsonSeverityGainTooltip>
+    <YS_SettingsDajiCrimsonSpawn>Szansa na pojawienie się szkarłatnej psychozy: {0}</YS_SettingsDajiCrimsonSpawn>
+    <YS_SettingsDajiCrimsonSpawnTooltip>
+    Wpływa na prawdopodobieństwo pojawienia się pionka z szkarłatneą psychozą.
+    </YS_SettingsDajiCrimsonSpawnTooltip>
+    <YS_SettingsDajiCrimsonSpawnRange>Zakres nasilenia szkarłatnej psychozy (%):</YS_SettingsDajiCrimsonSpawnRange>
+    <YS_SettingsDajiCrimsonSpawnRangeTooltip>
+    Ustawia procentowy poziom nasilenia szkarłatnej psychozy w momencie pojawienia się postaci.
+    </YS_SettingsDajiCrimsonSpawnRangeTooltip>
+    <YS_SettingsDajiBloodyPortrait>Pokaż krew: {0}</YS_SettingsDajiBloodyPortrait>
+    <YS_SettingsDajiBloodyPortraitTooltip>
+    Przełączaj między czystą a krwawą wersją portretu Nieśmiertelnej Daji. Domyślnie wyświetlana jest wersja czysta.
+    </YS_SettingsDajiBloodyPortraitTooltip>
+    <YS_SettingsDajiMurderSanity>Zmniejsz nasilenie po zabiciu: {0}</YS_SettingsDajiMurderSanity>
+    <YS_SettingsDajiMurderSanityTooltip>
+    Zezwól pionkom na zmniejszenie nasilenia ich szkarłatnej psychozy poprzez zabijanie innych pionów.
+    </YS_SettingsDajiMurderSanityTooltip>
+    <YS_SettingsDajiMurderSanitySev>Zmniejszenie nasilenia za każde zabicie: {0}</YS_SettingsDajiMurderSanitySev>
+    <YS_SettingsDajiMurderSanitySevTooltip>
+    Zmiana stopnia, w jakim każde zabicie piona zmniejsza nasilenie szkarłatnej psychozy.
+    </YS_SettingsDajiMurderSanitySevTooltip>
+    <YS_SettingsDajiLifestealMelee>Włącz kradzież życia przy atakach wręcz: {0}</YS_SettingsDajiLifestealMelee>
+    <YS_SettingsDajiLifestealMeleeTooltip>
+    Włącz dla pionków możliwość regeneracji zdrowia w wysokości procentowej wartości obrażeń zadawanych innym pionom w walce wręcz.
+    </YS_SettingsDajiLifestealMeleeTooltip>
+    <YS_SettingsDajiLifestealMeleePercent>Procent kradzieży życia: {0}</YS_SettingsDajiLifestealMeleePercent>
+    <YS_SettingsDajiLifestealMeleePercentTooltip>
+    Dostosuj procent obrażeń zadawanych przez piony, o który są one leczone, gdy zadają obrażenia w walce wręcz.
+    </YS_SettingsDajiLifestealMeleePercentTooltip>
+
+
+</LanguageData>

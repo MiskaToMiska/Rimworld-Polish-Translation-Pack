@@ -1,0 +1,21 @@
+<LanguageData>
+    <DD_SettingsTitle>Wskaźnik mojo Danniego</DD_SettingsTitle>
+    <DD_ResetToDefault>Przywróć domyślne</DD_ResetToDefault>
+    <DD_HowMuchMojo>Ile mojo chcesz, żeby Dannie emanował? To określa, ile wydarzeń otrzymasz naraz.</DD_HowMuchMojo>
+    <DD_Mojo2>Podwójne mojo</DD_Mojo2>
+    <DD_Mojo3>Potrójne mojo</DD_Mojo3>
+    <DD_Mojo4>Czterokrotne mojo</DD_Mojo4>
+    <DD_Mojo5>Pięciokrotne mojo (Szalone mojo)</DD_Mojo5>
+    <DD_Mojo6>Sześciokrotne mojo (Playa mojo)</DD_Mojo6>
+    <DD_Mojo7>Siedmiokrotne mojo (Ekstremalne mojo)</DD_Mojo7>
+    <DD_Mojo8>Ośmiokrotne mojo (Niezapomniane mojo)</DD_Mojo8>
+    <DD_Mojo9>Dziewięciokrotne mojo (Mojo na szczycie list przebojów)</DD_Mojo9>
+    <DD_Mojo10>Dziesięciokrotne mojo (Maksymalne mojo)</DD_Mojo10>
+    <DD_WhichEvents>Na których wydarzeniach Dannie powinien wykorzystać swoje mojo?</DD_WhichEvents>
+    <DD_BadEvents>Złe wydarzenia</DD_BadEvents>
+    <DD_OtherEvents>Inne wydarzenia</DD_OtherEvents>
+    <DD_SameEventRepeated>Czy powinny to być powtórzenia tego samego wydarzenia?</DD_SameEventRepeated>
+    <DD_DuplicateEvent>Powiel wydarzenie</DD_DuplicateEvent>
+    <DD_EngagingNarrative>Czy Dannie powinien spróbować dopasować wydarzenia do wciągającej narracji?</DD_EngagingNarrative>
+    <DD_DisableRandom>Wyłącz wydarzenia losowe</DD_DisableRandom>
+</LanguageData>

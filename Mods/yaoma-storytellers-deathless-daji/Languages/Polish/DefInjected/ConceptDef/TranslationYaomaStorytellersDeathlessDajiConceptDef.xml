@@ -1,0 +1,7 @@
+<LanguageData>
+    <YS_Storyteller_Daji.label>Nieśmiertelna Daji: Podstawy</YS_Storyteller_Daji.label>
+    <YS_Storyteller_Daji.helpText>Nieśmiertelna Daji każdego dnia o północy wskrzesza wszystkie martwe ciała na mapie, bez względu na to, czy ktoś na to zgodzi się, czy nie. Jej hojność powoduje, że każde wskrzeszone zwłoki zapadają na "szkarłatną psychozę". Im częściej pionek ginie, tym wyższy jest jego próg załamania psychicznego – a jeśli pionek całkowicie straci rozum przy maksymalnym nasileniu choroby, popada w nieodwracalny szał.\n\nDaji nie odpuści też tylko dlatego, że zginęło kilku twoich kolonistów. Śmierć jest przecież tania, a ona nie chciałaby, żebyś przegapił imprezę!</YS_Storyteller_Daji.helpText>
+
+    <YS_Storyteller_Daji_Bonus.label>Nieśmiertelna Daji: Bonusowe mechaniki</YS_Storyteller_Daji_Bonus.label>
+    <YS_Storyteller_Daji_Bonus.helpText>Nieśmiertelna Daji posiada dwie dodatkowe mechaniki:\n\n1) Zmniejszenie "szkarłatnej psychozy" przy zabiciu – Gdy ta opcja jest włączona, nasilenie "szkarłatnej psychozy" u piona zmniejsza się za każde odebranie życia, co pozwala powstrzymać szaleństwo, jakie zgotowała Daji.\n\n2) Kradzież życia w walce wręcz – Gdy ta opcja jest włączona, pion zostanie uleczony o część obrażeń zadawanych w walce wręcz innemu pionowi. Pamiętaj, że nie tylko twoi koloniści czerpią z tego korzyści.</YS_Storyteller_Daji_Bonus.helpText>
+</LanguageData>

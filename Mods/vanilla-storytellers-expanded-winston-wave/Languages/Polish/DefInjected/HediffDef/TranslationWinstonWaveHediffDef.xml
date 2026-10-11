@@ -1,0 +1,38 @@
+<LanguageData>
+    <VESWW_IncreasedStats.label>podwyższone statystyki</VESWW_IncreasedStats.label>
+    <VESWW_IncreasedStats.description>Podwyższone statystyki jako odpowiednik postaci Winstona</VESWW_IncreasedStats.description>
+
+    <VSEWW_GlassCannons.label>szklana armata</VSEWW_GlassCannons.label>
+    <VSEWW_GlassCannons.description>Ta postać zadaje znacznie większe obrażenia, ale również otrzymuje znacznie większe obrażenia.</VSEWW_GlassCannons.description>
+
+    <VESWW_BulletProof.label>kuloodporny</VESWW_BulletProof.label>
+    <VESWW_BulletProof.description>Ta osoba jest odporna na zranienia.</VESWW_BulletProof.description>
+
+    <VSEWW_BulletSponge.label>gąbka kulowa</VSEWW_BulletSponge.label>
+    <VSEWW_BulletSponge.description>Zdrowie tej osoby wzrasta dwukrotnie.</VSEWW_BulletSponge.description>
+
+    <VESWW_Ninja.label>ninja</VESWW_Ninja.label>
+    <VESWW_Ninja.description>Tutaj nie ma nikogo, o czym ty mówisz?</VESWW_Ninja.description>
+
+    <VESWW_Veterans.label>weteran</VESWW_Veterans.label>
+    <VESWW_Veterans.description>Wszystkie statystyki tej osoby (manipulacja, wzrok itd.) są pomniejszone o 50%</VESWW_Veterans.description>
+
+    <VSEWW_Boom.label>bum</VSEWW_Boom.label>
+    <VSEWW_Boom.description>Bum!</VSEWW_Boom.description>
+
+    <VSEWW_Sprinter.label>biegacz</VSEWW_Sprinter.label>
+    <VSEWW_Sprinter.description>Ta osoba biegnie szybciej niż zwykle. Biegnij, Barry, biegnij!</VSEWW_Sprinter.description>
+
+    <VSEWW_Regenerator.label>regenerator</VSEWW_Regenerator.label>
+    <VSEWW_Regenerator.description>Ta postać regeneruje swoje zdrowie w przyspieszonym tempie.</VSEWW_Regenerator.description>
+
+    <VSEWW_AdrenalineRush.label>przypływ adrenaliny</VSEWW_AdrenalineRush.label>
+    <VSEWW_AdrenalineRush.description>Ta postać stanie się znacznie groźniejsza, gdy jej poziom zdrowia spadnie poniżej 75%.</VSEWW_AdrenalineRush.description>
+
+    <VESWW_NoPain.label>brak bólu</VESWW_NoPain.label>
+    <VESWW_NoPain.label>Ta osoba nie odczuwa bólu. Bez bólu nie ma zysku, czy coś w tym rodzaju.</VESWW_NoPain.label>
+
+    <VESWW_DeathSuperAcidifier.label>śmiertelny superskwaszacz</VESWW_DeathSuperAcidifier.label>
+    <VESWW_DeathSuperAcidifier.labelNoun>śmiertelny superskwaszacz</VESWW_DeathSuperAcidifier.labelNoun>
+    <VESWW_DeathSuperAcidifier.description>Zainstalowany śmiertelny superskwaszacz.</VESWW_DeathSuperAcidifier.description>
+</LanguageData>

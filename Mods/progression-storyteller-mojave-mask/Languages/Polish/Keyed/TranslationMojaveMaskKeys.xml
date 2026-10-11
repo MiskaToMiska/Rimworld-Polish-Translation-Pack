@@ -1,0 +1,37 @@
+<LanguageData>
+    <MM_PercentChance>Szansa: {0}</MM_PercentChance>
+    <MM_WhenShouldChangeMask>Kiedy Mojave powinna zmienić maskę?</MM_WhenShouldChangeMask>
+    <MM_ShouldChangeOnEvents>Czy maska zmienia się po?</MM_ShouldChangeOnEvents>
+    <MM_EventSwapBad>Złych wydarzeniach</MM_EventSwapBad>
+    <MM_EventSwapOther>Innych wydarzeniach</MM_EventSwapOther>
+    <MM_ShouldBlindSwapAtAnyTime>Zmiana masek w ciemno w dowolnym momencie za pomocą przycisku?</MM_ShouldBlindSwapAtAnyTime>
+    <MM_BlindSwapEnabled>Przycisk "w ciemno"</MM_BlindSwapEnabled>
+    <MM_BlindSwapCooldown>Czas odnowienia:</MM_BlindSwapCooldown>
+    <MM_SelectAvailableMasks>Wybierz dostępne maski:</MM_SelectAvailableMasks>
+    <MM_AllowChoiceOfMask>Wybór masek</MM_AllowChoiceOfMask>
+    <MM_ChoiceAmount>Ilość wyborów:</MM_ChoiceAmount>
+    <MM_CardsLabel>{0} maski</MM_CardsLabel>
+    <MM_AlsoAllowChoiceDuringBlindSwaps>Umożliw wybór podczas zamiany w ciemno</MM_AlsoAllowChoiceDuringBlindSwaps>
+    <MM_ShouldAlternatedSequentially>Zmieniaj maski po kolei</MM_ShouldAlternatedSequentially>
+    <MM_MojaveConditioning>Warunkowanie Mojave</MM_MojaveConditioning>
+    <MM_ResetToDefault>Przywróć domyślne</MM_ResetToDefault>
+    <MM_AdditionalConfigRequired>
+    Wybrane maski wymagają dodatkowej konfiguracji. Kliknij "Dalej", aby rozpocząć.
+    </MM_AdditionalConfigRequired>
+    <MM_BlindSwapTooltip>
+    Obecny narrator: {0}\n\nKliknij, aby rozpocząć zamiane masek w ciemno.
+    </MM_BlindSwapTooltip>
+    <MM_MustSelectOne>Musisz wybrać co najmniej 1 maskę.</MM_MustSelectOne>
+    <MM_SingleMaskNotice>Mojave będzie nosić wyłącznie tę maskę. Wybierz więcej masek, aby uzyskać dostęp do dodatkowych ustawień.
+    </MM_SingleMaskNotice>
+    <MM_MustSelectTwo>Musisz wybrać co najmniej 2 maski.</MM_MustSelectTwo>
+    <MM_MustSelectChoice>Musisz wybrać co najmniej {0} masek, aby osiągnąć wybraną liczbę.
+    </MM_MustSelectChoice>
+    <MM_BlindSwapTooltip>Zamiana w ciemno</MM_BlindSwapTooltip>
+    <MM_BlindSwapOnCooldown>Zamiana w ciemno jest obecnie w trakcie czasu odnowienia. (Pozostało {0})</MM_BlindSwapOnCooldown>
+    <MM_ChooseMaskProjections>Maska tworzy {0} różnych projekcji.</MM_ChooseMaskProjections>
+    <MM_MaskOf>Maska {0}</MM_MaskOf>
+    <MM_ChooseThisMask>Wybierz tę maskę</MM_ChooseThisMask>
+    <MM_NewFace>Maska nadaje kształt nowej twarzy.</MM_NewFace>
+    <MM_Okay>Okej</MM_Okay>
+</LanguageData>

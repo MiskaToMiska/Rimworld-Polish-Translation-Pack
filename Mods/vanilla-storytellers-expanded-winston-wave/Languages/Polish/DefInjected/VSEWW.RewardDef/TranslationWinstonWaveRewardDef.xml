@@ -1,0 +1,248 @@
+<LanguageData>
+    <!--poor-->
+    <VSEWW_PoorPawnJoins.label>Colonist joins</VSEWW_PoorPawnJoins.label>
+    <VSEWW_PoorPawnJoins.description>A single colonist worth up to 50 combat points joins the colony</VSEWW_PoorPawnJoins.description>
+
+    <VSEWW_WoodDrop.label>Wood drop</VSEWW_WoodDrop.label>
+    <VSEWW_WoodDrop.description>Cargo pods drop 250 wood</VSEWW_WoodDrop.description>
+
+    <VSEWW_SteelDrop.label>Steel drop</VSEWW_SteelDrop.label>
+    <VSEWW_SteelDrop.description>Cargo pods drop 250 steel</VSEWW_SteelDrop.description>
+
+    <VSEWW_StoneDrop.label>Stone drop</VSEWW_StoneDrop.label>
+    <VSEWW_StoneDrop.description>Cargo pods drop 250 stone blocks</VSEWW_StoneDrop.description>
+
+    <VSEWW_FoodDrop.label>Food drop</VSEWW_FoodDrop.label>
+    <VSEWW_FoodDrop.description>Cargo pods drop 30 packaged survival meals</VSEWW_FoodDrop.description>
+
+    <VSEWW_MedicineDrop.label>Medicine drop</VSEWW_MedicineDrop.label>
+    <VSEWW_MedicineDrop.description>Cargo pods drop 30 medicine</VSEWW_MedicineDrop.description>
+
+    <VSEWW_PoorFuelDrop.label>Fuel drop</VSEWW_PoorFuelDrop.label>
+    <VSEWW_PoorFuelDrop.description>Cargo pods drop 200 chemfuel</VSEWW_PoorFuelDrop.description>
+
+    <VSEWW_PoorWeaponsDrop.label>Poor weapons drop</VSEWW_PoorWeaponsDrop.label>
+    <VSEWW_PoorWeaponsDrop.description>Cargo pods drop 3 random weapons, maximum quality is poor</VSEWW_PoorWeaponsDrop.description>
+
+    <VSEWW_PoorCashDrop.label>Cash</VSEWW_PoorCashDrop.label>
+    <VSEWW_PoorCashDrop.description>Cargo pods drop 1000 silver</VSEWW_PoorCashDrop.description>
+
+    <VSEWW_PoorAnimalDrop.label>Animal drop</VSEWW_PoorAnimalDrop.label>
+    <VSEWW_PoorAnimalDrop.description>Cargo pod drops a random, tamed animal</VSEWW_PoorAnimalDrop.description>
+
+    <VSEWW_LeatherDrop.label>Leather drop</VSEWW_LeatherDrop.label>
+    <VSEWW_LeatherDrop.description>Cargo pod drops 300 random pieces of leather</VSEWW_LeatherDrop.description>
+
+    <VSEWW_BooksDrop.label>Books drop</VSEWW_BooksDrop.label>
+    <VSEWW_BooksDrop.description>Cargo pods drop 3 random books</VSEWW_BooksDrop.description>
+
+    <VSEWW_RandomNormalDrop.label>Random normal reward</VSEWW_RandomNormalDrop.label>
+    <VSEWW_RandomNormalDrop.description>Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward</VSEWW_RandomNormalDrop.description>
+    <!--normal-->
+    <VSEWW_NormalPawnJoins.label>Colonist joins</VSEWW_NormalPawnJoins.label>
+    <VSEWW_NormalPawnJoins.description>A single colonist worth minimum 50 and up to 125 combat points joins the colony</VSEWW_NormalPawnJoins.description>
+
+    <VSEWW_NormalResourceDrop.label>Resource drop</VSEWW_NormalResourceDrop.label>
+    <VSEWW_NormalResourceDrop.description>Cargo pods drop 250 wood, 250 steel and 10 components</VSEWW_NormalResourceDrop.description>
+
+    <VSEWW_NormalComponentDrop.label>Component drop</VSEWW_NormalComponentDrop.label>
+    <VSEWW_NormalComponentDrop.description>Cargo pods drop 20 components and 5 advanced components</VSEWW_NormalComponentDrop.description>
+
+    <VSEWW_NormalFoodAndMedicineDrop.label>Food and medicine drop</VSEWW_NormalFoodAndMedicineDrop.label>
+    <VSEWW_NormalFoodAndMedicineDrop.description>Cargo pods drop 30 packaged survival meals and 30 medicine</VSEWW_NormalFoodAndMedicineDrop.description>
+
+    <VSEWW_UraniumDrop.label>Uranium drop</VSEWW_UraniumDrop.label>
+    <VSEWW_UraniumDrop.description>Cargo pods drop 100 uranium</VSEWW_UraniumDrop.description>
+
+    <VSEWW_NormalFuelDrop.label>Fuel drop</VSEWW_NormalFuelDrop.label>
+    <VSEWW_NormalFuelDrop.description>Cargo pods drop 500 chemfuel</VSEWW_NormalFuelDrop.description>
+
+    <VSEWW_PlasteelDrop.label>Plasteel drop</VSEWW_PlasteelDrop.label>
+    <VSEWW_PlasteelDrop.description>Cargo pods drop 100 plasteel</VSEWW_PlasteelDrop.description>
+
+    <VSEWW_NormalWeaponsDrop.label>Normal weapons drop</VSEWW_NormalWeaponsDrop.label>
+    <VSEWW_NormalWeaponsDrop.description>Cargo pods drop 3 random weapons, quality is normal</VSEWW_NormalWeaponsDrop.description>
+
+    <VSEWW_NormalCashDrop.label>Cash</VSEWW_NormalCashDrop.label>
+    <VSEWW_NormalCashDrop.description>Cargo pods drop 3000 silver</VSEWW_NormalCashDrop.description>
+
+    <VSEWW_CaravanArrival.label>Caravan arrival</VSEWW_CaravanArrival.label>
+    <VSEWW_CaravanArrival.description>A random caravan arrives</VSEWW_CaravanArrival.description>
+
+    <VSEWW_DelayBy3.label>Delay next wave</VSEWW_DelayBy3.label>
+    <VSEWW_DelayBy3.description>Next wave is delayed by 3 days</VSEWW_DelayBy3.description>
+
+    <VSEWW_NormalAnimalDrop.label>Animal drop</VSEWW_NormalAnimalDrop.label>
+    <VSEWW_NormalAnimalDrop.description>Cargo pod drops 2 random, tamed animals</VSEWW_NormalAnimalDrop.description>
+
+    <VSEWW_NormalTextileDrop.label>Textile drop</VSEWW_NormalTextileDrop.label>
+    <VSEWW_NormalTextileDrop.description>Cargo pod drops 400 random pieces of leather or textile</VSEWW_NormalTextileDrop.description>
+
+    <VSEWW_MiniturretDrop.label>Miniturret drop</VSEWW_MiniturretDrop.label>
+    <VSEWW_MiniturretDrop.description>Cargo pod drops 3 uninstalled mini-turrets</VSEWW_MiniturretDrop.description>
+
+    <VSEWW_NormalReseachBoost.label>Research boost</VSEWW_NormalReseachBoost.label>
+    <VSEWW_NormalReseachBoost.description>Instantly research 3 random research projects you meet prerequisites for</VSEWW_NormalReseachBoost.description>
+
+    <VSEWW_NormalProstheticsDrop.label>Prosthetics drop</VSEWW_NormalProstheticsDrop.label>
+    <VSEWW_NormalProstheticsDrop.description>Cargo pod drops 5 random low-level prosthetics</VSEWW_NormalProstheticsDrop.description>
+
+    <VSEWW_RandomGoodDrop.label>Random Good reward</VSEWW_RandomGoodDrop.label>
+    <VSEWW_RandomGoodDrop.description>Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward</VSEWW_RandomGoodDrop.description>
+
+    <VSEWW_MeteoriteImpact.label>Meteorite impact</VSEWW_MeteoriteImpact.label>
+    <VSEWW_MeteoriteImpact.description>Meteorite impact</VSEWW_MeteoriteImpact.description>
+
+    <VSEWW_PsychicSoothe.label>Psychic Soothe</VSEWW_PsychicSoothe.label>
+    <VSEWW_PsychicSoothe.description>Psychic soothe</VSEWW_PsychicSoothe.description>
+    <!--legendary-->
+    <VSEWW_MercenaryJoins.label>Colonists join</VSEWW_MercenaryJoins.label>
+    <VSEWW_MercenaryJoins.description>A group of 5 mercenary colonists join</VSEWW_MercenaryJoins.description>
+
+    <VSEWW_LegendaryResourceDrop.label>Resource drop</VSEWW_LegendaryResourceDrop.label>
+    <VSEWW_LegendaryResourceDrop.description>Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components and 500 plasteel</VSEWW_LegendaryResourceDrop.description>
+
+    <VSEWW_SurvivalMeansDrop.label>Survival means drop</VSEWW_SurvivalMeansDrop.label>
+    <VSEWW_SurvivalMeansDrop.description>Cargo pods drop 250 packaged survival meals, 50 glitterworld medicine, 5 healer mech serums and 200 medicine</VSEWW_SurvivalMeansDrop.description>
+
+    <VSEWW_LegendaryFuelDrop.label>Fuel drop</VSEWW_LegendaryFuelDrop.label>
+    <VSEWW_LegendaryFuelDrop.description>Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium</VSEWW_LegendaryFuelDrop.description>
+
+    <VSEWW_LegendaryGearDrop.label>Legendary gear drop</VSEWW_LegendaryGearDrop.label>
+    <VSEWW_LegendaryGearDrop.description>Cargo pods drop 5 random weapons and 5 random armors, quality is Legendary</VSEWW_LegendaryGearDrop.description>
+
+    <VSEWW_CashAndRiches.label>Cash and Riches</VSEWW_CashAndRiches.label>
+    <VSEWW_CashAndRiches.description>Cargo pods drop 25000 silver, 1000 gold and 1000 Jade</VSEWW_CashAndRiches.description>
+
+    <VSEWW_ThrumboDrop.label>Thrumbo drop</VSEWW_ThrumboDrop.label>
+    <VSEWW_ThrumboDrop.description>Cargo pod drops 3 tamed thrumbos</VSEWW_ThrumboDrop.description>
+
+    <VSEWW_LegendarySkillBoost.label>Skill boost</VSEWW_LegendarySkillBoost.label>
+    <VSEWW_LegendarySkillBoost.description>Improve every skill of every colonist under your control by 5</VSEWW_LegendarySkillBoost.description>
+
+    <VSEWW_ArchotechProstheticsDrop.label>Archotech body parts drop</VSEWW_ArchotechProstheticsDrop.label>
+    <VSEWW_ArchotechProstheticsDrop.description>Cargo pod drops 10 random archotech body parts</VSEWW_ArchotechProstheticsDrop.description>
+
+    <VSEWW_MassHeal.label>Mass Heal</VSEWW_MassHeal.label>
+    <VSEWW_MassHeal.description>Instantly heals all the wounds on all colonists under player control</VSEWW_MassHeal.description>
+    <!--good-->
+    <VSEWW_GoodPawnJoins.label>Colonists join</VSEWW_GoodPawnJoins.label>
+<VSEWW_GoodPawnJoins.description>A group of 3 colonists worth a minimum 100 and up to 175 combat points joins the colony</VSEWW_GoodPawnJoins.description>
+
+<VSEWW_GoodResourceDrop.label>Resource drop</VSEWW_GoodResourceDrop.label>
+<VSEWW_GoodResourceDrop.description>Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel</VSEWW_GoodResourceDrop.description>
+
+<VSEWW_GoodComponentDrop.label>Components drop</VSEWW_GoodComponentDrop.label>
+<VSEWW_GoodComponentDrop.description>Cargo pods drop 60 components and 15 advanced components</VSEWW_GoodComponentDrop.description>
+
+<VSEWW_GoodFoodAndMedicineDrop.label>Food and medicine drop</VSEWW_GoodFoodAndMedicineDrop.label>
+<VSEWW_GoodFoodAndMedicineDrop.description>Cargo pods drop 100 packaged survival meals and 100 medicine</VSEWW_GoodFoodAndMedicineDrop.description>
+
+<VSEWW_GoodFuelDrop.label>Fuel drop</VSEWW_GoodFuelDrop.label>
+<VSEWW_GoodFuelDrop.description>Cargo pods drop 800 chemfuel, 800 wood and 250 uranium</VSEWW_GoodFuelDrop.description>
+
+<VSEWW_GoodWeaponsDrop.label>Good weapons drop</VSEWW_GoodWeaponsDrop.label>
+<VSEWW_GoodWeaponsDrop.description>Cargo pods drop 3 random weapons, quality is Good</VSEWW_GoodWeaponsDrop.description>
+
+<VSEWW_GoodArmorDrop.label>Good armor drop</VSEWW_GoodArmorDrop.label>
+<VSEWW_GoodArmorDrop.description>Cargo pods drop 3 random pieces of armor, quality is Good</VSEWW_GoodArmorDrop.description>
+
+<VSEWW_GoodCashDrop.label>Cash</VSEWW_GoodCashDrop.label>
+<VSEWW_GoodCashDrop.description>Cargo pods drop 5000 silver and 250 gold</VSEWW_GoodCashDrop.description>
+
+<VSEWW_DelayBy7.label>Delay next wave</VSEWW_DelayBy7.label>
+<VSEWW_DelayBy7.description>Next wave is delayed by 7 days</VSEWW_DelayBy7.description>
+
+<VSEWW_CombatAnimalDrop.label>Combat Animal drop</VSEWW_CombatAnimalDrop.label>
+<VSEWW_CombatAnimalDrop.description>Cargo pod drops 5 random, tamed combat animals</VSEWW_CombatAnimalDrop.description>
+
+<VSEWW_GoodTextileDrop.label>Textile drop</VSEWW_GoodTextileDrop.label>
+<VSEWW_GoodTextileDrop.description>Cargo pod drops 1000 random pieces of leather or textile</VSEWW_GoodTextileDrop.description>
+
+<VSEWW_GoodSkillBoost.label>Skill boost</VSEWW_GoodSkillBoost.label>
+<VSEWW_GoodSkillBoost.description>Improve every skill of every colonist under your control by 2</VSEWW_GoodSkillBoost.description>
+
+<VSEWW_GoodReseachBoost.label>Research boost</VSEWW_GoodReseachBoost.label>
+<VSEWW_GoodReseachBoost.description>Instantly research 5 random research projects you meet prerequisites for</VSEWW_GoodReseachBoost.description>
+
+<VSEWW_Weaken50.label>Weaken next wave</VSEWW_Weaken50.label>
+<VSEWW_Weaken50.description>Next wave only has 50% combat points it would normally have</VSEWW_Weaken50.description>
+
+<VSEWW_Allies.label>Allies!</VSEWW_Allies.label>
+<VSEWW_Allies.description>Next wave also brings allies that are 2x the regular size, to help you</VSEWW_Allies.description>
+
+<VSEWW_GoodArchotechArtifactsDrop.label>Archotech artifacts drop</VSEWW_GoodArchotechArtifactsDrop.label>
+<VSEWW_GoodArchotechArtifactsDrop.description>Receive 5 random archotech items (can be uninstalled structures)</VSEWW_GoodArchotechArtifactsDrop.description>
+
+<VSEWW_OrbitalTargeterPowerBeamDrop.label>Orbital beam targeter</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+<VSEWW_OrbitalTargeterPowerBeamDrop.description>Receive an orbital beam targeter</VSEWW_OrbitalTargeterPowerBeamDrop.description>
+
+<VSEWW_OrbitalTargeterBombardmentDrop.label>Orbital bombardment targeter</VSEWW_OrbitalTargeterBombardmentDrop.label>
+<VSEWW_OrbitalTargeterBombardmentDrop.description>Receive an orbital bombardment targeter</VSEWW_OrbitalTargeterBombardmentDrop.description>
+
+<VSEWW_TornadoGeneratorDrop.label>Tornado generator</VSEWW_TornadoGeneratorDrop.label>
+<VSEWW_TornadoGeneratorDrop.description>Receive a tornado generator</VSEWW_TornadoGeneratorDrop.description>
+
+<VSEWW_GoodDrugsDrop.label>Drugs drop</VSEWW_GoodDrugsDrop.label>
+<VSEWW_GoodDrugsDrop.description>Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up and 20 go juice</VSEWW_GoodDrugsDrop.description>
+
+<VSEWW_GoodProstheticsDrop.label>Prosthetics drop</VSEWW_GoodProstheticsDrop.label>
+<VSEWW_GoodProstheticsDrop.description>Cargo pod drops 5 random low-level prosthetics and 5 bionics</VSEWW_GoodProstheticsDrop.description>
+
+<VSEWW_RandomExcellentDrop.label>Random Excellent reward</VSEWW_RandomExcellentDrop.label>
+<VSEWW_RandomExcellentDrop.description>Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward</VSEWW_RandomExcellentDrop.description>
+
+<VSEWW_OrbitalTraderArrival.label>Orbital Trader Arrival</VSEWW_OrbitalTraderArrival.label>
+<VSEWW_OrbitalTraderArrival.description>Send a random orbital trader</VSEWW_OrbitalTraderArrival.description>
+<!--excelent-->
+<VSEWW_ExcellentPawnJoins.label>Colonists join</VSEWW_ExcellentPawnJoins.label>
+<VSEWW_ExcellentPawnJoins.description>A group of 5 colonists worth a minimum of 175 combat points joins the colony</VSEWW_ExcellentPawnJoins.description>
+
+<VSEWW_ExcellentResourceDrop.label>Resource drop</VSEWW_ExcellentResourceDrop.label>
+<VSEWW_ExcellentResourceDrop.description>Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel</VSEWW_ExcellentResourceDrop.description>
+
+<VSEWW_ExcellentFoodAndMedicineDrop.label>Food and medicine drop</VSEWW_ExcellentFoodAndMedicineDrop.label>
+<VSEWW_ExcellentFoodAndMedicineDrop.description>Cargo pods drop 120 packaged survival meals, 20 glitterworld medicine and 100 medicine</VSEWW_ExcellentFoodAndMedicineDrop.description>
+
+<VSEWW_ExcellentFuelDrop.label>Fuel drop</VSEWW_ExcellentFuelDrop.label>
+<VSEWW_ExcellentFuelDrop.description>Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium</VSEWW_ExcellentFuelDrop.description>
+
+<VSEWW_ExcellentWeaponDrop.label>Excellent weapons drop</VSEWW_ExcellentWeaponDrop.label>
+<VSEWW_ExcellentWeaponDrop.description>Cargo pods drop 5 random weapons, quality is Excellent</VSEWW_ExcellentWeaponDrop.description>
+
+<VSEWW_ExcellentArmorDrop.label>Excellent armor drop</VSEWW_ExcellentArmorDrop.label>
+<VSEWW_ExcellentArmorDrop.description>Cargo pods drop 5 random pieces of armor, quality is Excellent</VSEWW_ExcellentArmorDrop.description>
+
+<VSEWW_ExcellentCashDrop.label>Cash</VSEWW_ExcellentCashDrop.label>
+<VSEWW_ExcellentCashDrop.description>Cargo pods drop 10000 silver and 500 gold</VSEWW_ExcellentCashDrop.description>
+
+<VSEWW_DelayBy15.label>Delay next wave</VSEWW_DelayBy15.label>
+<VSEWW_DelayBy15.description>The next wave is delayed by 15 days</VSEWW_DelayBy15.description>
+
+<VSEWW_WargDrop.label>Wargs drop</VSEWW_WargDrop.label>
+<VSEWW_WargDrop.description>Cargo pod drops 10 tamed wargs</VSEWW_WargDrop.description>
+
+<VSEWW_ExcellentSkillBoost.label>Skill boost</VSEWW_ExcellentSkillBoost.label>
+<VSEWW_ExcellentSkillBoost.description>Improve every skill of every colonist under your control by 3</VSEWW_ExcellentSkillBoost.description>
+
+<VSEWW_ExcellentReseachBoost.label>Research boost</VSEWW_ExcellentReseachBoost.label>
+<VSEWW_ExcellentReseachBoost.description>Instantly research 8 random research projects you meet prerequisites for</VSEWW_ExcellentReseachBoost.description>
+
+<VSEWW_ExcellentArchotechArtifactsDrop.label>Archotech artifacts drop</VSEWW_ExcellentArchotechArtifactsDrop.label>
+<VSEWW_ExcellentArchotechArtifactsDrop.description>Receive 8 random archotech items (can be uninstalled structures)</VSEWW_ExcellentArchotechArtifactsDrop.description>
+
+<VSEWW_TargetersDrop.label>Targeters drop</VSEWW_TargetersDrop.label>
+<VSEWW_TargetersDrop.description>Receive an orbital beam targeter, orbital bombardment targeter and tornado generator</VSEWW_TargetersDrop.description>
+
+<VSEWW_ExcellentDrugsDrop.label>Drugs drop</VSEWW_ExcellentDrugsDrop.label>
+<VSEWW_ExcellentDrugsDrop.description>Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up and 200 go juice</VSEWW_ExcellentDrugsDrop.description>
+
+<VSEWW_ExcellentProstheticsDrop.label>Prosthetics drop</VSEWW_ExcellentProstheticsDrop.label>
+<VSEWW_ExcellentProstheticsDrop.description>Cargo pod drops 10 random bionics</VSEWW_ExcellentProstheticsDrop.description>
+
+<VSEWW_MechSerumHealerDrop.label>Healer mech serum drop</VSEWW_MechSerumHealerDrop.label>
+<VSEWW_MechSerumHealerDrop.description>Cargo pod drops 5 healer mech serums</VSEWW_MechSerumHealerDrop.description>
+
+<VSEWW_RandomLegendaryDrop.label>Random Legendary reward</VSEWW_RandomLegendaryDrop.label>
+<VSEWW_RandomLegendaryDrop.description>Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward</VSEWW_RandomLegendaryDrop.description>
+</LanguageData>
