@@ -1,0 +1,288 @@
+<LanguageData>
+    <!--anomaly-->
+    <VSEWW_ShardNormal.label>Shard drop</VSEWW_ShardNormal.label>
+    <VSEWW_ShardNormal.description>Receive a single scavenged fragment of dark archotechnology</VSEWW_ShardNormal.description>
+
+    <VSEWW_ShardExcellent.label>Shard drop</VSEWW_ShardExcellent.label>
+    <VSEWW_ShardExcellent.description>Receive five scavenged fragments of dark archotechnology</VSEWW_ShardExcellent.description>
+
+    <VSEWW_GhoulNormal.label>Ghoul joins</VSEWW_GhoulNormal.label>
+    <VSEWW_GhoulNormal.description>A single ghoul joins the colony</VSEWW_GhoulNormal.description>
+
+    <VSEWW_GhoulExcellent.label>Ghouls join</VSEWW_GhoulExcellent.label>
+    <VSEWW_GhoulExcellent.description>A group of 5 ghouls joins the colony</VSEWW_GhoulExcellent.description>
+
+    <VSEWW_ShamblersNormal.label>Shamblers join</VSEWW_ShamblersNormal.label>
+    <VSEWW_ShamblersNormal.description>A horde of 10 shamblers joins the colony</VSEWW_ShamblersNormal.description>
+
+    <VSEWW_ShamblersExcellent.label>Shamblers join</VSEWW_ShamblersExcellent.label>
+    <VSEWW_ShamblersExcellent.description>A horde of 30 shamblers joins the colony</VSEWW_ShamblersExcellent.description>
+
+    <VSEWW_ShardArtifactsDropGood.label>Shard artifacts drop</VSEWW_ShardArtifactsDropGood.label>
+    <VSEWW_ShardArtifactsDropGood.description>Receive 4 random shard artifact items</VSEWW_ShardArtifactsDropGood.description>
+
+    <VSEWW_ShardArtifactsDropExcellent.label>Shard artifacts drop</VSEWW_ShardArtifactsDropExcellent.label>
+    <VSEWW_ShardArtifactsDropExcellent.description>Receive 7 random shard artifact items</VSEWW_ShardArtifactsDropExcellent.description>
+
+    <VSEWW_SerumsGood.label>Serum drop</VSEWW_SerumsGood.label>
+    <VSEWW_SerumsGood.description>Receive 5 random serums</VSEWW_SerumsGood.description>
+
+    <VSEWW_SerumsExcellent.label>Serum drop</VSEWW_SerumsExcellent.label>
+    <VSEWW_SerumsExcellent.description>Receive 10 random serums</VSEWW_SerumsExcellent.description>
+    <!--biotech-->
+    <VSEWW_GeneticsNormal.label>Genetics drop</VSEWW_GeneticsNormal.label>
+    <VSEWW_GeneticsNormal.description>Receive 3 random genepacks</VSEWW_GeneticsNormal.description>
+
+    <VSEWW_GeneticsGood.label>Genetics drop</VSEWW_GeneticsGood.label>
+    <VSEWW_GeneticsGood.description>Receive 5 random genepacks</VSEWW_GeneticsGood.description>
+
+    <VSEWW_GeneticsExcellent.label>Genetics drop</VSEWW_GeneticsExcellent.label>
+    <VSEWW_GeneticsExcellent.description>Receive 7 random genepacks, an archite capsule and three gene banks</VSEWW_GeneticsExcellent.description>
+
+    <VSEWW_GeneticsLegendary.label>Genetics drop</VSEWW_GeneticsLegendary.label>
+    <VSEWW_GeneticsLegendary.description>Receive 20 random genepacks, 10 archite capsules and 10 gene banks</VSEWW_GeneticsLegendary.description>
+
+    <VSEWW_MechanitorNormal.label>Mechanitor drop</VSEWW_MechanitorNormal.label>
+    <VSEWW_MechanitorNormal.description>Receive three random subcores and a random mech chip</VSEWW_MechanitorNormal.description>
+
+    <VSEWW_MechanitorGood.label>Mechanitor drop</VSEWW_MechanitorGood.label>
+    <VSEWW_MechanitorGood.description>Receive five random subcores, a random mech chip and a mech booster</VSEWW_MechanitorGood.description>
+
+    <VSEWW_MechanitorExcellent.label>Mechanitor drop</VSEWW_MechanitorExcellent.label>
+    <VSEWW_MechanitorExcellent.description>Receive five random subcores, two random mech chips, three random mechanitor implants and an assortment of mech boosters</VSEWW_MechanitorExcellent.description>
+
+    <VSEWW_MechanitorLegendary.label>Mechanitor drop</VSEWW_MechanitorLegendary.label>
+    <VSEWW_MechanitorLegendary.description>Receive ten random subcores, five random mech chips, five random mechanitor implants and an assortment of mech boosters</VSEWW_MechanitorLegendary.description>
+
+    <VSEWW_RandomXenotypeJoins_Poor.label>Xenohuman joins</VSEWW_RandomXenotypeJoins_Poor.label>
+    <VSEWW_RandomXenotypeJoins_Poor.description>A single xenohuman worth up to 50 combat points joins the colony</VSEWW_RandomXenotypeJoins_Poor.description>
+
+    <VSEWW_RandomXenotypeJoins_Normal.label>Xenohuman joins</VSEWW_RandomXenotypeJoins_Normal.label>
+    <VSEWW_RandomXenotypeJoins_Normal.description>A single xenohuman worth minimum 50 and up to 125 Combat points joins the colony</VSEWW_RandomXenotypeJoins_Normal.description>
+
+    <VSEWW_RandomXenotypeJoins_Good.label>Xenohumans join</VSEWW_RandomXenotypeJoins_Good.label>
+    <VSEWW_RandomXenotypeJoins_Good.description>A group of 3 xenohumans worth a minimum 100 and up to 175 combat points joins the colony</VSEWW_RandomXenotypeJoins_Good.description>
+
+    <VSEWW_RandomXenotypeJoins_Excellent.label>Xenohumans join</VSEWW_RandomXenotypeJoins_Excellent.label>
+    <VSEWW_RandomXenotypeJoins_Excellent.description>A group of 5 xenohumans worth a minimum of 175 combat points joins the colony</VSEWW_RandomXenotypeJoins_Excellent.description>
+
+    <VSEWW_RandomXenotypeJoins_Legendary.label>Xenohumans join</VSEWW_RandomXenotypeJoins_Legendary.label>
+    <VSEWW_RandomXenotypeJoins_Legendary.description>A group of 5 mercenary xenohuman colonists join</VSEWW_RandomXenotypeJoins_Legendary.description>
+
+    <VSEWW_RandomSanguophage_Excellent.label>Sanguophage joins</VSEWW_RandomSanguophage_Excellent.label>
+    <VSEWW_RandomSanguophage_Excellent.description>A single sanguophage worth a minimum of 225 combat points joins the colony</VSEWW_RandomSanguophage_Excellent.description>
+
+    <VSEWW_RandomSanguophage_Legendary.label>Sanguophages join</VSEWW_RandomSanguophage_Legendary.label>
+    <VSEWW_RandomSanguophage_Legendary.description>Three sanguophages worth a minimum of 250 combat points join the colony</VSEWW_RandomSanguophage_Legendary.description>
+
+    <VSEWW_FriendlyMechanoidsPoor.label>Mechanoids drop</VSEWW_FriendlyMechanoidsPoor.label>
+    <VSEWW_FriendlyMechanoidsPoor.description>Receive a militor</VSEWW_FriendlyMechanoidsPoor.description>
+
+    <VSEWW_FriendlyMechanoidsNormal.label>Mechanoids drop</VSEWW_FriendlyMechanoidsNormal.label>
+    <VSEWW_FriendlyMechanoidsNormal.description>Receive 3 militors</VSEWW_FriendlyMechanoidsNormal.description>
+
+    <VSEWW_FriendlyMechanoidsGood.label>Mechanoids drop</VSEWW_FriendlyMechanoidsGood.label>
+    <VSEWW_FriendlyMechanoidsGood.description>Receive a lancer, a scyther and a scorcher</VSEWW_FriendlyMechanoidsGood.description>
+
+    <VSEWW_FriendlyMechanoidsExcellent.label>Mechanoids drop</VSEWW_FriendlyMechanoidsExcellent.label>
+    <VSEWW_FriendlyMechanoidsExcellent.description>Receive a centipede burner, a centipede blaster and a tesseron</VSEWW_FriendlyMechanoidsExcellent.description>
+
+    <VSEWW_FriendlyMechanoidsLegendary.label>Mechanoids drop</VSEWW_FriendlyMechanoidsLegendary.label>
+    <VSEWW_FriendlyMechanoidsLegendary.description>Receive 2 centipede blasters, 5 militors, a centurion and a diabolus</VSEWW_FriendlyMechanoidsLegendary.description>
+        <!--odyssey-->
+        <VSEWW_GravlitePanelsNormal.label>Gravlite panels drop</VSEWW_GravlitePanelsNormal.label>
+    <VSEWW_GravlitePanelsNormal.description>Receive 50 gravlite panels</VSEWW_GravlitePanelsNormal.description>
+
+    <VSEWW_GravlitePanelsGood.label>Gravlite panels drop</VSEWW_GravlitePanelsGood.label>
+    <VSEWW_GravlitePanelsGood.description>Receive 150 gravlite panels</VSEWW_GravlitePanelsGood.description>
+
+    <VSEWW_GravlitePanelsExcellent.label>Gravlite panels drop</VSEWW_GravlitePanelsExcellent.label>
+    <VSEWW_GravlitePanelsExcellent.description>Receive 300 gravlite panels</VSEWW_GravlitePanelsExcellent.description>
+
+    <VSEWW_GravlitePanelsLegendary.label>Gravlite panels drop</VSEWW_GravlitePanelsLegendary.label>
+    <VSEWW_GravlitePanelsLegendary.description>Receive 750 gravlite panels</VSEWW_GravlitePanelsLegendary.description>
+
+    <VSEWW_GravCoreGood.label>Gravcore drop</VSEWW_GravCoreGood.label>
+    <VSEWW_GravCoreGood.description>Receive a gravcore</VSEWW_GravCoreGood.description>
+
+    <VSEWW_ShuttleEngineGood.label>Shuttle engine drop</VSEWW_ShuttleEngineGood.label>
+    <VSEWW_ShuttleEngineGood.description>Receive a shuttle engine</VSEWW_ShuttleEngineGood.description>
+
+    <VSEWW_UniqueWeaponsDrop.label>Unique weapon drop</VSEWW_UniqueWeaponsDrop.label>
+    <VSEWW_UniqueWeaponsDrop.description>Cargo pod drops 1 unique weapon</VSEWW_UniqueWeaponsDrop.description>
+
+    <VSEWW_UniqueWeaponsDrop_Excellent.label>Unique weapons drop</VSEWW_UniqueWeaponsDrop_Excellent.label>
+    <VSEWW_UniqueWeaponsDrop_Excellent.description>Cargo pods drop 3 unique weapons</VSEWW_UniqueWeaponsDrop_Excellent.description>
+
+    <VSEWW_UniqueWeaponsDrop_Legendary.label>Unique weapons drop</VSEWW_UniqueWeaponsDrop_Legendary.label>
+    <VSEWW_UniqueWeaponsDrop_Legendary.description>Cargo pods drop 5 unique weapons</VSEWW_UniqueWeaponsDrop_Legendary.description>
+        <!--royalty-->
+
+    <VSEWW_NormalRandomLabDrop.label>Lab part drop</VSEWW_NormalRandomLabDrop.label>
+    <VSEWW_NormalRandomLabDrop.description>Cargo pod drop one gene-tailoring lab part.</VSEWW_NormalRandomLabDrop.description>
+
+    <VSEWW_RandomLabDrop.label>Lab part drop</VSEWW_RandomLabDrop.label>
+    <VSEWW_RandomLabDrop.description>Cargo pod drop 3 gene-tailoring lab parts.</VSEWW_RandomLabDrop.description>
+
+    <VSEWW_LegendaryRandomLabDrop.label>Lab parts drop</VSEWW_LegendaryRandomLabDrop.label>
+    <VSEWW_LegendaryRandomLabDrop.description>Cargo pod drops 5 random gene-tailoring lab parts.</VSEWW_LegendaryRandomLabDrop.description>
+
+    <VSEWW_LaserWeaponsDrop.label>Laser weapons drop</VSEWW_LaserWeaponsDrop.label>
+    <VSEWW_LaserWeaponsDrop.description>Cargo pod drops 3 random laser weapons.</VSEWW_LaserWeaponsDrop.description>
+
+    <VSEWW_HeavyWeaponDrop.label>Heavy weapon drop</VSEWW_HeavyWeaponDrop.label>
+    <VSEWW_HeavyWeaponDrop.description>Cargo pod drops one random heavy weapon and one exoskeleton frame.</VSEWW_HeavyWeaponDrop.description>
+
+
+
+    <!--alpha animals-->
+    <AA_NormalFleetDrop.label>Call fleet support</AA_NormalFleetDrop.label>
+    <AA_NormalFleetDrop.description>Cargo pod summons 5 tamed Aerofleet</AA_NormalFleetDrop.description>
+
+    <AA_NormalLiskSquad.label>Call lisk squad</AA_NormalLiskSquad.label>
+    <AA_NormalLiskSquad.description>Cargo pod summons 2 tamed 'lisks</AA_NormalLiskSquad.description>
+
+    <AA_GoodFleetDrop.label>Call fleet support</AA_GoodFleetDrop.label>
+    <AA_GoodFleetDrop.description>Cargo pod summons 10 tamed Aerofleet</AA_GoodFleetDrop.description>
+
+    <AA_GoodLiskSquad.label>Call lisk squad</AA_GoodLiskSquad.label>
+    <AA_GoodLiskSquad.description>Cargo pod summons 5 tamed 'lisks</AA_GoodLiskSquad.description>
+
+    <AA_ExcellentFleetDrop.label>Call fleet support</AA_ExcellentFleetDrop.label>
+    <AA_ExcellentFleetDrop.description>Cargo pod summons 10 tamed Aerofleet and 5 colossal Aerofleet</AA_ExcellentFleetDrop.description>
+
+    <AA_ExcellentLiskSquad.label>Call lisk squad</AA_ExcellentLiskSquad.label>
+    <AA_ExcellentLiskSquad.description>Cargo pod summons 8 tamed 'lisks</AA_ExcellentLiskSquad.description>
+
+    <AA_GallatrossDrop.label>Gallatross drop</AA_GallatrossDrop.label>
+    <AA_GallatrossDrop.description>Cargo pod drops 1 tamed gallatross</AA_GallatrossDrop.description>
+    <!--alpha genes-->
+    <AG_GeneTools.label>Gene tools drop</AG_GeneTools.label>
+<AG_GeneTools.description>Cargo pod drops 5 random gene tools</AG_GeneTools.description>
+
+<VSEWW_RandomAlphaXenotypeJoins_Poor.label>Alpha Xenohuman joins</VSEWW_RandomAlphaXenotypeJoins_Poor.label>
+<VSEWW_RandomAlphaXenotypeJoins_Poor.description>A single alpha xenohuman worth up to 50 combat points joins the colony</VSEWW_RandomAlphaXenotypeJoins_Poor.description>
+
+<VSEWW_RandomAlphaXenotypeJoins_Normal.label>Alpha Xenohuman joins</VSEWW_RandomAlphaXenotypeJoins_Normal.label>
+<VSEWW_RandomAlphaXenotypeJoins_Normal.description>A single alpha xenohuman worth minimum 50 and up to 125 Combat points joins the colony</VSEWW_RandomAlphaXenotypeJoins_Normal.description>
+
+<VSEWW_RandomAlphaXenotypeJoins_Good.label>Alpha Xenohumans join</VSEWW_RandomAlphaXenotypeJoins_Good.label>
+<VSEWW_RandomAlphaXenotypeJoins_Good.description>A group of 3 alpha xenohumans worth a minimum 100 and up to 175 combat points joins the colony</VSEWW_RandomAlphaXenotypeJoins_Good.description>
+
+<VSEWW_RandomAlphaXenotypeJoins_Excellent.label>Alpha Xenohumans join</VSEWW_RandomAlphaXenotypeJoins_Excellent.label>
+<VSEWW_RandomAlphaXenotypeJoins_Excellent.description>A group of 5 alpha xenohumans worth a minimum of 175 combat points joins the colony</VSEWW_RandomAlphaXenotypeJoins_Excellent.description>
+
+<VSEWW_RandomAlphaXenotypeJoins_Legendary.label>Alpha Xenohumans join</VSEWW_RandomAlphaXenotypeJoins_Legendary.label>
+<VSEWW_RandomAlphaXenotypeJoins_Legendary.description>A group of 5 alpha mercenary xenohuman colonists join</VSEWW_RandomAlphaXenotypeJoins_Legendary.description>
+    <!--alpha implants-->
+    <AI_AnimaProsthetics.label>Animal prosthetics drop</AI_AnimaProsthetics.label>
+<AI_AnimaProsthetics.description>Cargo pod drops 3 random animal implants</AI_AnimaProsthetics.description>
+
+<AI_AnimaProsthetics_Excellent.label>Animal prosthetics drop</AI_AnimaProsthetics_Excellent.label>
+<AI_AnimaProsthetics_Excellent.description>Cargo pod drops 5 random animal implants</AI_AnimaProsthetics_Excellent.description>
+
+<AI_AnimaProsthetics_Legendary.label>Animal prosthetics drop</AI_AnimaProsthetics_Legendary.label>
+<AI_AnimaProsthetics_Legendary.description>Cargo pod drops 10 random animal implants</AI_AnimaProsthetics_Legendary.description>
+    <!--alpha mechs-->
+    <VSEWW_FriendlyAlphaMechanoidsPoor.label>Alpha mechanoids drop</VSEWW_FriendlyAlphaMechanoidsPoor.label>
+<VSEWW_FriendlyAlphaMechanoidsPoor.description>Receive a daggersnout</VSEWW_FriendlyAlphaMechanoidsPoor.description>
+
+<VSEWW_FriendlyAlphaMechanoidsNormal.label>Alpha mechanoids drop</VSEWW_FriendlyAlphaMechanoidsNormal.label>
+<VSEWW_FriendlyAlphaMechanoidsNormal.description>Receive 3 daggersnout</VSEWW_FriendlyAlphaMechanoidsNormal.description>
+
+<VSEWW_FriendlyAlphaMechanoidsGood.label>Alpha mechanoids drop</VSEWW_FriendlyAlphaMechanoidsGood.label>
+<VSEWW_FriendlyAlphaMechanoidsGood.description>Receive an aura, a fireworm and a goliath</VSEWW_FriendlyAlphaMechanoidsGood.description>
+
+<VSEWW_FriendlyAlphaMechanoidsExcellent.label>Alpha mechanoids drop</VSEWW_FriendlyAlphaMechanoidsExcellent.label>
+<VSEWW_FriendlyAlphaMechanoidsExcellent.description>Receive a goliath, a phalanx and a two siegebreakers</VSEWW_FriendlyAlphaMechanoidsExcellent.description>
+
+<VSEWW_FriendlyAlphaMechanoidsLegendary.label>Alpha mechanoids drop</VSEWW_FriendlyAlphaMechanoidsLegendary.label>
+<VSEWW_FriendlyAlphaMechanoidsLegendary.description>Receive 2 siegemelters, a legate, 3 auras and a starfire</VSEWW_FriendlyAlphaMechanoidsLegendary.description>
+    <!--alpha prefabs-->
+    <AP_NormalPrefabReward.label>Low value prefab</AP_NormalPrefabReward.label>
+<AP_NormalPrefabReward.description>Cargo pod contains one low value prefab</AP_NormalPrefabReward.description>
+
+<AP_GoodPrefabReward.label>Medium value prefab</AP_GoodPrefabReward.label>
+<AP_GoodPrefabReward.description>Cargo pod contains one medium value prefab</AP_GoodPrefabReward.description>
+
+<AP_ExcellentPrefabReward.label>High value prefabs</AP_ExcellentPrefabReward.label>
+<AP_ExcellentPrefabReward.description>Cargo pod contains two high value prefabs</AP_ExcellentPrefabReward.description>
+
+<AP_LegendaryPrefabReward.label>Legendary value prefabs</AP_LegendaryPrefabReward.label>
+<AP_LegendaryPrefabReward.description>Cargo pod contains 3 legendary value prefabs</AP_LegendaryPrefabReward.description>
+<!--alpha random-->
+<AP_PoorAlphaRandomReward.label>Low value loot box</AP_PoorAlphaRandomReward.label>
+<AP_PoorAlphaRandomReward.description>Cargo pod contains one low value loot box</AP_PoorAlphaRandomReward.description>
+
+<AP_NormalAlphaRandomReward.label>Low value loot boxes</AP_NormalAlphaRandomReward.label>
+<AP_NormalAlphaRandomReward.description>Cargo pod contains two low value loot boxes</AP_NormalAlphaRandomReward.description>
+
+<AP_GoodAlphaRandomReward.label>High value loot box</AP_GoodAlphaRandomReward.label>
+<AP_GoodAlphaRandomReward.description>Cargo pod contains one high value loot box</AP_GoodAlphaRandomReward.description>
+
+<AP_ExcellentAlphaRandomReward.label>High value loot boxes</AP_ExcellentAlphaRandomReward.label>
+<AP_ExcellentAlphaRandomReward.description>Cargo pod contains three high value loot boxes</AP_ExcellentAlphaRandomReward.description>
+
+<AP_LegendaryAlphaRandomReward.label>Legendary value loot boxes</AP_LegendaryAlphaRandomReward.label>
+<AP_LegendaryAlphaRandomReward.description>Cargo pod contains five very high value loot boxes</AP_LegendaryAlphaRandomReward.description>
+
+    <!--other mods-->
+<VSEWW_NormalRandomLabDrop.label>Lab part drop</VSEWW_NormalRandomLabDrop.label>
+<VSEWW_NormalRandomLabDrop.description>Cargo pod drop one gene-tailoring lab part.</VSEWW_NormalRandomLabDrop.description>
+
+<VSEWW_RandomLabDrop.label>Lab part drop</VSEWW_RandomLabDrop.label>
+<VSEWW_RandomLabDrop.description>Cargo pod drop 3 gene-tailoring lab parts.</VSEWW_RandomLabDrop.description>
+
+<VSEWW_LegendaryRandomLabDrop.label>Lab parts drop</VSEWW_LegendaryRandomLabDrop.label>
+<VSEWW_LegendaryRandomLabDrop.description>Cargo pod drops 5 random gene-tailoring lab parts.</VSEWW_LegendaryRandomLabDrop.description>
+
+<VSEWW_LaserWeaponsDrop.label>Laser weapons drop</VSEWW_LaserWeaponsDrop.label>
+<VSEWW_LaserWeaponsDrop.description>Cargo pod drops 3 random laser weapons.</VSEWW_LaserWeaponsDrop.description>
+
+<VSEWW_HeavyWeaponDrop.label>Heavy weapon drop</VSEWW_HeavyWeaponDrop.label>
+<VSEWW_HeavyWeaponDrop.description>Cargo pod drops one random heavy weapon and one exoskeleton frame.</VSEWW_HeavyWeaponDrop.description>
+
+<!--ve deserters-->
+<VSEWW_IntelDrop.label>Intel drop</VSEWW_IntelDrop.label>
+<VSEWW_IntelDrop.description>Cargo pod drops 15 intel</VSEWW_IntelDrop.description>
+
+<VSEWW_IntelDropExcellent.label>Intel drop</VSEWW_IntelDropExcellent.label>
+<VSEWW_IntelDropExcellent.description>Cargo pod drops 50 intel and 5 critical intel</VSEWW_IntelDropExcellent.description>
+
+<!--ve insectoids-->
+<VSEWW_InsectJellyNormal.label>Insect jelly drop</VSEWW_InsectJellyNormal.label>
+<VSEWW_InsectJellyNormal.description>Cargo pod drops 1200 insect jelly</VSEWW_InsectJellyNormal.description>
+
+<VSEWW_InsectJellyGood.label>Insect jelly drop</VSEWW_InsectJellyGood.label>
+<VSEWW_InsectJellyGood.description>Cargo pod drops 2000 insect jelly and 500 royal jelly</VSEWW_InsectJellyGood.description>
+
+<VSEWW_PherocoreNormal.label>Pherocore drop</VSEWW_PherocoreNormal.label>
+<VSEWW_PherocoreNormal.description>Cargo pod drops a random pherocore</VSEWW_PherocoreNormal.description>
+
+<VSEWW_PherocoreExcellent.label>Pherocore drop</VSEWW_PherocoreExcellent.label>
+<VSEWW_PherocoreExcellent.description>Cargo pod drops 5 random pherocores</VSEWW_PherocoreExcellent.description>
+
+<VSEWW_PherocoreLegendary.label>Pherocore drop</VSEWW_PherocoreLegendary.label>
+<VSEWW_PherocoreLegendary.description>Cargo pod drops 10 random pherocores</VSEWW_PherocoreLegendary.description>
+<!--ve pirates-->
+<VSEWW_Warcasket_Excellent.label>Warcasket joins</VSEWW_Warcasket_Excellent.label>
+<VSEWW_Warcasket_Excellent.description>A colonist in a warcasket joins the colony</VSEWW_Warcasket_Excellent.description>
+
+<VSEWW_Warcasket_Legendary.label>Warcasket joins</VSEWW_Warcasket_Legendary.label>
+<VSEWW_Warcasket_Legendary.description>A colonist in a heavy warcasket joins the colony</VSEWW_Warcasket_Legendary.description>
+
+<VSEWW_Warcasket_Legendary_Pyro.label>Warcasket joins</VSEWW_Warcasket_Legendary_Pyro.label>
+<VSEWW_Warcasket_Legendary_Pyro.description>A colonist in a pyro warcasket joins the colony</VSEWW_Warcasket_Legendary_Pyro.description>
+
+<VSEWW_Warcasket_Legendary_Artillery.label>Warcasket joins</VSEWW_Warcasket_Legendary_Artillery.label>
+<VSEWW_Warcasket_Legendary_Artillery.description>A colonist in an artillery warcasket joins the colony</VSEWW_Warcasket_Legendary_Artillery.description>
+<!--ve vehicles-->
+<VSEWW_VehiclePartsDrop.label>Vehicle parts drop</VSEWW_VehiclePartsDrop.label>
+<VSEWW_VehiclePartsDrop.description>Cargo pod drops 10 of each tier 1 vehicle component</VSEWW_VehiclePartsDrop.description>
+
+<VSEWW_VehiclePartsDropLegendary.label>Vehicle parts drop</VSEWW_VehiclePartsDropLegendary.label>
+<VSEWW_VehiclePartsDropLegendary.description>Cargo pod drops 40 of every vehicle component</VSEWW_VehiclePartsDropLegendary.description>
+
+
+
+</LanguageData>

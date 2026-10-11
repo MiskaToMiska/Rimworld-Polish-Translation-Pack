@@ -1,0 +1,90 @@
+<LanguageData>
+
+    <VSEWW_DoubleTrouble.label>Podwójne kłopoty</VSEWW_DoubleTrouble.label>
+    <VSEWW_DoubleTrouble.description>Liczba punktów rajdowych zostaje podwojona.</VSEWW_DoubleTrouble.description>
+
+    <VSEWW_BulletSponges.label>Gąbki kulowe</VSEWW_BulletSponges.label>
+    <VSEWW_BulletSponges.description>Zdrowie przeciwników zostaje podwojone.</VSEWW_BulletSponges.description>
+
+    <VSEWW_Sprinters.label>Biegacze</VSEWW_Sprinters.label>
+    <VSEWW_Sprinters.description>Prędkość poruszania się wszystkich przeciwników zostaje podwojona.</VSEWW_Sprinters.description>
+
+    <VSEWW_AdrenalineRush.label>Przypływ adrenaliny</VSEWW_AdrenalineRush.label>
+    <VSEWW_AdrenalineRush.description>W miarę jak poziom zdrowia wrogów będzie się zmniejszał, staną się oni szybsi i groźniejsi.</VSEWW_AdrenalineRush.description>
+
+    <VSEWW_Veterans.label>Weterani</VSEWW_Veterans.label>
+    <VSEWW_Veterans.description>Wszystkie statystyki przeciwników (manipulacja, wzork itd.) są pomniejszone o 50%.</VSEWW_Veterans.description>
+
+    <VSEWW_Boom.label>Bum!</VSEWW_Boom.label>
+    <VSEWW_Boom.description>Wszyscy przeciwnicy wybuchają po śmierci.</VSEWW_Boom.description>
+
+    <VSEWW_Regenerators.label>Regeneratorzy</VSEWW_Regenerators.label>
+    <VSEWW_Regenerators.description>Wszyscy przeciwnicy regenerują swoje zdrowie w przyspieszonym tempie.</VSEWW_Regenerators.description>
+
+    <VSEWW_Reinforcements.label>Wzmocnienia</VSEWW_Reinforcements.label>
+    <VSEWW_Reinforcements.description>Po pokonaniu około 20% sił rajdowych wrogowie otrzymują wzmocnienia z tej samej frakcji, stanowiące 50% początkowej liczebności fali.</VSEWW_Reinforcements.description>
+
+    <VSEWW_OrbitalBombardment.label>Bombardowanie orbitalne</VSEWW_OrbitalBombardment.label>
+    <VSEWW_OrbitalBombardment.description>Podczas tej fali cała mapa jest narażona na bombardowanie orbitalne.</VSEWW_OrbitalBombardment.description>
+
+    <VSEWW_Flashstorm.label>Burza błyskawic</VSEWW_Flashstorm.label>
+    <VSEWW_Flashstorm.description>Podczas tej fali na mapie występuje burza błyskawic, a deszcz nie spowoduje ugaszenia płomieni.</VSEWW_Flashstorm.description>
+
+    <VESWW_ToxicFallout.label>Toksyczny opad</VESWW_ToxicFallout.label>
+    <VESWW_ToxicFallout.description>Podczas tej fali na mapie występuje toksyczny opad.</VESWW_ToxicFallout.description>
+
+    <VSEWW_Ninjas.label>Ninja</VSEWW_Ninjas.label>
+    <VSEWW_Ninjas.description>Wszyscy przeciwnicy są niewidzialni przez pierwsze 30 sekund.</VSEWW_Ninjas.description>
+
+    <VSEWW_Bulletproof.label>Kuloodporni</VSEWW_Bulletproof.label>
+    <VSEWW_Bulletproof.description>Wszyscy przeciwnicy otrzymują obrażenia zmniejszone o 50%.</VSEWW_Bulletproof.description>
+
+    <VSEWW_GlassCannons.label>Szklane armaty</VSEWW_GlassCannons.label>
+    <VSEWW_GlassCannons.description>Wrogowie zadają znacznie większe obrażenia, ale również otrzymują znacznie większe obrażenia. Zmniejsza liczbę uczestników rajdu w punktach.</VSEWW_GlassCannons.description>
+
+    <VSEWW_NoPainNoGain.label>Bez bólu nie ma zysku</VSEWW_NoPainNoGain.label>
+    <VSEWW_NoPainNoGain.description>Wszyscy przeciwnicy nie odczuwają bólu.</VSEWW_NoPainNoGain.description>
+
+    <VSEWW_NoRetreat.label>Nie ma odwrotu!</VSEWW_NoRetreat.label>
+    <VSEWW_NoRetreat.description>Przeciwnicy nie będą się wycofywać.</VSEWW_NoRetreat.description>
+
+    <VSEWW_AcidifiersForEveryone.label>Kwasowe urządzenia dla wszystkich!</VSEWW_AcidifiersForEveryone.label>
+    <VSEWW_AcidifiersForEveryone.description>Wszyscy wrogowie posiadają śmiercionośne urządzenia kwasowe.</VSEWW_AcidifiersForEveryone.description>
+
+    <VSEWW_BodyModder.label>Modyfikatorzy ciał</VSEWW_BodyModder.label>
+    <VSEWW_BodyModder.description>Wszyscy wrogowie używają części bionicznych. Zmniejsza liczbę punktów w rajdzie.</VSEWW_BodyModder.description>
+
+    <VSEWW_SniperForEveryone.label>Snajperzy dla wszystkich!</VSEWW_SniperForEveryone.label>
+    <VSEWW_SniperForEveryone.description>Wszyscy przeciwnicy otrzymują karabin snajperski.</VSEWW_SniperForEveryone.description>
+
+    <VSEWW_ShotgunForEveryone.label>Strzelby dla wszystkich!</VSEWW_ShotgunForEveryone.label>
+    <VSEWW_ShotgunForEveryone.description>Wszyscy przeciwnicy otrzymują strzelbę powtarzalną.</VSEWW_ShotgunForEveryone.description>
+
+    <VSEWW_BulletHell.label>Piekło kul</VSEWW_BulletHell.label>
+    <VSEWW_BulletHell.description>Wszyscy przeciwnicy otrzymują minigun. Zmniejsza liczbę punktów za rajd.</VSEWW_BulletHell.description>
+
+    <VSEWW_OnlyMelee.label>Tylko walka wręcz!</VSEWW_OnlyMelee.label>
+    <VSEWW_OnlyMelee.description>Wszyscy pionkowie otrzymują broń białą i pas z tarczą.</VSEWW_OnlyMelee.description>
+
+    <VSEWW_ToxicSquad.label>Oddział toksyczny</VSEWW_ToxicSquad.label>
+    <VSEWW_ToxicSquad.description>Wszyscy pionkowie otrzymują wyrzutnię bomb toksycznych. </VSEWW_ToxicSquad.description>
+
+    <VSEWW_ChargeForEveryone.label>Broń szarżowa dla wszystkich!</VSEWW_ChargeForEveryone.label>
+    <VSEWW_ChargeForEveryone.description>Wszyscy wrogowie mają broń szarżową.</VSEWW_ChargeForEveryone.description>
+
+    <VSEWW_StrategicApproach.label>Podejście strategiczne</VSEWW_StrategicApproach.label>
+    <VSEWW_StrategicApproach.description>Wrogowie stosują kombinację: granatów, wyrzutni rakiet i karabinów snajperskich. Punkty za falę są mnożone przez 0,7.</VSEWW_StrategicApproach.description>
+
+    <VSEWW_MeteorStorm.label>Burza meteorów</VSEWW_MeteorStorm.label>
+    <VSEWW_MeteorStorm.description>Podczas tej fali na mapę spadają meteoryty.</VSEWW_MeteorStorm.description>
+
+    <VSEWW_BigBosses.label>Wielcy bossowie</VSEWW_BigBosses.label>
+    <VSEWW_BigBosses.description>Wszyscy przeciwnicy to najemnicy. Punkty za falę są dzielone przez dwa.</VSEWW_BigBosses.description>
+
+    <VSEWW_Animals.label>Zwierzęta bojowe</VSEWW_Animals.label>
+    <VSEWW_Animals.description>Przeciwnikom pomaga kilka zwierząt bojowych. </VSEWW_Animals.description>
+
+    <VSEWW_Mystery.label>Tajemnica</VSEWW_Mystery.label>
+    <VSEWW_Mystery.description>Zastosowano losowy modyfikator. Wkrótce się o nim dowiesz.</VSEWW_Mystery.description>
+
+</LanguageData>
