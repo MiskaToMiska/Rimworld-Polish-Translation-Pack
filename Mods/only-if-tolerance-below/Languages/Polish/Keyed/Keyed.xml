@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <ToleranceThresholdColumnLabel>Tylko jeśli tolerancja jest poniżej</ToleranceThresholdColumnLabel>
+    <ToleranceThresholdColumnDesc>Kolonista zażyje tą używkę tylko wtedy, gdy jego poziom tolerancji na substancję chemiczną zawartą w używce będzie niższy od tego progu</ToleranceThresholdColumnDesc>
+</LanguageData>
