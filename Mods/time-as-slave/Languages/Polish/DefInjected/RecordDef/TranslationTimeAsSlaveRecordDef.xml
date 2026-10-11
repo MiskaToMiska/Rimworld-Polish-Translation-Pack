@@ -1,0 +1,7 @@
+<LanguageData>
+    <TimeAsSlave.label>czas jako niewolnik</TimeAsSlave.label>
+    <TimeAsSlave.description>Łączny czas spędzony w niewoli.</TimeAsSlave.description>
+
+    <TimeAsVisitor.label>czas jako gość</TimeAsVisitor.label>
+    <TimeAsVisitor.description>Łączny czas spędzony jako gość w Twojej kolonii.</TimeAsVisitor.description>
+</LanguageData>
