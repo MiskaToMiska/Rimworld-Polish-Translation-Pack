@@ -1,0 +1,19 @@
+<LanguageData>
+<SocialEXPFromTrade.Title>Social EXP from Trade</SocialEXPFromTrade.Title>
+<SocialEXPFromTrade.ModSettingsCategory>Social Experience from Trade</SocialEXPFromTrade.ModSettingsCategory>
+<SocialEXPFromTrade.BuyingDeterminer>Podczas kupowania towarów doświadczenie powinno być obliczane na podstawie...</SocialEXPFromTrade.BuyingDeterminer>
+<SocialEXPFromTrade.SellingDeterminer>Podczas sprzedaży towarów doświadczenie powinno być oparte na...</SocialEXPFromTrade.SellingDeterminer>
+<SocialEXPFromTrade.MarketValue>Standardowa wartość rynkowa</SocialEXPFromTrade.MarketValue>
+<SocialEXPFromTrade.MarketValueDescription>Wartość widoczna w opisie przedmiotu</SocialEXPFromTrade.MarketValueDescription>
+<SocialEXPFromTrade.RelativeValue>Wartość wynegocjowana</SocialEXPFromTrade.RelativeValue>
+<SocialEXPFromTrade.RelativeValueDescription>Wartość widoczna w oknie handlu</SocialEXPFromTrade.RelativeValueDescription>
+<SocialEXPFromTrade.HigherValue>Ta z dwóch wartości, która jest wyższa</SocialEXPFromTrade.HigherValue>
+<SocialEXPFromTrade.LowerValue>Ta z dwóch wartości, która jest niższa</SocialEXPFromTrade.LowerValue> 
+<SocialEXPFromTrade.InspirationMultiplier>Jeśli postać posiada inspiracje handlem, pomnóż doświadczenie przez x{0} (domyślnie x1,0)</SocialEXPFromTrade.InspirationMultiplier>
+<SocialEXPFromTrade.GlobalMultiplier>Pomnóż całe doświadczenie z handlu przez x{0} (domyślnie x1,0)</SocialEXPFromTrade.GlobalMultiplier>
+<SocialEXPFromTrade.BuyingMultiplier>Pomnóż doświadczenie z zakupów przez x{0} (domyślnie x1,0)</SocialEXPFromTrade.BuyingMultiplier>
+<SocialEXPFromTrade.SellingMultiplier>Pomnóż doświadczenie ze sprzedaży przez x{0} (domyślnie x1,0)</SocialEXPFromTrade.SellingMultiplier>
+<SocialEXPFromTrade.NotifyPlayer>Wyświetlić komunikat w lewym górnym rogu o zdobyciu doświadczenia?</SocialEXPFromTrade.NotifyPlayer>
+<SocialEXPFromTrade.Notification>{0} zdobył {1} punktów doświadczenia społecznego dzięki tej transakcji.</SocialEXPFromTrade.Notification>
+<SocialEXPFromTrade.Default>(domyślnie)</SocialEXPFromTrade.Default>
+</LanguageData>
