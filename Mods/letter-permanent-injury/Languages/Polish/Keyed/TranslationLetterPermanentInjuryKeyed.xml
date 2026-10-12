@@ -1,0 +1,11 @@
+<LanguageData>
+    <LPI_Letter_Label>{0}: Trwały uraz</LPI_Letter_Label>
+    <LPI_Letter_Text>{0} {1} doznał trwałego urazu: {2}.</LPI_Letter_Text>
+    <LPI_Option_Mod_Name>Letter on Permanent Injury</LPI_Option_Mod_Name>
+    <LPI_Option>Powiadamiaj o trwałych urazach</LPI_Option>
+    <LPI_Option_Colonist>Koloniści</LPI_Option_Colonist>
+    <LPI_Option_Prisoner>Więzniowie</LPI_Option_Prisoner>
+    <LPI_Option_Pet>Zwierzęta</LPI_Option_Pet>
+    <LPI_Option_Under_Anesthesia>Osoby pod znieczuleniem</LPI_Option_Under_Anesthesia>
+    <LPI_Option_Debug>Loguj wiadomości debugowania</LPI_Option_Debug>
+</LanguageData>
