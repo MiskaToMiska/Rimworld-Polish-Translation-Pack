@@ -1,0 +1,110 @@
+<LanguageData>
+    <ST_Manipulative.degreeDatas.0.label>manipulatywność</ST_Manipulative.degreeDatas.0.label>
+<ST_Manipulative.degreeDatas.0.description>{PAWN_nameDef} doskonale wie, jak stawiać na swoim. Czy to przez bombardowanie miłością, czy gaslighting - {PAWN_gender ? jego : jej} ofiary rzadko orientują się, co naprawdę się dzieje.</ST_Manipulative.degreeDatas.0.description>
+
+<ST_Naive.degreeDatas.0.label>naiwność</ST_Naive.degreeDatas.0.label>
+<ST_Naive.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? uczył : uczyła} się, że wszyscy są dobrzy i życzliwi. Być może pewnego dnia przekona się o prawdzie w bolesny sposób.</ST_Naive.degreeDatas.0.description>
+
+<ST_Narcissist.degreeDatas.0.label>próżność</ST_Narcissist.degreeDatas.0.label>
+<ST_Narcissist.degreeDatas.0.description>{PAWN_nameDef} wierzy w przywileje piękna. Za wszelką cenę dąży do osiągnięcia nieskazitelnej urody, nie zważając na środki.</ST_Narcissist.degreeDatas.0.description>
+
+<ST_HealthNut.degreeDatas.0.label>fiksacja zdrowotna</ST_HealthNut.degreeDatas.0.label>
+<ST_HealthNut.degreeDatas.0.description>Ciało {PAWN_nameDef} to świątynia - je wyłącznie po to, by przetrwać. Zależy {PAWN_gender ? mu : jej} na długim życiu, a nie na chwilowych przyjemnościach.</ST_HealthNut.degreeDatas.0.description>
+
+<ST_Emotional.degreeDatas.0.label>uczuciowość</ST_Emotional.degreeDatas.0.label>
+<ST_Emotional.degreeDatas.0.description>{PAWN_nameDef} odczuwa emocje znacznie głębiej i doświadcza silniejszych wahań nastroju. Często płacze, aby rozładować frustrację.</ST_Emotional.degreeDatas.0.description>
+
+<ST_Paranoid.degreeDatas.0.label>paranoja</ST_Paranoid.degreeDatas.0.label>
+<ST_Paranoid.degreeDatas.0.description>{PAWN_nameDef} uważa, że szczęście to iluzja, a nieszczęście jest nieuniknione. Zawsze przygotowuje się na najgorszy możliwy scenariusz.</ST_Paranoid.degreeDatas.0.description>
+
+<ST_Goofball.degreeDatas.0.label>głupek</ST_Goofball.degreeDatas.0.label>
+<ST_Goofball.degreeDatas.0.description>{PAWN_nameDef} zachowuje się zabawnie na co dzień. {PAWN_gender ? Jego : Jej} zwariowany charakter często rozwesela innych.</ST_Goofball.degreeDatas.0.description>
+
+<ST_Loyal.degreeDatas.0.label>lojalność</ST_Loyal.degreeDatas.0.label>
+<ST_Loyal.degreeDatas.0.description>{PAWN_nameDef} nigdy Cię nie porzuci ani nie zawiedzie.</ST_Loyal.degreeDatas.0.description>
+
+<ST_PartyAnimal.degreeDatas.0.label>imprezowicz</ST_PartyAnimal.degreeDatas.0.label>
+<ST_PartyAnimal.degreeDatas.0.description>Dla {PAWN_nameDef} każda pora roku jest idealna na imprezę!</ST_PartyAnimal.degreeDatas.0.description>
+
+<ST_Insane.degreeDatas.0.label>obłąkanie</ST_Insane.degreeDatas.0.label>
+<ST_Insane.degreeDatas.0.description>{PAWN_nameDef} zawsze sprawia wrażenie osoby odrealnionej. Nikt nie wie, co dzieje się w {PAWN_gender ? jego : jej} głowie - łącznie z {PAWN_gender ? nim : nią} sam{PAWN_gender ? ym : ą}.</ST_Insane.degreeDatas.0.description>
+
+<ST_Proper.degreeDatas.0.label>dobre maniery</ST_Proper.degreeDatas.0.label>
+<ST_Proper.degreeDatas.0.description>Odpowiedni strój, właściwe słowa. {PAWN_nameDef} cechuje się nienagannymi manierami, które pozwalają {PAWN_gender ? mu : jej} odnaleźć się w każdej sytuacji towarzyskiej.</ST_Proper.degreeDatas.0.description>
+
+<ST_Grumpy.degreeDatas.0.label>zrzędliwość</ST_Grumpy.degreeDatas.0.label>
+<ST_Grumpy.degreeDatas.0.description>{PAWN_nameDef} wiecznie wygląda na poirytowan{PAWN_gender ? ego : ą}, szczególnie w poniedziałki. Inni ciągle obawiają się, że wywołają u {PAWN_gender ? niego : niej} falę narzekań.</ST_Grumpy.degreeDatas.0.description>
+
+<ST_Shy.degreeDatas.0.label>nieśmiałość</ST_Shy.degreeDatas.0.label>
+<ST_Shy.degreeDatas.0.description>{PAWN_nameDef} ma trudności w nawiązywaniu relacji z innymi, ale wyjątkowo ceni sobie wszelkie przejawy życzliwości.\n\nZ czasem {PAWN_nameDef} {PAWN_gender ? nauczył : nauczyła} się spędzać więcej czasu na organizacji pracy oraz autorefleksji.</ST_Shy.degreeDatas.0.description>
+
+<ST_Materialistic.degreeDatas.0.label>materialista</ST_Materialistic.degreeDatas.0.label>
+<ST_Materialistic.degreeDatas.0.description>{PAWN_nameDef} uwielbia kupować nowe rzeczy i chwalić się nimi przed innymi.</ST_Materialistic.degreeDatas.0.description>
+
+<ST_Vegan.degreeDatas.0.label>weganizm</ST_Vegan.degreeDatas.0.label>
+<ST_Vegan.degreeDatas.0.description>{PAWN_nameDef} unika jedzenia mięsa. Uważa, że zwierząt nie należy traktować jak towar, i potrafi przygotowywać wyśmienite posiłki z roślin.</ST_Vegan.degreeDatas.0.description>
+
+<ST_Devout.degreeDatas.0.label>pobożność</ST_Devout.degreeDatas.0.label>
+<ST_Devout.degreeDatas.0.description>{PAWN_nameDef} poświęca ciało i duszę swojej wierze. Z jakiegoś powodu {PAWN_gender ? jego : jej} modlitwy zostają wysłuchane.</ST_Devout.degreeDatas.0.description>
+
+<ST_Procrastinator.degreeDatas.0.label>prokrastynacja</ST_Procrastinator.degreeDatas.0.label>
+<ST_Procrastinator.degreeDatas.0.description>{PAWN_nameDef} uwielbia odkładać sprawy na ostatnią chwilę. Ostatecznie udaje {PAWN_gender ? mu : jej} się wykonać zadania, ale ich rezultaty są zazwyczaj mizerne.</ST_Procrastinator.degreeDatas.0.description>
+
+<ST_NonCommital.degreeDatas.0.label>brak zaangażowania</ST_NonCommital.degreeDatas.0.label>
+<ST_NonCommital.degreeDatas.0.description>{PAWN_nameDef} zaczyna odczuwać napięcie, gdy zbyt długo pozostaje w tej samej pracy lub relacji. Strach przed zobowiązaniami skłania {PAWN_gender ? go : ją} do ciągłych zmian.</ST_NonCommital.degreeDatas.0.description>
+
+<ST_HighMaintenance.degreeDatas.0.label>wysokie wymagania</ST_HighMaintenance.degreeDatas.0.label>
+<ST_HighMaintenance.degreeDatas.0.description>{PAWN_nameDef} poczuje ziarnko grochu nawet pod dwudziestoma materacami. To wyrafinowana dusza o drogim guście i błahych problemach.</ST_HighMaintenance.degreeDatas.0.description>
+
+<ST_FamilyOriented.degreeDatas.0.label>rodzinny</ST_FamilyOriented.degreeDatas.0.label>
+<ST_FamilyOriented.degreeDatas.0.description>{PAWN_nameDef} marzy o dużej rodzinie i uwielbia przebywać w otoczeniu dzieci. Będzie wspaniałym rodzicem!</ST_FamilyOriented.degreeDatas.0.description>
+
+<ST_SteadyHands.degreeDatas.0.label>pewna ręka</ST_SteadyHands.degreeDatas.0.label>
+<ST_SteadyHands.degreeDatas.0.description>{PAWN_nameDef} dysponuje niezwykle pewną ręką, która nie drży nawet pod wpływem ogromnego stresu.</ST_SteadyHands.degreeDatas.0.description>
+
+<ST_Daredevil.degreeDatas.0.label>szaleństwo</ST_Daredevil.degreeDatas.0.label>
+<ST_Daredevil.degreeDatas.0.description>{PAWN_nameDef} uwielbia chaos i dąży do ekstremów. Nie potrafi zrezygnować z zastrzyku adrenaliny, jaki daje lekkomyślne zachowanie.</ST_Daredevil.degreeDatas.0.description>
+
+<ST_Chatterbox.degreeDatas.0.label>gadatliwość</ST_Chatterbox.degreeDatas.0.label>
+<ST_Chatterbox.degreeDatas.0.description>{PAWN_nameDef} uwielbia mówić i robi to bez przerwy. Osoby z {PAWN_gender ? jego : jej} otoczenia zaczęły już uodparniać się na wszystko, co mówi.</ST_Chatterbox.degreeDatas.0.description>
+
+<ST_Bookworm.degreeDatas.0.label>mól książkowy</ST_Bookworm.degreeDatas.0.label>
+<ST_Bookworm.degreeDatas.0.description>{PAWN_nameDef} uwielbia czytać. Czyta szybko i czerpie ogromną przyjemność z poszerzania wiedzy w ten sposób.</ST_Bookworm.degreeDatas.0.description>
+
+<ST_Handy.degreeDatas.0.label>złota rączka</ST_Handy.degreeDatas.0.label>
+<ST_Handy.degreeDatas.0.description>{PAWN_nameDef} lubi pracować rękami i majsterkować. Ma naturalne predyspozycje do operowania drobnymi, precyzyjnymi elementami.</ST_Handy.degreeDatas.0.description>
+
+<ST_Virtuoso.degreeDatas.0.label>wirtuoz</ST_Virtuoso.degreeDatas.0.label>
+<ST_Virtuoso.degreeDatas.0.description>{PAWN_nameDef} ma naturalny talent do muzyki i instrumentów. Gra w taki sposób, jakby melodia jeszcze długo unosiła się w powietrzu.</ST_Virtuoso.degreeDatas.0.description>
+
+<ST_TechWhiz.degreeDatas.0.label>magik technologiczny</ST_TechWhiz.degreeDatas.0.label>
+<ST_TechWhiz.degreeDatas.0.description>{PAWN_nameDef} wybitnie radzi sobie z komputerami i technologią. Z łatwością włamuje się do cudzych danych i systemów bezpieczeństwa.</ST_TechWhiz.degreeDatas.0.description>
+
+<ST_Gambler.degreeDatas.0.label>hazardzista</ST_Gambler.degreeDatas.0.label>
+<ST_Gambler.degreeDatas.0.description>{PAWN_nameDef} ślepo wierzy we własne szczęście. Mimo wyniszczającego uzależnienia, na polu bitwy to szczęście sprzyja {PAWN_gender ? mu : jej} w wyjątkowy sposób.</ST_Gambler.degreeDatas.0.description>
+
+<ST_Childish.degreeDatas.0.label>dziecinność</ST_Childish.degreeDatas.0.label>
+<ST_Childish.degreeDatas.0.description>{PAWN_nameDef} nigdy nie {PAWN_gender ? stracił : straciła} dziecięcego zachwytu nad światem. Patrzy na wszystko oczami dziecka i wymaga stałej rozrywki.</ST_Childish.degreeDatas.0.description>
+
+<ST_Nosy.degreeDatas.0.label>wścibskość</ST_Nosy.degreeDatas.0.label>
+<ST_Nosy.degreeDatas.0.description>{PAWN_nameDef} ignoruje granice innych ludzi i uporczywie dopytuje o szczegóły, co często działa ludziom na nerwy.</ST_Nosy.degreeDatas.0.description>
+
+<ST_HugePower.degreeDatas.0.label>potężna siła</ST_HugePower.degreeDatas.0.label>
+<ST_HugePower.degreeDatas.0.description>{PAWN_nameDef} wyróżnia się niesamowitą siłą. Jest naturalnie {PAWN_gender ? silny : silna} bez potrzeby odwiedzania siłowni.\n\nJednak delikatne zadania, takie jak operacje medyczne, stanowią ogromne wyzwanie, gdyż sama siła chwytu uniemożliwia precyzyjne działanie.</ST_HugePower.degreeDatas.0.description>
+
+<ST_Observant.degreeDatas.0.label>spostrzegawczość</ST_Observant.degreeDatas.0.label>
+<ST_Observant.degreeDatas.0.description>{PAWN_nameDef} ma bystry wzrok, który wyłapuje każdy szczegół i nie przeoczy niczego osobliwego. Potrafi nawet dostrzec odległe statki podczas obserwacji gwiazd przez teleskop.</ST_Observant.degreeDatas.0.description>
+
+<ST_Zen.degreeDatas.0.label>zen</ST_Zen.degreeDatas.0.label>
+<ST_Zen.degreeDatas.0.description>{PAWN_nameDef} poświęca czas na odnajdywanie piękna we wszystkim. Widzi cały świat w ziarnku piasku.\n\nDla {PAWN_gender ? niego : niej} aktywne niszczenie życia jest podłym czynem.</ST_Zen.degreeDatas.0.description>
+
+<ST_Submissive.degreeDatas.0.label>uległość</ST_Submissive.degreeDatas.0.label>
+<ST_Submissive.degreeDatas.0.description>{PAWN_nameDef} lubi otrzymywać jasne polecenia. Przestrzeganie zasad i podporządkowanie się autorytetom to {PAWN_gender ? jego : jej} druga natura.</ST_Submissive.degreeDatas.0.description>
+
+<ST_DrunkenMaster.degreeDatas.0.label>pijany mistrz</ST_DrunkenMaster.degreeDatas.0.label>
+<ST_DrunkenMaster.degreeDatas.0.description>{PAWN_nameDef} to rzekomo specjalista od walki wręcz, ale tylko pod wpływem alkoholu. Twierdzi, że im bardziej jest {PAWN_gender ? pijany : pijana}, tym większe ujawnia umiejętności.</ST_DrunkenMaster.degreeDatas.0.description>
+
+<ST_Insomniac.degreeDatas.0.label>bezsenność</ST_Insomniac.degreeDatas.0.label>
+<ST_Insomniac.degreeDatas.0.description>{PAWN_nameDef} nigdy nie jest do końca przytomn{PAWN_gender ? y : a} ani uśpion{PAWN_gender ? y : a}. Snuje się niczym żywy trup i pracuje wyjątkowo wolno.</ST_Insomniac.degreeDatas.0.description>
+
+</LanguageData>
