@@ -1,0 +1,46 @@
+<LanguageData>
+    <CC_SettingsTitle>Zasady gry</CC_SettingsTitle>
+    <CC_ResetToDefault>Przywróć domyślne</CC_ResetToDefault>
+    <CC_DrawEventsOn>Karty wydarzeń będziesz dobierać podczas</CC_DrawEventsOn>
+    <CC_DrawBadEvents>Niekorzystne wydarzenia</CC_DrawBadEvents>
+    <CC_DrawOtherEvents>Inne wydarzenia</CC_DrawOtherEvents>
+    <CC_BadEventsInAllHands>Możliwość wystąpienia złych wydarzeń w dowolnym rozdaniu</CC_BadEventsInAllHands>
+    <CC_HowManyCards>Ile kart dobierzesz?</CC_HowManyCards>
+    <CC_CardsLabel>{0} karty</CC_CardsLabel>
+    <CC_ChesterDeckDesc>Talia Chestera jest dobierana zgodnie z tym, co on uważa za najlepsze dla fabuły twojej gry. Możesz jednak poprosić, aby twoja talia była całkowicie losowa.</CC_ChesterDeckDesc>
+    <CC_RandomDeck>Losowa talia</CC_RandomDeck>
+    <CC_AllowSameEventTwice>Zezwól na dwukrotne dobranie tego samego zdarzenia w jednym rozdaniu</CC_AllowSameEventTwice>
+    <CC_BlindDrawsDesc>Losowe dobieranie kart daje ci przycisk, dzięki któremu możesz w dowolnym momencie historii, według własnego uznania, dobrać kartę z talii. Możesz dobrać dowolną kartę wydarzenia.</CC_BlindDrawsDesc>
+    <CC_BlindDraws>Losowe dobieranie kart</CC_BlindDraws>
+    <CC_BlindDrawLabel>Losowo dobierz {0} kartę</CC_BlindDrawLabel>
+    <CC_BlindDrawLabelPlural>Losowo dobierz {0} kart</CC_BlindDrawLabelPlural>
+    <CC_RedrawsDesc>Opcja ponownego losowani pozwala odświeżyć rękę, ale powoduje całkowite odrzucenie poprzednich wyborów. Upewnij się, że nie masz nic przeciwko rezygnacji z nich.</CC_RedrawsDesc>
+    <CC_Redraws>Ponowne losowania</CC_Redraws>
+    <CC_RedrawsLabel>{0} ponowne losowanie</CC_RedrawsLabel>
+    <CC_RedrawsLabelPlural>{0} ponowne losowania</CC_RedrawsLabelPlural>
+    <CC_ShowEventPoints>Pokaż wyniki punktowe wydarzeń</CC_ShowEventPoints>
+    <CC_Points>{0} punktów</CC_Points>
+    <CC_AllowRedrawingBlindDraws>Zezwól również na ponowne losowanie w trybie ślepym</CC_AllowRedrawingBlindDraws>
+    <CC_PickACard1>"Wybierz kartę, dowolną kartę!"</CC_PickACard1>
+    <CC_PickACard2>"Wybierz mądrze."</CC_PickACard2>
+    <CC_PickACard3>"Nie spiesz się."</CC_PickACard3>
+    <CC_PickACard4>"Przyjrzyj się każdej z nich dokładnie."</CC_PickACard4>
+    <CC_PickACard5>"Ciekawy układ."</CC_PickACard5>
+    <CC_PickACard6>"Zrób swój wybór."</CC_PickACard6>
+    <CC_PickACard7>"Która cię intryguje?"</CC_PickACard7>
+    <CC_PickACard8>"W jakim jesteś nastroju?"</CC_PickACard8>
+    <CC_PickACard9>"Oto twoja ręka."</CC_PickACard9>
+    <CC_PickACard10>"Wiesz, o co chodzi."</CC_PickACard10>
+    <CC_PickOneCard1>"Oto twoja karta."</CC_PickOneCard1>
+    <CC_PickOneCard2>"Mam nadzieję, że jest dobra."</CC_PickOneCard2>
+    <CC_PickOneCard3>"Zobaczmy."</CC_PickOneCard3>
+    <CC_PickOneCard4>"Co to może być?"</CC_PickOneCard4>
+    <CC_PickOneCard5>"Ciekawe."</CC_PickOneCard5>
+    <CC_PickOneCard6>"Trzymaj kciuki."</CC_PickOneCard6>
+    <CC_PickOneCard7>"Prosto z wierzchu talii."</CC_PickOneCard7>
+    <CC_PickOneCard8>"To jest twoja karta."</CC_PickOneCard8>
+    <CC_PickOneCard9>"Wylosowałeś tę kartę."</CC_PickOneCard9>
+    <CC_PickOneCard10>"Podoba ci się?"</CC_PickOneCard10>
+
+
+</LanguageData>

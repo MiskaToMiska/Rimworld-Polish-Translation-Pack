@@ -1,0 +1,6 @@
+<LanguageData>
+    <VCE_PlumsDrying>Suszenie śliwek</VCE_PlumsDrying>
+    <VCE_PlumsCurrentlyFrozen>Te śliwki są zamrożone i nie wyschną na suszone śliwki</VCE_PlumsCurrentlyFrozen>
+    <VCE_PlumsCurrentlyRefrigerated>Te śliwki są przechowywane w lodówce i nie wyschną na suszone śliwki tak szybko, jak mogłyby (czas suszenia: {0})</VCE_PlumsCurrentlyRefrigerated>
+    <VCE_PlumsDryingCorrectly>Te śliwki suszą się na suszone śliwki prawidłowo (czas suszenia: {0})</VCE_PlumsDryingCorrectly>
+</LanguageData>

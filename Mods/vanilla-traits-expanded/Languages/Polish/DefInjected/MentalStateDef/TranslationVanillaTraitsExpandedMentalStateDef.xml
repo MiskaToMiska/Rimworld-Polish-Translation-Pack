@@ -1,0 +1,18 @@
+<LanguageData>
+    <VTE_TechnophobeTantrum.label>technofobicka furia</VTE_TechnophobeTantrum.label>
+    <VTE_TechnophobeTantrum.recoveryMessage>{0} nie ma już napadu technofobickiej furii.</VTE_TechnophobeTantrum.recoveryMessage>
+    <VTE_TechnophobeTantrum.beginLetter>{0} {PAWN_gender ? wpadł: wpadła} w technofobicką furie.\n\n[PAWN_pronoun] zamierza wyładować [PAWN_possesive] gniew na technologii.</VTE_TechnophobeTantrum.beginLetter>
+    <VTE_TechnophobeTantrum.baseInspectLine>Stan psychiczny: Technofobicka furia</VTE_TechnophobeTantrum.baseInspectLine>
+
+    <VTE_PanicFreezing.label>panikuje</VTE_PanicFreezing.label>
+    <VTE_PanicFreezing.recoveryMessage>{0} nie przeżywa już ataku paniki.</VTE_PanicFreezing.recoveryMessage>
+    <VTE_PanicFreezing.beginLetterLabel>atak paniki</VTE_PanicFreezing.beginLetterLabel>
+    <VTE_PanicFreezing.beginLetter>{0} {PAWN_gender ? wpadł: wpadła} w panikę.</VTE_PanicFreezing.beginLetter>
+    <VTE_PanicFreezing.baseInspectLine>Stan psychiczny: atak paniki</VTE_PanicFreezing.baseInspectLine>
+
+    <VTE_Kleptomaniac.label>Kleptomania</VTE_Kleptomaniac.label>
+    <VTE_Kleptomaniac.recoveryMessage>{0} nie kradnie już przedmiotów od gości.</VTE_Kleptomaniac.recoveryMessage>
+    <VTE_Kleptomaniac.beginLetter>{0} kradnie przemioty od gości.</VTE_Kleptomaniac.beginLetter>
+    <VTE_Kleptomaniac.beginLetterLabel>kleptomania</VTE_Kleptomaniac.beginLetterLabel>
+    <VTE_Kleptomaniac.baseInspectLine>Stan psychiczny: Kleptomania</VTE_Kleptomaniac.baseInspectLine>
+</LanguageData>

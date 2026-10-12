@@ -1,0 +1,14 @@
+<LanguageData>
+    <sbz_TwoTierBookcase.label>dwupoziomowy regał na książki</sbz_TwoTierBookcase.label>
+    <sbz_TwoTierBookcase.description>Regał dwupoziomowy przeznaczony do przechowywania i eksponowania maksymalnie dwudziestu czterech książek. Książki przechowywane w tym regale będą w sposób pasywny wspierać pracę naukową wykonywaną w pobliżu oraz zwiększać estetykę samego regału. Przechowywane książki nigdy nie ulegną zniszczeniu.</sbz_TwoTierBookcase.description>
+
+    <sbz_NarrowTwoTierBookcase.label>wąski dwupoziomowy regał na książki</sbz_NarrowTwoTierBookcase.label>
+    <sbz_NarrowTwoTierBookcase.description>Wąski regał dwupoziomowy do przechowywania i eksponowania maksymalnie dwunastu książek. Książki przechowywane w tym regale będą w sposób pasywny wspierać pracę naukową wykonywaną w pobliżu oraz podnosić estetykę regału. Przechowywane książki nigdy nie ulegną zniszczeniu.</sbz_NarrowTwoTierBookcase.description>
+
+    <sbz_Bookshelf.label>półka na książki</sbz_Bookshelf.label>
+    <sbz_Bookshelf.description>Półka służąca do przechowywania i eksponowania maksymalnie dwunastu książek. Książki przechowywane na tej półce będą w sposób pasywny wspierać pracę naukową wykonywaną w pobliżu oraz zwiększać estetykę samegj półki. Przechowywane książki nigdy nie ulegną zniszczeniu. Półkę można umieścić na innych budynkach.</sbz_Bookshelf.description>
+
+    <sbz_BookshelfSmall.label>mała półka na książki</sbz_BookshelfSmall.label>
+    <sbz_BookshelfSmall.description>Mała półka na książki, na którym można przechowywać i eksponować do sześciu książek. Książki przechowywane na tej półce będą w sposób pasywny wspierać pracę naukową wykonywaną w pobliżu oraz zwiększać estetykę półki. Przechowywane książki nigdy nie ulegną zniszczeniu. Półkę można umieścić na innych budynkach.</sbz_BookshelfSmall.description>
+
+</LanguageData>

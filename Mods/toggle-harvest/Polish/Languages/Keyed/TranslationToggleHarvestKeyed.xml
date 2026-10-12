@@ -1,0 +1,6 @@
+<LanguageData>
+    <ToggleHarvest.CommandAllowHarvest>Dopuść zbiór</ToggleHarvest.CommandAllowHarvest>
+    <ToggleHarvest.CommandAllowHarvestDesc>
+    Gdy wyłączone, koloniści nigdy nie będą zbierać plonów w tej strefie.
+    </ToggleHarvest.CommandAllowHarvestDesc>
+</LanguageData>

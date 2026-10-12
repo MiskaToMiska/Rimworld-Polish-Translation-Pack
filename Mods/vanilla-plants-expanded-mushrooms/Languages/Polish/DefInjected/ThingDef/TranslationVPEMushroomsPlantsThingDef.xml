@@ -1,0 +1,54 @@
+<LanguageData>
+    <!--plants-->
+    <VPE_Plant_Timbercap.label>drewnogrzyb</VPE_Plant_Timbercap.label>
+    <VPE_Plant_Timbercap.description>Krótki, brązowy grzyb z twardą łodygą. Po zebraniu wydziela niewielką ilość substancji przypominającej drewno.</VPE_Plant_Timbercap.description>
+
+    <VPE_Plant_Healtruffle.label>trufla lecznicza</VPE_Plant_Healtruffle.label>
+    <VPE_Plant_Healtruffle.description>Lecznicza trufla to grzyb, który rośnie powoli, czerpiąc składniki odżywcze z rotstinku – do wzrostu potrzebuje dopływu gazu rotstink z otoczenia. Jego zbiór pozwala uzyskać lek ziołowy. Jednak sadzenie i zbieranie tego grzyba wymaga sporo pracy, ponieważ jest on bardzo delikatny. Osadnicy uprawiają go od dawna ze względu na jego właściwości lecznicze.</VPE_Plant_Healtruffle.description>
+
+    <VPE_Plant_Stinker.label>śmierdziel</VPE_Plant_Stinker.label>
+    <VPE_Plant_Stinker.description><![CDATA[Mały, szybko rosnący grzyb, który tworzy rozległe skupiska. W wyniku procesu chemicznego wydziela nieprzyjemny zapach. Pomimo tego zapachu można go zbierać jako grzyb jadalny. Rośnie wszędzie, jednak ekspozycja na światło słoneczne powoduje jego obumarcie.\n\n<color=#E5E54C>Wpływ na rozgrywkę:</color> W przeciwieństwie do innych grzybów, grzyby te tolerują źródła światła o jasności do 50%, takie jak pochodnie.]]></VPE_Plant_Stinker.description>
+
+    <VPE_Plant_Blisscap.label>błogogrzyb</VPE_Plant_Blisscap.label>
+    <VPE_Plant_Blisscap.description><![CDATA[Długi, jasnoniebieski grzyb, który oferuje coś więcej niż tylko pożywienie. Jego spożycie wywołuje stan błogiego szczęścia, sprawiając, że osoba, która go zje, czuje się wyjątkowo zadowolona, ale też wyraźnie senna. Wiadomo, że znacznie zwiększa wrażliwość psychiczną każdego, kto go spożyje, i jest często spożywany przez społeczności hipisowskie na różnych głównych planetach, pozwalając im "zajrzeć w przyszłość".\n\n<color=#E5E54C>Wpływ na rozgrywkę:</color> W przeciwieństwie do innych roślin, błogogrzyb nie potrzebuje światła do wzrostu. Światło słoneczne go nie zniszczy. W nocy nadal będzie odpoczywał.]]></VPE_Plant_Blisscap.description>
+
+    <VPE_Plant_Lullabloom.label>kołysankogrzyb</VPE_Plant_Lullabloom.label>
+    <VPE_Plant_Lullabloom.description><![CDATA[Specjalny gatunek grzyba, który wydziela uspokajające zarodniki, idealny do posadzenia obok łóżka. Należy go sadzić w doniczce. Jego obecność działa kojąco na śpiącą osobę, zapewniając bardziej spokojny sen i poprawiając ogólne samopoczucie. Jego łagodne, nasenne właściwości sprawiają, że jest ulubioną rośliną kolonistów pragnących spokojnego nocnego odpoczynku.\n\n<color=#E5E54C>Wpływ na rozgrywkę:</color> W przeciwieństwie do innych roślin, lullabloom nie potrzebuje światła do wzrostu. Światło słoneczne go nie zniszczy. W nocy nadal będzie odpoczywać.\n\nNiweluje myśl "zakłócony sen".]]></VPE_Plant_Lullabloom.description>
+
+    <VPE_Plant_Bileceps.label>żółtomięs</VPE_Plant_Bileceps.label>
+    <VPE_Plant_Bileceps.description><![CDATA[Żółtomięs to osobliwy grzyb przypominający koral, który rozwija się dzięki żółci rozkładających się zwłok. Pomimo tego nieapetycznego źródła ma mięsny smak i stanowi bogate w białko źródło pożywienia. Jego charakterystyczny, nowotworowy wygląd nie zniechęca kolonistów do wykorzystywania go jako alternatywnego źródła mięsa.\n\n<color=#E5E54C>Wpływ na rozgrywkę:</color> Aby prawidłowo rosnąć, potrzebuje żółci ze zwłok na swoim polu. Czas zdobyć ślimaka Helixien!]]></VPE_Plant_Bileceps.description>
+
+    <VPE_Plant_Glowcap.label>światłogrzyb</VPE_Plant_Glowcap.label>
+    <VPE_Plant_Glowcap.description>Mały niebieski grzyb, który zazwyczaj występuje w jaskiniach. Zapach, jaki wydziela, jest absolutnie odrażający – ale po ugotowaniu smakuje zaskakująco dobrze. Oświetla otaczającą go przestrzeń, ale światło to nie jest wystarczająco silne, by umożliwić uprawę roślin.</VPE_Plant_Glowcap.description>
+
+    <VPE_Plant_Redcap.label>czerwonoczapka</VPE_Plant_Redcap.label>
+    <VPE_Plant_Redcap.description>Grzyb hodowlany o pięknej czerwonej czapce i stosunkowo krótkim okresie życia. Nowe czapki są piękne, ale może być konieczne częste przesadzanie grzybów.</VPE_Plant_Redcap.description>
+
+    <VPE_Plant_Zapcap.label>iskarzak</VPE_Plant_Zapcap.label>
+    <VPE_Plant_Zapcap.description>Duży, bulwiasty, beżowy grzyb, który, jak wiadomo, wytwarza niewielkie ilości energii elektrycznej w trakcie wzrostu. Aby wykorzystać nowo wytworzoną energię, należy umieścić go na przewodach elektrycznych. W przypadku zwarcia iskrzaki wzmacniają uwolnioną energię, powodując znacznie większe szkody.</VPE_Plant_Zapcap.description>
+
+    <VPE_Building_Zapcap.label>iskrzak</VPE_Building_Zapcap.label>
+    <VPE_Building_Zapcap.description>Duży, bulwiasty, beżowy grzyb, który, jak wiadomo, wytwarza niewielkie ilości energii elektrycznej w trakcie wzrostu. Aby wykorzystać nowo wytworzoną energię, należy umieścić go na przewodach elektrycznych. W przypadku zwarcia iskrzaki wzmacniają uwolnioną energię, powodując znacznie większe szkody.</VPE_Building_Zapcap.description>
+
+    <VPE_Plant_Thermoregulus.label>termoregul</VPE_Plant_Thermoregulus.label>
+    <VPE_Plant_Thermoregulus.description><![CDATA[Rzadki, duży grzyb, który należy uprawiać w doniczkach. Po osiągnięciu dojrzałości termoregul emituje temperaturę zmieniającą się w zależności od temperatury otoczenia. Przez cały czas dąży do utrzymania temperatury w pomieszczeniu, w którym się znajduje, na poziomie 16°C. \n\n<color=#E5E54C>Wpływ na rozgrywkę:</color> W przeciwieństwie do innych grzybów, światło słoneczne go nie niszczy.]]></VPE_Plant_Thermoregulus.description>
+
+    <VPE_Plant_Foampuffer.label>pianopurchawka</VPE_Plant_Foampuffer.label>
+    <VPE_Plant_Foampuffer.description>Brzydki, gruby grzyb z kapeluszem pachnącym odchodami bawołów. Należy go uprawiać w doniczkach. Jeśli po osiągnięciu dojrzałości wejdzie w kontakt z ogniem, eksploduje, wyrzucając strumień piany gaśniczej na niewielką odległość.</VPE_Plant_Foampuffer.description>
+
+    <VPE_Plant_MycothreadMushroom.label>grzyb włóknisty</VPE_Plant_MycothreadMushroom.label>
+    <VPE_Plant_MycothreadMushroom.description>Grzyb ten od wieków jest uprawiany przez kolonie górników-tunelarzy, ponieważ daje grubą, ale elastyczną tkaninę przypominającą bawełnę, z której można wytwarzać liny, odzież i meble. Chociaż jego uprawa trwa niezwykle długo, a pod wpływem jakiegokolwiek światła grzyb ten obumiera, dla niektórych kolonii jest to jedyny niezawodny sposób na pozyskanie tkanin dobrej jakości.</VPE_Plant_MycothreadMushroom.description>
+
+    <VPE_Plant_Toxpuff.label>toksyczna purchawa</VPE_Plant_Toxpuff.label>
+    <VPE_Plant_Toxpuff.description>Mały, zielony, owalny grzyb, który zazwyczaj występuje na terenach silnie zanieczyszczonych. Gdy ktoś na niego nadepnie, wydziela trujący gaz.</VPE_Plant_Toxpuff.description>
+
+    <!--things-->
+    <VPE_Mycothread.label>włóknogrzyb</VPE_Mycothread.label>
+    <VPE_Mycothread.description>Tkanina przypominająca bawełnę, nadająca się do spożycia, pozyskiwana z włóknogrzybów. Jest miękka w dotyku i łatwa w obróbce, szybko ulega rozkładowi, ma niezwykły kolor i, co dziwne, nadal pachnie i smakuje jak grzyby.</VPE_Mycothread.description>
+
+    <VPE_Bileceps.label>surowy żółtomięs</VPE_Bileceps.label>
+    <VPE_Bileceps.description>Zebrane żółtomięsy. Można je wykorzystać do przygotowania posiłków lub spożywać na surowo.</VPE_Bileceps.description>
+
+    <VPE_Blisscap.label>surowy błogogrzyb</VPE_Blisscap.label>
+    <VPE_Blisscap.description>Surowy błogogrzyb pozyskiwany poprzez zbieranie błogogrzybów. Po spożyciu wywołuje u ludzi niesamowity haj, ale także ogromną senność.</VPE_Blisscap.description>
+</LanguageData>

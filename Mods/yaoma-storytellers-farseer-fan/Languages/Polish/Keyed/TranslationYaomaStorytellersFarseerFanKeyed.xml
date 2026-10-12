@@ -1,0 +1,73 @@
+<LanguageData>
+    <YS_FarseerFanAltOffer>
+    Gwiazdy przepowiadają rozbieżność losów – dlatego Jasnowidzka Fan wzywa cię do podjęcia decyzji.
+    </YS_FarseerFanAltOffer>
+    <YS_FarseerFanOrgIncidText>Pierwotne zdarzenie(-a):</YS_FarseerFanOrgIncidText>
+    <YS_FarseerFanAltIncidText>Alternatywne wydarzenie(-a):</YS_FarseerFanAltIncidText>
+    <YS_FarseerFanOrgIncidSelect>Zachowaj oryginalne wydarzenie(-a)</YS_FarseerFanOrgIncidSelect>
+    <YS_FarseerFanAltIncidSelect>Wybierz alternatywne wydarzenie(-a)</YS_FarseerFanAltIncidSelect>
+
+    <YS_FarseerFanDeferOffer>
+    Los zbliża się wielkimi krokami, ale wciąż można go jeszcze odwrócić. Jeśli poprosisz Jasnowidzką Fan o interwencję, odroczy ona ten los na pewien czas.\n\nPamiętaj jednak: los nie lubi, gdy się go oszukuje.
+    </YS_FarseerFanDeferOffer>
+    <YS_FarseerFanDeferText>Zdarzenie(-a):</YS_FarseerFanDeferText>
+    <YS_FarseerFanDeferSelect>Odrocz zdarzenie(-a)</YS_FarseerFanDeferSelect>
+    <YS_FarseerFanDeferContinueSelect>Kontynuuj</YS_FarseerFanDeferContinueSelect>
+
+    <YS_LetterLabelFarseerFan>Gwiezdna wróżba: {0}</YS_LetterLabelFarseerFan>
+    <YS_LetterFarseerFan>
+    Jak przepowiada Jasnowidzka Fan, następujące wydarzenie nastąpi {0}: {1}.
+    </YS_LetterFarseerFan>
+    <YS_LetterFarseerFan_Ending1>
+    \n\nSkoro znasz już swoje przeznaczenie, czy jesteś gotowy, by się z nim zmierzyć?
+    </YS_LetterFarseerFan_Ending1>
+    <YS_LetterFarseerFan_Ending2>
+    \n\nCzy znając swoje przeznaczenie, potrafisz przejąć nad nim kontrolę?
+    </YS_LetterFarseerFan_Ending2>
+    <YS_LetterFarseerFan_Ending3>
+    \n\nOto twoja przyszłość; pośpiesz się, by zapobiec zgubnemu losowi.
+    </YS_LetterFarseerFan_Ending3>
+    <YS_LetterFarseerFan_Ending4>\n\nPrzeznaczenie wzywa, a ty musisz odpowiedzieć.</YS_LetterFarseerFan_Ending4>
+    <YS_LetterFarseerFan_Ending5>\n\nRuszaj, bo właśnie teraz kształtuje się twoja przyszłość.</YS_LetterFarseerFan_Ending5>
+
+    <YaomaFanSettings>Yaoma Storytellers - Jasnowidzka Fan</YaomaFanSettings>
+    <YS_SettingsFarseerFan>Jasnowidzka Fan</YS_SettingsFarseerFan>
+    <YS_SettingsFanGrace>Okres łaski: {0}</YS_SettingsFanGrace>
+    <YS_SettingsFanGraceTooltip>
+    Minimalna liczba dni w grze, zanim Jasnowidzka Fan zacznie przewidywać przyszłość na początku rozgrywki.\n\nZwiększenie tej wartości sprawi, że Jasnowidzka Fan zacznie przewidywać wydarzenia później (np. po czterech dniach zamiast po jednym). Zmniejszenie tej wartości skróci czas na początku gry, zanim zacznie zapowiadać jakiekolwiek incydenty.\n\nOSTRZEŻENIE! Nie zaleca się ustawiania zbyt niskiej wartości – wymusi to przewidywanie wyłącznie chorób.
+    </YS_SettingsFanGraceTooltip>
+    <YS_SettingsFanPredict>Maksymalny okres przewidywania: {0}</YS_SettingsFanPredict>
+    <YS_SettingsFanPredictTooltip>
+    Określa maksymalny czas, na jaki Jasnowidzka Fan może sporządzać prognozy.\n\nZwiększenie tej wartości może spowodować, że Jasnowidzka Fan będzie przewidywać zdarzenia, które mają nastąpić w dalszej przyszłości (tj. od pięciu do 15 dni), natomiast jej zmniejszenie ogranicza ten zakres.\n\nUWAGA! Nie zaleca się ustawiania tej wartości na zbyt wysoką, ponieważ może to spowodować długie okresy bez żadnych incydentów. Podobnie, ustawienie zbyt niskiej wartości może spowodować, że zdarzenia będą występować zbyt często.
+    </YS_SettingsFanPredictTooltip>
+    <YS_SettingsFanPredictDetail>Dodaj godziny do prognoz: {0}</YS_SettingsFanPredictDetail>
+    <YS_SettingsFanPredictDetailTooltip>
+    Spraw, by prognozy były bardziej szczegółowe, dodając godzinę, w której wystąpi zdarzenie.
+    </YS_SettingsFanPredictDetailTooltip>
+    <YS_SettingsFanPredictWeight>Waga normalnych prognoz: {0}</YS_SettingsFanPredictWeight>
+    <YS_SettingsFanPredictWeightTooltip>
+    Określa prawdopodobieństwo, z jakim Jasnowidzka Fan zaproponuje standardową prognozę, gdy włączone są prognozy alternatywne i/lub odroczone.
+    </YS_SettingsFanPredictWeightTooltip>
+    <YS_SettingsFanPredictAlt>Włącz prognozy alternatywne: {0}</YS_SettingsFanPredictAlt>
+    <YS_SettingsFanPredictAltTooltip>
+    Zezwól Jasnowidzkiej Fan na losowe proponowanie wyboru alternatywnego zestawu zdarzeń.
+    </YS_SettingsFanPredictAltTooltip>
+    <YS_SettingsFanPredictAltWeight>Waga alternatywnych prognoz: {0}</YS_SettingsFanPredictAltWeight>
+    <YS_SettingsFanPredictAltWeightTooltip>
+    Ustawia prawdopodobieństwo, z jakim Jasnowidzka Fan zaproponuje alternatywną prognozę w stosunku do prognoz standardowych lub odroczonych (jeśli opcja jest włączona).
+    </YS_SettingsFanPredictAltWeightTooltip>
+    <YS_SettingsFanPredictDefer>Włącz prognozy odroczone: {0}</YS_SettingsFanPredictDefer>
+    <YS_SettingsFanPredictDeferTooltip>
+    Zezwala Jasnowidzkej Fan na losowe proponowanie możliwości odroczenia zdarzeń na późniejszy termin. Jeśli wybierzesz takie odroczenie, doda ona również zdarzenie negatywne.
+    </YS_SettingsFanPredictDeferTooltip>
+    <YS_SettingsFanPredictDeferWeight>Waga odroczonych prognoz: {0}</YS_SettingsFanPredictDeferWeight>
+    <YS_SettingsFanPredictDeferWeightTooltip>
+    Ustawia prawdopodobieństwo, z jakim Jasnowidzka Fan zaproponuje odroczoną prognozę w porównaniu z prognozami normalnymi lub alternatywnymi (jeśli są włączone).</YS_SettingsFanPredictDeferWeightTooltip>
+    <YS_SettingsFanVerboseLogging>Włącz szczegółowe logowanie</YS_SettingsFanVerboseLogging>
+    <YS_SettingsFanAdvanced>Ustawienia zaawansowane</YS_SettingsFanAdvanced>
+    <YS_SettingsFanAdvancedTooltip>
+    Włącz ustawienia zaawansowane, w tym szczegółowe logowanie.
+    </YS_SettingsFanAdvancedTooltip>
+
+
+</LanguageData>

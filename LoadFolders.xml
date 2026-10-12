@@ -35,6 +35,51 @@
     <li IfModActive="badoaks.meatonastick.expansion">Mods/meat-on-a-stick-expansion</li>
     <li IfModActive="dankpyon.medieval.overhaul">Mods/medieval-overhaul</li>
     <li IfModActive="gguake.grazingarea">Mods/grazing-area</li>
+    <li IfModActive="lezhizhong.justaddedwhat">Mods/what-did-i-just-add</li>
+    <li IfModActive="ferny.progressionstorytellers">Mods/progression-storytellers</li>
+    <li IfModActive="ferny.victorveto">Mods/progression-storyteller-victor-veto</li>
+    <li IfModActive="ferny.rominaready">Mods/progression-storyteller-romina-ready</li>
+    <li IfModActive="vse.perrypersistent">Mods/vanilla-storytellers-expanded-perry-persistent</li>
+    <li IfModActive="fuu.punchattack">Mods/punch-button</li>
+    <li IfModActive="ferny.progressionagriculture">Mods/progression-agriculture</li>
+    <li IfModActive="ferny.progressionkitchen">Mods/progression-kitchen</li>
+    <li IfModActive="ferny.alfredancient">Mods/progression-storyteller-alfred-ancient</li>
+    <li IfModActive="ferny.mojavemask">Mods/progression-storyteller-mojave-mask</li>
+    <li IfModActive="ferny.petoprogression">Mods/progression-storyteller-peto-progression</li>
+    <li IfModActive="zal.vseigorinvader">Mods/vanilla-storytellers-expanded-igor-invader</li>
+    <li IfModActive="zal.vseoskarobnoxious">Mods/vanilla-storytellers-expanded-oskar-obnoxious</li>
+    <li IfModActive="vanillaexpanded.vplantse">Mods/vanilla-plants-expanded</li>
+    <li IfModActive="vanillaexpanded.vpeflowers">Mods/vanilla-plants-expanded-flowers</li>
+    <li IfModActive="vanillaexpanded.vplantsemore">Mods/vanilla-plants-expanded-more-plants</li>
+    <li IfModActive="vanillaexpanded.vplantsemushrooms">Mods/vanilla-plants-expanded-mushrooms</li>
+    <li IfModActive="vanillaexpanded.vplantsesucculents">Mods/vanilla-plants-expanded-succulents</li>
+    <li IfModActive="vanillaexpanded.vappe">Mods/vanilla-apparel-expanded</li>
+    <li IfModActive="vanillaexpanded.vappe">Mods/vanilla-apparel-expanded-accessories</li>
+    <li IfModActive="Ludeon.RimWorld.Odyssey,vanillaexpanded.vcef">Mods/vanilla-fishing-expanded-odyssey</li>
+    <li IfModNotActive="Ludeon.Rimworld.Odyssey" IfModActive="vanillaexpanded.vcef">Mods/vanilla-fishing-expanded-no-odyssey</li>
+    <li IfModActive="erin.storyteller">Mods/erin-eccentric</li>
+    <li IfModActive="zal.deathlessdaji">Mods/yaoma-storytellers-deathless-daji</li>
+    <li IfModActive="zal.farseerfan">Mods/yaoma-storytellers-farseer-fan</li>
+    <li IfModActive="zal.jianghujin">Mods/yaoma-storytellers-jianghu-jin</li>
+    <li IfModActive="gold.ultimatestoryteller">Mods/ultimate-storyteller</li>
+    <li IfModActive="ferny.chesterchoose">Mods/progression-storyteller-chester-choose</li>
+    <li IfModActive="ferny.danniedouble">Mods/progression-storyteller-dannie-double</li>
+    <li IfModActive="vanillastorytellersexpanded.winstonwave">Mods/vanilla-storytellers-expanded-winston-wave</li>
+    <li IfModActive="ferny.fernyfranticprogressionstorytellers">Mods/progression-storyteller-ferny-frantic</li>
+    <li IfModActive="unagi.a.bigpome">Mods/unagi-animal</li>
+    <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/vanilla-traits-expanded</li>
+    <li IfModActive="goji.thesimstraits">Mods/the-sims-traits</li>
+    <li IfModActive="captaincrunch.vfetraitsaddonsmoker">Mods/vfe-traits-addon-smoker</li>
+    <li IfModActive="llunak.timeasslave">Mods/time-as-slave</li>
+    <li IfModActive="jaxe.toggleharvest">Mods/toggle-harvest</li>
+    <li IfModActive="smashphil.dropspot">Mods/trade-ship-drop-spot</li>
+    <li IfModActive="ocarina.daystorotininfowindow">Mods/show-days-to-rot</li>
+    <li IfModActive="seohyeon.onlyiftolerancebelow">Mods/only-if-tolerance-below</li>
+    <li IfModActive="yoann.organusenosell">Mods/organ-use-no-sell</li>
+    <li IfModActive="darthsergeant.nursejob">Mods/nurse-job</li>
+    <li IfModActive="sbz.bookcase">Mods/bookcase</li>
+    <li IfModActive="buggy.rimworld.letterpermanentinjury">Mods/letter-permanent-injury</li>
+    <li IfModActive="krelinos.socialexpfromtrade">Mods/social-experience-from-trade</li>
     
     
   </v1.6>

@@ -1,0 +1,20 @@
+<LanguageData>
+    <RR_ReadyForThreats>Gotów na zagrożenia</RR_ReadyForThreats>
+    <RR_ReadyForMore>Gotów na kolejne zagrożenia</RR_ReadyForMore>  
+    <RR_AllowSmallThreats>Zezwalaj na małe zagrożenia mimo to</RR_AllowSmallThreats>
+    <RR_AllowSmallThreatsDesc>Czy niewielkie zagrożenia powinny przechodzić przez filtr Rominy.</RR_AllowSmallThreatsDesc>
+    <RR_RandomStyleEvents>Losowy styl zdarzeń</RR_RandomStyleEvents>
+    <RR_RandomStyleEventsDesc>Zapobiega dostosowywaniu generowania zdarzeń do Twojej kolonii.</RR_RandomStyleEventsDesc>
+    <RR_SettingsCategory>Romina Gotowa</RR_SettingsCategory>
+    <RR_SettingsTitle>Warunki Rominy</RR_SettingsTitle>
+    <RR_ResetToDefault>Przywróć domyślne</RR_ResetToDefault>
+    <RR_ButtonStyleHeading>Jak chcesz wstrzymywać złe wydarzenia?</RR_ButtonStyleHeading>
+    <RR_ReadyButtonStyle>Styl przycisku gotowości</RR_ReadyButtonStyle>
+    <RR_ReadyButtonStyleDesc>Złe wydarzenia czekają do momentu kliknięcia przycisku, a następnie z pewnością wystąpią w którymś momencie. Przycisk można cofnąć dopiero po wystąpieniu wydarzenia.</RR_ReadyButtonStyleDesc>
+    <RR_PauseButtonStyle>Styl przycisku pauzy</RR_PauseButtonStyle>
+    <RR_PauseButtonStyleDesc>Złe wydarzenia mogą być wstrzymywane i wznawiane za pomocą szybkiego przełącznika.</RR_PauseButtonStyleDesc>
+    <RR_PauseThreats>Wstrzymaj złe wydarzenia</RR_PauseThreats>
+    <RR_ResumeThreats>Wznów złe wydarzenia</RR_ResumeThreats>
+    <RR_ThreatsPaused>Zagrożenia wstrzymane</RR_ThreatsPaused>
+    <RR_ThreatsResumed>Zagrożenia wznowione</RR_ThreatsResumed>
+</LanguageData>

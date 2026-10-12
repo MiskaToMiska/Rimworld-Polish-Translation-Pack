@@ -1,0 +1,21 @@
+<LanguageData>
+    <VESWW_OrbitalBombardement.label>Orbitalne bombardowanie</VESWW_OrbitalBombardement.label>
+    <VESWW_OrbitalBombardement.description>Bombardowanie orbitalne wycelowane w mapę twojej kolonii.</VESWW_OrbitalBombardement.description>
+    <VESWW_OrbitalBombardement.endMessage>Bombardowanie orbitalne się kończy.</VESWW_OrbitalBombardement.endMessage>
+    <VESWW_OrbitalBombardement.letterText>Obritalne bombardowanie</VESWW_OrbitalBombardement.letterText>
+
+    <VESWW_FullMapFlashstorm.label>Burza błyskawic</VESWW_FullMapFlashstorm.label>
+    <VESWW_FullMapFlashstorm.description>Burza błyskawic na całej mapie twojej kolonii.</VESWW_FullMapFlashstorm.description>
+    <VESWW_FullMapFlashstorm.endMessage>Burza błyskawic się kończy.</VESWW_FullMapFlashstorm.endMessage>
+    <VESWW_FullMapFlashstorm.letterText>Burza błyskawic</VESWW_FullMapFlashstorm.letterText>
+
+    <VESWW_MeteorStorm.label>Burza meteorów</VESWW_MeteorStorm.label>
+    <VESWW_MeteorStorm.description>Burza meteorów na całej mapie twojej kolonii.</VESWW_MeteorStorm.description>
+    <VESWW_MeteorStorm.endMessage>Burza meteorów się kończy.</VESWW_MeteorStorm.endMessage>
+    <VESWW_MeteorStorm.letterText>Burza meteorów</VESWW_MeteorStorm.letterText>
+
+    <VESWW_ToxicFallout.label>Toksyczny opad</VESWW_ToxicFallout.label>
+    <VESWW_ToxicFallout.description>Toksyczny opad wycelowany w twoją kolonię.</VESWW_ToxicFallout.description>
+    <VESWW_ToxicFallout.endMessage>Toksyczny opad się kończy.</VESWW_ToxicFallout.endMessage>
+    <VESWW_ToxicFallout.letterText>Toksyczny opad</VESWW_ToxicFallout.letterText>
+</LanguageData>
