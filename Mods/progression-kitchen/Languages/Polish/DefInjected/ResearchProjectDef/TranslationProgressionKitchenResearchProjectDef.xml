@@ -1,0 +1,154 @@
+<LanguageData>
+
+    <Ferny_ButcherTable.label>Stół rzeźniczy</Ferny_ButcherTable.label>
+    <Ferny_ButcherTable.description>Zbuduj solidny stół do oprawiania martwych zwierząt na kawałki surowego mięsa w celu przygotowania posiłków.</Ferny_ButcherTable.description>
+
+    <Ferny_FueledStove.label>Piec</Ferny_FueledStove.label>
+    <Ferny_FueledStove.description>Naucz się budować proste stanowisko kuchenne, które można opalać drewnem lub innymi materiałami w celu przygotowywania posiłków.</Ferny_FueledStove.description>
+
+    <Ferny_ElectricStove.label>Kuchenka Elektryczna</Ferny_ElectricStove.label>
+    <Ferny_ElectricStove.description>Dowiedz się, jak zbudować elektryczną stację kuchenna, która zapewni bardziej niezawodne przygotowywanie posiłków.</Ferny_ElectricStove.description>
+
+    <Ferny_SimpleMeals.label>Proste posiłki</Ferny_SimpleMeals.label>
+    <Ferny_SimpleMeals.description>Naucz się przygotwywać proste posiłki, które nasycą twoich kolonistów.</Ferny_SimpleMeals.description>
+
+    <Ferny_FineMeals.label>Dobre posiłki</Ferny_FineMeals.label>
+    <Ferny_FineMeals.description>Naucz się przygotowywać lepsze posiłki, które zadowolą twoich kolonistów i poprawią ich nastrój.</Ferny_FineMeals.description>
+
+    <Ferny_LavishMeals.label>Obfite posiłki</Ferny_LavishMeals.label>
+    <Ferny_LavishMeals.description>Udoskonal swoje umiejętności kulinarne, aby przygotowywać wspaniałe posiłki, które w ogromnym stopniu zadowolą twoich kolonistów i znacznie poprawią ich nastrój.</Ferny_LavishMeals.description>
+
+    <!-- Appliances Expanded + Vanilla Chemfuel Expanded -->
+    <Ferny_ChemfuelStove.label>Chemfuel stove</Ferny_ChemfuelStove.label>
+    <Ferny_ChemfuelStove.description>Learn to build a chemfuel-powered stove connected to modern chemfuel systems.</Ferny_ChemfuelStove.description>
+
+    <!-- Appliances Expanded + Vanilla Chemfuel Expanded + VFE Production -->
+    <Ferny_LargeChemfuelStove.label>Large chemfuel stove</Ferny_LargeChemfuelStove.label>
+    <Ferny_LargeChemfuelStove.description>Learn to build a large chemfuel-powered stove with multiple cooking stations for faster meal preparation.</Ferny_LargeChemfuelStove.description>
+
+    <!-- Biotech -->
+    <Ferny_BabyFood.label>Jedzenie dla niemowląt</Ferny_BabyFood.label>
+    <Ferny_BabyFood.description>Naucz się przygotowywać proste, pożywne jedzenie odpowiednie dla niemowląt.</Ferny_BabyFood.description>
+
+    <!-- Dark Ages Beasts and Monsters -->
+    <Ferny_KarhanBrewing.label>Karhan</Ferny_KarhanBrewing.label>
+    <Ferny_KarhanBrewing.description>Learn to ferment muffton milk into karhan.</Ferny_KarhanBrewing.description>
+
+    <!-- Helixien Gas Production -->
+    <Ferny_LargeGasPoweredStove.label>Large gas-powered stove</Ferny_LargeGasPoweredStove.label>
+    <Ferny_LargeGasPoweredStove.description>Learn to build a large helixien gas-powered stove with multiple cooking stations for faster meal preparation.</Ferny_LargeGasPoweredStove.description>
+
+    <!-- House Roxmont -->
+    <Ferny_RoxberryStout.label>Roxberry stout</Ferny_RoxberryStout.label>
+    <Ferny_RoxberryStout.description>Learn to prepare roxberry stout wort and ferment it into stout.</Ferny_RoxberryStout.description>
+
+    <!-- Industrial Hardleather Concrete and Cheese -->
+    <Ferny_ElectricCheesePress.label>Electric cheese press</Ferny_ElectricCheesePress.label>
+    <Ferny_ElectricCheesePress.description>Adapt cheese pressing to an industrial electric press.</Ferny_ElectricCheesePress.description>
+
+    <!-- Keshig -->
+    <Ferny_GorewineBrewing.label>Gorewine</Ferny_GorewineBrewing.label>
+    <Ferny_GorewineBrewing.description>Learn to prepare gore must and ferment it in a gorewine barrel.</Ferny_GorewineBrewing.description>
+
+    <!-- Medicines Plus + VFE Tribals -->
+    <Ferny_RoseTea.label>Herbata różana</Ferny_RoseTea.label>
+    <Ferny_RoseTea.description>Naucz się parzyć herbatę ziołową z płatków róży, która rozgrzewa.</Ferny_RoseTea.description>
+
+    <!-- Medieval Overhaul -->
+    <Ferny_ButchersBlock.label>Butcher's block</Ferny_ButchersBlock.label>
+    <Ferny_ButchersBlock.description>Learn to build a simple wooden block fitted with a cleaver for butchering carcasses.</Ferny_ButchersBlock.description>
+    <Ferny_PackagedRations.label>Packaged rations</Ferny_PackagedRations.label>
+    <Ferny_PackagedRations.description>Learn to prepare and package rations for long-term storage.</Ferny_PackagedRations.description>
+    <Ferny_AleBrewing.label>Ale</Ferny_AleBrewing.label>
+    <Ferny_AleBrewing.description>Learn to prepare ale wort and ferment it into drinkable ale.</Ferny_AleBrewing.description>
+    <Ferny_CiderBrewing.label>Cider</Ferny_CiderBrewing.label>
+    <Ferny_CiderBrewing.description>Learn to ferment apple juice into cider.</Ferny_CiderBrewing.description>
+    <Ferny_GriffonBerryWine.label>Griffon berry wine</Ferny_GriffonBerryWine.label>
+    <Ferny_GriffonBerryWine.description>Learn to crush griffon berries into must and ferment them into wine.</Ferny_GriffonBerryWine.description>
+    <Ferny_MeadBrewing.label>Mead</Ferny_MeadBrewing.label>
+    <Ferny_MeadBrewing.description>Learn to ferment honey into mead.</Ferny_MeadBrewing.description>
+    <Ferny_MulberryWine.label>Mulberry wine</Ferny_MulberryWine.label>
+    <Ferny_MulberryWine.description>Learn to crush mulberries into must and ferment them into wine.</Ferny_MulberryWine.description>
+    <Ferny_FlourMilling.label>Flour</Ferny_FlourMilling.label>
+    <Ferny_FlourMilling.description>Learn to grind wheat into flour.</Ferny_FlourMilling.description>
+    <Ferny_SugarMilling.label>Sugar</Ferny_SugarMilling.label>
+    <Ferny_SugarMilling.description>Learn to grind sugarcane into sugar.</Ferny_SugarMilling.description>
+
+    <!-- Mythic Ages Megafauna Bestiary -->
+    <Ferny_DuskyakultBrewing.label>Duskyakult</Ferny_DuskyakultBrewing.label>
+    <Ferny_DuskyakultBrewing.description>Learn to ferment duskhorn milk into bottled duskyakult.</Ferny_DuskyakultBrewing.description>
+    <Ferny_CaprodkaBrewing.label>Caprodka</Ferny_CaprodkaBrewing.label>
+    <Ferny_CaprodkaBrewing.description>Learn to ferment capryak milk into strong bottled Caprodka.</Ferny_CaprodkaBrewing.description>
+
+    <!-- Mythic Ages Megafauna Bestiary + VFE Tribals -->
+    <Ferny_FatKibble.label>Fat kibble</Ferny_FatKibble.label>
+    <Ferny_FatKibble.description>Learn to enrich animal feed with rendered fat for a denser and more nutritious kibble.</Ferny_FatKibble.description>
+
+    <!-- Ponpeco Pajamas + VFE Tribals -->
+    <Ferny_HotMilk.label>Gorące mleko</Ferny_HotMilk.label>
+    <Ferny_HotMilk.description>Naucz się podgrzewać mleko, aby uzyskać napój o działaniu uspokajającym.</Ferny_HotMilk.description>
+
+    <!-- VCE + VBE -->
+    <Ferny_GoJuiceStock.label>go-juice stock</Ferny_GoJuiceStock.label>
+    <Ferny_GoJuiceStock.description>Manufacture a gelatinized cube of go-juice, able to be digested rather than injected. Applying it to a gourmet meal grants it a very diluted version of the drug without risk of addictions.</Ferny_GoJuiceStock.description>
+    <Ferny_LuciferiumPowder.label>luciferium powder</Ferny_LuciferiumPowder.label>
+    <Ferny_LuciferiumPowder.description>Learn the process of turning luciferium into a fine powder for use as a condiment. Applying it to a gourmet meal grants it a very diluted version of the drug without risk of addictions.</Ferny_LuciferiumPowder.description>
+    <Ferny_WakeUpPowder.label>wake-up powder</Ferny_WakeUpPowder.label>
+    <Ferny_WakeUpPowder.description>Learn the process of turning wake-up into a fine powder for use as a condiment. Applying it to a gourmet meal grants it a very diluted version of the drug without risk of addictions.</Ferny_WakeUpPowder.description>
+
+    <!-- VCE + VPE -->
+    <Ferny_HotSauce.label>ostry sos</Ferny_HotSauce.label>
+    <Ferny_HotSauce.description>Poznaj proces przekształcania papryki w ostry sos, który wzmacnia odporność na ból i służy jako dodatek do potraw.</Ferny_HotSauce.description>
+
+    <!-- VCE Sushi -->
+    <Ferny_Sushi.label>Stół do sushi</Ferny_Sushi.label>
+    <Ferny_Sushi.description>Poznaj sztukę przygotowywania sushi z ryżu i ryb.</Ferny_Sushi.description>
+    <Ferny_WasabiPaste.label>Pasta wasabi</Ferny_WasabiPaste.label>
+    <Ferny_WasabiPaste.description>Poznaj proces przygotowywania pikantnej, rozgrzewającej pasty wasabi, którą można stosować jako dodatek do potraw.</Ferny_WasabiPaste.description>
+
+    <!-- VE Cooking -->
+    <Ferny_AgaveNectar.label>agave nectar</Ferny_AgaveNectar.label>
+    <Ferny_AgaveNectar.description>Learn the process of extracting and bottling immunity-boosting nectar from agave fruit to use as a condiment.</Ferny_AgaveNectar.description>
+    <Ferny_ChocolateSyrup.label>chocolate syrup</Ferny_ChocolateSyrup.label>
+    <Ferny_ChocolateSyrup.description>Learn the process of making delicious mood-boosting chocolate syrup for use as a condiment.</Ferny_ChocolateSyrup.description>
+    <Ferny_Mayo.label>mayo</Ferny_Mayo.label>
+    <Ferny_Mayo.description>Learn the process of turning eggs into creamy, flavorful mayo for use as a hunger rate lowering condiment.</Ferny_Mayo.description>
+    <Ferny_InsectJellySweetener.label>insect jelly sweetener</Ferny_InsectJellySweetener.label>
+    <Ferny_InsectJellySweetener.description>Learn the process of turning insect jelly into flavorful mood-boosting sweetener for use as a condiment.</Ferny_InsectJellySweetener.description>
+    <Ferny_SmokeleafButter.label>smokeleaf butter</Ferny_SmokeleafButter.label>
+    <Ferny_SmokeleafButter.description>Learn the process of chruning smokeleaf and milk into an easy high for use as a condiment.</Ferny_SmokeleafButter.description>
+    <Ferny_GourmetMeals.label>gourmet meals</Ferny_GourmetMeals.label>
+    <Ferny_GourmetMeals.description>Learn the process of making exquisite gourmet meals that will delight your colonists, and allow for condiments.</Ferny_GourmetMeals.description>
+    <Ferny_Desserts.label>desserts</Ferny_Desserts.label>
+    <Ferny_Desserts.description>Learn the process of making fruity desserts, so exciting to eat that it may even be mildly addictive.</Ferny_Desserts.description>
+    <Ferny_FineDesserts.label>fine desserts</Ferny_FineDesserts.label>
+    <Ferny_FineDesserts.description>Refine the art of making particularly delicious fruity desserts.</Ferny_FineDesserts.description>
+    <Ferny_LavishDesserts.label>lavish desserts</Ferny_LavishDesserts.label>
+    <Ferny_LavishDesserts.description>Refine the art of making objectively splendid fruity desserts.</Ferny_LavishDesserts.description>
+    <Ferny_GourmetDesserts.label>gourmet desserts</Ferny_GourmetDesserts.label>
+    <Ferny_GourmetDesserts.description>Further refine the art of making absolutely spectacular fruity desserts.</Ferny_GourmetDesserts.description>
+    <Ferny_Bakes.label>bakes</Ferny_Bakes.label>
+    <Ferny_Bakes.description>text.todo</Ferny_Bakes.description>
+    <Ferny_FineBakes.label>fine bakes</Ferny_FineBakes.label>
+    <Ferny_FineBakes.description>text.todo</Ferny_FineBakes.description>
+    <Ferny_LavishBakes.label>lavish bakes</Ferny_LavishBakes.label>
+    <Ferny_LavishBakes.description>text.todo</Ferny_LavishBakes.description>
+    <Ferny_GourmetBakes.label>gourmet bakes</Ferny_GourmetBakes.label>
+    <Ferny_GourmetBakes.description>text.todo</Ferny_GourmetBakes.description>
+
+    <!-- VFE Production -->
+    <Ferny_ElectricButcher.label>Elektryczny stół rzeźniczy</Ferny_ElectricButcher.label>
+    <Ferny_ElectricButcher.description>Dowiedz się, jak zbudować zmechanizowany stół rzeźniczy, który przyspieszy oprawianie ciał.</Ferny_ElectricButcher.description>
+    <Ferny_LargeStove.label>Wielka kuchenka</Ferny_LargeStove.label>
+    <Ferny_LargeStove.description>Naucz się budować dużą kuchenkę elektryczną z wieloma stanowiskami do gotowania, która pozwoli na szybsze przygotowywanie posiłków.</Ferny_LargeStove.description>
+
+    <!-- VFE Tribals -->
+    <Ferny_Kibble.label>Karma dla zwierząt</Ferny_Kibble.label>
+    <Ferny_Kibble.description>Naucz się przygotowywać trwałą mieszankę mięsno-roślinną, odpowiednią do karmienia zwierząt.</Ferny_Kibble.description>
+
+    <!-- Vanilla Helixien Gas Expanded -->
+    <Ferny_GasPoweredStove.label>Kuchenka gazowa</Ferny_GasPoweredStove.label>
+    <Ferny_GasPoweredStove.description>Naucz się budować kuchenkę gazową Helixien, która zapewni niezawodne gotowanie bez prądu.</Ferny_GasPoweredStove.description>
+
+
+</LanguageData>

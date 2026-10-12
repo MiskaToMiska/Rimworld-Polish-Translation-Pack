@@ -1,0 +1,25 @@
+<LanguageData>
+    <PA.RecipeLabelMakeSeedBundle>Spakuj sakiewkę nasion z {0}</PA.RecipeLabelMakeSeedBundle>
+<PA.RecipeDescriptionCraftSeedBundleFrom>Wykonaj sakiewkę {0} z {1} {2}.</PA.RecipeDescriptionCraftSeedBundleFrom>
+<PA.RecipeJobStringPackingSeeds>Pakowanie nasion: {0}.</PA.RecipeJobStringPackingSeeds>
+<PA.SeedBundleLabelSeedBundle>Sakiewka nasion: {0}</PA.SeedBundleLabelSeedBundle>
+<PA.SeedBundleDescriptionBundleOfSeedsForCrop>Sakiewka nasion:  {0}. Otwarcie tej sakiewki pozwoli twojej frakcji zasadzić tę roślinę.</PA.SeedBundleDescriptionBundleOfSeedsForCrop>
+<PA.CropUnlocked>Nasiona {0}!</PA.CropUnlocked>
+<PA.CropUnlockedDesc>Pakiet zawierał mnóstwo nasion - wystarczająco dużo, by utrzymać pole uprawne {0}! Twoja frakcja może teraz uprawiać {0}.</PA.CropUnlockedDesc>
+<PA.UnlockCrop>Otwórz sakiewkę nasion: {0}</PA.UnlockCrop>
+<PA.UnlockCropGizmo>Otwórz sakiewkę nasion {0}</PA.UnlockCropGizmo>
+<PA.UnlockCropGizmoDesc>Wybierz kolonistę, który otworzy tę sakiewkę nasion.</PA.UnlockCropGizmoDesc>
+<PA.CannotOpenSeedBundleDowned>{0}: nieprzytomny</PA.CannotOpenSeedBundleDowned>
+<PA.CannotOpenSeedBundleUnreachable>{0}: nieosiągalne</PA.CannotOpenSeedBundleUnreachable>
+<PA.NoColonistsCanOpenSeedBundle>Żaden z kolonistów nie może otworzyć tej sakiewki nasion.</PA.NoColonistsCanOpenSeedBundle>
+<PA.SeedBundleNotOnMap>Aby otworzyć tę sakiewkę nasion, musi ona znajdować się na mapie.</PA.SeedBundleNotOnMap>
+<PA.CropAlreadyUnlocked>{0} zostało już odblokowane</PA.CropAlreadyUnlocked>
+<PA.SeedBundleIngredientCount>Liczba składników w sakiewce nasion: {0}</PA.SeedBundleIngredientCount>
+<PA.CropIsNotUnlocked>{0} nie zostało jeszcze odblokowane.</PA.CropIsNotUnlocked>
+<PA.YouUnlockedSeed>Odblokowałeś już tę sakiewkę.</PA.YouUnlockedSeed>
+<PA.NothingToSowYet>Brak roślin do zasiania. Kliknij, aby otworzyć menu.</PA.NothingToSowYet>
+<PA.UnlockNewSeeds>Otwórz sakiewki nasion, aby móc wysiewać rośliny. Można je zdobyć poprzez handel, najazdy lub nagrody za zadania.</PA.UnlockNewSeeds>
+<PA.UnlockedSeedLabel>{0} (posiadane)</PA.UnlockedSeedLabel>
+<PA.SeedBundleFirstSelectTip>Ta sakiewka pozwala na trwałe odblokowanie określonej uprawy do wykorzystania na twoich polach uprawnych. Aby ją odblokować, musisz otworzyć sakiewkę.</PA.SeedBundleFirstSelectTip>
+<PA.ScenPart_StartingSeeds>Rozpocznij z zestawem sakiewek nasion</PA.ScenPart_StartingSeeds>
+</LanguageData>
