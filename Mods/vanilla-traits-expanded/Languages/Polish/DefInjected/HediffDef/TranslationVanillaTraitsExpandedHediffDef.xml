@@ -1,0 +1,17 @@
+<LanguageData>
+    <VTE_SlowWorkSpeed.label>powolna praca</VTE_SlowWorkSpeed.label>
+    <VTE_SlowWorkSpeed.labelNoun>powolna praca</VTE_SlowWorkSpeed.labelNoun>
+    <VTE_SlowWorkSpeed.description>powolna praca</VTE_SlowWorkSpeed.description>
+
+    <VTE_RestSlowFallFactor.label>bezsenność</VTE_RestSlowFallFactor.label>
+    <VTE_RestSlowFallFactor.labelNoun>bezsenność</VTE_RestSlowFallFactor.labelNoun>
+    <VTE_RestSlowFallFactor.description>Bezsenność wynika z wyraźnego niepokoju psychicznego lub fizycznego; oznacza to, że osoba cierpiąca na bezsenność często czuje się ospała lub wyczerpana i prawie nigdy nie jest w stanie zasnąć.</VTE_RestSlowFallFactor.description>
+
+    <VTE_SlowerBleedingRate.label>hiperkoagulant</VTE_SlowerBleedingRate.label>
+    <VTE_SlowerBleedingRate.labelNoun>hiperkoagulacja</VTE_SlowerBleedingRate.labelNoun>
+    <VTE_SlowerBleedingRate.description>Wyższa liczba czerwonych krwinek oznacza wystąpienie hiperkoagulacji, co powoduje, że rany krwawią znacznie mniej obficie.</VTE_SlowerBleedingRate.description>
+
+    <VTE_HigherBleedingRate.label>hemofiliczny</VTE_HigherBleedingRate.label>
+    <VTE_HigherBleedingRate.labelNoun>hemofilia</VTE_HigherBleedingRate.labelNoun>
+    <VTE_HigherBleedingRate.description>Hemofilia to zaburzenie krzepnięcia krwi, które powoduje znacznie obfitsze krwawienie z ran.</VTE_HigherBleedingRate.description>
+</LanguageData>

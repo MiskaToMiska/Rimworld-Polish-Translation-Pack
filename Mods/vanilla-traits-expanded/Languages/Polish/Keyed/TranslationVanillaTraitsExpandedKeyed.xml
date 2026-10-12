@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VTE.HasDestroyedItem>{PAWN_nameDef} niszczy przedmiot, który właśnie {PAWN_gender ? stworzył : stworzyła}, ze względu na jego niewystarczającą jakość</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} ma siniaka przez swoją zgrabność</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} ma zbyt twardy sen, aby można było {PAWN_objective} powołać.</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} przerywa pracę nad {0} ze względu na swój perfekcjonizm</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Postacie z cechą pragnienie włóczęgi podróżują do odległych miejsc ze zwiększoną prędkością</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} {PAWN_gender ? ukradł : ukradła} przedmiot nienależący do {PAWN_possessive} frakcji. Może to pogorszyć relacje między powiązanymi frakcjami</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} {PAWN_gender ? został przyłapany : została przyłapana} na próbie kradzieży własności innej frakcji. Może to pogorszyć relacje między powiązanymi frakcjami</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} {PAWN_gender ? uszkodził : uszkodziła} {0} ze względu na swoją wagę lub dziwną postawę</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} {PAWN_gender ? ukradł : ukradła} {0} od {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} {PAWN_gender ? próbował : próbowała} ukraść {0} od {VICTIM_nameDef}, ale {PAWN_gender ? poniósł : poniosła} porażkę. Rozgniewało to frakcję postaci {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} ucieka z pola walki ze względu na swoje tchórzostwo</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} ucieka z pola walki ze względu na swoje tchórzostwo</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} ucieka z pola walki ze względu na swoje tchórzostwo</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} ucieka z pola walki ze względu na swoje tchórzostwo</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} {PAWN_gender ? zignorował : zignorowała} lub {PAWN_gender ? zapomniał : zapomniała} o swoich rozkazach i na razie przestaje pracować</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} {PAWN_gender ? rozbroił : rozbroiła} postać {VICTIM_nameDef} w walce wręcz</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

@@ -1,0 +1,62 @@
+<LanguageData>
+    <VAE_Apparel_CasualTShirt.label>T-Shirt</VAE_Apparel_CasualTShirt.label>
+<VAE_Apparel_CasualTShirt.description>Swobodny T-shirt z fajną naklejką.</VAE_Apparel_CasualTShirt.description>
+
+<VAE_Apparel_Hoodie.label>bluza z kapturem</VAE_Apparel_Hoodie.label>
+<VAE_Apparel_Hoodie.description>Ciepła, swobodna bluza z kapturem, która nie krępuje ruchów osoby ją noszącej.</VAE_Apparel_Hoodie.description>
+
+<VAE_Apparel_Shorts.label>szorty</VAE_Apparel_Shorts.label>
+<VAE_Apparel_Shorts.description>Para szortów, idealna na upalne letnie dni.</VAE_Apparel_Shorts.description>
+
+<VAE_Apparel_Skirt.label>spódnica</VAE_Apparel_Skirt.label>
+<VAE_Apparel_Skirt.description>Krótka spódnica.</VAE_Apparel_Skirt.description>
+
+<VAE_Apparel_ShirtandTie.label>koszula z krawatem</VAE_Apparel_ShirtandTie.label>
+<VAE_Apparel_ShirtandTie.description>Ładna koszula z kołnierzykiem, guzikami i krawatem.</VAE_Apparel_ShirtandTie.description>
+
+<VAE_Apparel_SuitJacket.label>marynarka</VAE_Apparel_SuitJacket.label>
+<VAE_Apparel_SuitJacket.description>Ładnie wyglądająca marynarka.</VAE_Apparel_SuitJacket.description>
+
+<VAE_Apparel_Trousers.label>eleganckie spodnie</VAE_Apparel_Trousers.label>
+<VAE_Apparel_Trousers.description>Ładnie wyglądające spodnie do garnituru.</VAE_Apparel_Trousers.description>
+
+<VAE_Headgear_Fedora.label>fedora</VAE_Headgear_Fedora.label>
+<VAE_Headgear_Fedora.description>Ładny kapelusz z miękkim rondem i wklęsłą koroną.</VAE_Headgear_Fedora.description>
+
+<VAE_Apparel_Overalls.label>ogrodniczki</VAE_Apparel_Overalls.label>
+<VAE_Apparel_Overalls.description>Ogrodniczki z szelkami, idealny do pracy w terenie.</VAE_Apparel_Overalls.description>
+
+<VAE_Apparel_FleeceShirt.label>koszula polarowa</VAE_Apparel_FleeceShirt.label>
+<VAE_Apparel_FleeceShirt.description>Miękka, w kratkę, oddychająca koszula, idealna do pracy w terenie.</VAE_Apparel_FleeceShirt.description>
+
+<VAE_Apparel_Jeans.label>dżinsy</VAE_Apparel_Jeans.label>
+<VAE_Apparel_Jeans.description>Para dżinsów o wystarczającej grubości, aby zapewnić pewien stopień ochrony przed uszkodzeniami i zimnem.</VAE_Apparel_Jeans.description>
+
+<VAE_Apparel_ChefsUniform.label>strój kucharza</VAE_Apparel_ChefsUniform.label>
+<VAE_Apparel_ChefsUniform.description>Gruby płaszcz z tkaniny chroni przed ciepłem płynącym z pieców oraz przed rozpryskami wrzących płynów.</VAE_Apparel_ChefsUniform.description>
+
+<VAE_Apparel_MilitaryJacket.label>kurtka wojskowa</VAE_Apparel_MilitaryJacket.label>
+<VAE_Apparel_MilitaryJacket.description>Kurtka wojskowa z grubej tkaniny, noszona podczas niektórych uroczystości, przyjęć i obchodów. Ozdobiona jest odznaczeniami, medalami, insygniami i wstążkami kampanii. Uważana jest za symbol odwagi i męstwa.</VAE_Apparel_MilitaryJacket.description>
+
+<VAE_Apparel_MilitaryUniform.label>mundur wojskowy</VAE_Apparel_MilitaryUniform.label>
+<VAE_Apparel_MilitaryUniform.description>Gruby kombinezon ochronny w wojskowym kamuflażu.</VAE_Apparel_MilitaryUniform.description>
+
+<VAE_Apparel_BuildersJacket.label>kurtka budowlańca</VAE_Apparel_BuildersJacket.label>
+<VAE_Apparel_BuildersJacket.description>Kurtka o wysokich właściwościach odblaskowych i kolorze dobrze widocznym na każdym tle.\n\nWiększość pracowników przemysłowych nosi ją jako część środków ochrony indywidualnej.</VAE_Apparel_BuildersJacket.description>
+
+<VAE_Apparel_DoctorScrubs.label>fartuch lekarski</VAE_Apparel_DoctorScrubs.label>
+<VAE_Apparel_DoctorScrubs.description>Odzież medyczna noszona przez chirurgów, pielęgniarki i innych pracowników zajmujących się opieką nad pacjentami. Jest ona zaprojektowana tak, aby była prosta, łatwa do prania i niedroga w wymianie w przypadku uszkodzenia lub zabrudzenia.</VAE_Apparel_DoctorScrubs.description>
+
+<VAE_Apparel_LabCoat.label>fartuch laboratoryjny</VAE_Apparel_LabCoat.label>
+<VAE_Apparel_LabCoat.description>Lekki fartuch noszony w celu ochrony odzieży przed substancjami stosowanymi w laboratorium.</VAE_Apparel_LabCoat.description>
+
+<VAE_Apparel_TankTop.label>koszulka bez rękawów</VAE_Apparel_TankTop.label>
+<VAE_Apparel_TankTop.description>Koszulka bez rękawów, przydatna podczas długotrwałych ćwiczeń.</VAE_Apparel_TankTop.description>
+
+<VAE_Apparel_SheriffShirt.label>koszula szeryfa</VAE_Apparel_SheriffShirt.label>
+<VAE_Apparel_SheriffShirt.description>Elegancka, gruba koszula z guzikami, z gwiazdą szeryfa na piersi. Daje osobie, która ją nosi, poczucie dumy i spełnienia.</VAE_Apparel_SheriffShirt.description>
+
+<VAE_Apparel_Jumpsuit.label>kombinezon</VAE_Apparel_Jumpsuit.label>
+<VAE_Apparel_Jumpsuit.description>Kombinezon zakrywający całe ciało, wykonany z grubej tkaniny lub skóry. Doskonale nadaje się do ogólnej ochrony ciała oraz do prac fizycznych.</VAE_Apparel_Jumpsuit.description>
+
+</LanguageData>

@@ -1,0 +1,161 @@
+<LanguageData>
+    <VTE_AbsentMinded.degreeDatas.0.label>roztargniony</VTE_AbsentMinded.degreeDatas.0.label>
+    <VTE_AbsentMinded.degreeDatas.0.description>{PAWN_nameDef} ma tendencję do odpływania myślami, nawet w trakcie pracy. Czasami może losowo przerwać wykonywanie zadań.</VTE_AbsentMinded.degreeDatas.0.description>
+
+    <VTE_Eccentric.degreeDatas.0.label>ekscentryczność</VTE_Eccentric.degreeDatas.0.label>
+    <VTE_Eccentric.degreeDatas.0.description>{PAWN_nameDef} ma trochę nie pokolei w głowie, ale idzie to w parze z bardziej wyostrzonym umysłem naukowym.</VTE_Eccentric.degreeDatas.0.description>
+
+    <VTE_Perfectionist.degreeDatas.0.label>perfekcjonizm</VTE_Perfectionist.degreeDatas.0.label>
+    <VTE_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} dąży do perfekcji w swojej pracy. Wytwarza przedmioty wyższej jakości, ale pracuje wolniej. Niespełnienie własnych standardów wywołuje u {PAWN_gender ? niego : niej} niezadowolenie, a w rzadkich przypadkach może {PAWN_gender ? go : ją} skłonić do porzucenia projektu w połowie.</VTE_Perfectionist.degreeDatas.0.description>
+
+    <VTE_Coward.degreeDatas.0.label>tchórzliwość</VTE_Coward.degreeDatas.0.label>
+    <VTE_Coward.degreeDatas.0.description>Instynkt {PAWN_nameDef} mocno skłania {PAWN_gender ? go : ją} ku tchórzostwu. W obliczu niebezpieczeństwa często woli się ukryć lub uciec, zanim podejmie walkę.</VTE_Coward.degreeDatas.0.description>
+
+    <VTE_Brave.degreeDatas.0.label>odwaga</VTE_Brave.degreeDatas.0.label>
+    <VTE_Brave.degreeDatas.0.description>{PAWN_nameDef} wykazuje się większą odpornością psychiczną i fizyczną niż większość ludzi. Z łatwością znosi ból i wolniej załamuje się w trudnych warunkach.</VTE_Brave.degreeDatas.0.description>
+
+    <VTE_Clumsy.degreeDatas.0.label>niezdarność</VTE_Clumsy.degreeDatas.0.label>
+    <VTE_Clumsy.degreeDatas.0.description>Drobne siniaki i zadrapania są u {PAWN_nameDef} na porządku dziennym - najczęściej w wyniku potknięć lub upadków spowodowanych słabą koordynacją.</VTE_Clumsy.degreeDatas.0.description>
+
+    <VTE_HeatInclined.degreeDatas.0.label>ciepłolubność</VTE_HeatInclined.degreeDatas.0.label>
+    <VTE_HeatInclined.degreeDatas.0.description>{PAWN_nameDef} uwielbia upał suchego, letniego dnia. Nie przeszkadza {PAWN_gender ? mu : jej} pocenie się ani spanie w ciepłym pomieszczeniu.</VTE_HeatInclined.degreeDatas.0.description>
+
+    <VTE_ColdInclined.degreeDatas.0.label>zimnolubność</VTE_ColdInclined.degreeDatas.0.label>
+    <VTE_ColdInclined.degreeDatas.0.description>{PAWN_nameDef} uwielbia chłód rześkiej, zimowej nocy. Nie przeszkadza {PAWN_gender ? mu : jej} drżenie z zimna ani spanie w chłodnym miejscu.</VTE_ColdInclined.degreeDatas.0.description>
+
+    <VTE_HeavySleeper.degreeDatas.0.label>twardy sen</VTE_HeavySleeper.degreeDatas.0.label>
+    <VTE_HeavySleeper.degreeDatas.0.description>Obok {PAWN_nameDef} mogłaby wybuchnąć bomba, gdy śpi, a i tak by się nie {PAWN_gender ? obudził : obudziła}. Nie ma mowy, by pracowa{PAWN_gender ? ł : ła} lub broni{PAWN_gender ? ł : ła} kolonii w trakcie drzemki.</VTE_HeavySleeper.degreeDatas.0.description>
+
+    <VTE_Neat.degreeDatas.0.label>schludność</VTE_Neat.degreeDatas.0.label>
+    <VTE_Neat.degreeDatas.0.description>{PAWN_nameDef} z natury dba o higienę i porządek. Nie wnosi brudu, nie rozrzuca śmieci i czerpie przyjemność ze sprzątania.</VTE_Neat.degreeDatas.0.description>
+
+    <VTE_Slob.degreeDatas.0.label>niechlujstwo</VTE_Slob.degreeDatas.0.label>
+    <VTE_Slob.degreeDatas.0.description>{PAWN_nameDef} to z natury bałaganiarz, rozrzucający wszędzie śmieci i brud. Przynajmniej bałagan wokół niespecjalnie {PAWN_gender ? mu : jej} przeszkadza.</VTE_Slob.degreeDatas.0.description>
+
+    <VTE_Workaholic.degreeDatas.0.label>pracoholizm</VTE_Workaholic.degreeDatas.0.label>
+    <VTE_Workaholic.degreeDatas.0.description>{PAWN_nameDef} ma trudności z robieniem przerw lub odpoczynkiem w trakcie pracy. Będzie pracować dalej, nawet kosztem własnego zdrowia czy snu.</VTE_Workaholic.degreeDatas.0.description>
+
+    <VTE_IronStomach.degreeDatas.0.label>stalowy żołądek</VTE_IronStomach.degreeDatas.0.label>
+    <VTE_IronStomach.degreeDatas.0.description>{PAWN_nameDef} nigdy nie {PAWN_gender ? zaznał : zaznała} nudności. Zatrucia pokarmowe i wymioty są dla {PAWN_gender ? niego : niej} pojęciem zupełnie obcym.</VTE_IronStomach.degreeDatas.0.description>
+
+    <VTE_AnimalLover.degreeDatas.0.label>miłośnik zwierząt</VTE_AnimalLover.degreeDatas.0.label>
+    <VTE_AnimalLover.degreeDatas.0.description>{PAWN_nameDef} nie znosi okrucieństwa wobec zwierząt. Czuje się {PAWN_gender ? szczęśliwszy : szczęśliwsza}, gdy zwierzę się do {PAWN_gender ? niego : niej} tuli lub gdy jest opiekunem oswojonego pupila, ale ciężko przeżywa ich utratę. Odmawia również oprawiania zwierząt.</VTE_AnimalLover.degreeDatas.0.description>
+
+    <VTE_AnimalHater.degreeDatas.0.label>przeciwnik zwierząt</VTE_AnimalHater.degreeDatas.0.label>
+    <VTE_AnimalHater.degreeDatas.0.description>{PAWN_nameDef} wierzy w wyższość ludzi nad zwierzętami. Nie lubi nawiązywać z nimi więzi ani gdy się do {PAWN_gender ? niego : niej} tulą, ale odczuwa satysfakcję, gdy zwierzęta giną lub zostają sprzedane.</VTE_AnimalHater.degreeDatas.0.description>
+
+    <VTE_BigBoned.degreeDatas.0.label>grubokościstość</VTE_BigBoned.degreeDatas.0.label>
+    <VTE_BigBoned.degreeDatas.0.description>Czy to z powodu postury, czy niezdarnej postawy, {PAWN_nameDef} {PAWN_gender ? połamał : połamała} już w swoim życiu parę krzeseł i zapewne połamie kolejne.</VTE_BigBoned.degreeDatas.0.description>
+
+    <VTE_Rebel.degreeDatas.0.label>buntowniczość</VTE_Rebel.degreeDatas.0.label>
+    <VTE_Rebel.degreeDatas.0.description>{PAWN_nameDef} gra wyłącznie według własnych zasad. Zmuszanie {PAWN_gender ? go : jej} do czegoś sprawia, że zaczyna się ociągać i pracować znacznie wolniej.</VTE_Rebel.degreeDatas.0.description>
+
+    <VTE_Submissive.degreeDatas.0.label>uległość</VTE_Submissive.degreeDatas.0.label>
+    <VTE_Submissive.degreeDatas.0.description>{PAWN_nameDef} potrzebuje jasnych poleceń, kiedy i jak działać. Pracuje z normalną prędkością tylko wtedy, gdy otrzyma rozkaz - w przeciwnym razie zwalnia.</VTE_Submissive.degreeDatas.0.description>
+
+    <VTE_Vengeful.degreeDatas.0.label>mściwość</VTE_Vengeful.degreeDatas.0.label>
+    <VTE_Vengeful.degreeDatas.0.description>{PAWN_nameDef} napędza złość. Nie znosi dzielić kolonii ze swoimi rywalami i odczuwa radość, gdy któryś z nich ginie.</VTE_Vengeful.degreeDatas.0.description>
+
+    <VTE_Technophobe.degreeDatas.0.label>technofobia</VTE_Technophobe.degreeDatas.0.label>
+    <VTE_Technophobe.degreeDatas.0.description>Czy to z powodu traumy, czy lęku przed zmianami, {PAWN_nameDef} odrzuca nowoczesność. Może wyładowywać złość na maszynach, odmawia badania technologii, a niszczenie mechanoidów sprawia {PAWN_gender ? mu : jej} satysfakcję.</VTE_Technophobe.degreeDatas.0.description>
+
+    <VTE_FunLoving.degreeDatas.0.label>rozrywkowość</VTE_FunLoving.degreeDatas.0.label>
+    <VTE_FunLoving.degreeDatas.0.description>{PAWN_nameDef} żyje dla dobrej zabawy. Z rozczuleniem wspomina imprezy, a radość z nich utrzymuje się u {PAWN_gender ? niego : niej} znacznie dłużej niż u innych.</VTE_FunLoving.degreeDatas.0.description>
+
+    <VTE_Dunce.degreeDatas.0.label>tępota</VTE_Dunce.degreeDatas.0.label>
+    <VTE_Dunce.degreeDatas.0.description>{PAWN_nameDef} ma ograniczone możliwości umysłowe. Uczy się powoli i z trudem przychodzą {PAWN_gender ? mu : jej} rozmowy, ale z natury bywa zadowolon{PAWN_gender ? y : a} z życia.</VTE_Dunce.degreeDatas.0.description>
+
+    <VTE_MartialArtist.degreeDatas.0.label>mistrz sztuk walki</VTE_MartialArtist.degreeDatas.0.label>
+    <VTE_MartialArtist.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? trenował : trenowała} walkę w zwarciu i {PAWN_gender ? opanował : opanowała} specjalny cios pozwalający rozbroić przeciwnika.</VTE_MartialArtist.degreeDatas.0.description>
+
+    <VTE_Snob.degreeDatas.0.label>snobizm</VTE_Snob.degreeDatas.0.label>
+    <VTE_Snob.degreeDatas.0.description>{PAWN_nameDef} uważa, że {PAWN_gender ? jego : jej} miejsce jest w wyższych sferach. Nie ma dla {PAWN_gender ? niego : niej} nic lepszego niż krytykowanie sztuki i przebywanie wśród arystokracji.</VTE_Snob.degreeDatas.0.description>
+
+    <VTE_Squeamish.degreeDatas.0.label>wrażliwość na krew</VTE_Squeamish.degreeDatas.0.label>
+    <VTE_Squeamish.degreeDatas.0.description>{PAWN_nameDef} dostaje mdłości na widok krwi lub zwłok. Wymioty to dla {PAWN_gender ? niego : niej} po prostu codzienność.</VTE_Squeamish.degreeDatas.0.description>
+
+    <VTE_Anxious.degreeDatas.0.label>lękliwość</VTE_Anxious.degreeDatas.0.label>
+    <VTE_Anxious.degreeDatas.0.description>{PAWN_nameDef} z natury odczuwa silny lęk, szczególnie w sytuacjach społecznych. Unika zgromadzeń i czasami zaszywa się w swoim pokoju, by dojść do siebie.</VTE_Anxious.degreeDatas.0.description>
+
+    <VTE_Insatiable.degreeDatas.0.label>nienasycenie</VTE_Insatiable.degreeDatas.0.label>
+    <VTE_Insatiable.degreeDatas.0.description>Żadna ilość igraszek nie jest w stanie zaspokoić {PAWN_nameDef}. Często zmienia partnerów i bezustannie szuka intymności.</VTE_Insatiable.degreeDatas.0.description>
+
+    <VTE_Prude.degreeDatas.0.label>pruderia</VTE_Prude.degreeDatas.0.label>
+    <VTE_Prude.degreeDatas.0.description>{PAWN_nameDef} oddaje swoje ciało wyłącznie współmałżonkowi i nigdy nie {PAWN_gender ? zainicjowałby : zainicjowałaby} rozwodu. Wykazuje też znacznie większą niechęć do nagości niż większość ludzi.</VTE_Prude.degreeDatas.0.description>
+
+    <VTE_CouchPotato.degreeDatas.0.label>kanapowiec</VTE_CouchPotato.degreeDatas.0.label>
+    <VTE_CouchPotato.degreeDatas.0.description>Fotel i ekran to wszystko, czego {PAWN_nameDef} potrzebuje do szczęścia. Nigdy nie męczy {PAWN_gender ? go : jej} oglądanie telewizji i zawsze poprawia {PAWN_gender ? mu : jej} to nastrój.</VTE_CouchPotato.degreeDatas.0.description>
+
+    <VTE_CatPerson.degreeDatas.0.label>kociarz</VTE_CatPerson.degreeDatas.0.label>
+    <VTE_CatPerson.degreeDatas.0.description>{PAWN_nameDef} uwielbia towarzystwo kotów i łatwo nawiązuje z nimi więź, ale nie przepada za psami.</VTE_CatPerson.degreeDatas.0.description>
+
+    <VTE_DogPerson.degreeDatas.0.label>psiarz</VTE_DogPerson.degreeDatas.0.label>
+    <VTE_DogPerson.degreeDatas.0.description>{PAWN_nameDef} uwielbia towarzystwo psów i łatwo nawiązuje z nimi więź, ale nie przepada za kotami.</VTE_DogPerson.degreeDatas.0.description>
+
+    <VTE_Prodigy.degreeDatas.0.label>geniusz</VTE_Prodigy.degreeDatas.0.label>
+    <VTE_Prodigy.degreeDatas.0.description>{PAWN_nameDef} ma bystry, logiczny umysł. Prowadzi badania szybciej niż większość, a racjonalne podejście sprawia, że jest mniej {PAWN_gender ? podatny : podatna} na załamania psychiczne.</VTE_Prodigy.degreeDatas.0.description>
+
+    <VTE_Menagerist.degreeDatas.0.label>gospodarz</VTE_Menagerist.degreeDatas.0.label>
+    <VTE_Menagerist.degreeDatas.0.description>{PAWN_nameDef} uważa, że zwierzęta są niezbędne do życia i funkcjonowania społeczeństwa. Czuje się {PAWN_gender ? szczęśliwszy : szczęśliwsza}, gdy jest ich wokół więcej, i posiada szczególne umiejętności w ich oswojeniu oraz trenowaniu.</VTE_Menagerist.degreeDatas.0.description>
+
+    <VTE_ChildOfSea.degreeDatas.0.label>miłośnik morza</VTE_ChildOfSea.degreeDatas.0.label>
+    <VTE_ChildOfSea.degreeDatas.0.description>Morze wzywa {PAWN_nameDef}. Czuje się {PAWN_gender ? szczęśliwszy : szczęśliwsza}, przebywając w pobliżu oceanu lub głębokiej rzeki.</VTE_ChildOfSea.degreeDatas.0.description>
+
+    <VTE_ChildOfMountain.degreeDatas.0.label>miłośnik gór</VTE_ChildOfMountain.degreeDatas.0.label>
+    <VTE_ChildOfMountain.degreeDatas.0.description>Góry wzywają {PAWN_nameDef}. Czuje się {PAWN_gender ? szczęśliwszy : szczęśliwsza}, przebywając w pobliżu potężnego pasma górskiego.</VTE_ChildOfMountain.degreeDatas.0.description>
+
+    <VTE_MadSurgeon.degreeDatas.0.label>szalony chirurg</VTE_MadSurgeon.degreeDatas.0.label>
+    <VTE_MadSurgeon.degreeDatas.0.description>{PAWN_nameDef} ukrywa mroczną obsesję. Traktuje wycinanie narządów jak eksperyment i czerpie z tego przyjemność. Pozyskiwanie organów poprawia {PAWN_gender ? mu : jej} humor, ale zbyt długa przerwa wywołuje rosnący niepokój.</VTE_MadSurgeon.degreeDatas.0.description>
+
+    <VTE_DrunkenMaster.degreeDatas.0.label>pijany mistrz</VTE_DrunkenMaster.degreeDatas.0.label>
+    <VTE_DrunkenMaster.degreeDatas.0.description>{PAWN_nameDef} walczy najlepiej na schlaniu. Im bardziej jest {PAWN_gender ? pijany : pijana}, tym większe zagrożenie stwarza w walce w zwarciu.</VTE_DrunkenMaster.degreeDatas.0.description>
+
+    <VTE_Kleptomaniac.degreeDatas.0.label>kleptomania</VTE_Kleptomaniac.degreeDatas.0.label>
+    <VTE_Kleptomaniac.degreeDatas.0.description>{PAWN_nameDef} odczuwa przymus kradzieży, nawet od gości czy sojuszników, co grozi wywołaniem ich gniewu.</VTE_Kleptomaniac.degreeDatas.0.description>
+
+    <VTE_Stoner.degreeDatas.0.label>jaracz</VTE_Stoner.degreeDatas.0.label>
+    <VTE_Stoner.degreeDatas.0.description>Zioło to dla {PAWN_nameDef} styl życia. Uwielbia go i wolał{PAWN_gender ? by : baby} umrzeć, niż z niego zrezygnować.</VTE_Stoner.degreeDatas.0.description>
+
+    <VTE_Lush.degreeDatas.0.label>pijak</VTE_Lush.degreeDatas.0.label>
+    <VTE_Lush.degreeDatas.0.description>Alkohol to dla {PAWN_nameDef} styl życia. Uwielbia pić i wolał{PAWN_gender ? by : baby} umrzeć, niż z niego zrezygnować.</VTE_Lush.degreeDatas.0.description>
+
+    <VTE_Wanderlust.degreeDatas.0.label>pragnienie włóczęgi</VTE_Wanderlust.degreeDatas.0.label>
+    <VTE_Wanderlust.degreeDatas.0.description>{PAWN_nameDef} uwielbia podróżować i czuje się najszczęśliwsz{PAWN_gender ? y : a} w drodze. Robi się {PAWN_gender ? niespokojny : niespokojna}, gdy zbyt długo przebywa w jednym miejscu, ale szybko się porusza i sprawnie zbiera żywność podczas karawany.</VTE_Wanderlust.degreeDatas.0.description>
+    
+    <VTE_Insomniac.degreeDatas.0.label>bezsenność</VTE_Insomniac.degreeDatas.0.label>
+    <VTE_Insomniac.degreeDatas.0.description>{PAWN_nameDef} nigdy nie jest do końca przytomn{PAWN_gender ? y : a} ani do końca uśpion{PAWN_gender ? y : a}. Snuje się powoli w stanie przypominającym powolnego żywego trupa i sypia raz na kilka dni.</VTE_Insomniac.degreeDatas.0.description>
+
+    <VTE_WorldWeary.degreeDatas.0.label>zmęczenie życiem</VTE_WorldWeary.degreeDatas.0.label>
+    <VTE_WorldWeary.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? zmęczył : zmęczyła} się już tym światem. Zmaga się z ponurymi myślami, przez co trudno się z {PAWN_gender ? nim : nią} zaprzyjaźnić.</VTE_WorldWeary.degreeDatas.0.description>
+
+    <VTE_Desensitized.degreeDatas.0.label>znieczulica</VTE_Desensitized.degreeDatas.0.label>
+    <VTE_Desensitized.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? został : została} zahartowan{PAWN_gender ? y : a} przez dawne traumy emocjonalne. Śmierć i strata - czy to zwierzęcia, kolonisty, rodziny czy więźnia - nie robią na {PAWN_gender ? nim : niej} żadnego wrażenia.</VTE_Desensitized.degreeDatas.0.description>
+
+    <VTE_RefinedPalate.degreeDatas.0.label>wyrafinowane podniebienie</VTE_RefinedPalate.degreeDatas.0.label>
+    <VTE_RefinedPalate.degreeDatas.0.description>Tylko wykwintne posiłki są w stanie zaspokoić {PAWN_nameDef}. Zwykłe jedzenie jest {PAWN_gender ? mu : jej} obojętne, ale rozkoszuje się ekskluzywnymi daniami i czerpie z nich wyjątkową radość.</VTE_RefinedPalate.degreeDatas.0.description>
+
+    <VTE_Academian.degreeDatas.0.label>akademikowicz</VTE_Academian.degreeDatas.0.label>
+    <VTE_Academian.degreeDatas.0.description>Dzięki akademickim dążeniom {PAWN_nameDef} sta{PAWN_gender ? ł : ła} się osobą wykształconą. Doskonale radzi sobie w nauce oraz medycynie i leczy pacjentów z większą wprawą.</VTE_Academian.degreeDatas.0.description>
+
+    <VTE_Groundbreaker.degreeDatas.0.label>pionier budownictwa</VTE_Groundbreaker.degreeDatas.0.label>
+    <VTE_Groundbreaker.degreeDatas.0.description>{PAWN_nameDef} uważa, że infrastruktura to podstawa. Jest urodzon{PAWN_gender ? ym : ą} budowniczym i kamieniarzem, wznosząc budowle i prowadząc wydobycie znacznie szybciej i wydajniej.</VTE_Groundbreaker.degreeDatas.0.description>
+
+    <VTE_Gastronomist.degreeDatas.0.label>gastronom</VTE_Gastronomist.degreeDatas.0.label>
+    <VTE_Gastronomist.degreeDatas.0.description>Dla {PAWN_nameDef} jedzenie to sztuka. Tworzy wyśmienite posiłki, które są niemal zawsze całkowicie bezpieczne do spożycia.</VTE_Gastronomist.degreeDatas.0.description>
+
+    <VTE_Ecologist.degreeDatas.0.label>ekologizm</VTE_Ecologist.degreeDatas.0.label>
+    <VTE_Ecologist.degreeDatas.0.description>Flora i fauna mają dla {PAWN_nameDef} kluczowe znaczenie. Wykorzystuje każdą część roślin i zwierząt, doceniając dary natury.</VTE_Ecologist.degreeDatas.0.description>
+
+    <VTE_Tycoon.degreeDatas.0.label>magnat</VTE_Tycoon.degreeDatas.0.label>
+    <VTE_Tycoon.degreeDatas.0.description>{PAWN_nameDef} ma głowę do interesów i gadane. Wysoko ceni własne towary i potrafi przekonać innych do swojej ceny.</VTE_Tycoon.degreeDatas.0.description>
+
+    <VTE_ThickSkinned.degreeDatas.0.label>gęsta krew</VTE_ThickSkinned.degreeDatas.0.label>
+    <VTE_ThickSkinned.degreeDatas.0.description>{PAWN_nameDef} wykazuje niezwykle wysoką krzepliwość krwi, przez co krwawi znacznie wolniej niż większość ludzi.</VTE_ThickSkinned.degreeDatas.0.description>
+
+    <VTE_ThinSkinned.degreeDatas.0.label>rzadka krew</VTE_ThinSkinned.degreeDatas.0.label>
+    <VTE_ThinSkinned.degreeDatas.0.description>{PAWN_nameDef} cierpi na niezwykłą hemofilię i ma tendencję do znacznie obfitszego krwawienia niż inni.</VTE_ThinSkinned.degreeDatas.0.description>
+
+    <VTE_Schizoid.degreeDatas.0.label>schizoidia</VTE_Schizoid.degreeDatas.0.label>
+    <VTE_Schizoid.degreeDatas.0.description>{PAWN_nameDef} dusi w sobie emocje przez długi czas. Gdy presja staje się zbyt duża, może nagle doznać gwałtownego załamania.</VTE_Schizoid.degreeDatas.0.description>
+
+</LanguageData>
