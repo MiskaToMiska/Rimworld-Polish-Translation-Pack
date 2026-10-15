@@ -1,0 +1,20 @@
+<LanguageData>
+    <!--messages-->
+    <ZzZomboRW_commission_NuzzleGene_NuzzleInterval>Odstęp między przytulaniem</ZzZomboRW_commission_NuzzleGene_NuzzleInterval>
+    <ZzZomboRW_commission_NuzzleGene_NuzzleInterval_Desc>Jak często ta istota przytula się do innych.</ZzZomboRW_commission_NuzzleGene_NuzzleInterval_Desc>
+    <ZzZomboRW_commission_NuzzleGene_NuzzleInterval_Failure>Odstęp czasu między kolejnymi próbami przytulania</ZzZomboRW_commission_NuzzleGene_NuzzleInterval_Failure>
+    <ZzZomboRW_commission_NuzzleGene_NuzzleInterval_Failure_Desc>Jak często stara się ponownie przytulić, jeśli ostatnim razem mu się to nie udało.</ZzZomboRW_commission_NuzzleGene_NuzzleInterval_Failure_Desc>
+    <!--settings-->
+
+    <NuzzleGene_AllowEnemyToNuzzle>Zezwól wrogim postaciom na przytulanie się</NuzzleGene_AllowEnemyToNuzzle>
+    <NuzzleGene_AllowEnemyToNuzzle_Desc>Jeśli opcja nie jest zaznaczona, postacie należące do wrogich frakcji nie będą mogły w ogóle przytulać się. Jeśli opcja jest zaznaczona, będą mogły przytulać się normalnie.</NuzzleGene_AllowEnemyToNuzzle_Desc>
+    <NuzzleGene_AllowWhileDrafted>Zezwól na przytulanie podczas trybu bojowego</NuzzleGene_AllowWhileDrafted>
+    <NuzzleGene_AllowWhileDrafted_Desc>Jeśli opcja jest zaznaczona, pionki mogą zainicjować akcję przutelnia się, nawet gdy są w trybie bojowym lub w walce.</NuzzleGene_AllowWhileDrafted_Desc>
+    <NuzzleGene_EnableCustomFilters>Włącz niestandardowe cele frakcyjne</NuzzleGene_EnableCustomFilters>
+    <NuzzleGene_EnableCustomFilters_Desc> Włącz tę opcję, aby odblokować określone reguły celowania. Jeśli opcja jest wyłączona, postacie będą przytulać się wyłącznie do członków własnej frakcji (domyślne zachowanie).</NuzzleGene_EnableCustomFilters_Desc>
+    <NuzzleGene_AllowColonist>Cel: członkowie własnej frakcji</NuzzleGene_AllowColonist>
+    <NuzzleGene_AllowColonist_Desc>Jeśli opcja jest zaznaczona, postacie mogą przytulać się do sojuszników z własnej frakcji. Odznacz tę opcję, jeśli chcesz, aby postać przytulała się wyłącznie do wrogów lub osób z zewnątrz.</NuzzleGene_AllowColonist_Desc>
+    <NuzzleGene_AllowHostile>Cel: Wrogowie i przeciwnicy</NuzzleGene_AllowHostile>
+    <NuzzleGene_AllowHostile_Desc>Jeśli opcja jest zaznaczona, postacie z genem przytulania mogą się przytulać do wrogów.</NuzzleGene_AllowHostile_Desc>
+
+</LanguageData>

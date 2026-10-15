@@ -1,11 +1,12 @@
 <ModMetaData>
-  <name>Polish Translation Pack for Mods</name>
+  <name>[PL] Translation Pack for Mods</name>
   <packageId>misek.pltranslationpack</packageId>
   <author>Misek</author>
-  <modVersion>0.3.0</modVersion>
+  <modVersion>0.3.1</modVersion>
   <url />
   <supportedVersions>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <description>Paczka spolszczonych tłumaczeń dla modów</description>
   <loadAfter>
@@ -40,7 +41,6 @@
     <li>ferny.progressioncore</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>badoaks.meatonastick.expansion</li>
-    <li>dankpyon.medieval.overhaul</li>
     <li>gguake.grazingarea</li>
     <li>lezhizhong.justaddedwhat</li>
     <li>ferny.progressionstorytellers</li>
@@ -74,7 +74,6 @@
     <li>unagi.a.bigpome</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>goji.thesimstraits</li>
-    <li>captaincrunch.vfetraitsaddonsmoker</li>
     <li>llunak.timeasslave</li>
     <li>jaxe.toggleharvest</li>
     <li>smashphil.dropspot</li>
@@ -85,5 +84,22 @@
     <li>sbz.bookcase</li>
     <li>buggy.rimworld.letterpermanentinjury</li>
     <li>krelinos.socialexpfromtrade</li>
+    <li>jq.alienxenohead</li>
+    <li>ferny.progressionverticality</li>
+    <li>drilledhead.mydogshouse</li>
+    <li>ucp.holodancers</li>
+    <li>ferny.generallymoreresearch</li>
+    <li>zarii.whitenoise"</li>
+    <li>harkon.biotechaddon.medievaldeathrestcoffideathrest-coffin</li>
+    <li>zal.hamsterwheelgenerator</li>
+    <li>plaxen.hamster</li>
+    <li>bahlivern.beepvoicegene</li>
+    <li>bahlivern.clownvoicegene</li>
+    <li>zzzomborw.commission.nuzzlegene</li>
+    <li>endermaster567.cryptosleepadaptationgene</li>
+    <li>alma.carbonitecasket</li>
+    <li>lts.cc</li>
+    <li>vanillaexpanded.vfemedical</li>
+    <li>vanillaexpanded.vfefarming</li>
   </loadAfter>
 </ModMetaData>

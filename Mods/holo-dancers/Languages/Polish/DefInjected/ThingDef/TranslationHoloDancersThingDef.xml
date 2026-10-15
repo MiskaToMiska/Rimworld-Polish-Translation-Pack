@@ -1,0 +1,13 @@
+<LanguageData>
+    <ucp_holodancerbase.label>projektor holo-tancerki</ucp_holodancerbase.label>
+    <ucp_holodancerbase.description>Podstawa do holograficznego, ruchomego wyświetlacza przedstawiającego piękną tancerkę wykonującą swój układ taneczny, rozświetlającą okolicę i urzekającą przechodniów.</ucp_holodancerbase.description>
+
+    <ucp_holodancerfemale.label>holo-tancerka</ucp_holodancerfemale.label>
+    <ucp_holodancerfemale.description>Piękna tancerka w holograficznym stroju wykonująca swój układ, rozjaśniająca okolicę i urzekająca przechodniów.</ucp_holodancerfemale.description>
+
+    <ucp_holodancerbasemale.label>projektor holo-tancerza</ucp_holodancerbasemale.label>
+    <ucp_holodancerbasemale.description>Podstawa do holograficznego, ruchomego wyświetlacza przedstawiającego pięknego tancerza wykonującego swój układ taneczny, rozświetlającego okolicę i urzekającego przechodniów.</ucp_holodancerbasemale.description>
+
+    <ucp_holodancermale.label>holo-tancerz</ucp_holodancermale.label>
+    <ucp_holodancermale.description>Piękny tancerz w holograficznym stroju wykonujący swój układ, rozjaśniający okolicę i urzekający przechodniów.</ucp_holodancermale.description>
+</LanguageData>

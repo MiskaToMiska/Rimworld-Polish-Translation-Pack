@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PowerGen.label>Prądotwórca</PowerGen.label>
+  <PowerGen.description>Wytwarza prąd w elektrowni z regulowaną mocą.</PowerGen.description>
+  <PowerGen.labelShort>Prądotwórca</PowerGen.labelShort>
+  <PowerGen.pawnLabel>Pracownik</PowerGen.pawnLabel>
+  <PowerGen.gerundLabel>Generuje prąd</PowerGen.gerundLabel>
+  <PowerGen.verb>Pracuje przy</PowerGen.verb>
+
+
+</LanguageData>

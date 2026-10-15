@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HamsterWheelGenerator.label>generator kołowrotkowy</HamsterWheelGenerator.label>
+  <HamsterWheelGenerator.description>Wytwarza energię elektryczną za pomocą kołowrotka dla chomików. Ilość wytworzonej energii jest proporcjonalna do prędkości biegu.</HamsterWheelGenerator.description>
+  <HamsterWheelGenerator_Blueprint.label>generator kołowrotkowy (plan)</HamsterWheelGenerator_Blueprint.label>
+  <HamsterWheelGenerator_Frame.label>generator z kołowrotkowy (budynek)</HamsterWheelGenerator_Frame.label>
+  <HamsterWheelGenerator_Frame.description>Wytwarza energię elektryczną za pomocą kołowrotka dla chomików. Ilość wytworzonej energii jest proporcjonalna do prędkości biegu.</HamsterWheelGenerator_Frame.description>
+
+
+</LanguageData>

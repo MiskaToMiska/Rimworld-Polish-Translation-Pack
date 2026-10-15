@@ -1,0 +1,19 @@
+<LanguageData>
+    <VFEM_Wall_Sterile.label>sterylna ściana</VFEM_Wall_Sterile.label>
+    <VFEM_Wall_Sterile.description>Nieprzekraczalna ściana, zdolna podtrzymać dach. Wyposażona w specjalne właściwości poprawiające czystość, zapewniające sterylne środowisko.</VFEM_Wall_Sterile.description>
+
+    <Facility_VitalsCentre.label>centrum monitorowania funkcji życiowych</Facility_VitalsCentre.label>
+    <Facility_VitalsCentre.description>Duże centrum umożliwiające jednoczesne monitorowanie parametrów życiowych kilku pacjentów, które umieszczone w pobliżu łóżka szpitalnego lub stołu operacyjnego - poprawia jakość opieki medycznej, zwiększa szanse powodzenia operacji oraz przyspiesza wzrost odporności. Działa wyłącznie w przypadku łóżek szpitalnych lub stołów operacyjnych - zwykłe łóżka nie odniosą z tego żadnych korzyści.</Facility_VitalsCentre.description>
+
+    <Facility_IVDrip.label>stojak na kroplówkę</Facility_IVDrip.label>
+    <Facility_IVDrip.description>Stojak na kroplówkę służący do szybkiego uzupełniania utraconych płynów u pacjenta, wspomagający układ odpornościowy i regenerację po utracie krwi, gdy zostanie umieszczony bezpośrednio przy łóżku szpitalnym lub stole operacyjnym. Działa wyłącznie w przypadku łóżek szpitalnych lub stołów operacyjnych - zwykłe łóżka nie odniosą z tego korzyści. Zamontowanie więcej niż jednego stojaka przy tym samym łóżku nie przyniesie żadnego efektu.</Facility_IVDrip.description>
+
+    <Facility_ResearchCounter.label>blat badawczy</Facility_ResearchCounter.label>
+    <Facility_ResearchCounter.description>Sterylna powierzchnia na wysokości pasa, przeznaczona do prowadzenia precyzyjnych badań. Zapewnia niewielka premię do szybkości pobliskich stołów badawczych i pomaga utrzymać czystość w pomieszczeniu. Efekt sumuje się do 20 razy.</Facility_ResearchCounter.description>
+
+    <Bed_OperatingTable.label>stół operacyjny</Bed_OperatingTable.label>
+    <Bed_OperatingTable.description>Prosty stół, na którym leżą różne przyrządy, które rzekomo ułatwiają przeprowadzenie operacji, choć jego czystość budzi wątpliwości. Nieco poprawia wyniki leczenia w porównaniu ze zwykłymi łóżkami.</Bed_OperatingTable.description>
+
+    <Bed_CryptoBed.label>łóżko suspensyjne</Bed_CryptoBed.label>
+    <Bed_CryptoBed.description>Urządzenie medyczne wykorzystujące częściową hibernacje do spowolnienia pogarszania się stanu ran i wspomagania leczenia organizmu, choć z tymi samymi efektami ubocznymi co standardowa hibernacja, choć o mniejszym nasileniu.</Bed_CryptoBed.description>
+</LanguageData>

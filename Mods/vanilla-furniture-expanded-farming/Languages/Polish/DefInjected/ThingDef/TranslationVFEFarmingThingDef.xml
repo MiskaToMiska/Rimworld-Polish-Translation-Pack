@@ -1,0 +1,22 @@
+<LanguageData>
+    <VFE_Sprinkler.label>zraszacz</VFE_Sprinkler.label>
+    <VFE_Sprinkler.description>Zraszacz, który nawadnia obszar wokół siebie. Wspomaga wzrost otaczających roślin.</VFE_Sprinkler.description>
+
+    <VFE_Scarecrow.label>strach na wróble</VFE_Scarecrow.label>
+    <VFE_Scarecrow.description>Postać przypominająca człowieka, wykonana ze słomy i ubrana w stare ubrania, mająca odstraszać zwierzęta w szerokim promieniu. Małe zwierzęta będą się bać zbliżyć do niego.</VFE_Scarecrow.description>
+
+    <VFE_PlanterBox_Tilable.label>modułowa skrzynia uprawna</VFE_PlanterBox_Tilable.label>
+    <VFE_PlanterBox_Tilable.description>Służy do uprawy roślin w skrzynce wypełnionej ziemią. Nie wymaga zasilania.\n\nMożna go wykonać w dowolnym kształcie.</VFE_PlanterBox_Tilable.description>
+
+    <VFE_PlanterBox.label>skrzynia uprawna</VFE_PlanterBox.label>
+    <VFE_PlanterBox.description>Służy do uprawy roślin w skrzynce wypełnionej ziemią. Nie wymaga zasilania.</VFE_PlanterBox.description>
+
+    <VFE_Ecosystem.label>sztuczny ekosystem</VFE_Ecosystem.label>
+    <VFE_Ecosystem.description>Umożliwia szybką uprawę roślin w sztucznym, zamkniętym ekosystemie. Do działania wymaga dużej ilości energii, a w przypadku przerwy w zasilaniu rośliny obumrą.\n\nPosiada wbudowaną lampę słoneczną, która zapewnia roślinom światło.</VFE_Ecosystem.description>
+
+    <VFE_Hydroponics_Tilable.label>modułowy basen hydroponiczny</VFE_Hydroponics_Tilable.label>
+    <VFE_Hydroponics_Tilable.description>Sztuczna kąpiel odżywcza do uprawy roślin. Pompy składników odżywczych muszą pracować w sposób ciągły: rośliny umrą, jeśli energia zostanie odcięta.\n\nTa wersja ma budowę modułową i można ją złożyć w dowolny kształt.</VFE_Hydroponics_Tilable.description>
+
+    <VFE_Ecosystem_Tilable.label>modułowy sztuczny ekosystem</VFE_Ecosystem_Tilable.label>
+    <VFE_Ecosystem_Tilable.description>Umożliwia szybką uprawę roślin w sztucznym, zamkniętym ekosystemie. Do działania wymaga dużej ilości energii, a w przypadku przerwy w zasilaniu rośliny obumrą. Posiada wbudowaną lampę słoneczną, która zapewnia roślinom światło.\n\nTa wersja ma budowę modułową i można ją złożyć w dowolny kształt.</VFE_Ecosystem_Tilable.description>
+</LanguageData>

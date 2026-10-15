@@ -1,0 +1,229 @@
+<LanguageData>
+    <Ferny_CommsConsole.label>konsola łączności</Ferny_CommsConsole.label>
+    <Ferny_CommsConsole.description>Nawiąż kontakt z innymi frakcjami, prowadź handel na odległość z przejeżdżającymi handlarzami orbitalnymi i otwórz swoją kolonię na szerszy świat.</Ferny_CommsConsole.description>
+
+    <!-- Alpha Animals -->
+    <Ferny_BlueGelBattery.label>Blue gel battery</Ferny_BlueGelBattery.label>
+    <Ferny_BlueGelBattery.description>Build an advanced battery that can store more electricity than regular batteries thanks to the energetic make-up of blue gel. As a downside, they are highly flammable.</Ferny_BlueGelBattery.description>
+    <Ferny_HexagelBattery.label>Hexagel battery</Ferny_HexagelBattery.label>
+    <Ferny_HexagelBattery.description>Build an advanced battery that can store even more electricity than blue gel batteries. As a downside, they are highly flammable, and they will violently explode if destroyed.</Ferny_HexagelBattery.description>
+    <Ferny_HexagelCore.label>Hexagel core reactor</Ferny_HexagelCore.label>
+    <Ferny_HexagelCore.description>Build a powerful device capable of producing electricity from latent energy inside hexagel cores.</Ferny_HexagelCore.description>
+
+    <!-- Barn Stalls -->
+    <Ferny_Barnstalls.label>Barn stall</Ferny_Barnstalls.label>
+    <Ferny_Barnstalls.description>Build a walled stall for your animals to sleep in.</Ferny_Barnstalls.description>
+
+    <!-- Bioform Matrix -->
+    <Ferny_BioformMatrix.label>Bioform matrix</Ferny_BioformMatrix.label>
+    <Ferny_BioformMatrix.description>Build an advanced machine that connects to biosculptors, helping to speed up the process of biosculpting by improving biogel throughput and filtration to ensure optimal cell regeneration and chemical transfer.</Ferny_BioformMatrix.description>
+
+    <!-- Bioreactor -->
+    <Ferny_Bioreactor.label>nioreaktor</Ferny_Bioreactor.label>
+    <Ferny_Bioreactor.description>Zbudować urządzenia zdolne do pozyskiwania energii elektrycznej z naturalnych procesów metabolicznych zachodzących w ciałach pochowanych żywych organizmów.</Ferny_Bioreactor.description>
+
+    <!-- Biotech -->
+    <Ferny_PollutionPump.label>pompa skażenia</Ferny_PollutionPump.label>
+    <Ferny_PollutionPump.description>Zbuduj pompy, które będą stopniowo oczyszczać zanieczyszczony teren i gromadzić odpady w celu ich utylizacji.</Ferny_PollutionPump.description>
+
+    <!-- Carbonite Casket -->
+    <Ferny_CryptotombCasket.label>blok karbonitowy</Ferny_CryptotombCasket.label>
+    <Ferny_CryptotombCasket.description>Zbuduj sarkofag z własnym źródłem zasilania, który pozwala utrzymywać ludzi w stanie zawieszenia życiowego.</Ferny_CryptotombCasket.description>
+
+    <!-- Cryogenic Tank -->
+    <Ferny_CryogenicTanks.label>Cryogenic tanks</Ferny_CryogenicTanks.label>
+    <Ferny_CryogenicTanks.description>Build tanks capable of holding and sustaining life inside.</Ferny_CryogenicTanks.description>
+
+    <!-- Crypto Coffins -->
+    <Ferny_CryptoCoffins.label>kryptotrumna</Ferny_CryptoCoffins.label>
+    <Ferny_CryptoCoffins.description>Zbuduj trumny z własnym źródłem zasilania, zdolne do utrzymywania zwłok w stanie zawieszenia.</Ferny_CryptoCoffins.description>
+
+    <!-- Dark Psychic Rituals The Following -->
+    <Ferny_XenogeneticRituals.label>xenogenetic rituals</Ferny_XenogeneticRituals.label>
+    <Ferny_XenogeneticRituals.description>Perform psychic rituals that alter the genetics of hosts.</Ferny_XenogeneticRituals.description>
+    <Ferny_InvokeVoidAlly.label>invoke void ally</Ferny_InvokeVoidAlly.label>
+    <Ferny_InvokeVoidAlly.description>Perform a psychic ritual that invokes a dark ally from the void to assist you.</Ferny_InvokeVoidAlly.description>
+    <Ferny_InvokeEclipse.label>invoke eclipse</Ferny_InvokeEclipse.label>
+    <Ferny_InvokeEclipse.description>Perform a psychic ritual that shrouds the colony in darkness.</Ferny_InvokeEclipse.description>
+    <Ferny_HealingPulse.label>healing pulse</Ferny_HealingPulse.label>
+    <Ferny_HealingPulse.description>Perform a psychic ritual that improves wound healing for your colonists.</Ferny_HealingPulse.description>
+    <Ferny_ImmunityPulse.label>immunity pulse</Ferny_ImmunityPulse.label>
+    <Ferny_ImmunityPulse.description>Perform a psychic ritual that improves immunity gain for your colonists.</Ferny_ImmunityPulse.description>
+    <Ferny_InhumanizingChant.label>inhumanization</Ferny_InhumanizingChant.label>
+    <Ferny_InhumanizingChant.description>Perform a psychic ritual that strips you of your humanity, in favor of damp comfort and nulled pain.</Ferny_InhumanizingChant.description>
+    <Ferny_RegenerativeChant.label>regenerative chant</Ferny_RegenerativeChant.label>
+    <Ferny_RegenerativeChant.description>Perform a psychic ritual that attempts to heal the wounds of the target.</Ferny_RegenerativeChant.description>
+    <Ferny_SkipMigration.label>skip migration</Ferny_SkipMigration.label>
+    <Ferny_SkipMigration.description>Perform a psychic ritual that relocates your entire colony somewhere on the planet.</Ferny_SkipMigration.description>
+    <Ferny_VoidCleanse.label>void cleanse</Ferny_VoidCleanse.label>
+    <Ferny_VoidCleanse.description>Perform a psychic ritual that frees an individual from the firm hold of the void.</Ferny_VoidCleanse.description>
+    <Ferny_VoidTouchTransfer.label>void-touch transfer</Ferny_VoidTouchTransfer.label>
+    <Ferny_VoidTouchTransfer.description>Perform a psychic ritual that transfers the mark of the void onto another host.</Ferny_VoidTouchTransfer.description>
+    <Ferny_WitheringChant.label>withering chant</Ferny_WitheringChant.label>
+    <Ferny_WitheringChant.description>Perform a psychic ritual that causes enemies in the region to wither away.</Ferny_WitheringChant.description>
+    <Ferny_Bioshred.label>bioshredding</Ferny_Bioshred.label>
+    <Ferny_Bioshred.description>Perform a psychic ritual that shreds a target, leaving nothing but bioferrite in its place.</Ferny_Bioshred.description>
+    <Ferny_ShardProduction.label>shard reaping</Ferny_ShardProduction.label>
+    <Ferny_ShardProduction.description>Perform a psychic ritual that manifests dark archotech shards in exchange for an offering of bioferrite.</Ferny_ShardProduction.description>
+    <Ferny_PsychicAwakening.label>psychic awakening</Ferny_PsychicAwakening.label>
+    <Ferny_PsychicAwakening.description>Perform a psychic ritual that awakens latent psychic potential in the target.</Ferny_PsychicAwakening.description>
+
+    <!-- Disco -->
+    <Ferny_DiscoEquipment.label>Sprzęt dyskotekowy</Ferny_DiscoEquipment.label>
+    <Ferny_DiscoEquipment.description>Zbuduj rozświetlone kluby nocne, w których twoi koloniści będą mogli się wyszaleć.</Ferny_DiscoEquipment.description>
+
+    <!-- Dubs Bad Hygiene -->
+    <Ferny_LitterBox.label>Kuweta</Ferny_LitterBox.label>
+    <Ferny_LitterBox.description>Zbuduj domową kuwetę do zbierania odchodów i moczu małych zwierząt.</Ferny_LitterBox.description>
+    <Ferny_Latrine.label>Latryna</Ferny_Latrine.label>
+    <Ferny_Latrine.description>Zbuduj proste urządzenie, w którym ludzie będą mogli załatwić swoje potrzeby.</Ferny_Latrine.description>
+
+    <!-- Dubs Skylights -->
+    <Ferny_Skylights.label>Skylights</Ferny_Skylights.label>
+    <Ferny_Skylights.description>Build openings in the ceiling to let in sunlight.</Ferny_Skylights.description>
+
+    <!-- Dynamic Effects Forge -->
+    <Ferny_Humidifier.label>humidifier</Ferny_Humidifier.label>
+    <Ferny_Humidifier.description>Build a humidifier to improve mood in your colony.</Ferny_Humidifier.description>
+
+    <!-- Electric Igniter -->
+    <Ferny_ElectricIgniter.label>Electric igniter</Ferny_ElectricIgniter.label>
+    <Ferny_ElectricIgniter.description>Build a device to instantly light a fire.</Ferny_ElectricIgniter.description>
+
+    <!-- Epochs Golems -->
+    <Ferny_ChunkGolem.label>Chunk golem</Ferny_ChunkGolem.label>
+    <Ferny_ChunkGolem.description>Learn to assemble chunk golems from stone chunks, clay, and anima dolls.</Ferny_ChunkGolem.description>
+    <Ferny_ComponentGolem.label>Component golem</Ferny_ComponentGolem.label>
+    <Ferny_ComponentGolem.description>Learn to assemble component golems from industrial components, clay, and anima dolls.</Ferny_ComponentGolem.description>
+    <Ferny_HayGolem.label>Hay golem</Ferny_HayGolem.label>
+    <Ferny_HayGolem.description>Learn to assemble hay golems from hay, clay, and anima dolls.</Ferny_HayGolem.description>
+    <Ferny_JadeGolem.label>Jade golem</Ferny_JadeGolem.label>
+    <Ferny_JadeGolem.description>Learn to assemble jade golems from jade, clay, and anima dolls.</Ferny_JadeGolem.description>
+    <Ferny_GolemancerBag.label>Golemancer bag</Ferny_GolemancerBag.label>
+    <Ferny_GolemancerBag.description>Craft a tool bag for storing clay-carving tools and golem-forming components.</Ferny_GolemancerBag.description>
+    <Ferny_GolemancerGoggles.label>Golemancer goggles</Ferny_GolemancerGoggles.label>
+    <Ferny_GolemancerGoggles.description>Craft carved anima-wood goggles for golemancers.</Ferny_GolemancerGoggles.description>
+    <Ferny_AnimaClaw.label>Anima claw</Ferny_AnimaClaw.label>
+    <Ferny_AnimaClaw.description>Craft and attach anima claws to golems.</Ferny_AnimaClaw.description>
+    <Ferny_AttackBooster.label>Attack booster</Ferny_AttackBooster.label>
+    <Ferny_AttackBooster.description>Craft and install attack booster modules for golems.</Ferny_AttackBooster.description>
+    <Ferny_BrickFist.label>Brick fist</Ferny_BrickFist.label>
+    <Ferny_BrickFist.description>Craft and attach brick fists to golems.</Ferny_BrickFist.description>
+    <Ferny_PyrinthTalon.label>Pyrinth talon</Ferny_PyrinthTalon.label>
+    <Ferny_PyrinthTalon.description>Craft and attach pyrinth talons to golems.</Ferny_PyrinthTalon.description>
+    <Ferny_SleepAccelerator.label>Sleep accelerator</Ferny_SleepAccelerator.label>
+    <Ferny_SleepAccelerator.description>Craft and install sleep accelerator modules for golems.</Ferny_SleepAccelerator.description>
+    <Ferny_SpeedEnhancer.label>Speed enhancer</Ferny_SpeedEnhancer.label>
+    <Ferny_SpeedEnhancer.description>Craft and install speed enhancer modules for golems.</Ferny_SpeedEnhancer.description>
+
+    <!-- Hamster Wheel Generator -->
+    <Ferny_HamsterWheelGenerator.label>Generator kołowrotkowy</Ferny_HamsterWheelGenerator.label>
+    <Ferny_HamsterWheelGenerator.description>Zbuduj urządzenie do wytwarzania energii z ruchu ręcznego na kołowrotku dla ludzi.</Ferny_HamsterWheelGenerator.description>
+
+    <!-- Harbinger Feast -->
+    <Ferny_HarbingerFeast.label>harbinger feast</Ferny_HarbingerFeast.label>
+    <Ferny_HarbingerFeast.description>Perform a psychic ritual that feeds distant outdoor corpses to harbinger trees, producing twisted meat or bioferrite.</Ferny_HarbingerFeast.description>
+
+    <!-- Holo Dancers -->
+    <Ferny_HoloDancers.label>Holo-tancerze</Ferny_HoloDancers.label>
+    <Ferny_HoloDancers.description>Twórz olśniewające holograficzne projekcje, które rozświetlają otoczenie i urzekają przechodniów swoimi tańcami.</Ferny_HoloDancers.description>
+
+    <!-- Human Power Generator Mod -->
+    <Ferny_BicycleGenerator.label>Generator rowerowy</Ferny_BicycleGenerator.label>
+    <Ferny_BicycleGenerator.description>Zbuduj urządzenie do wytwarzania energii z ruchu rąk na rowerze.</Ferny_BicycleGenerator.description>
+
+    <!-- Milk Pipe Network -->
+    <Ferny_MilkNetwork.label>Logistyka mleka</Ferny_MilkNetwork.label>
+    <Ferny_MilkNetwork.description>Zbuduj rozległą sieć transportu mleka.</Ferny_MilkNetwork.description>
+
+    <!-- RimBody -->
+    <Ferny_Barbell.label>sztanga</Ferny_Barbell.label>
+    <Ferny_Barbell.description>Naucz się budować sztangi do usystematyzowanego treningu siłowego.</Ferny_Barbell.description>
+    <Ferny_Dumbbells.label>hantle</Ferny_Dumbbells.label>
+    <Ferny_Dumbbells.description>Naucz się wykonywać hantle do kompaktowego treningu siłowego.</Ferny_Dumbbells.description>
+    <Ferny_Kettlebell.label>Kettlebell</Ferny_Kettlebell.label>
+    <Ferny_Kettlebell.description>Naucz się wykonywać kettle do praktycznych ćwiczeń siłowych i kondycyjnych.</Ferny_Kettlebell.description>
+    <Ferny_FlatBench.label>Ławka płaska</Ferny_FlatBench.label>
+    <Ferny_FlatBench.description>Naucz się budować ławki płaskie do podstawowych zestawów ćwiczeń.</Ferny_FlatBench.description>
+    <Ferny_WeightBenchSet.label>Zestaw ławek do ćwiczeń z obciążeniem</Ferny_WeightBenchSet.label>
+    <Ferny_WeightBenchSet.description>Dowiedz się, jak zbudować kompletny zestaw ławek do ćwiczeń z obciążeniem, przeznaczony do bardziej zaawansowanych treningów siłowych.</Ferny_WeightBenchSet.description>
+    <Ferny_PullupBars.label>Drążki do podciągania</Ferny_PullupBars.label>
+    <Ferny_PullupBars.description>Dowiedz się, jak zbudować drążki do podciągania się, przeznaczone do treningu siłowego z wykorzystaniem masy własnego ciała.</Ferny_PullupBars.description>
+    <Ferny_ExerciseBall.label>Piłka do ćwiczeń</Ferny_ExerciseBall.label>
+    <Ferny_ExerciseBall.description>Dowiedz się, jak wykonać piłki do ćwiczeń, służące do treningu równowagi i ruchomości.</Ferny_ExerciseBall.description>
+    <Ferny_ExerciseBike.label>Rower treningowy</Ferny_ExerciseBike.label>
+    <Ferny_ExerciseBike.description>Dowiedz się, jak zbudować rowery treningowe do regularnych ćwiczeń cardio w pomieszczeniach.</Ferny_ExerciseBike.description>
+    <Ferny_Treadmill.label>Bieżnia</Ferny_Treadmill.label>
+    <Ferny_Treadmill.description>Dowiedz się, jak zbudować bieżnie do ćwiczeń cardio z napędem w pomieszczeniach.</Ferny_Treadmill.description>
+
+    <!-- RimJoust -->
+    <Ferny_Jousting.label>jousting</Ferny_Jousting.label>
+    <Ferny_Jousting.description>Build and operate lavish jousting tournaments in your colony.</Ferny_Jousting.description>
+
+    <!-- Royalty -->
+    <Ferny_NatureShrines.label>naturalne kapliczki</Ferny_NatureShrines.label>
+    <Ferny_NatureShrines.description>Twórz struktury, które pozwalają cieszyć się naturą i zanurzyć się w niej.</Ferny_NatureShrines.description>
+
+    <!-- Shuttle Dock -->
+    <Ferny_TransportDock.label>transport dock</Ferny_TransportDock.label>
+    <Ferny_TransportDock.description>Build remote operated armored ceilings designed for quick takeoff and landing.</Ferny_TransportDock.description>
+
+    <!-- T's Conversion Staff -->
+    <Ferny_ConversionStaff.label>Conversion staff</Ferny_ConversionStaff.label>
+    <Ferny_ConversionStaff.description>Produce a simple staff used for rituals and conversion. Greatly boosts conversion power and spread factor.</Ferny_ConversionStaff.description>
+
+    <!-- Temperature Gauge -->
+    <Ferny_Thermometers.label>termometr</Ferny_Thermometers.label>
+    <Ferny_Thermometers.description>Zbuduj urządzenia umożliwiające pomiar temperatury.</Ferny_Thermometers.description>
+
+
+    <!-- VE Chemfuel -->
+    <Ferny_ChemfuelLogistics.label>logistyka chem-paliwa</Ferny_ChemfuelLogistics.label>
+    <Ferny_ChemfuelLogistics.description>Zbuduj rozległą sieć do transportu chem-paliwa.</Ferny_ChemfuelLogistics.description>
+    <Ferny_Deepchem.label>chem-maź</Ferny_Deepchem.label>
+    <Ferny_Deepchem.description>Odkrywaj ukryte złoża surowego paliwa chemicznego, zwanego chem-mazią. Zarządzaj nim za pomocą rozległej sieci rurociągów i rafinerii.</Ferny_Deepchem.description>
+
+
+    <!-- VE Recycling -->
+    <Ferny_PollutionFastpump.label>Pollution fastpump</Ferny_PollutionFastpump.label>
+    <Ferny_PollutionFastpump.description>Build compact high-speed pollution pumps that clear small polluted areas quickly.</Ferny_PollutionFastpump.description>
+    <Ferny_LargePollutionPump.label>Duża pompa skażenia</Ferny_LargePollutionPump.label>
+    <Ferny_LargePollutionPump.description>Zbuduj większe pompy oczyszczające, aby oczyścić rozległe zanieczyszczone obszary przy użyciu maszyn na skalę przemysłową.</Ferny_LargePollutionPump.description>
+
+    <!-- VE Trading -->
+    <Ferny_TradingTerminal.label>terminal handlu</Ferny_TradingTerminal.label>
+    <Ferny_TradingTerminal.description>Stwórz terminal telekomunikacyjny, który umożliwi kontakt z bankami na całym świecie, dostęp do rynku akcji, przegląd cen surowców oraz zawieranie kontraktów na towary.</Ferny_TradingTerminal.description>
+
+    <!-- VFE Medieval 2 -->
+    <Ferny_Hardweave.label>Hardweave</Ferny_Hardweave.label>
+    <Ferny_Hardweave.description>Weave smokeleaf threads together to create hardweave, a resistant alternative to cloth.</Ferny_Hardweave.description>
+    <Ferny_Hayweave.label>Hayweave</Ferny_Hayweave.label>
+    <Ferny_Hayweave.description>Weave hay strands together to create a brittle, inferior fabric known as hayweave.</Ferny_Hayweave.description>
+    <Ferny_Chemdrench.label>Chemdrench</Ferny_Chemdrench.label>
+    <Ferny_Chemdrench.description>Drench rough straw matting in chemfuel to make a volatile, fast-spreading fire surface.</Ferny_Chemdrench.description>
+
+    <!-- VFE Power -->
+    <Ferny_AdvancedWindTurbine.label>Advanced wind turbine</Ferny_AdvancedWindTurbine.label>
+    <Ferny_AdvancedWindTurbine.description>Build a highly efficient wind-powered electrical generator, being a significant improvement to traditional turbines.</Ferny_AdvancedWindTurbine.description>
+    <Ferny_AdvancedSolarGenerator.label>Advanced solar generator</Ferny_AdvancedSolarGenerator.label>
+    <Ferny_AdvancedSolarGenerator.description>Build a highly efficient solar electrical generator, capable of extracting significantly more energy from sunlight compared to traditional solar panels.</Ferny_AdvancedSolarGenerator.description>
+    <Ferny_AdvancedWatermillGenerator.label>Advanced watermill generator</Ferny_AdvancedWatermillGenerator.label>
+    <Ferny_AdvancedWatermillGenerator.description>Build a highly efficient machine that produces electricity from a river. It is capable of extracting significantly more energy compared to a traditional watermill.</Ferny_AdvancedWatermillGenerator.description>
+    <Ferny_AdvancedGeothermalGenerator.label>Advanced geothermal generator</Ferny_AdvancedGeothermalGenerator.label>
+    <Ferny_AdvancedGeothermalGenerator.description>Build a highly efficient machine that can produce large amounts of electricity from geothermal geysers. It is capable of extracting significantly more energy compared to a traditional geothermal generator.</Ferny_AdvancedGeothermalGenerator.description>
+
+    <!-- VFE Spacer -->
+    <Ferny_AirPurifier.label>Air purifier</Ferny_AirPurifier.label>
+    <Ferny_AirPurifier.description>Build a compact, high-efficiency air purifier that filters out dust, allergens, smoke, and other unwanted particulates while circulating clean, scented air. Improves room cleanliness, slightly boosts mood, and enhances the overall environment.</Ferny_AirPurifier.description>
+
+    <!-- VQE Generator Pipe Compat -->
+    <Ferny_UraniumLogistics.label>logisytka uranu</Ferny_UraniumLogistics.label>
+    <Ferny_UraniumLogistics.description>Stwórz rozległą sieć służącą do transportu uranu.</Ferny_UraniumLogistics.description>
+
+    <!-- White Noise -->
+    <Ferny_WhiteNoiseMachine.label>maszyna białego szumu</Ferny_WhiteNoiseMachine.label>
+    <Ferny_WhiteNoiseMachine.description>Zbuduj maszynę, która pozwoli utrzymać kolonistów w barakach w stanie snu pomimo zakłóceń, a jednocześnie nieznacznie poprawi ich nastrój.</Ferny_WhiteNoiseMachine.description>
+    <Ferny_AdvancedWhiteNoiseMachine.label>urządzenie białego szumu</Ferny_AdvancedWhiteNoiseMachine.label>
+    <Ferny_AdvancedWhiteNoiseMachine.description>Zbuduj ulepszoną maszynę wspomagającą sen, która zapewni dłuższe poprawienie nastroju.</Ferny_AdvancedWhiteNoiseMachine.description>
+
+</LanguageData>

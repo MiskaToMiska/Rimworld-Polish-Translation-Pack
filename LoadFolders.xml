@@ -33,7 +33,6 @@
     <li IfModActive="ferny.progressionscenarios">Mods/progression-scenarios</li>
     <li IfModActive="oskarpotocki.vfe.tribals">Mods/vfe-tribals</li>
     <li IfModActive="badoaks.meatonastick.expansion">Mods/meat-on-a-stick-expansion</li>
-    <li IfModActive="dankpyon.medieval.overhaul">Mods/medieval-overhaul</li>
     <li IfModActive="gguake.grazingarea">Mods/grazing-area</li>
     <li IfModActive="lezhizhong.justaddedwhat">Mods/what-did-i-just-add</li>
     <li IfModActive="ferny.progressionstorytellers">Mods/progression-storytellers</li>
@@ -69,7 +68,6 @@
     <li IfModActive="unagi.a.bigpome">Mods/unagi-animal</li>
     <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/vanilla-traits-expanded</li>
     <li IfModActive="goji.thesimstraits">Mods/the-sims-traits</li>
-    <li IfModActive="captaincrunch.vfetraitsaddonsmoker">Mods/vfe-traits-addon-smoker</li>
     <li IfModActive="llunak.timeasslave">Mods/time-as-slave</li>
     <li IfModActive="jaxe.toggleharvest">Mods/toggle-harvest</li>
     <li IfModActive="smashphil.dropspot">Mods/trade-ship-drop-spot</li>
@@ -80,6 +78,23 @@
     <li IfModActive="sbz.bookcase">Mods/bookcase</li>
     <li IfModActive="buggy.rimworld.letterpermanentinjury">Mods/letter-permanent-injury</li>
     <li IfModActive="krelinos.socialexpfromtrade">Mods/social-experience-from-trade</li>
+    <li IfModActive="jq.alienxenohead">Mods/alien-head-gene</li>
+    <li IfModActive="ferny.progressionverticality">Mods/progression-verticality</li>
+    <li IfModActive="drilledhead.mydogshouse">Mods/my-dogs-house</li>
+    <li IfModActive="ucp.holodancers">Mods/holo-dancers</li>
+    <li IfModActive="ferny.generallymoreresearch">Mods/generally-more-research</li>
+    <li IfModActive="zarii.whitenoise">Mods/white-noise</li>
+    <li IfModActive="harkon.biotechaddon.medievaldeathrestcoffin">Mods/medieval-deathrest-coffin</li>
+    <li IfModActive="zal.hamsterwheelgenerator">Mods/hamster-wheel-generator</li>
+    <li IfModActive="plaxen.hamster">Mods/hamster</li>
+    <li IfModActive="bahlivern.beepvoicegene">Mods/computer-voice-gene</li>
+    <li IfModActive="bahlivern.clownvoicegene">Mods/clown-voice-gene</li>
+    <li IfModActive="zzzomborw.commission.nuzzlegene">Mods/nuzzle-gene</li>
+    <li IfModActive="endermaster567.cryptosleepadaptationgene">Mods/cryptosleep-adaptation-gene</li>
+    <li IfModActive="alma.carbonitecasket">Mods/carbonite-casket</li>
+    <li IfModActive="lts.cc">Mods/crypto-coffins</li>
+    <li IfModActive="vanillaexpanded.vfemedical">Mods/vanilla-furniture-expanded-medical-module</li>
+    <li IfModActive="vanillaexpanded.vfefarming">Mods/vanilla-furniture-expanded-farming</li>
     
     
   </v1.6>
